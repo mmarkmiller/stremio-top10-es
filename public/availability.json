@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-06",
+  "rankings": [
+    {
+      "country": "spain",
+      "key": "disney",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "disney",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "skyshowtime",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "skyshowtime",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "prime",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "prime",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "apple",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "apple",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "netflix",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "netflix",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "global",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "global",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "movistar",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "movistar",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "hbo",
+      "list": "movie",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    },
+    {
+      "country": "spain",
+      "key": "hbo",
+      "list": "series",
+      "source": "justwatch",
+      "updatedAt": "2026-10-06T05:05:42.992Z"
+    }
+  ],
+  "countries": [
+    {
+      "slug": "spain",
+      "name": "España",
+      "flag": "🇪🇸"
+    }
+  ],
+  "sources": [
+    {
+      "key": "netflix",
+      "name": "🔴 Netflix"
+    },
+    {
+      "key": "disney",
+      "name": "🏰 Disney+"
+    },
+    {
+      "key": "prime",
+      "name": "📦 Prime Video"
+    },
+    {
+      "key": "apple",
+      "name": "🍎 Apple TV+"
+    },
+    {
+      "key": "hbo",
+      "name": "🎭 HBO Max"
+    },
+    {
+      "key": "skyshowtime",
+      "name": "🗻 SkyShowtime"
+    },
+    {
+      "key": "movistar",
+      "name": "📡 Movistar Plus+"
+    },
+    {
+      "key": "global",
+      "name": "🌍 Todas las plataformas"
+    }
+  ],
+  "combos": {
+    "spain": {
+      "disney": [
+        "movie",
+        "series"
+      ],
+      "skyshowtime": [
+        "movie",
+        "series"
+      ],
+      "prime": [
+        "movie",
+        "series"
+      ],
+      "apple": [
+        "movie",
+        "series"
+      ],
+      "netflix": [
+        "movie",
+        "series"
+      ],
+      "global": [
+        "movie",
+        "series"
+      ],
+      "movistar": [
+        "movie",
+        "series"
+      ],
+      "hbo": [
+        "movie",
+        "series"
+      ]
+    }
+  }
+}
