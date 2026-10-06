@@ -26,7 +26,7 @@ const encode = (cfg: unknown) => Buffer.from(JSON.stringify(cfg), "utf8").toStri
 const cfg = {v:1,sel:[{k:"netflix",c:"spain",m:true,s:true,label:"Selección de Marc 🇪🇸"}],kids:true};
 function mockData() {
  globalThis.fetch = (async (target: any) => {
- const url=String(target);
+ const url=String(target).split("?")[0]!;
  if(url.endsWith("availability.json")) return Response.json(availability);
  if(url.endsWith("/data/spain/netflix/movie.json")) return Response.json({date:"202610061600",entries:[{id:"tt1234567",name:"Película española",rank:1}]});
  return new Response("missing",{status:404});
