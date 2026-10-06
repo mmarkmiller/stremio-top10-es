@@ -33,8 +33,8 @@ function mockData() {
  }) as typeof fetch;
 }
 const request = (path: string, method="GET") => worker.fetch(new Request("https://top10-es.example"+path,{method}),{PAGES_BASE:pages});
-test("España es la única región generada y la predeterminada",()=>{
- expect(DEFAULT_COUNTRY).toBe("spain"); expect(COUNTRIES).toEqual([{slug:"spain",name:"España",flag:"🇪🇸"}]);
+test("España sigue predeterminada y Estados Unidos está disponible",()=>{
+ expect(DEFAULT_COUNTRY).toBe("spain"); expect(COUNTRIES.map(c=>c.slug)).toEqual(["spain","united-states"]);
 });
 test("el configurador y el manifest tienen identidad española propia",async()=>{
  const html=await (await request("/configure")).text();
@@ -120,3 +120,19 @@ test("el respaldo no inventa rankings infantiles ni oculta errores de la fuente"
   expect((await fetchJustWatch("unsupported","movie")).entries).toEqual([]);
   await expect(fetchJustWatch("netflix","movie")).rejects.toThrow("unavailable");
 });
+
+ test("JustWatch usa el proveedor estadounidense y excluye servicios regionales", async () => {
+ const {fetchJustWatch} = await import("../src/scrape/justwatch.ts");
+ let calls = 0;
+ globalThis.fetch = (async (_target:any, init:any) => {
+ calls++;
+ const query = JSON.parse(init.body).query;
+ expect(query).toContain("country: US");
+ expect(query).toContain('packages: ["amp"]');
+ return Response.json({data:{streamingCharts:{edges:[]}}});
+ }) as typeof fetch;
+ await fetchJustWatch("prime", "movie", "united-states");
+ await fetchJustWatch("movistar", "movie", "united-states");
+ await fetchJustWatch("skyshowtime", "series", "united-states");
+ expect(calls).toBe(1);
+ });

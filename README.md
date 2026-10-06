@@ -2,7 +2,7 @@
 
 Versión personal de [stremio-top10-fr de Apertaa](https://github.com/Apertaa/stremio-top10-fr), bajo su licencia PolyForm Noncommercial incluida en LICENSE.
 
-Rankings diarios de **España** por plataforma, títulos y pósteres TMDB en **es-ES**, identificadores IMDb y carátulas 600 × 900 con números grandes. Addon de catálogos compatible con Stremio y Nuvio. La reproducción y las fichas detalladas siguen a cargo de los otros addons instalados.
+Rankings diarios de **España y Estados Unidos** por plataforma, títulos y pósteres TMDB en **es-ES**, identificadores IMDb y carátulas 600 × 900 con números grandes. Addon de catálogos compatible con Stremio y Nuvio. La reproducción y las fichas detalladas siguen a cargo de los otros addons instalados.
 
 ## Arquitectura
 
@@ -38,7 +38,7 @@ La generación requiere ImageMagick y **uno** de los secretos `TMDB_READ_TOKEN` 
 
 Las 11 pruebas automáticas cubren región española, identidad del manifest, UTF-8, filas infantiles, catálogos con IMDb, URLs de pósteres, peticiones TMDB es-ES, selección del ranking diario por plataforma y errores de las fuentes.
 
-FlixPatrol es la fuente preferida. Si su lector devuelve una verificación de bots o falla, se consultan los rankings diarios de JustWatch para España, filtrados por plataforma y tipo de contenido. Estos miden interés de los usuarios de JustWatch, y pueden diferir del ranking interno de cada servicio. El configurador muestra la fuente y fecha de generación, y cada archivo JSON conserva la procedencia y fecha de actualización del ranking.
+FlixPatrol es la fuente preferida. Si su lector devuelve una verificación de bots o falla, se consultan los rankings diarios de JustWatch para cada país, filtrados por plataforma y tipo de contenido. Estos miden interés de los usuarios de JustWatch, y pueden diferir del ranking interno de cada servicio. El configurador muestra la fuente y fecha de generación, y cada archivo JSON conserva la procedencia y fecha de actualización del ranking.
 
 JustWatch no publica aquí una clasificación infantil separada: esas filas solo aparecen si FlixPatrol las proporciona. Las listas anteriores se conservan ante fallos o rankings incompletos.
 
