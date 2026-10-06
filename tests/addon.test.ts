@@ -142,3 +142,16 @@ test("el catálogo envía logo PNG, sinopsis y géneros a Nuvio",async()=>{
  const body=await (await request('/'+encode(cfg)+'/catalog/movie/netflix.json')).json();
  expect(body.metas[0]).toMatchObject({logo:"https://example.com/logo.png",description:"Una nueva versión de ti",genres:["Terror"],background:"https://example.com/bg.jpg",releaseInfo:"2024"});
 });
+
+test("Nuvio puede configurar desde la ruta del manifest conservando selecciones",async()=>{
+ const segment=encode(cfg);
+ for(const suffix of ["/configure","/configure/","/"]){
+ const r=await request('/'+segment+suffix);
+ expect(r.status).toBe(302);
+ expect(r.headers.get("location")).toBe('https://top10-es.example/configure#'+segment);
+ }
+ mockData();
+ const m=await (await request('/'+segment+'/manifest.json')).json();
+ expect(m.behaviorHints.configurationURL).toBe('https://top10-es.example/'+segment+'/configure');
+ expect((await request('/invalid-config/configure')).status).toBe(400);
+});

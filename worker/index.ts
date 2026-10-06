@@ -81,6 +81,14 @@ export default {
       // Routes avec préfixe de config : /<config>/…
       const cfgSeg = parts[0] ?? "";
       const rest = parts.slice(1);
+      // Certains clients ouvrent /<config>/configure ou la racine du manifest.
+      if (rest.length === 0 || (rest.length === 1 && rest[0] === "configure")) {
+        decodeConfig(cfgSeg);
+        return new Response(null, {
+          status: 302,
+          headers: { ...cors(), Location: `${url.origin}/configure#${cfgSeg}` },
+        });
+      }
       if (rest.length === 1 && rest[0] === "manifest.json") {
         return json(await buildManifest(cfgSeg, pages, url.origin));
       }
@@ -162,7 +170,7 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
     idPrefixes: ["tt", "tmdb:"],
     catalogs,
     // Pré-remplit la page de configuration avec la config actuelle (via le hash).
-    behaviorHints: { configurable: true, configurationURL: `${origin}/configure#${cfgSeg}` },
+    behaviorHints: { configurable: true, configurationURL: `${origin}/${cfgSeg}/configure` },
   };
 }
 
