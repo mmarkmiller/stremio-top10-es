@@ -62,7 +62,7 @@ const COUNTRY_LOC: Record<string, string> = {
   "united-kingdom": "en Reino Unido",
 };
 const ADDON_DESC =
-  "Les vrais Top 10 de hoy par plateforme et par pays (films & séries), avec les affiches « gros chiffre ».";
+  "Top 10 de España por plataforma: películas y series, metadatos en español y carátulas con números grandes.";
 
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {

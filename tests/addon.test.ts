@@ -40,7 +40,7 @@ test("el configurador y el manifest tienen identidad española propia",async()=>
  const html=await (await request("/configure")).text();
  expect(html).toContain('lang="es"'); expect(html).toContain('hasEs ? "spain"');
  const response=await request("/manifest.json"); const body=await response.json();
- expect(body.id).toBe("es.marc.top10"); expect(body.behaviorHints.configurationRequired).toBe(true);
+ expect(body.description).toContain("Top 10 de España"); expect(body.id).toBe("es.marc.top10"); expect(body.behaviorHints.configurationRequired).toBe(true);
  expect(response.headers.get("access-control-allow-origin")).toBe("*");
 });
 test("manifest personalizado conserva acentos y emoji, con filas infantiles",async()=>{
