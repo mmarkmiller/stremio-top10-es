@@ -2,13 +2,36 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c7HrVvIzUk82zhhV1VawfOqk5IH.png",
+      "runtime": "105 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
       "rank": 1,
       "id": "tt26657236",
       "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6hFnAYnu8YJ2g7DgKVdkV5z6X7V.jpg",
       "rating": 7.013,
       "year": 2026,
       "days": null,
@@ -18,11 +41,34 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
+      "director": [
+        "Kristoffer Borgli"
+      ],
+      "cast": [
+        "Zendaya",
+        "Robert Pattinson",
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
+      ],
       "rank": 2,
       "id": "tt33071426",
       "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.893,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zJteuj8ngajwKy8CGfMM4mJaQHP.jpg",
+      "rating": 6.896,
       "year": 2026,
       "days": null,
       "trend": {
@@ -31,10 +77,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lrLjRPRoHCD6owbZ5pBv8cxnSRY.png",
+      "runtime": "109 min",
+      "director": [
+        "Daniel Roher"
+      ],
+      "cast": [
+        "Leo Woodall",
+        "Dustin Hoffman",
+        "Havana Rose Liu",
+        "ליאור רז",
+        "Tovah Feldshuh",
+        "Jean Reno",
+        "Nissan Sakira",
+        "Gil Cohen"
+      ],
       "rank": 3,
       "id": "tt33296751",
       "name": "Un talento único",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sB1jmJWgFvh1P2l43gd4WqJi4hu.jpg",
       "rating": 7.625,
       "year": 2026,
       "days": null,
@@ -44,36 +113,31 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "La película consta de nueve tramas paralelas que tienen lugar en el Valle de San Fernando, en Los Angeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación. Magnolia es el retrato de la vida americana visto a través de una serie de viñetas cómicas y conmovedoras.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qpYhfkhWR1lFFtxjmmG9SrPDUs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mX3TQvc9RKFEUny1BDcDvnm6VwN.png",
+      "runtime": "188 min",
+      "director": [
+        "Paul Thomas Anderson"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Philip Baker Hall",
+        "Philip Seymour Hoffman",
+        "Julianne Moore",
+        "William H. Macy",
+        "John C. Reilly",
+        "Melora Walters",
+        "Jeremy Blackman"
+      ],
       "rank": 4,
-      "id": "tt3235888",
-      "name": "It Follows",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
-      "rating": 6.583,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 6,
       "id": "tt0175880",
       "name": "Magnolia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzy5ssxNL5OlPjITaY1OeOeeFyR.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8SACuc0e1Flm10wKqZocorVApQv.jpg",
       "rating": 7.72,
       "year": 1999,
       "days": null,
@@ -83,10 +147,102 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "123 min",
+      "director": [
+        "Wim Wenders"
+      ],
+      "cast": [
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
+      ],
+      "rank": 5,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fAM0bpXVqPQbD1nIVvNznDkIAf.jpg",
+      "rating": 7.8,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uMAYb2jn3yszL5nKQH1PGag63CP.png",
+      "runtime": "100 min",
+      "director": [
+        "David Robert Mitchell"
+      ],
+      "cast": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto",
+        "Jake Weary",
+        "Olivia Luccardi",
+        "Lili Sepe",
+        "Bailey Spry",
+        "Carollette Phillips"
+      ],
+      "rank": 6,
+      "id": "tt3235888",
+      "name": "It Follows",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jkFq8Wqo48FZh6suNNepiLIWMNp.jpg",
+      "rating": 6.6,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
+      "runtime": "108 min",
+      "director": [
+        "Craig Gillespie"
+      ],
+      "cast": [
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts",
+        "Jason Momoa",
+        "David Krumholtz",
+        "Emily Beecham",
+        "David Corenswet",
+        "Kadiff Kirwan"
+      ],
       "rank": 7,
       "id": "tt8814476",
       "name": "Supergirl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jHTd4qddi7PikMX7Un4C2wZzWim.jpg",
       "rating": 6.7,
       "year": 2026,
       "days": null,
@@ -96,10 +252,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gbFNkDkI4C0uwUcXoM9xQRhrxCe.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
       "rank": 8,
       "id": "tt0120791",
       "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iFlILv7Xawg0LBOXJr3mVP9gti6.jpg",
       "rating": 6.811,
       "year": 1998,
       "days": null,
@@ -109,10 +288,32 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png",
+      "runtime": "141 min",
+      "director": [
+        "Coralie Fargeat"
+      ],
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams",
+        "Oscar Lesage",
+        "Christian Erickson",
+        "Robin Greer"
+      ],
       "rank": 9,
       "id": "tt17526714",
       "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnCZbcBsqIJHzechhbfqy8fgXuL.jpg",
       "rating": 7.135,
       "year": 2024,
       "days": null,
@@ -122,10 +323,31 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "En 2004 Elizabeth Holmes abrió una empresa que pretendía revolucionar la atención médica. En 2014 Theranos tenía un valor de nueve mil millones de dólares. Dos años después la SEC acusó a Theranos de ser un gran fraude y la compañía perdió todo su valor.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f2XX8QtuTPtmGery8a0oXk5OhAx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zfiEXc74EaVyg9a7HRTY31eRrW.png",
+      "runtime": "119 min",
+      "director": [
+        "Alex Gibney"
+      ],
+      "cast": [
+        "Elizabeth Holmes",
+        "Alex Gibney",
+        "Dan Ariely",
+        "Roger Parloff",
+        "Ken Auletta",
+        "Erika Cheung",
+        "Cheryl Gafner",
+        "Dave Philippides"
+      ],
       "rank": 10,
       "id": "tt8488126",
       "name": "Desangrando A Silicon Valley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ouihaAtM7pGuwGPeOP3IimpsKHE.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rPVqNJYRtwiTuCIg0FTzvUTN3xJ.jpg",
       "rating": 7,
       "year": 2019,
       "days": null,

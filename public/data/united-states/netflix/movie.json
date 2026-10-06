@@ -2,13 +2,34 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
+      "runtime": "101 min",
+      "director": [
+        "Elizabeth Chomko"
+      ],
+      "cast": [
+        "Hilary Swank",
+        "Michael Shannon",
+        "Robert Forster",
+        "Blythe Danner",
+        "Taissa Farmiga",
+        "Josh Lucas",
+        "Sarah Sutherland",
+        "Marilyn Dodds Frank"
+      ],
       "rank": 1,
       "id": "tt6662736",
       "name": "Más fuerte que el olvido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXRwgXBxSNT1Ls2ruIKXMbYVgmw.jpg",
       "rating": 6.472,
       "year": 2018,
       "days": null,
@@ -18,7 +39,61 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
+      "runtime": "83 min",
+      "director": [
+        "Tobe Hooper"
+      ],
+      "cast": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen"
+      ],
       "rank": 2,
+      "id": "tt0072271",
+      "name": "La matanza de Texas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/37L9viRi53Y5HXJbL8tEArhaf9V.jpg",
+      "rating": 7.3,
+      "year": 1974,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xfCv9NDDjTdE49Ako5fsH6SACqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uSqbj3GboIqorHPK3meqHrfxXh2.png",
+      "runtime": "101 min",
+      "director": [
+        "Morgan Neville"
+      ],
+      "cast": [
+        "Lorne Michaels",
+        "Steve Higgins",
+        "Michael Che",
+        "Colin Jost",
+        "Tom Schiller",
+        "Paul Simon",
+        "James Andrew Miller",
+        "Timothée Chalamet"
+      ],
+      "rank": 3,
       "id": "tt39847629",
       "name": "Lorne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
@@ -31,11 +106,34 @@
       }
     },
     {
-      "rank": 3,
+      "artworkVersion": 1,
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "runtime": "101 min",
+      "director": [
+        "Janus Metz"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "rank": 4,
       "id": "tt6933238",
       "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.6,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wtLHb8uM8yhtmqS7ioEcYxHLhIL.jpg",
+      "rating": 6.568,
       "year": 2026,
       "days": null,
       "trend": {
@@ -44,23 +142,31 @@
       }
     },
     {
-      "rank": 4,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.3,
-      "year": 1974,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
+      "artworkVersion": 1,
+      "description": "Todavía conmocionadas por la trágica muerte de su madre, una adolescente y su hermana menor se ven atormentadas por una presencia sádica en su casa y luchan para que su afligido padre les preste atención antes de que sea demasiado tarde.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6OnDSJThAbF6GxXNXNmcusGjBDy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8d8SaZaVs61ARZSERlpPSMkxXGz.png",
+      "runtime": "99 min",
+      "director": [
+        "Rob Savage"
+      ],
+      "cast": [
+        "Sophie Thatcher",
+        "Vivien Lyra Blair",
+        "Chris Messina",
+        "David Dastmalchian",
+        "Marin Ireland",
+        "Madison Hu",
+        "Maddie Nichols",
+        "Mabel Tyler"
+      ],
       "rank": 5,
       "id": "tt3427252",
       "name": "The Boogeyman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zzaEJ68gtZZ6cPqffUkAl56x223.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/46QT9vF9EJone47LbuCxVTP4OrQ.jpg",
       "rating": 6.4,
       "year": 2023,
       "days": null,
@@ -70,10 +176,32 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hjqZC0HdH0E2S2hYft4jfRl3Mdm.png",
+      "runtime": "100 min",
+      "director": [
+        "Eric Appel"
+      ],
+      "cast": [
+        "Nate Bargatze",
+        "Mandy Moore",
+        "Stella Grace Fitzgerald",
+        "Birdie Borria",
+        "Charlotte Ann Tucker",
+        "Colin Jost",
+        "Will Forte",
+        "Martin Herlihy"
+      ],
       "rank": 6,
       "id": "tt34459219",
       "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7eTvuFMgn5e4zbgxzYmgUTTu0L7.jpg",
       "rating": 7.11,
       "year": 2026,
       "days": null,
@@ -83,10 +211,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
+      "runtime": "120 min",
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer",
+        "Babs Olusanmokun",
+        "Hero Fiennes Tiffin"
+      ],
       "rank": 7,
       "id": "tt5177120",
       "name": "El ministerio de la Guerra Sucia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kGhzygAmkmgvB0SXHP3pzMkCKUd.jpg",
       "rating": 6.996,
       "year": 2024,
       "days": null,
@@ -96,23 +247,31 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Kevin Bacon",
+        "Jeannine Taylor",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson",
+        "Betsy Palmer",
+        "Peter Brouwer"
+      ],
       "rank": 8,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.878,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "tt0080761",
       "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bo1FgBSjdhyVlcuCcVBFGhjOozy.jpg",
       "rating": 6.4,
       "year": 1980,
       "days": null,
@@ -122,12 +281,71 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
+      "director": [
+        "James Ashcroft"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "rank": 9,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mRq39hwWC1g97BK57klv9wazfUe.jpg",
+      "rating": 6.878,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
       "rank": 10,
-      "id": "tt2935510",
-      "name": "Ad astra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
-      "rating": 6.141,
-      "year": 2019,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/onUhNBQcdl6GI64i65aG4GLSKTj.jpg",
+      "rating": 7.956,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",

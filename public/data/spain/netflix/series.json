@@ -2,14 +2,31 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2IyffVLV1W3R6kgurDA4gwPcsjl.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Hoon Lee",
+        "Ciarán Hinds",
+        "Joseph Zada",
+        "Costa D'Angelo"
+      ],
       "rank": 1,
       "id": "tt21097264",
       "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.9,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDSLPhDFhfvZGyESrzkPrFdPHSG.jpg",
+      "rating": 7.903,
       "year": 2026,
       "days": null,
       "trend": {
@@ -18,23 +35,29 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6oqX0v638zTHKuWtH45czhc3Jgf.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
       "rank": 2,
-      "id": "tt36832679",
-      "name": "El problema final",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "rating": 6.883,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 3,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eI9JBOFaJAiK3m90ebGQyyWMdqA.jpg",
       "rating": 7.9,
       "year": 2024,
       "days": null,
@@ -44,6 +67,56 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+      "genres": [
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j8yTYNL7wnnlRsU6gm7r8gJb5RY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QZJWK9QUDUFBdfJBuyqDSqLQco.png",
+      "director": [],
+      "cast": [
+        "Jose Coronado",
+        "María Valverde",
+        "Martiño Rivas",
+        "Maribel Verdú",
+        "Gonzalo de Castro",
+        "Cristina Kovani",
+        "José Condessa",
+        "Pepón Nieto"
+      ],
+      "rank": 3,
+      "id": "tt36832679",
+      "name": "El problema final",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zFuOGRHYqzyI4X5yukEHVoOiqqm.jpg",
+      "rating": 6.883,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
+      "director": [],
+      "cast": [
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
+      ],
       "rank": 4,
       "id": "tt10383046",
       "name": "Veneno",
@@ -57,10 +130,28 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "director": [],
+      "cast": [
+        "Ella Beatty",
+        "Vicky Krieps",
+        "Sarah Paulson",
+        "Charlie Hunnam",
+        "Rebecca Hall",
+        "Billie Lourd",
+        "Jessica Barden"
+      ],
       "rank": 5,
       "id": "tmdb:299939",
       "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg",
       "rating": 7.077,
       "year": 2026,
       "days": null,
@@ -70,23 +161,30 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s0HuOCcFghgVrwo6c8LXe0PhvHG.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
       "rank": 6,
-      "id": "tt11379026",
-      "name": "Fantasmas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "tt0388629",
       "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6vTQZmHplnfc10hEXv1PsTiCz54.jpg",
       "rating": 8.8,
       "year": 1999,
       "days": null,
@@ -96,12 +194,31 @@
       }
     },
     {
-      "rank": 8,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.3,
-      "year": 2014,
+      "artworkVersion": 1,
+      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "genres": [
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A0bcveWfk1OrHOif715iFSPIIRr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "director": [],
+      "cast": [
+        "Rose McIver",
+        "Utkarsh Ambudkar",
+        "Brandon Scott Jones",
+        "Danielle Pinnock",
+        "Richie Moriarty",
+        "Asher Grodman",
+        "Rebecca Wisocky",
+        "Devan Chandler Long"
+      ],
+      "rank": 7,
+      "id": "tt11379026",
+      "name": "Fantasmas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iYm2Su8iO3TlPnX9bMZQMWWNwS2.jpg",
+      "rating": 8.1,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -109,10 +226,29 @@
       }
     },
     {
-      "rank": 9,
+      "artworkVersion": 1,
+      "description": "\"Fauda\" (en árabe \"Caos\") representa la historia de dos lados del conflicto israelí-palestino. Doron, un comandante de la unidad secreta israelí que opera dentro de los territorios palestinos, y su equipo, están persiguiendo al activista de Hamas, Abu-Ahmed. Al otro lado de la valla, la vida trágica de Abu-Ahmed y su familia, y las razones de su creciente odio hacia Israel.",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d882Gu6n2x4ev8Lol5AxZIAyx5R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8tsp3Rme4fwlTTS9sdJXYPPZDNm.png",
+      "director": [],
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "Rona-Lee Shim'on",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "rank": 8,
       "id": "tt4565380",
       "name": "Fauda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jbmf4J2P5WYCZsFzW22BchTdASl.jpg",
       "rating": 7.374,
       "year": 2015,
       "days": null,
@@ -122,12 +258,60 @@
       }
     },
     {
-      "rank": 10,
+      "artworkVersion": 1,
+      "description": "Tras la muerte del dueño de la funeraria Torregrosa, su ambicioso pupilo se prepara para hacerse cargo del negocio pero acaba a las órdenes de una viuda sin experiencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w0WT4opEOeldCegD2eAYSspVieg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVDOsxFtbg1icmdaiVkJ1fhXXtH.png",
+      "director": [],
+      "cast": [
+        "Carlos Areces",
+        "Gerald B. Fillmore",
+        "Aitziber Garmendia",
+        "Ascen López",
+        "Diego Martín",
+        "Salva Reina",
+        "Roque Ruiz",
+        "Amaia Salamanca"
+      ],
+      "rank": 9,
       "id": "tt29614148",
       "name": "Muertos S.L.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wwyM5EGWwKrRXaPrn0ZpPZEWWbl.jpg",
       "rating": 7.3,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Paquita, una de las mejores representantes de actores de España en los 90, se ve buscando nuevas estrellas desesperadamente, después de perder a su mayor cliente.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r7eGdrN6Zt7YjhQl2UEOfBk0xgP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mXDoUkuLZREXjdQkGaNXEY7MNTW.png",
+      "director": [],
+      "cast": [
+        "Brays Efe",
+        "Belén Cuesta",
+        "Lidia San José",
+        "Yolanda Ramos",
+        "Anna Castillo",
+        "Belinda Washington",
+        "Terelu Campos"
+      ],
+      "rank": 10,
+      "id": "tt5866074",
+      "name": "Paquita Salas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gp2LneVGFlMxoU7N4uUc0OmnKHB.jpg",
+      "rating": 7.1,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
 }

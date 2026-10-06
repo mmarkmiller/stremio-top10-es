@@ -2,13 +2,32 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
+      ],
       "rank": 1,
       "id": "tt10986410",
       "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9uT4dT2k5lTd41kZEVmFCSIFQw7.jpg",
       "rating": 8.4,
       "year": 2020,
       "days": null,
@@ -18,10 +37,28 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWip4fjzqNecPQl11aQaQ3auLy9.png",
+      "director": [],
+      "cast": [
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
+      ],
       "rank": 2,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7HdUreTP4GNHf4LhgrxvLUVEK4r.jpg",
       "rating": 8,
       "year": 2026,
       "days": null,
@@ -31,10 +68,61 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o4l8kNHAGarLb5ltXH18jfLgZyw.png",
+      "director": [],
+      "cast": [
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas",
+        "Hugo Weaving",
+        "Saskia Reeves",
+        "Christopher Chung",
+        "Aimee-Ffion Edwards"
+      ],
       "rank": 3,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s6vRQ99Xt6F9qSIB6aPEDs2Tn7v.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
+      "director": [],
+      "cast": [
+        "Rebecca Ferguson",
+        "Common",
+        "Chinaza Uche",
+        "Ashley Zukerman",
+        "Shane McRae",
+        "Remmie Milner",
+        "Alexandria Riley",
+        "Reed Birney"
+      ],
+      "rank": 4,
       "id": "tt14688458",
       "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7YRJGRauKshXINkX1rajw62cVpW.jpg",
       "rating": 8.2,
       "year": 2023,
       "days": null,
@@ -44,23 +132,28 @@
       }
     },
     {
-      "rank": 4,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
+      "artworkVersion": 1,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
       "rank": 5,
       "id": "tt19231492",
       "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6gisD2IhSUEoNohJsIAfWOrqElU.jpg",
       "rating": 7.8,
       "year": 2024,
       "days": null,
@@ -70,36 +163,24 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "director": [],
+      "cast": [
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
+      ],
       "rank": 6,
-      "id": "tt10982034",
-      "name": "Ciclos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i60GHCNKIXncadHwf0INXhyHm2E.jpg",
-      "rating": 7.6,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.4,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt22202452",
       "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/os1oQkTMZXiFP7KdEv3o03eshGC.jpg",
       "rating": 7.932,
       "year": 2025,
       "days": null,
@@ -109,11 +190,91 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f8sila0eFkwkNU7qpMriMpK284b.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
+      ],
+      "rank": 7,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hntBJjqbv4m0Iyniqaztv9xaudI.jpg",
+      "rating": 8.4,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Ante la imposibilidad de tener un bebé, Nikki y Jason se embarcan en la aventura de la adopción para cumplir su sueño. Con sus vidas caóticas, amigos atípicos y familias excéntricas, ¿conseguirán formar la familia que tanto desean?",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hVIZWo8FmrhQf8WYSGeJoViEVnj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s3MLCzSA6CCCtwcS1uRSiMd5mxT.png",
+      "director": [],
+      "cast": [
+        "Rafe Spall",
+        "Esther Smith",
+        "Scarlett Rayner",
+        "Cooper Turner"
+      ],
+      "rank": 8,
+      "id": "tt10982034",
+      "name": "Ciclos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YxJFF48MLkvkR3EOo60UPifQBA.jpg",
+      "rating": 7.6,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
+      "director": [],
+      "cast": [
+        "Patrick Brammall",
+        "Brendan Cowell",
+        "Maxine Peake",
+        "Daniel Henshall",
+        "Jessica Wren",
+        "Zahra Newman",
+        "James Saunders",
+        "Taylor Ferguson"
+      ],
       "rank": 9,
       "id": "tt6037988",
       "name": "Causa abierta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 8.217,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg",
+      "rating": 8.21,
       "year": 2026,
       "days": null,
       "trend": {
@@ -122,12 +283,30 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "El caos se cierne sobre una pareja de abogados felizmente casados cuando un famoso asesino de su pasado sale de la cárcel.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUQOMcvedpuw7Z8rlUU09ecd2PT.png",
+      "director": [],
+      "cast": [
+        "Amy Adams",
+        "Javier Bardem",
+        "Patrick Wilson",
+        "Joe Anders",
+        "Lily Collias",
+        "Malia Pyles",
+        "CCH Pounder"
+      ],
       "rank": 10,
-      "id": "tt30459041",
-      "name": "Vicios ocultos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
-      "rating": 7.758,
-      "year": 2025,
+      "id": "tt34675596",
+      "name": "Cape Fear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8yXBWDMfxRwVX3BiFbYrN3KZavb.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
 }

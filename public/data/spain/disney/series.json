@@ -2,26 +2,33 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
+      "director": [],
+      "cast": [
+        "Sarah Paulson",
+        "Evan Peters",
+        "Angela Bassett",
+        "Kathy Bates",
+        "Emma Roberts",
+        "Billie Lourd",
+        "Gabourey Sidibe",
+        "Leslie Grossman"
+      ],
       "rank": 1,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.422,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "tt1844624",
       "name": "American Horror Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPGJnqon8MGeMRWUIalVahKyfBs.jpg",
       "rating": 8.1,
       "year": 2011,
       "days": null,
@@ -31,10 +38,57 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/erOJjHQvFXB6OcabJ7oRmgslLkK.png",
+      "director": [],
+      "cast": [
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
+      ],
+      "rank": 2,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srWmmuaQxV9yPBp9uK1vNNaDPk6.jpg",
+      "rating": 7.422,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/DptPqbEPjAllL5Lr5Xy0fBmCfS.png",
+      "director": [],
+      "cast": [
+        "Malina Weissman",
+        "Malachi Barton",
+        "Jordan Leftwich",
+        "Ora Duplass",
+        "Louis Thresher",
+        "Tiffani Thiessen",
+        "Devon Sawa"
+      ],
       "rank": 3,
       "id": "tt36064406",
       "name": "Coven Academy: El hechizo de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/siPSAe6Ug0AweTaIT4raXI2UlIP.jpg",
       "rating": 7.2,
       "year": 2026,
       "days": null,
@@ -44,10 +98,25 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8tU8cxeWPr7uxFppW71Y1M0pf8b.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
       "rank": 4,
       "id": "tt33049767",
       "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4E1Kph1TGET865B6uCgOJonGqH4.jpg",
       "rating": 6.384,
       "year": 2025,
       "days": null,
@@ -57,10 +126,30 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s0HuOCcFghgVrwo6c8LXe0PhvHG.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
       "rank": 5,
       "id": "tt0388629",
       "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6vTQZmHplnfc10hEXv1PsTiCz54.jpg",
       "rating": 8.8,
       "year": 1999,
       "days": null,
@@ -70,36 +159,29 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yuHeksANqi7f2E7oQrw1A2r50Dh.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
       "rank": 6,
-      "id": "tt5555260",
-      "name": "This Is Us",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
-      "rating": 8.2,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "tt0149460",
-      "name": "Futurama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "rating": 8.4,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "tt14452776",
       "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5TZnk9ryzfcNlsCOghURfZsBong.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bOZFXt0cHCktsmcyecKtFMlmesz.jpg",
       "rating": 8.156,
       "year": 2022,
       "days": null,
@@ -109,12 +191,30 @@
       }
     },
     {
-      "rank": 9,
-      "id": "tt12324366",
-      "name": "Percy Jackson y los dioses del Olimpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
-      "rating": 7.2,
-      "year": 2023,
+      "artworkVersion": 1,
+      "description": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwnSCVbVd5yHb14Toe787CX0k8C.png",
+      "director": [],
+      "cast": [
+        "Milo Ventimiglia",
+        "Mandy Moore",
+        "Sterling K. Brown",
+        "Chrissy Metz",
+        "Justin Hartley",
+        "Susan Kelechi Watson",
+        "Chris Sullivan",
+        "Jon Huertas"
+      ],
+      "rank": 7,
+      "id": "tt5555260",
+      "name": "This Is Us",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lSrdyI4y4uvwytCT3sgMuCpj72E.jpg",
+      "rating": 8.2,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -122,12 +222,88 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zPof3eV5fCtvMYqMMftFHYNhHmr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d9mSTJXcysIH5MvMPzhvxyP0JAz.png",
+      "director": [],
+      "cast": [
+        "Billy West",
+        "Katey Sagal",
+        "John DiMaggio",
+        "Tress MacNeille",
+        "Maurice LaMarche",
+        "Lauren Tom",
+        "Phil LaMarr",
+        "David Herman"
+      ],
+      "rank": 8,
+      "id": "tt0149460",
+      "name": "Futurama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iN0IKzyXhoqBwjzWxt4QlyL2Qva.jpg",
+      "rating": 8.4,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 9,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pXCphifRdzRh48uXEOBT7BJygTA.jpg",
+      "rating": 8.6,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 1,
+      "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png",
+      "director": [],
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
       "rank": 10,
-      "id": "tt27444205",
-      "name": "Paradise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
-      "rating": 7.564,
-      "year": 2025,
+      "id": "tt12324366",
+      "name": "Percy Jackson y los dioses del Olimpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rDvU6qMck9KFObgQhZQt4MHZS3x.jpg",
+      "rating": 7.2,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
 }

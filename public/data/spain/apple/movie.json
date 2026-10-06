@@ -2,14 +2,37 @@
   "country": "spain",
   "key": "apple",
   "list": "movie",
-  "date": "202610060916",
+  "date": "202610061148",
   "entries": [
     {
+      "artworkVersion": 1,
+      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+      "runtime": "111 min",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Maria Bakalova",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
+      ],
       "rank": 1,
       "id": "tt28014327",
       "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "rating": 7.97,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dzOnDgSDZ0NMGGRwq0I0CyxCdsI.jpg",
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -18,10 +41,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ueXYp9CvoV2yFEYnPDCBGF1PIdK.png",
+      "runtime": "114 min",
+      "director": [
+        "David Freyne"
+      ],
+      "cast": [
+        "Elizabeth Olsen",
+        "Miles Teller",
+        "Callum Turner",
+        "Da'Vine Joy Randolph",
+        "John Early",
+        "Barry Primus",
+        "Betty Buckley",
+        "Darryl Scheelar"
+      ],
       "rank": 2,
       "id": "tt24950660",
       "name": "Eternity",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ItU2D0Lmn9ucIPiMZLgvHrSOxk.jpg",
       "rating": 7.1,
       "year": 2025,
       "days": null,
@@ -31,10 +77,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
+      "genres": [
+        "Suspense",
+        "Historia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yK1xhCbqVbF3ILMU48v9xFayeef.png",
+      "runtime": "118 min",
+      "director": [
+        "Jon S. Baird"
+      ],
+      "cast": [
+        "Taron Egerton",
+        "Никита Ефремов",
+        "Софья Лебедева",
+        "Anthony Boyle",
+        "Ben Miles",
+        "山村 憲之介",
+        "Игорь Грабузов",
+        "Олег Штефанко"
+      ],
       "rank": 3,
       "id": "tt12758060",
       "name": "Tetris",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2MMWe9lpUvzqArKZxp4xZUWfAJV.jpg",
       "rating": 7.761,
       "year": 2023,
       "days": null,
@@ -44,10 +113,31 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png",
+      "runtime": "98 min",
+      "director": [
+        "Amir Bar-Lev"
+      ],
+      "cast": [
+        "John Snorri Sigurjónsson",
+        "محمد علی سد پارہ",
+        "Sajid Sadpara",
+        "Lina Moey",
+        "Angela Benavides",
+        "Elia Saikaly",
+        "Sandro Gromen Hayes",
+        "Nirmal Purja"
+      ],
       "rank": 4,
       "id": "tt39150288",
       "name": "La última gran escalada: El K2 en invierno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgjF2iudafdpbRhaskVGRPAUZQf.jpg",
       "rating": 5.3,
       "year": 2026,
       "days": null,
@@ -57,11 +147,34 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
+      "genres": [
+        "Acción",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uSkcH2bcDBkUZCZMPcLSzaMY0td.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png",
+      "runtime": "119 min",
+      "director": [
+        "Doug Liman"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Franka Potente",
+        "Chris Cooper",
+        "Clive Owen",
+        "Brian Cox",
+        "Adewale Akinnuoye-Agbaje",
+        "Gabriel Mann",
+        "Julia Stiles"
+      ],
       "rank": 5,
       "id": "tt0258463",
       "name": "The Bourne Identity: El caso Bourne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
-      "rating": 7.486,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qV5toBUVICvx3t9WpxO8H2zokJ5.jpg",
+      "rating": 7.5,
       "year": 2002,
       "days": null,
       "trend": {
@@ -70,10 +183,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
+      "genres": [
+        "Romance",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dMdf4BgWn5pVkFOB46Y5jUiqxTQ.png",
+      "runtime": "127 min",
+      "director": [
+        "Scott Derrickson"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Anya Taylor-Joy",
+        "Sigourney Weaver",
+        "Ṣọpẹ́ Dìrísù",
+        "William Houston",
+        "Kobna Holdbrook-Smith",
+        "James Marlowe",
+        "Julianna Kurokawa"
+      ],
       "rank": 6,
       "id": "tt13654226",
       "name": "El abismo secreto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xDJb8xDptQKv9XwlgFXLrSvR0yB.jpg",
       "rating": 7.7,
       "year": 2025,
       "days": null,
@@ -83,11 +219,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+      "genres": [
+        "Acción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bTIf9Rpdb4vI8TwzHieUzmUdtSM.png",
+      "runtime": "155 min",
+      "director": [
+        "Joseph Kosinski"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem",
+        "Kerry Condon",
+        "Tobias Menzies",
+        "Kim Bodnia",
+        "Sarah Niles",
+        "Will Merrick"
+      ],
       "rank": 7,
       "id": "tt16311594",
       "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.826,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/brx8IYFuZ3AJb7dnz52VFmjonFY.jpg",
+      "rating": 7.8,
       "year": 2025,
       "days": null,
       "trend": {
@@ -96,10 +254,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tLyQ8mOujA8Ko5ZIisiMAlcgkcM.png",
+      "runtime": "129 min",
+      "director": [
+        "Jon Watts"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Samuel L. Jackson",
+        "Marisa Tomei",
+        "Jon Favreau",
+        "Zendaya",
+        "Jacob Batalon",
+        "Tony Revolori"
+      ],
       "rank": 8,
       "id": "tt6320628",
       "name": "Spider-Man: Lejos de casa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aKUje0BYhOToSPYGme5gg2QR6p4.jpg",
       "rating": 7.39,
       "year": 2019,
       "days": null,
@@ -109,11 +290,32 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bblKpucB0XbyQBmfXsaRN985Rgh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzZJYeihmerQOJrBmi6PH6KqGMx.png",
+      "runtime": "110 min",
+      "director": [
+        "Fisher Stevens"
+      ],
+      "cast": [
+        "Justin Timberlake",
+        "Ryder Allen",
+        "Juno Temple",
+        "Alisha Wainwright",
+        "June Squibb",
+        "Dean Winters",
+        "Wynn Everett",
+        "Jesse C. Boyd"
+      ],
       "rank": 9,
       "id": "tt6857376",
       "name": "Palmer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-      "rating": 8.114,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/48NMwwQJ2ek6cLQxSOAcs6A9fxa.jpg",
+      "rating": 8.1,
       "year": 2021,
       "days": null,
       "trend": {
@@ -122,10 +324,33 @@
       }
     },
     {
+      "artworkVersion": 1,
+      "description": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wdiisVU4A6qMsncRI64awp9TrwK.png",
+      "runtime": "140 min",
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Tye Sheridan",
+        "Olivia Cooke",
+        "Ben Mendelsohn",
+        "Lena Waithe",
+        "T.J. Miller",
+        "Simon Pegg",
+        "Mark Rylance",
+        "Philip Zhao"
+      ],
       "rank": 10,
       "id": "tt1677720",
       "name": "Ready Player One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yjTvzpbA1tpBQiejRoCW5f74RgD.jpg",
       "rating": 7.6,
       "year": 2018,
       "days": null,
