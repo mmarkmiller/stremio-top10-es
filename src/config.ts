@@ -93,8 +93,11 @@ export function listAudience(list: ListKey): Audience {
   return list.startsWith("kids") ? "kids" : "main";
 }
 
-// ─────────── País del ranking: España ───────────
-export const COUNTRIES: Country[] = [{ slug: "spain", name: "España", flag: "🇪🇸" }];
+// ─────────── Países del ranking ───────────
+export const COUNTRIES: Country[] = [
+  { slug: "spain", name: "España", flag: "🇪🇸" },
+  { slug: "united-states", name: "Estados Unidos", flag: "🇺🇸" },
+];
 /** Pays par défaut (config simple sans personnalisation + rétro-compat). */
 export const DEFAULT_COUNTRY = "spain";
 

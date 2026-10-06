@@ -1,7 +1,7 @@
-/** Public daily streaming charts for Spain, used when FlixPatrol is unavailable. */
+/** Public daily streaming charts by country, used when FlixPatrol is unavailable. */
 import type { Entry, ListKey } from "../types.ts";
 
-const PACKAGES: Record<string, string> = {
+const SPAIN_PACKAGES: Record<string, string> = {
   netflix: "nfx",
   disney: "dnp",
   prime: "prv",
@@ -10,17 +10,23 @@ const PACKAGES: Record<string, string> = {
   movistar: "mp9",
   skyshowtime: "sst",
 };
+const REGIONS: Record<string, { code: string; packages: Record<string, string> }> = {
+  spain: { code: "ES", packages: SPAIN_PACKAGES },
+  "united-states": { code: "US", packages: { netflix: "nfx", disney: "dnp", prime: "amp", apple: "atp", hbo: "mxx" } },
+};
 export type Ranking = { entries: Entry[]; updatedAt: string };
-export async function fetchJustWatch(key: string, list: ListKey): Promise<Ranking> {
+export async function fetchJustWatch(key: string, list: ListKey, country = "spain"): Promise<Ranking> {
+  const region = REGIONS[country];
   // Daily charts do not expose a separate kids chart. Never relabel the adult chart as kids.
-  if (list.startsWith("kids-") || (key !== "global" && !PACKAGES[key])) return { entries: [], updatedAt: "" };
+  if (!region || list.startsWith("kids-") || (key !== "global" && !region.packages[key]))
+    return { entries: [], updatedAt: "" };
   const objectType = list === "series" ? "SHOW" : "MOVIE";
-  const packages = key === "global" ? "" : `, packages: [${JSON.stringify(PACKAGES[key])}]`;
+  const packages = key === "global" ? "" : `, packages: [${JSON.stringify(region.packages[key])}]`;
   const query = `query {
-    streamingCharts(country: ES, first: 10,
+    streamingCharts(country: ${region.code}, first: 10,
       filter: {category: DAILY_POPULARITY_SAME_CONTENT_TYPE, objectType: ${objectType}${packages}}) {
       edges { streamingChartInfo { rank updatedAt }
-        node { id objectType content(country: ES, language: es) { title fullPath originalReleaseYear } }
+        node { id objectType content(country: ${region.code}, language: es) { title fullPath originalReleaseYear } }
       }
     }
   }`;

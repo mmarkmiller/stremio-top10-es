@@ -99,11 +99,11 @@ async function build(): Promise<void> {
         const survived = lists.filter((l) => dataFileExists(country.slug, source.key, l)).length;
         kept += survived;
         console.error(`  ⏳ ${country.slug}/${source.key} : scrape KO (${msg(e)}) → ${survived} liste(s) gardée(s)`);
-        console.error("  ↪ Se comprobará la popularidad diaria de JustWatch en España.");
+        console.error(`  ↪ Se comprobará la popularidad diaria de JustWatch en ${country.name}.`);
       }
       for (const list of lists) {
         try {
-          const ranking = md === null ? await fetchJustWatch(source.key, list) : null;
+          const ranking = md === null ? await fetchJustWatch(source.key, list, country.slug) : null;
           const entries = await resolveEntries(ranking?.entries ?? parseList(md!, source, list), list, cache);
           if (entries.length === 0) {
             // Section absente pour ce pays : on garde la veille si elle existe, sinon rien.
@@ -200,7 +200,12 @@ async function verify(): Promise<void> {
           problems++;
         }
         for (const entry of data.entries as DataEntry[]) {
-          if (!/^(?:tt\d+|tmdb:\d+)$/.test(entry.id) || !Number.isInteger(entry.rank) || entry.rank < 1 || entry.rank > 10) {
+          if (
+            !/^(?:tt\d+|tmdb:\d+)$/.test(entry.id) ||
+            !Number.isInteger(entry.rank) ||
+            entry.rank < 1 ||
+            entry.rank > 10
+          ) {
             console.error(`❌ Entrada inválida: ${country}/${key}/${list}`);
             problems++;
           }

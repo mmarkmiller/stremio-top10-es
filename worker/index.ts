@@ -62,7 +62,7 @@ const COUNTRY_LOC: Record<string, string> = {
   "united-kingdom": "en Reino Unido",
 };
 const ADDON_DESC =
-  "Top 10 de España por plataforma: películas y series, metadatos en español y carátulas con números grandes.";
+  "Top 10 de España y Estados Unidos por plataforma: películas y series, metadatos en español y carátulas con números grandes.";
 
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
@@ -257,7 +257,7 @@ function decodeConfig(seg: string): Config {
 /** Récupère un JSON statique avec cache d'edge (10 min). */
 async function fetchJson(target: string): Promise<any> {
   const freshTarget = new URL(target);
-  freshTarget.searchParams.set("top10_es", "1");
+  freshTarget.searchParams.set("top10_es", "2");
   const r = await fetch(freshTarget.toString(), {
     cf: { cacheTtlByStatus: { "200-299": 600, "400-599": -1 }, cacheEverything: true },
   } as RequestInit);
