@@ -81,11 +81,11 @@ test("TMDB solicita es-ES y resuelve nombres españoles con IMDb",async()=>{
  expect(init.headers.Authorization).toBe("Bearer test-only-token");
  if(u.pathname.includes('/search/')) return Response.json({results:[{id:12,title:"El título",original_title:"The Title",release_date:"2025-01-01",popularity:1}]});
  if(u.pathname.endsWith('/external_ids')) return Response.json({imdb_id:"tt1234567"});
- return Response.json({title:"El título",poster_path:"/poster.jpg",release_date:"2025-01-01",vote_average:8});
+ return Response.json({title:"El título",poster_path:"/poster.jpg",release_date:"2025-01-01",vote_average:8,overview:"Sinopsis española",genres:[{name:"Drama"}], images:{posters:[{file_path:"/clean.jpg",iso_639_1:null}],logos:[{file_path:"/logo.png",iso_639_1:"es"}],backdrops:[]}});
  }) as typeof fetch;
  await searchTitle("movie","The Title",2025);await getDetails("movie",12);
  const title=await resolveTitle({title:"The Title",fpSlug:"the-title-2025",year:2025,rank:1,days:1,trend:{dir:"same",delta:0}},"movie",new Map());
- expect(title.titleEs).toBe("El título");expect(title.imdbId).toBe("tt1234567");
+ expect(title.posterUrl).toEndWith("/clean.jpg");expect(title.logo).toEndWith("/logo.png");expect(title.description).toBe("Sinopsis española");expect(title.genres).toEqual(["Drama"]);expect(title.titleEs).toBe("El título");expect(title.imdbId).toBe("tt1234567");
  for(const u of urls.filter(u=>!u.pathname.endsWith('external_ids'))) expect(u.searchParams.get('language')).toBe('es-ES');
 });
 
@@ -136,3 +136,9 @@ test("el respaldo no inventa rankings infantiles ni oculta errores de la fuente"
  await fetchJustWatch("skyshowtime", "series", "united-states");
  expect(calls).toBe(1);
  });
+
+test("el catálogo envía logo PNG, sinopsis y géneros a Nuvio",async()=>{
+ globalThis.fetch=(async()=>Response.json({date:"20261006",entries:[{id:"tt123",name:"La sustancia",rank:7,description:"Una nueva versión de ti",genres:["Terror"],logo:"https://example.com/logo.png",background:"https://example.com/bg.jpg",year:2024}]})) as typeof fetch;
+ const body=await (await request('/'+encode(cfg)+'/catalog/movie/netflix.json')).json();
+ expect(body.metas[0]).toMatchObject({logo:"https://example.com/logo.png",description:"Una nueva versión de ti",genres:["Terror"],background:"https://example.com/bg.jpg",releaseInfo:"2024"});
+});

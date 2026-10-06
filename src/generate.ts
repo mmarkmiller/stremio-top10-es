@@ -64,6 +64,14 @@ async function resolveEntries(entries: Entry[], list: ListKey, cache: ReturnType
     const title = await resolveTitle(entry, listMedia(list), cache);
     if (!title.tmdbId) continue;
     out.push({
+      artworkVersion: title.artworkVersion,
+      description: title.description,
+      genres: title.genres,
+      background: title.background,
+      logo: title.logo,
+      runtime: title.runtime,
+      director: title.director,
+      cast: title.cast,
       rank: entry.rank,
       id: title.imdbId ?? (title.tmdbId ? `tmdb:${title.tmdbId}` : `top10:${entry.fpSlug}`),
       name: title.titleEs,
