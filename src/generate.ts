@@ -64,7 +64,6 @@ async function resolveEntries(entries: Entry[], list: ListKey, cache: ReturnType
     const title = await resolveTitle(entry, listMedia(list), cache);
     if (!title.tmdbId) continue;
     out.push({
-      posterTitleOverlay: title.posterTitleOverlay,
       artworkVersion: title.artworkVersion,
       description: title.description,
       genres: title.genres,
@@ -157,8 +156,6 @@ async function build(): Promise<void> {
         try {
           await buildPoster({
             posterUrl: e.tmdbPosterUrl,
-            title: e.posterTitleOverlay ? e.name : undefined,
-            logoUrl: e.posterTitleOverlay ? e.logo : undefined,
             rank: e.rank,
             key: posterKey(f.country, f.key, f.list, e.rank),
             variant,

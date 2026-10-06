@@ -60,7 +60,7 @@ export async function externalIds(type: TmdbType, id: number): Promise<string | 
 export async function getDetails(type: TmdbType, id: number, lang = "es-ES"): Promise<any> {
   return tmdb(`/${type}/${id}`, {
     language: lang,
-    append_to_response: "images,credits",
+    append_to_response: "images,credits,translations",
     include_image_language: "es,en,null",
   });
 }
