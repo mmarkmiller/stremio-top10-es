@@ -81,11 +81,11 @@ test("TMDB solicita es-ES y resuelve nombres españoles con IMDb",async()=>{
  expect(init.headers.Authorization).toBe("Bearer test-only-token");
  if(u.pathname.includes('/search/')) return Response.json({results:[{id:12,title:"El título",original_title:"The Title",release_date:"2025-01-01",popularity:1}]});
  if(u.pathname.endsWith('/external_ids')) return Response.json({imdb_id:"tt1234567"});
- return Response.json({title:"El título",poster_path:"/poster.jpg",release_date:"2025-01-01",vote_average:8,overview:"Sinopsis española",genres:[{name:"Drama"}], images:{posters:[{file_path:"/clean.jpg",iso_639_1:null}],logos:[{file_path:"/logo.png",iso_639_1:"es"}],backdrops:[]}});
+ return Response.json({title:"El título",poster_path:"/poster.jpg",release_date:"2025-01-01",vote_average:8,overview:"Sinopsis española",translations:{translations:[{iso_639_1:"es",iso_3166_1:"MX",data:{title:"El título latino"}},{iso_639_1:"es",iso_3166_1:"ES",data:{title:"El título"}}]},genres:[{name:"Drama"}], images:{posters:[{file_path:"/original-title.jpg",iso_639_1:"es"}],logos:[{file_path:"/logo.png",iso_639_1:"es"}],backdrops:[]}});
  }) as typeof fetch;
  await searchTitle("movie","The Title",2025);await getDetails("movie",12);
  const title=await resolveTitle({title:"The Title",fpSlug:"the-title-2025",year:2025,rank:1,days:1,trend:{dir:"same",delta:0}},"movie",new Map());
- expect(title.posterUrl).toEndWith("/clean.jpg");expect(title.logo).toEndWith("/logo.png");expect(title.description).toBe("Sinopsis española");expect(title.genres).toEqual(["Drama"]);expect(title.titleEs).toBe("El título");expect(title.imdbId).toBe("tt1234567");
+ expect(title.posterUrl).toEndWith("/original-title.jpg");expect(title.logo).toEndWith("/logo.png");expect(title.description).toBe("Sinopsis española");expect(title.genres).toEqual(["Drama"]);expect(title.titleEs).toBe("El título");expect(title.imdbId).toBe("tt1234567");
  for(const u of urls.filter(u=>!u.pathname.endsWith('external_ids'))) expect(u.searchParams.get('language')).toBe('es-ES');
 });
 

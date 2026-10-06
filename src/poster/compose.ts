@@ -13,8 +13,6 @@ import type { Variant } from "./variants.ts";
 
 export async function buildPoster(opts: {
   posterUrl: string | null;
-  title?: string;
-  logoUrl?: string;
   rank: number;
   key: string;
   variant: Variant;
@@ -28,17 +26,5 @@ export async function buildPoster(opts: {
       writeFileSync(posterPath, Buffer.from(await res.arrayBuffer()));
     }
   }
-  let logoPath: string | undefined;
-  if (opts.logoUrl) {
-    try {
-      const res = await fetch(opts.logoUrl, { signal: AbortSignal.timeout(20_000) });
-      if (res.ok) {
-        logoPath = join(tmpdir(), `tmdb-logo-${opts.key}.png`);
-        writeFileSync(logoPath, Buffer.from(await res.arrayBuffer()));
-      }
-    } catch {
-      /* Le titre écrit remplace un logo indisponible. */
-    }
-  }
-  compose(posterPath, opts.rank, opts.variant, join(POSTERS_DIR, `${opts.key}.jpg`), opts.title, logoPath);
+  compose(posterPath, opts.rank, opts.variant, join(POSTERS_DIR, `${opts.key}.jpg`));
 }

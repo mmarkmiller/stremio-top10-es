@@ -15,7 +15,7 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const tmdbType: TmdbType = type === "series" ? "tv" : "movie";
 
   const cached = cache.get(entry.fpSlug);
-  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 2) {
+  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 3) {
     const { ts: _ts, ...title } = cached;
     return title;
   }
@@ -33,13 +33,27 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const best = pickBest(results, entry, tmdbType);
   const [details, imdbId] = await Promise.all([getDetails(tmdbType, best.id, "es-ES"), externalIds(tmdbType, best.id)]);
 
-  const titleEs = (tmdbType === "tv" ? details.name : details.title) || entry.title;
+  const spanishTranslation = details.translations?.translations?.find(
+    (t: any) => t.iso_639_1 === "es" && t.iso_3166_1 === "ES",
+  )?.data;
+  const spanishTitle = tmdbType === "tv" ? spanishTranslation?.name : spanishTranslation?.title;
+  const titleEs =
+    spanishTitle ||
+    (tmdbType === "tv" ? details.name : details.title) ||
+    (tmdbType === "tv" ? details.original_name : details.original_title) ||
+    entry.title;
   const images = details.images ?? {};
-  // Les images sans langue sont les variantes sans texte enregistrées par TMDB.
+  // Affiches existantes avec le titre intégré, jamais de logo ajouté au cartel.
   const byVotes = (a: any, b: any) =>
     (b.vote_count ?? 0) - (a.vote_count ?? 0) || (b.vote_average ?? 0) - (a.vote_average ?? 0);
-  const cleanPosters = (images.posters ?? []).filter((i: any) => i.iso_639_1 === null).sort(byVotes);
-  const posterPath = cleanPosters[0]?.file_path ?? details.poster_path;
+  const posters = images.posters ?? [];
+  const localized = ["es", "en"].flatMap((lang) => posters.filter((i: any) => i.iso_639_1 === lang).sort(byVotes));
+  // Variante originale vérifiée : même visuel, titre seul, sans crédits ni promotion.
+  const overrides: Record<string, string> = {
+    "movie:933260": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+    "movie:687163": "/lq76TvRtXkXSAB94UVSiEu7AMNy.jpg",
+  };
+  const posterPath = overrides[`${tmdbType}:${best.id}`] ?? localized[0]?.file_path ?? details.poster_path;
   const posterUrl = posterPath ? TMDB_IMG + posterPath : null;
   const logos = (images.logos ?? []).filter((i: any) => i.file_path?.endsWith(".png"));
   const logo = ["es", "en", null].flatMap((lang) => logos.filter((i: any) => i.iso_639_1 === lang).sort(byVotes))[0];
@@ -50,12 +64,16 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
 
   const title: Title = {
-    artworkVersion: 2,
-    posterTitleOverlay: !!cleanPosters[0],
-    description: details.overview || undefined,
+    artworkVersion: 3,
+    description: spanishTranslation?.overview || details.overview || undefined,
     genres: details.genres?.map((g: any) => g.name),
     background: backdrop ? `https://image.tmdb.org/t/p/w1280${backdrop}` : undefined,
-    logo: logo ? `https://image.tmdb.org/t/p/w500${logo.file_path}` : undefined,
+    logo:
+      best.id === 687163 && tmdbType === "movie"
+        ? "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
+        : logo
+          ? `https://image.tmdb.org/t/p/w500${logo.file_path}`
+          : undefined,
     runtime: details.runtime ? `${details.runtime} min` : undefined,
     director: details.credits?.crew?.filter((c: any) => c.job === "Director").map((c: any) => c.name),
     cast: details.credits?.cast?.slice(0, 8).map((c: any) => c.name),
