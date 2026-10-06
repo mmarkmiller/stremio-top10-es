@@ -19,8 +19,8 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
     cached &&
     cached.tmdbType === tmdbType &&
     cached.tmdbId &&
-    cached.artworkVersion === 3 &&
-    (cached.tmdbId !== 1083381 || cached.posterUrl?.endsWith("/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg"))
+    cached.artworkVersion === 4 &&
+    cached.ts === new Date().toISOString().slice(0, 10)
   ) {
     const { ts: _ts, ...title } = cached;
     return title;
@@ -53,17 +53,10 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const byVotes = (a: any, b: any) =>
     (b.vote_count ?? 0) - (a.vote_count ?? 0) || (b.vote_average ?? 0) - (a.vote_average ?? 0);
   const posters = images.posters ?? [];
-  const localized = ["es", "en"].flatMap((lang) => posters.filter((i: any) => i.iso_639_1 === lang).sort(byVotes));
-  // Variante originale vérifiée : même visuel, titre seul, sans crédits ni promotion.
-  const overrides: Record<string, string> = {
-    "movie:1083381": "/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-    "movie:933260": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-    "movie:687163": "/lq76TvRtXkXSAB94UVSiEu7AMNy.jpg",
-  };
-  const posterPath = overrides[`${tmdbType}:${best.id}`] ?? localized[0]?.file_path ?? details.poster_path;
+  const posterPath = firstSpainImage(posters)?.file_path ?? details.poster_path;
   const posterUrl = posterPath ? TMDB_IMG + posterPath : null;
   const logos = (images.logos ?? []).filter((i: any) => i.file_path?.endsWith(".png"));
-  const logo = ["es", "en", null].flatMap((lang) => logos.filter((i: any) => i.iso_639_1 === lang).sort(byVotes))[0];
+  const logo = firstSpainImage(logos);
   const backdrop =
     (images.backdrops ?? []).filter((i: any) => i.iso_639_1 === null).sort(byVotes)[0]?.file_path ??
     details.backdrop_path;
@@ -71,16 +64,11 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
 
   const title: Title = {
-    artworkVersion: 3,
+    artworkVersion: 4,
     description: spanishTranslation?.overview || details.overview || undefined,
     genres: details.genres?.map((g: any) => g.name),
     background: backdrop ? `https://image.tmdb.org/t/p/w1280${backdrop}` : undefined,
-    logo:
-      best.id === 687163 && tmdbType === "movie"
-        ? "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
-        : logo
-          ? `https://image.tmdb.org/t/p/w500${logo.file_path}`
-          : undefined,
+    logo: logo ? `https://image.tmdb.org/t/p/w500${logo.file_path}` : undefined,
     runtime: details.runtime ? `${details.runtime} min` : undefined,
     director: details.credits?.crew?.filter((c: any) => c.job === "Director").map((c: any) => c.name),
     cast: details.credits?.cast?.slice(0, 8).map((c: any) => c.name),
@@ -129,4 +117,14 @@ function normalize(s: string): string {
 function parseYear(date: string | undefined | null): number | null {
   const y = Number(String(date ?? "").slice(0, 4));
   return Number.isInteger(y) && y >= 1900 ? y : null;
+}
+
+/** Préserve l’ordre TMDB; ne mélange jamais les variantes ES avec MX/AR. */
+export function firstSpainImage(images: any[]): any | undefined {
+  return (
+    images.find((i) => i.iso_639_1 === "es" && i.iso_3166_1 === "ES") ??
+    images.find((i) => i.iso_639_1 === "es" && !i.iso_3166_1) ??
+    images.find((i) => i.iso_639_1 === "en") ??
+    images.find((i) => i.iso_639_1 === null)
+  );
 }
