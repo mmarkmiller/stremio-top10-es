@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610060857",
+  "date": "202610060916",
   "entries": [
     {
       "rank": 1,
@@ -50,6 +50,19 @@
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
       "rating": 8.414,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "tmdb:299939",
+      "name": "Monstruo: La historia de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "rating": 7.077,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",

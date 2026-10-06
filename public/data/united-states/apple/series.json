@@ -1,5 +1,5 @@
 {
-  "country": "spain",
+  "country": "united-states",
   "key": "apple",
   "list": "series",
   "date": "202610060916",
@@ -19,32 +19,6 @@
     },
     {
       "rank": 2,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 3,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "rank": 4,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
@@ -57,7 +31,20 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
@@ -70,12 +57,25 @@
       }
     },
     {
+      "rank": 5,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
       "rank": 6,
-      "id": "tt10982034",
-      "name": "Ciclos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i60GHCNKIXncadHwf0INXhyHm2E.jpg",
-      "rating": 7.6,
-      "year": 2020,
+      "id": "tt6037988",
+      "name": "Causa abierta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "rating": 8.217,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -84,11 +84,11 @@
     },
     {
       "rank": 7,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.4,
-      "year": 2022,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -110,10 +110,10 @@
     },
     {
       "rank": 9,
-      "id": "tt6037988",
-      "name": "Causa abierta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 8.217,
+      "id": "tt34866681",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+      "rating": 7.325,
       "year": 2026,
       "days": null,
       "trend": {
@@ -123,11 +123,11 @@
     },
     {
       "rank": 10,
-      "id": "tt30459041",
-      "name": "Vicios ocultos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
-      "rating": 7.758,
-      "year": 2025,
+      "id": "tt7772588",
+      "name": "Para toda la humanidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
+      "rating": 7.7,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
