@@ -2,8 +2,36 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "director": [],
+      "cast": [
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
+      ],
+      "rank": 1,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
+      "rating": 7.422,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
@@ -25,40 +53,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "rating": 8.1,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
-      "director": [],
-      "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
-      ],
-      "rank": 2,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.422,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,34 +99,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
-      "director": [],
-      "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
-      ],
-      "rank": 4,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.384,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "genres": [
         "Action & Adventure",
@@ -146,12 +118,40 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "rating": 8.8,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 5,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.384,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -192,29 +192,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/frNEERYvgDAThEcCR5FKzggktsR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwnSCVbVd5yHb14Toe787CX0k8C.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Milo Ventimiglia",
-        "Mandy Moore",
-        "Sterling K. Brown",
-        "Chrissy Metz",
-        "Justin Hartley",
-        "Susan Kelechi Watson",
-        "Chris Sullivan",
-        "Jon Huertas"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 7,
-      "id": "tt5555260",
-      "name": "This Is Us",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
-      "rating": 8.2,
-      "year": 2016,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -256,25 +252,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "En una serena comunidad habitada por algunas de las personas más prominentes del mundo, la tranquilidad estalla cuando se produce un espeluznante asesinato y se desencadena una investigación de alto riesgo. Xavier Collins, jefe del Servicio Secreto de la Casa Blanca, es rápidamente investigado por la muerte del presidente, al que descubre junto a su cama.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Sterling K. Brown",
+        "Julianne Nicholson",
+        "Sarah Shahi",
+        "Nicole Brydon Bloom",
+        "Krys Marshall",
+        "Enuka Okuma",
+        "Aliyah Mastin",
+        "Percy Daggs IV"
       ],
       "rank": 9,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
+      "id": "tt27444205",
+      "name": "Paradise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
+      "rating": 7.564,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,27 +284,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "description": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Familia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png",
+      "background": "https://image.tmdb.org/t/p/w1280/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwnSCVbVd5yHb14Toe787CX0k8C.png",
       "director": [],
       "cast": [
-        "Walker Scobell",
-        "Leah Sava Jeffries",
-        "Aryan Simhadri"
+        "Milo Ventimiglia",
+        "Mandy Moore",
+        "Sterling K. Brown",
+        "Chrissy Metz",
+        "Justin Hartley",
+        "Susan Kelechi Watson",
+        "Chris Sullivan",
+        "Jon Huertas"
       ],
       "rank": 10,
-      "id": "tt12324366",
-      "name": "Percy Jackson y los dioses del Olimpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
-      "rating": 7.2,
-      "year": 2023,
+      "id": "tt5555260",
+      "name": "This Is Us",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+      "rating": 8.2,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

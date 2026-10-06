@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -149,42 +149,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
-      "director": [
-        "James Ashcroft"
-      ],
-      "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "rank": 5,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
       "genres": [
         "Terror"
@@ -205,7 +169,7 @@
         "Hunter Goetz",
         "Max"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt35521922",
       "name": "Good Boy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
@@ -241,7 +205,7 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
@@ -255,36 +219,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales.",
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
       "genres": [
-        "Crimen",
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5NGeHV2z8EByT3P23D471nSPjGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mAGyXFIoDmpqwv8PM15cgXIeqGw.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
+      "runtime": "181 min",
       "director": [
-        "Alexandre Bustillo",
-        "Julien Maury"
+        "Christopher Nolan"
       ],
       "cast": [
-        "Virginie Ledoyen",
-        "Paul Hamy",
-        "Sandrine Bonnaire",
-        "Malik Zidi",
-        "Manu Lanzi",
-        "Christophe Favre",
-        "Jérémy Margallé",
-        "Francis Renaud"
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Florence Pugh",
+        "Josh Hartnett",
+        "Casey Affleck",
+        "Rami Malek"
+      ],
+      "rank": 7,
+      "id": "tt15398776",
+      "name": "Oppenheimer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "rating": 8.022,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sCBkhFkuqSzo4YXU2elqrg4brkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png",
+      "runtime": "105 min",
+      "director": [
+        "Paco Plaza"
+      ],
+      "cast": [
+        "Sandra Escacena",
+        "Bruna González",
+        "Claudia Placer",
+        "Iván Chavero",
+        "Ana Torrent",
+        "Consuelo Trujillo",
+        "Ángela Fabián",
+        "Carla Campra"
       ],
       "rank": 8,
-      "id": "tt28821588",
-      "name": "Las desapariciones",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
-      "rating": 6.2,
-      "year": 2024,
+      "id": "tt5862312",
+      "name": "Verónica",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
+      "rating": 6.249,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,34 +288,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La doctora Miranda Grey, una dedicada y exitosa psicóloga criminal, se despierta un día para encontrase que es una paciente en la propia institución mental donde trabaja, sin ningún recuerdo del asesinato que aparentemente ella ha cometido. Pronto descubre que su marido fue brutalmente asesinado 3 días atrás, y las pruebas de sangre... la incriminan a ella.",
+      "description": "En una inexpugnable fortaleza un renegado señor de la guerra, M. Bison, mantiene a 63 rehenes, a los que matará si no recibe un desorbitado rescate de 20.000 millones de dólares. El coronel Guile y más de una docena de hombres -héroes multiétnicos- tratarán de localizar y liberar a los secuestrados.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Acción",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qRRRb1XLLIUAgmItT0Lzu2gpyPf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eSUNKq7peMRD2muAwu6XWnXLqIZ.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1Ow1IfvMkp3f7UQ2C5hIeEwBJG2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tZSKip38QnUH39uFZZt6oLQxJsh.png",
+      "runtime": "102 min",
       "director": [
-        "Mathieu Kassovitz"
+        "Steven E. de Souza"
       ],
       "cast": [
-        "Halle Berry",
-        "Robert Downey Jr.",
-        "Charles S. Dutton",
-        "John Carroll Lynch",
-        "Bernard Hill",
-        "Penélope Cruz",
-        "Dorian Harewood",
-        "Bronwen Mantel"
+        "Jean-Claude Van Damme",
+        "Raúl Juliá",
+        "Kylie Minogue",
+        "Byron Mann",
+        "Damian Chapa",
+        "Ming-Na Wen",
+        "Andrew Bryniarski",
+        "Grand L. Bush"
       ],
       "rank": 9,
-      "id": "tt0348836",
-      "name": "Gothika",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aNbP2LrQ82eutT9tDort4P9RkfQ.jpg",
-      "rating": 6.2,
-      "year": 2003,
+      "id": "tt0111301",
+      "name": "Street Fighter: La última batalla",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg",
+      "rating": 4.682,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -329,32 +323,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hank Palmer, un importante abogado, regresa a su hogar tras la muerte de su madre. Se entera entonces de que su padre, que es el juez del pueblo y de quien está distanciado, es sospechoso de haber cometido un crimen. Su decisión de investigar el caso lo lleva poco a poco a restablecer con los suyos una relación que estaba rota.",
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "genres": [
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9W02KZYKLoINpqpJ2yv8ATxR1AK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Xx7XzstHq8JMRei4uyt7tETrjx.png",
-      "runtime": "141 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
       "director": [
-        "David Dobkin"
+        "James Ashcroft"
       ],
       "cast": [
-        "Robert Downey Jr.",
-        "Robert Duvall",
-        "Vera Farmiga",
-        "Vincent D'Onofrio",
-        "Jeremy Strong",
-        "Dax Shepard",
-        "Billy Bob Thornton",
-        "Leighton Meester"
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
       ],
       "rank": 10,
-      "id": "tt1872194",
-      "name": "El juez",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jx7hoRR16VKitQLaDQc55YvmJ2D.jpg",
-      "rating": 7.33,
-      "year": 2014,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

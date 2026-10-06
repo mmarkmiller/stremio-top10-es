@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -160,38 +160,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-      "genres": [
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j8yTYNL7wnnlRsU6gm7r8gJb5RY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4QZJWK9QUDUFBdfJBuyqDSqLQco.png",
-      "director": [],
-      "cast": [
-        "Jose Coronado",
-        "María Valverde",
-        "Martiño Rivas",
-        "Maribel Verdú",
-        "Gonzalo de Castro",
-        "Cristina Kovani",
-        "José Condessa",
-        "Pepón Nieto"
-      ],
-      "rank": 6,
-      "id": "tt36832679",
-      "name": "El problema final",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "rating": 6.883,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
       "genres": [
         "Drama",
@@ -210,12 +178,44 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
       "rating": 8.4,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+      "genres": [
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j8yTYNL7wnnlRsU6gm7r8gJb5RY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QZJWK9QUDUFBdfJBuyqDSqLQco.png",
+      "director": [],
+      "cast": [
+        "Jose Coronado",
+        "María Valverde",
+        "Martiño Rivas",
+        "Maribel Verdú",
+        "Gonzalo de Castro",
+        "Cristina Kovani",
+        "José Condessa",
+        "Pepón Nieto"
+      ],
+      "rank": 7,
+      "id": "tt36832679",
+      "name": "El problema final",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "rating": 6.883,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,30 +287,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
       "genres": [
         "Drama",
-        "Misterio",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
       "director": [],
       "cast": [
-        "Maria Sten",
-        "Greyston Holt",
-        "Adeline Rudolph",
-        "Matthew Del Negro",
-        "Damon Herriman",
-        "Jasper Jones",
-        "Emily Mitchell"
+        "Claudia Salas",
+        "Ana Torrent",
+        "Maribel Verdú",
+        "Carmen Maura",
+        "María León",
+        "Cecilia Suárez",
+        "Ana Mena",
+        "Clara Sans"
       ],
       "rank": 10,
-      "id": "tt33539520",
-      "name": "Neagley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.1,
-      "year": 2026,
+      "id": "tt32327588",
+      "name": "Furia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VMh3XiJPqCVa7Pa9UpDIxfXVkl.jpg",
+      "rating": 6.6,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

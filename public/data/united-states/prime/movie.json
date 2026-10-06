@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,6 +40,40 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
+      "runtime": "83 min",
+      "director": [
+        "Tobe Hooper"
+      ],
+      "cast": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen"
+      ],
+      "rank": 2,
+      "id": "tt0072271",
+      "name": "La matanza de Texas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
+      "rating": 7.3,
+      "year": 1974,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
       "genres": [
         "Drama"
@@ -60,7 +94,7 @@
         "Sarah Sutherland",
         "Marilyn Dodds Frank"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt6662736",
       "name": "Más fuerte que el olvido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
@@ -96,7 +130,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -110,32 +144,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
       "genres": [
-        "Terror"
+        "Romance",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
-      "runtime": "83 min",
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
       "director": [
-        "Tobe Hooper"
+        "Claire Scanlon"
       ],
       "cast": [
-        "Marilyn Burns",
-        "Allen Danziger",
-        "Paul A. Partain",
-        "William Vail",
-        "Teri McMinn",
-        "Edwin Neal",
-        "Jim Siedow",
-        "Gunnar Hansen"
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
       ],
-      "rank": 4,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.3,
-      "year": 1974,
+      "rank": 5,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.067,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,7 +201,7 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
@@ -201,7 +236,7 @@
         "Dave Franco",
         "Isla Fisher"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt4712810",
       "name": "Ahora me ves 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
@@ -215,33 +250,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "128 min",
       "director": [
-        "Claire Scanlon"
+        "Zach Cregger"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
-      "rank": 7,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.067,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.3,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -272,7 +307,7 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
@@ -286,69 +321,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "El vudú y el terror se apoderan de un muñeco de aspecto inocente habitado por el alma de un asesino en serie. Cuando Andy Barclay, un niño de seis años de edad, asegura que “Chucky”, su nuevo muñeco, ha arrojado violentamente por la ventana a su niñera, nadie le cree. Pero una larga serie de horribles asesinatos conduce al detective que se ocupa del caso hasta el muñeco y, entonces, descubre que el auténtico terror no ha hecho más que empezar. El malvado muñeco pretende transferir su diabólico espíritu a un ser humano, y el pequeño Andy parece ser el candidato perfecto.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "128 min",
+      "background": "https://image.tmdb.org/t/p/w1280/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/glzBU0pT2w3OqounvlXy27ZtAQH.png",
+      "runtime": "87 min",
       "director": [
-        "Zach Cregger"
+        "Tom Holland"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 9,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kaulder es un cazador de brujas que resulta inmortal tras recibir una maldición de la todopoderosa Reina Bruja. En el mundo actual sigue defendiendo a los humanos del mal que traen estos seres sobrenaturales. Belvial, un hechicero muy poderoso, es uno de sus mayores enemigos. Atormentado por la pérdida de su familia, Kaulder es además el último miembro de su casta de cazadores de brujas.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g8DUZrgCfXRJ5CazfZ5X7qCWcvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzVwzsiAO6VYxE3j9TcZmeERgrr.png",
-      "runtime": "106 min",
-      "director": [
-        "Breck Eisner"
-      ],
-      "cast": [
-        "Vin Diesel",
-        "Rose Leslie",
-        "Elijah Wood",
-        "Ólafur Darri Ólafsson",
-        "Julie Engelbrecht",
-        "Michael Caine",
-        "Joseph Gilgun",
-        "Isaach de Bankolé"
+        "Alex Vincent",
+        "Catherine Hicks",
+        "Brad Dourif",
+        "Chris Sarandon",
+        "Dinah Manoff",
+        "Tommy Swerdlow",
+        "Jack Colvin",
+        "Neil Giuntoli"
       ],
       "rank": 10,
-      "id": "tt1618442",
-      "name": "El último cazador de brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg",
-      "rating": 6,
-      "year": 2015,
+      "id": "tt0094862",
+      "name": "Muñeco diabólico",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg",
+      "rating": 6.8,
+      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +355,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

@@ -2,42 +2,8 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
-      "runtime": "101 min",
-      "director": [
-        "Elizabeth Chomko"
-      ],
-      "cast": [
-        "Hilary Swank",
-        "Michael Shannon",
-        "Robert Forster",
-        "Blythe Danner",
-        "Taissa Farmiga",
-        "Josh Lucas",
-        "Sarah Sutherland",
-        "Marilyn Dodds Frank"
-      ],
-      "rank": 1,
-      "id": "tt6662736",
-      "name": "Más fuerte que el olvido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
-      "rating": 6.472,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
@@ -60,7 +26,7 @@
         "Jim Siedow",
         "Gunnar Hansen"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt0072271",
       "name": "La matanza de Texas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
@@ -74,31 +40,32 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
       "genres": [
-        "Documental"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xfCv9NDDjTdE49Ako5fsH6SACqD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uSqbj3GboIqorHPK3meqHrfxXh2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
       "runtime": "101 min",
       "director": [
-        "Morgan Neville"
+        "Elizabeth Chomko"
       ],
       "cast": [
-        "Lorne Michaels",
-        "Steve Higgins",
-        "Michael Che",
-        "Colin Jost",
-        "Tom Schiller",
-        "Paul Simon",
-        "James Andrew Miller",
-        "Timothée Chalamet"
+        "Hilary Swank",
+        "Michael Shannon",
+        "Robert Forster",
+        "Blythe Danner",
+        "Taissa Farmiga",
+        "Josh Lucas",
+        "Sarah Sutherland",
+        "Marilyn Dodds Frank"
       ],
-      "rank": 3,
-      "id": "tt39847629",
-      "name": "Lorne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
-      "rating": 7.1,
-      "year": 2026,
+      "rank": 2,
+      "id": "tt6662736",
+      "name": "Más fuerte que el olvido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
+      "rating": 6.472,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -129,11 +96,44 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
       "rating": 6.568,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xfCv9NDDjTdE49Ako5fsH6SACqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uSqbj3GboIqorHPK3meqHrfxXh2.png",
+      "runtime": "101 min",
+      "director": [
+        "Morgan Neville"
+      ],
+      "cast": [
+        "Lorne Michaels",
+        "Steve Higgins",
+        "Michael Che",
+        "Colin Jost",
+        "Tom Schiller",
+        "Paul Simon",
+        "James Andrew Miller",
+        "Timothée Chalamet"
+      ],
+      "rank": 4,
+      "id": "tt39847629",
+      "name": "Lorne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -177,41 +177,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
-      "runtime": "100 min",
-      "director": [
-        "Eric Appel"
-      ],
-      "cast": [
-        "Nate Bargatze",
-        "Mandy Moore",
-        "Stella Grace Fitzgerald",
-        "Birdie Borria",
-        "Charlotte Ann Tucker",
-        "Colin Jost",
-        "Will Forte",
-        "Martin Herlihy"
-      ],
-      "rank": 6,
-      "id": "tt34459219",
-      "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
-      "rating": 7.11,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
       "genres": [
         "Acción",
@@ -234,7 +199,7 @@
         "Babs Olusanmokun",
         "Hero Fiennes Tiffin"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt5177120",
       "name": "El ministerio de la Guerra Sucia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
@@ -268,7 +233,7 @@
         "Betsy Palmer",
         "Peter Brouwer"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
@@ -304,7 +269,7 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
@@ -318,32 +283,59 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cinco amigos se alojan en una cabaña de Tenessee para así poder ayudar a una de los jóvenes, que se encuentra en rehabilitación por drogas. Estar sin sus drogas convierte a la chica en una persona agresiva, lo que llevará a sus amigos a no darse cuenta de que en realidad esta poseída por demonios que fueron desatados al leer el Necromicon... Remake del clásico de Raimi.",
+      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
       "genres": [
-        "Terror"
+        "Comedia",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/itFXsJauhYF5HOJBYaxZwO0kJU1.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
+      "runtime": "100 min",
       "director": [
-        "Fede Álvarez"
+        "Eric Appel"
       ],
       "cast": [
-        "Jane Levy",
-        "Shiloh Fernandez",
-        "Lou Taylor Pucci",
-        "Jessica Lucas",
-        "Elizabeth Blackmore",
-        "Phoenix Connolly",
-        "Jim McLarty",
-        "Sian Davis"
+        "Nate Bargatze",
+        "Mandy Moore",
+        "Stella Grace Fitzgerald",
+        "Birdie Borria",
+        "Charlotte Ann Tucker",
+        "Colin Jost",
+        "Will Forte",
+        "Martin Herlihy"
+      ],
+      "rank": 9,
+      "id": "tt34459219",
+      "name": "Cambio de roles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
+      "rating": 7.11,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lHctVQ60nBYzJ51n9xpZGYJiWiV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnnDPNeaEmaRQPplizeqwtvxVmJ.png",
+      "runtime": "60 min",
+      "director": [
+        "Louis C.K."
+      ],
+      "cast": [
+        "Louis C.K."
       ],
       "rank": 10,
-      "id": "tt1288558",
-      "name": "Posesión infernal (Evil Dead)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oyQQOW3Be36MRRC3Rwd7Qubugxj.jpg",
-      "rating": 6.669,
-      "year": 2013,
+      "id": "tt12087624",
+      "name": "Sincerely Louis C.K.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
+      "rating": 7.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -352,5 +344,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

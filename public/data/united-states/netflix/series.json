@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -85,6 +85,35 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "director": [],
+      "cast": [
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts"
+      ],
+      "rank": 4,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
       "genres": [
         "Comedia",
@@ -103,7 +132,7 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
@@ -135,41 +164,12 @@
         "Hamish Allan-Headley",
         "Nishi Munshi"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt11712058",
       "name": "Mayor of Kingstown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
       "rating": 8,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
-      "director": [],
-      "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts"
-      ],
-      "rank": 6,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.2,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -297,5 +297,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T09:07:19.449Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

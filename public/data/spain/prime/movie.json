@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png",
+      "runtime": "97 min",
+      "director": [
+        "Osgood Perkins"
+      ],
+      "cast": [
+        "Theo James",
+        "Tatiana Maslany",
+        "Christian Convery",
+        "Colin O'Brien",
+        "Adam Scott",
+        "Elijah Wood",
+        "Rohan Campbell",
+        "Sarah Levy"
+      ],
+      "rank": 1,
+      "id": "tt27714946",
+      "name": "The Monkey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+      "rating": 5.986,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
@@ -28,7 +63,7 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
@@ -64,46 +99,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "rating": 8.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
-      "director": [
-        "Claire Scanlon"
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 3,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.067,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,33 +149,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
+        "Romance",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
-      "runtime": "134 min",
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
       "director": [
-        "Gore Verbinski"
+        "Claire Scanlon"
       ],
       "cast": [
-        "Sam Rockwell",
-        "Juno Temple",
-        "Haley Lu Richardson",
-        "Michael Peña",
-        "Zazie Beetz",
-        "Asim Chaudhry",
-        "Tom Taylor",
-        "Georgia Goodman"
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
       ],
       "rank": 5,
-      "id": "tt1341338",
-      "name": "Buena suerte, pásalo bien, no mueras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.1,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.067,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,6 +219,42 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
+      "runtime": "134 min",
+      "director": [
+        "Gore Verbinski"
+      ],
+      "cast": [
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson",
+        "Michael Peña",
+        "Zazie Beetz",
+        "Asim Chaudhry",
+        "Tom Taylor",
+        "Georgia Goodman"
+      ],
+      "rank": 7,
+      "id": "tt1341338",
+      "name": "Buena suerte, pásalo bien, no mueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "La película consta de nueve tramas paralelas que tienen lugar en el Valle de San Fernando, en Los Angeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación. Magnolia es el retrato de la vida americana visto a través de una serie de viñetas cómicas y conmovedoras.",
       "genres": [
         "Drama"
@@ -240,7 +275,7 @@
         "Melora Walters",
         "Jeremy Blackman"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0175880",
       "name": "Magnolia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzy5ssxNL5OlPjITaY1OeOeeFyR.jpg",
@@ -254,103 +289,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "description": "A raíz de la muerte de su padre, Iris  se esfuerza por ganarse la vida mientras cuida a su hermano pequeño, un enfermo terminal. Shepard Lambrick un aristócrata aparentemente filantrópico, expresa su interés en ayudarles. Cuando Lambrick la invita a una exclusiva cena en su casa, ella acepta, pero a esa cena también asisten otros siete individuos tan desesperados como ella. Pronto se encontrarán atrapados en la mansión de Lambrick y serán obligados a un juego sádico llamado \"Would You Rather\".",
       "genres": [
-        "Drama"
+        "Suspense",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/f41eZ9eD0V8bYacXCheqgg4KZRL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8SwuCrIa2rjsiXkNlgv6ED7EgKE.png",
+      "runtime": "93 min",
       "director": [
-        "Wim Wenders"
+        "David Guy Levy"
       ],
       "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 8,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uMAYb2jn3yszL5nKQH1PGag63CP.png",
-      "runtime": "100 min",
-      "director": [
-        "David Robert Mitchell"
-      ],
-      "cast": [
-        "Maika Monroe",
-        "Keir Gilchrist",
-        "Daniel Zovatto",
-        "Jake Weary",
-        "Olivia Luccardi",
-        "Lili Sepe",
-        "Bailey Spry",
-        "Carollette Phillips"
-      ],
-      "rank": 9,
-      "id": "tt3235888",
-      "name": "It Follows",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
-      "rating": 6.6,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
+        "Brittany Snow",
+        "Jeffrey Combs",
+        "Jonny Coyne",
+        "Lawrence Gilliard Jr.",
+        "Enver Gjokaj",
+        "Sasha Grey",
+        "John Heard",
+        "Charlie Hofheimer"
       ],
       "rank": 10,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.658,
-      "year": 2020,
+      "id": "tt1999995",
+      "name": "Would You Rather",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7oXzvesOXH2UnSrd1Xflhqa1dBt.jpg",
+      "rating": 5.965,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

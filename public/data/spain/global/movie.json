@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png",
+      "runtime": "97 min",
+      "director": [
+        "Osgood Perkins"
+      ],
+      "cast": [
+        "Theo James",
+        "Tatiana Maslany",
+        "Christian Convery",
+        "Colin O'Brien",
+        "Adam Scott",
+        "Elijah Wood",
+        "Rohan Campbell",
+        "Sarah Levy"
+      ],
+      "rank": 1,
+      "id": "tt27714946",
+      "name": "The Monkey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+      "rating": 5.986,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
@@ -28,47 +63,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
       "rating": 7.013,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
-      "runtime": "101 min",
-      "director": [
-        "Janus Metz"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
-      ],
-      "rank": 2,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.568,
       "year": 2026,
       "days": null,
       "trend": {
@@ -114,34 +113,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Suspense",
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "157 min",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "runtime": "101 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Janus Metz"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
       ],
       "rank": 4,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.568,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan, un programador multimillonario con fama de ermitaño, selecciona a Caleb, un joven empleado de su empresa, para que pase una semana con él en un lugar remoto en las montañas con el objetivo de realizar un test en el que está involucrada su última creación: Ava, un robot-mujer en el que la inteligencia artificial lo es todo.",
+      "genres": [
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dfzyELOXqzWYH5LnfgQl3io1oS4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vpT3JzVdQoLbf6rreK7TwYVh3GY.png",
+      "runtime": "108 min",
+      "director": [
+        "Alex Garland"
+      ],
+      "cast": [
+        "Domhnall Gleeson",
+        "Alicia Vikander",
+        "Oscar Isaac",
+        "Sonoya Mizuno",
+        "Corey Johnson",
+        "Claire Selby",
+        "Symara A. Templeman",
+        "Gana Bayarsaikhan"
+      ],
+      "rank": 5,
+      "id": "tt0470752",
+      "name": "Ex Machina",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mQohkAkV1m7yT43UnYkgvmyKUoa.jpg",
+      "rating": 7.571,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +205,7 @@
         "Georgina Haig",
         "Josh Quong Tart"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
@@ -207,7 +241,7 @@
         "Юрий Колокольников",
         "Levi Miller"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
@@ -221,104 +255,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "157 min",
       "director": [
-        "Claire Scanlon"
+        "Phil Lord",
+        "Christopher Miller"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 7,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.067,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
-      "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x6kUyz5oiEBcW1NxVxVhYYwKZg7.png",
-      "runtime": "93 min",
-      "director": [
-        "Matthias Hoene"
-      ],
-      "cast": [
-        "Joely Richardson",
-        "Sadie Soverall",
-        "Neil Linpow",
-        "Harry Cadby",
-        "Roger Ajogbe",
-        "Euan Bennet",
-        "Cameron Jack",
-        "Sharon Young"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
       ],
       "rank": 8,
-      "id": "tt19858164",
-      "name": "El frío en los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
-      "rating": 6.603,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
-      "director": [
-        "Kristoffer Borgli"
-      ],
-      "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
-      ],
-      "rank": 9,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.896,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -350,7 +313,7 @@
         "Nissan Sakira",
         "Gil Cohen"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
@@ -361,8 +324,44 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x6kUyz5oiEBcW1NxVxVhYYwKZg7.png",
+      "runtime": "93 min",
+      "director": [
+        "Matthias Hoene"
+      ],
+      "cast": [
+        "Joely Richardson",
+        "Sadie Soverall",
+        "Neil Linpow",
+        "Harry Cadby",
+        "Roger Ajogbe",
+        "Euan Bennet",
+        "Cameron Jack",
+        "Sharon Young"
+      ],
+      "rank": 10,
+      "id": "tt19858164",
+      "name": "El frío en los huesos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
+      "rating": 6.603,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }

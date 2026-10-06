@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610061239",
+  "date": "202610062038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -43,40 +43,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 2,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
         "Romance",
@@ -99,12 +65,46 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
       "rating": 6.811,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
+      "director": [
+        "Colin Higgins"
+      ],
+      "cast": [
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
+      ],
+      "rank": 3,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -258,40 +258,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
-      ],
-      "rank": 8,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.3,
-      "year": 1989,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
       "genres": [
         "Drama",
@@ -316,7 +282,7 @@
         "Brendan Gleeson",
         "Marton Csokas"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0320661",
       "name": "El reino de los cielos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
@@ -351,7 +317,7 @@
         "Leland Orser",
         "Jon Gries"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0936501",
       "name": "Venganza",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO9HTzeL7sd346tybTfbd99Nv3R.jpg",
@@ -362,8 +328,45 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g1TDxgGzdXwugw3c4mktvm7Fmm6.png",
+      "runtime": "91 min",
+      "director": [
+        "Carlos Saldanha"
+      ],
+      "cast": [
+        "Ray Romano",
+        "John Leguizamo",
+        "Denis Leary",
+        "Queen Latifah",
+        "Seann William Scott",
+        "Josh Peck",
+        "Jay Leno",
+        "Will Arnett"
+      ],
+      "rank": 10,
+      "id": "tt0438097",
+      "name": "Ice Age 2: El deshielo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg",
+      "rating": 6.7,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T05:05:42.992Z"
+  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
 }
