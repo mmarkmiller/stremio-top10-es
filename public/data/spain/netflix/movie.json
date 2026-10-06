@@ -2,10 +2,10 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610061202",
+  "date": "202610061239",
   "entries": [
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "genres": [
         "Suspense",
@@ -41,43 +41,7 @@
       }
     },
     {
-      "artworkVersion": 3,
-      "description": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png",
-      "runtime": "126 min",
-      "director": [
-        "J.C. Chandor"
-      ],
-      "cast": [
-        "Aaron Taylor-Johnson",
-        "Ariana DeBose",
-        "Fred Hechinger",
-        "Alessandro Nivola",
-        "Christopher Abbott",
-        "Russell Crowe",
-        "Юрий Колокольников",
-        "Levi Miller"
-      ],
-      "rank": 2,
-      "id": "tt8790086",
-      "name": "Kraven the Hunter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",
-      "rating": 6.4,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
       "genres": [
         "Terror"
@@ -99,10 +63,10 @@
         "Georgina Haig",
         "Josh Quong Tart"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt14966898",
       "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jga2jfUWXuVdaBn3WojJooLTSeC.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
       "rating": 7.1,
       "year": 2024,
       "days": null,
@@ -112,7 +76,43 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
+      "description": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wEuiG5gakvzTthDVz0X5gfEz7T1.png",
+      "runtime": "126 min",
+      "director": [
+        "J.C. Chandor"
+      ],
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Ariana DeBose",
+        "Fred Hechinger",
+        "Alessandro Nivola",
+        "Christopher Abbott",
+        "Russell Crowe",
+        "Юрий Колокольников",
+        "Levi Miller"
+      ],
+      "rank": 3,
+      "id": "tt8790086",
+      "name": "Kraven the Hunter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
+      "rating": 6.4,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "En Illinois, en 1936, dos ladrones dan un golpe a un hombre de confianza de un gángster y se embolsan un montón de dinero. El gángster decide vengarse y mata a uno de los que dieron el golpe, mientras que el otro logra escapar y entra en contacto con un ex compinche. Los dos deciden intentar un gran timo que hará temblar las finanzas del jefe de la mafia.",
       "genres": [
         "Comedia",
@@ -148,7 +148,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "genres": [
         "Crimen",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
       "genres": [
         "Terror"
@@ -208,7 +208,7 @@
       "rank": 6,
       "id": "tt35521922",
       "name": "Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLTUFUfLQxdOHRzvCSCEfe4eJrz.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
       "rating": 6.6,
       "year": 2025,
       "days": null,
@@ -218,7 +218,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
         "Romance",
@@ -226,7 +226,7 @@
         "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gbFNkDkI4C0uwUcXoM9xQRhrxCe.png",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
       "runtime": "103 min",
       "director": [
         "Griffin Dunne"
@@ -254,7 +254,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales.",
       "genres": [
         "Crimen",
@@ -292,7 +292,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "La doctora Miranda Grey, una dedicada y exitosa psicóloga criminal, se despierta un día para encontrase que es una paciente en la propia institución mental donde trabaja, sin ningún recuerdo del asesinato que aparentemente ella ha cometido. Pronto descubre que su marido fue brutalmente asesinado 3 días atrás, y las pruebas de sangre... la incriminan a ella.",
       "genres": [
         "Terror",
@@ -328,33 +328,33 @@
       }
     },
     {
-      "artworkVersion": 3,
-      "description": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "artworkVersion": 4,
+      "description": "Hank Palmer, un importante abogado, regresa a su hogar tras la muerte de su madre. Se entera entonces de que su padre, que es el juez del pueblo y de quien está distanciado, es sospechoso de haber cometido un crimen. Su decisión de investigar el caso lo lleva poco a poco a restablecer con los suyos una relación que estaba rota.",
       "genres": [
-        "Terror"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sCBkhFkuqSzo4YXU2elqrg4brkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/9W02KZYKLoINpqpJ2yv8ATxR1AK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Xx7XzstHq8JMRei4uyt7tETrjx.png",
+      "runtime": "141 min",
       "director": [
-        "Paco Plaza"
+        "David Dobkin"
       ],
       "cast": [
-        "Sandra Escacena",
-        "Bruna González",
-        "Claudia Placer",
-        "Iván Chavero",
-        "Ana Torrent",
-        "Consuelo Trujillo",
-        "Ángela Fabián",
-        "Carla Campra"
+        "Robert Downey Jr.",
+        "Robert Duvall",
+        "Vera Farmiga",
+        "Vincent D'Onofrio",
+        "Jeremy Strong",
+        "Dax Shepard",
+        "Billy Bob Thornton",
+        "Leighton Meester"
       ],
       "rank": 10,
-      "id": "tt5862312",
-      "name": "Verónica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/koFWKftn4MQMuWySBkLfRQzxxrB.jpg",
-      "rating": 6.249,
-      "year": 2017,
+      "id": "tt1872194",
+      "name": "El juez",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jx7hoRR16VKitQLaDQc55YvmJ2D.jpg",
+      "rating": 7.33,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",

@@ -2,10 +2,10 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610061202",
+  "date": "202610061239",
   "entries": [
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
       "genres": [
         "Acción",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
         "Ciencia ficción",
@@ -67,7 +67,7 @@
       "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lq76TvRtXkXSAB94UVSiEu7AMNy.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "rating": 8.6,
       "year": 2026,
       "days": null,
@@ -77,7 +77,42 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
+      "director": [
+        "Claire Scanlon"
+      ],
+      "cast": [
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
+      ],
+      "rank": 3,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.067,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
       "genres": [
         "Terror",
@@ -100,7 +135,7 @@
         "Cameron Jack",
         "Sharon Young"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt19858164",
       "name": "El frío en los huesos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
@@ -113,42 +148,7 @@
       }
     },
     {
-      "artworkVersion": 3,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oZmd0fSmGcDsKubkdyOkbonYyAN.png",
-      "runtime": "110 min",
-      "director": [
-        "Claire Scanlon"
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 4,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-      "rating": 8.067,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
       "genres": [
         "Ciencia ficción",
@@ -156,7 +156,7 @@
         "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eNi99cqspNh78uu5uhJXhUGdrUG.png",
+      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
       "runtime": "134 min",
       "director": [
         "Gore Verbinski"
@@ -184,14 +184,14 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
       "genres": [
         "Suspense",
         "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/duzcTqw7Jbj1EKPHv0rv7GpLkkO.png",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
       "runtime": "112 min",
       "director": [
         "Jan Komasa"
@@ -209,7 +209,7 @@
       "rank": 6,
       "id": "tt12583926",
       "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/puHyA47Zer2maa1dAvcD9Be3i6p.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ivuxh5CskKOHcjgCmjZRBvxGwBL.jpg",
       "rating": 6.9,
       "year": 2025,
       "days": null,
@@ -219,13 +219,13 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "La película consta de nueve tramas paralelas que tienen lugar en el Valle de San Fernando, en Los Angeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación. Magnolia es el retrato de la vida americana visto a través de una serie de viñetas cómicas y conmovedoras.",
       "genres": [
         "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4qpYhfkhWR1lFFtxjmmG9SrPDUs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mX3TQvc9RKFEUny1BDcDvnm6VwN.png",
+      "logo": "https://image.tmdb.org/t/p/w500/qIOG8kOOqjWlCV5tPRTepDek5DJ.png",
       "runtime": "188 min",
       "director": [
         "Paul Thomas Anderson"
@@ -244,7 +244,7 @@
       "id": "tt0175880",
       "name": "Magnolia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzy5ssxNL5OlPjITaY1OeOeeFyR.jpg",
-      "rating": 7.72,
+      "rating": 7.7,
       "year": 1999,
       "days": null,
       "trend": {
@@ -253,7 +253,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
       "genres": [
         "Drama"
@@ -287,7 +287,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
       "genres": [
         "Terror",
@@ -312,7 +312,7 @@
       "rank": 9,
       "id": "tt3235888",
       "name": "It Follows",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4rCVesO4JakEkW1Ve9g3NCYpyJX.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
       "rating": 6.6,
       "year": 2015,
       "days": null,
@@ -322,7 +322,7 @@
       }
     },
     {
-      "artworkVersion": 3,
+      "artworkVersion": 4,
       "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
       "genres": [
         "Acción",
@@ -330,7 +330,7 @@
         "Crimen"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kCqp60Ar4yCuEcQrJ1XHY0Pp8kM.png",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
       "runtime": "110 min",
       "director": [
         "Guy Ritchie"
