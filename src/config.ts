@@ -113,14 +113,8 @@ export const PLATFORMS: Source[] = [
   { key: "prime", slug: "amazon-prime", name: "📦 Prime Video", sections: { ...STD_SECTIONS } },
   { key: "apple", slug: "apple-tv", name: "🍎 Apple TV+", sections: { ...STD_SECTIONS } },
   { key: "hbo", slug: "hbo-max", name: "🎭 HBO Max", sections: { ...STD_SECTIONS } },
-  { key: "paramount", slug: "paramount-plus", name: "🗻 Paramount+", sections: { ...STD_SECTIONS } },
-  // Canal+ : FlixPatrol n'expose pas de section « Movies » → films = « Overall » moins les séries.
-  {
-    key: "canal",
-    slug: "canal",
-    name: "📡 Canal+",
-    sections: { series: "TOP 10 TV Shows", overall: "TOP 10 Overall" },
-  },
+  { key: "skyshowtime", slug: "skyshowtime", name: "🗻 SkyShowtime", sections: { ...STD_SECTIONS } },
+  { key: "movistar", slug: "movistar-plus", name: "📡 Movistar Plus+", sections: { ...STD_SECTIONS } },
 ];
 
 /** Agrégat « toutes plateformes confondues » (FlixPatrol slug `streaming`). */

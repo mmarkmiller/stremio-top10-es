@@ -35,10 +35,11 @@ import { buildPoster } from "./poster/compose.ts";
 import { makeLogo } from "./poster/magick.ts";
 import { DEFAULT_VARIANT, VARIANTS } from "./poster/variants.ts";
 import { fetchTop10 } from "./scrape/flixpatrol.ts";
+import { fetchJustWatch } from "./scrape/justwatch.ts";
 import { parseList } from "./scrape/parse.ts";
 import { loadCache, saveCache } from "./tmdb/cache.ts";
 import { resolveTitle } from "./tmdb/resolve.ts";
-import type { DataEntry, ListKey, Source } from "./types.ts";
+import type { DataEntry, Entry, ListKey, Source } from "./types.ts";
 
 const msg = (e: unknown) => (e instanceof Error ? e.message : String(e));
 
@@ -57,8 +58,7 @@ function sourceLists(source: Source): ListKey[] {
 }
 
 /** Résout une liste d'entrées FlixPatrol en entrées de données enrichies (fiche FR + IMDb + affiche source). */
-async function resolveEntries(md: string, source: Source, list: ListKey, cache: ReturnType<typeof loadCache>) {
-  const entries = parseList(md, source, list);
+async function resolveEntries(entries: Entry[], list: ListKey, cache: ReturnType<typeof loadCache>) {
   const out: DataEntry[] = [];
   for (const entry of entries) {
     const title = await resolveTitle(entry, listMedia(list), cache);
@@ -91,7 +91,7 @@ async function build(): Promise<void> {
   for (const country of countries) {
     for (const source of sources) {
       const lists = sourceLists(source);
-      let md: string;
+      let md: string | null = null;
       try {
         md = await fetchTop10(source.slug, country.slug);
       } catch (e) {
@@ -99,11 +99,12 @@ async function build(): Promise<void> {
         const survived = lists.filter((l) => dataFileExists(country.slug, source.key, l)).length;
         kept += survived;
         console.error(`  ⏳ ${country.slug}/${source.key} : scrape KO (${msg(e)}) → ${survived} liste(s) gardée(s)`);
-        continue;
+        console.error("  ↪ Se comprobará la popularidad diaria de JustWatch en España.");
       }
       for (const list of lists) {
         try {
-          const entries = await resolveEntries(md, source, list, cache);
+          const ranking = md === null ? await fetchJustWatch(source.key, list) : null;
+          const entries = await resolveEntries(ranking?.entries ?? parseList(md!, source, list), list, cache);
           if (entries.length === 0) {
             // Section absente pour ce pays : on garde la veille si elle existe, sinon rien.
             if (dataFileExists(country.slug, source.key, list)) kept++;
@@ -114,7 +115,16 @@ async function build(): Promise<void> {
             console.error(`  ⏳ ${country.slug}/${source.key}/${list}: ranking incompleto → se conserva el anterior`);
             continue;
           }
-          if (!dry) writeDataFile(country.slug, source.key, list, BUILD_STAMP, entries);
+          if (!dry)
+            writeDataFile(
+              country.slug,
+              source.key,
+              list,
+              BUILD_STAMP,
+              entries,
+              md === null ? "justwatch" : "flixpatrol",
+              ranking?.updatedAt ?? "",
+            );
           fresh++;
         } catch (e) {
           if (dataFileExists(country.slug, source.key, list)) kept++;

@@ -94,3 +94,29 @@ test("TMDB solicita es-ES y resuelve nombres españoles con IMDb",async()=>{
  const response=await request("/availability.json");
  expect(response.status).toBe(400);expect((await response.json()).error).toContain("HTTP 404");
  });
+
+test("JustWatch filtra ranking diario de España y renumera dentro de la plataforma", async () => {
+  const {fetchJustWatch} = await import("../src/scrape/justwatch.ts");
+  globalThis.fetch = (async (_target: any, init: any) => {
+    const query = JSON.parse(init.body).query;
+    expect(query).toContain("country: ES");
+    expect(query).toContain("DAILY_POPULARITY_SAME_CONTENT_TYPE");
+    expect(query).toContain('packages: ["nfx"]');
+    return Response.json({data:{streamingCharts:{edges:[
+      {streamingChartInfo:{rank:2,updatedAt:"2026-10-06T05:05:00Z"},node:{id:"tm1",objectType:"MOVIE",content:{title:"Uno",originalReleaseYear:2025}}},
+      {streamingChartInfo:{rank:8,updatedAt:"2026-10-06T05:05:00Z"},node:{id:"tm2",objectType:"MOVIE",content:{title:"Dos",originalReleaseYear:2024}}},
+    ]}}});
+  }) as typeof fetch;
+  const ranking = await fetchJustWatch("netflix", "movie");
+  expect(ranking.entries.map(e=>e.rank)).toEqual([1,2]);
+  expect(ranking.updatedAt).toBe("2026-10-06T05:05:00Z");
+  expect(ranking.entries[0]?.fpSlug).toBe("jw-tm1");
+});
+
+test("el respaldo no inventa rankings infantiles ni oculta errores de la fuente",async()=>{
+  const {fetchJustWatch} = await import("../src/scrape/justwatch.ts");
+  globalThis.fetch = (async()=>Response.json({errors:[{message:"unavailable"}]})) as typeof fetch;
+  expect((await fetchJustWatch("netflix","kids-movie")).entries).toEqual([]);
+  expect((await fetchJustWatch("unsupported","movie")).entries).toEqual([]);
+  await expect(fetchJustWatch("netflix","movie")).rejects.toThrow("unavailable");
+});
