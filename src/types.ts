@@ -58,6 +58,7 @@ export type Entry = {
 
 /** Un titre résolu sur TMDB (fiche FR + identifiants). */
 export type Title = {
+  posterTitleOverlay?: boolean;
   artworkVersion?: number;
   description?: string;
   genres?: string[];
@@ -81,6 +82,7 @@ export type Title = {
  * construire le catalogue (côté Worker) et à régénérer l'affiche custom (côté robot, via `tmdbPosterUrl`).
  */
 export type DataEntry = {
+  posterTitleOverlay?: boolean;
   artworkVersion?: number;
   description?: string;
   genres?: string[];
