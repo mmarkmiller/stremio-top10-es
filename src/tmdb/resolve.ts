@@ -15,7 +15,13 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const tmdbType: TmdbType = type === "series" ? "tv" : "movie";
 
   const cached = cache.get(entry.fpSlug);
-  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 3) {
+  if (
+    cached &&
+    cached.tmdbType === tmdbType &&
+    cached.tmdbId &&
+    cached.artworkVersion === 3 &&
+    (cached.tmdbId !== 1083381 || cached.posterUrl?.endsWith("/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg"))
+  ) {
     const { ts: _ts, ...title } = cached;
     return title;
   }
@@ -50,6 +56,7 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const localized = ["es", "en"].flatMap((lang) => posters.filter((i: any) => i.iso_639_1 === lang).sort(byVotes));
   // Variante originale vérifiée : même visuel, titre seul, sans crédits ni promotion.
   const overrides: Record<string, string> = {
+    "movie:1083381": "/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
     "movie:933260": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
     "movie:687163": "/lq76TvRtXkXSAB94UVSiEu7AMNy.jpg",
   };
