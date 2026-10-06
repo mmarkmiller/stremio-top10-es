@@ -58,6 +58,15 @@ export type Entry = {
 
 /** Un titre résolu sur TMDB (fiche FR + identifiants). */
 export type Title = {
+  artworkVersion?: number;
+  description?: string;
+  genres?: string[];
+  background?: string;
+  logo?: string;
+  runtime?: string;
+  director?: string[];
+  cast?: string[];
+
   tmdbId: number; // 0 si non résolu
   tmdbType: TmdbType;
   imdbId: string | null; // tt… (id du meta si présent)
@@ -72,6 +81,15 @@ export type Title = {
  * construire le catalogue (côté Worker) et à régénérer l'affiche custom (côté robot, via `tmdbPosterUrl`).
  */
 export type DataEntry = {
+  artworkVersion?: number;
+  description?: string;
+  genres?: string[];
+  background?: string;
+  logo?: string;
+  runtime?: string;
+  director?: string[];
+  cast?: string[];
+
   rank: number;
   id: string; // id du meta Stremio : tt… (IMDb) ou tmdb:<id> en repli
   name: string; // titre français

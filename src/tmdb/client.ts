@@ -58,5 +58,9 @@ export async function externalIds(type: TmdbType, id: number): Promise<string | 
 
 /** Détails d'un titre (titre localisé, affiche, note, date) dans la langue demandée. */
 export async function getDetails(type: TmdbType, id: number, lang = "es-ES"): Promise<any> {
-  return tmdb(`/${type}/${id}`, { language: lang });
+  return tmdb(`/${type}/${id}`, {
+    language: lang,
+    append_to_response: "images,credits",
+    include_image_language: "es,en,null",
+  });
 }

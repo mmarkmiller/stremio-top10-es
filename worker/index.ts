@@ -221,6 +221,15 @@ async function buildCatalog(cfgSeg: string, pages: string, type: string, id: str
     name: e.name,
     poster: `${pages}/posters/${c}-${k}-${list}-${e.rank}.jpg?v=${data.date}`,
     posterShape: "poster",
+    ...(e.description ? { description: e.description } : {}),
+    ...(e.genres?.length ? { genres: e.genres } : {}),
+    ...(e.background ? { background: e.background } : {}),
+    ...(e.logo ? { logo: e.logo } : {}),
+    ...(e.year ? { releaseInfo: String(e.year) } : {}),
+    ...(e.rating ? { imdbRating: String(e.rating) } : {}),
+    ...(e.runtime ? { runtime: e.runtime } : {}),
+    ...(e.director?.length ? { director: e.director } : {}),
+    ...(e.cast?.length ? { cast: e.cast } : {}),
   }));
   return { metas };
 }
@@ -257,7 +266,7 @@ function decodeConfig(seg: string): Config {
 /** Récupère un JSON statique avec cache d'edge (10 min). */
 async function fetchJson(target: string): Promise<any> {
   const freshTarget = new URL(target);
-  freshTarget.searchParams.set("top10_es", "2");
+  freshTarget.searchParams.set("top10_es", "3");
   const r = await fetch(freshTarget.toString(), {
     cf: { cacheTtlByStatus: { "200-299": 600, "400-599": -1 }, cacheEverything: true },
   } as RequestInit);

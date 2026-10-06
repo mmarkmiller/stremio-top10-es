@@ -15,7 +15,7 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const tmdbType: TmdbType = type === "series" ? "tv" : "movie";
 
   const cached = cache.get(entry.fpSlug);
-  if (cached && cached.tmdbType === tmdbType && cached.tmdbId) {
+  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 1) {
     const { ts: _ts, ...title } = cached;
     return title;
   }
@@ -34,11 +34,30 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const [details, imdbId] = await Promise.all([getDetails(tmdbType, best.id, "es-ES"), externalIds(tmdbType, best.id)]);
 
   const titleEs = (tmdbType === "tv" ? details.name : details.title) || entry.title;
-  const posterUrl = details.poster_path ? TMDB_IMG + details.poster_path : null;
+  const images = details.images ?? {};
+  // Les images sans langue sont les variantes sans texte enregistrées par TMDB.
+  const byVotes = (a: any, b: any) =>
+    (b.vote_count ?? 0) - (a.vote_count ?? 0) || (b.vote_average ?? 0) - (a.vote_average ?? 0);
+  const cleanPosters = (images.posters ?? []).filter((i: any) => i.iso_639_1 === null).sort(byVotes);
+  const posterPath = cleanPosters[0]?.file_path ?? details.poster_path;
+  const posterUrl = posterPath ? TMDB_IMG + posterPath : null;
+  const logos = (images.logos ?? []).filter((i: any) => i.file_path?.endsWith(".png"));
+  const logo = ["es", "en", null].flatMap((lang) => logos.filter((i: any) => i.iso_639_1 === lang).sort(byVotes))[0];
+  const backdrop =
+    (images.backdrops ?? []).filter((i: any) => i.iso_639_1 === null).sort(byVotes)[0]?.file_path ??
+    details.backdrop_path;
   const date = tmdbType === "tv" ? details.first_air_date : details.release_date;
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
 
   const title: Title = {
+    artworkVersion: 1,
+    description: details.overview || undefined,
+    genres: details.genres?.map((g: any) => g.name),
+    background: backdrop ? `https://image.tmdb.org/t/p/w1280${backdrop}` : undefined,
+    logo: logo ? `https://image.tmdb.org/t/p/w500${logo.file_path}` : undefined,
+    runtime: details.runtime ? `${details.runtime} min` : undefined,
+    director: details.credits?.crew?.filter((c: any) => c.job === "Director").map((c: any) => c.name),
+    cast: details.credits?.cast?.slice(0, 8).map((c: any) => c.name),
     tmdbId: best.id,
     tmdbType,
     imdbId,
