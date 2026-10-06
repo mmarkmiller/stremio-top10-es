@@ -49,7 +49,10 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const posters = images.posters ?? [];
   const localized = ["es", "en"].flatMap((lang) => posters.filter((i: any) => i.iso_639_1 === lang).sort(byVotes));
   // Variante originale vérifiée : même visuel, titre seul, sans crédits ni promotion.
-  const overrides: Record<string, string> = { "movie:933260": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg" };
+  const overrides: Record<string, string> = {
+    "movie:933260": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+    "movie:687163": "/lq76TvRtXkXSAB94UVSiEu7AMNy.jpg",
+  };
   const posterPath = overrides[`${tmdbType}:${best.id}`] ?? localized[0]?.file_path ?? details.poster_path;
   const posterUrl = posterPath ? TMDB_IMG + posterPath : null;
   const logos = (images.logos ?? []).filter((i: any) => i.file_path?.endsWith(".png"));
@@ -65,7 +68,12 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
     description: spanishTranslation?.overview || details.overview || undefined,
     genres: details.genres?.map((g: any) => g.name),
     background: backdrop ? `https://image.tmdb.org/t/p/w1280${backdrop}` : undefined,
-    logo: logo ? `https://image.tmdb.org/t/p/w500${logo.file_path}` : undefined,
+    logo:
+      best.id === 687163 && tmdbType === "movie"
+        ? "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
+        : logo
+          ? `https://image.tmdb.org/t/p/w500${logo.file_path}`
+          : undefined,
     runtime: details.runtime ? `${details.runtime} min` : undefined,
     director: details.credits?.crew?.filter((c: any) => c.job === "Director").map((c: any) => c.name),
     cast: details.credits?.cast?.slice(0, 8).map((c: any) => c.name),
