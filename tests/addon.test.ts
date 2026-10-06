@@ -88,3 +88,9 @@ test("TMDB solicita es-ES y resuelve nombres españoles con IMDb",async()=>{
  expect(title.titleEs).toBe("El título");expect(title.imdbId).toBe("tt1234567");
  for(const u of urls.filter(u=>!u.pathname.endsWith('external_ids'))) expect(u.searchParams.get('language')).toBe('es-ES');
 });
+
+ test("los errores de Pages producen una respuesta JSON controlada",async()=>{
+ globalThis.fetch=(async()=>new Response("missing",{status:404})) as typeof fetch;
+ const response=await request("/availability.json");
+ expect(response.status).toBe(400);expect((await response.json()).error).toContain("HTTP 404");
+ });

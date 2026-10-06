@@ -75,7 +75,7 @@ export default {
     try {
       // Routes sans préfixe de config.
       if (parts.length === 0 || (parts.length === 1 && parts[0] === "configure")) return html(CONFIGURE_HTML);
-      if (parts.length === 1 && parts[0] === "availability.json") return proxyJson(`${pages}/availability.json`);
+      if (parts.length === 1 && parts[0] === "availability.json") return await proxyJson(`${pages}/availability.json`);
       if (parts.length === 1 && parts[0] === "manifest.json") return json(stubManifest(url.origin, pages));
 
       // Routes avec préfixe de config : /<config>/…
