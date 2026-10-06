@@ -11,10 +11,18 @@ import { DATA_DIR, LIST_KEYS, dataFilePath } from "../config.ts";
 import type { DataEntry, DataFile, ListKey } from "../types.ts";
 
 /** Écrit un fichier de données (pays, source, liste). */
-export function writeDataFile(country: string, key: string, list: ListKey, date: string, entries: DataEntry[]): void {
+export function writeDataFile(
+  country: string,
+  key: string,
+  list: ListKey,
+  date: string,
+  entries: DataEntry[],
+  rankingSource: "flixpatrol" | "justwatch" = "flixpatrol",
+  rankingUpdatedAt = "",
+): void {
   const file = dataFilePath(country, key, list);
   mkdirSync(dirname(file), { recursive: true });
-  const payload: DataFile = { country, key, list, date, entries };
+  const payload: DataFile = { country, key, list, date, entries, rankingSource, rankingUpdatedAt };
   writeFileSync(file, `${JSON.stringify(payload, null, 2)}\n`);
 }
 

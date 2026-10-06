@@ -32,6 +32,13 @@ export function buildAvailability(files: DataFile[]): Availability {
   }
   return {
     date: BUILD_DAY,
+    rankings: files.map((f) => ({
+      country: f.country,
+      key: f.key,
+      list: f.list,
+      source: f.rankingSource ?? "flixpatrol",
+      updatedAt: f.rankingUpdatedAt || f.date,
+    })),
     countries: COUNTRIES.filter((c) => combos[c.slug]),
     sources: SOURCES.filter((s) => Object.values(combos).some((byCountry) => byCountry[s.key])).map((s) => ({
       key: s.key,

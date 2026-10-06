@@ -2,13 +2,13 @@
 
 Versión personal de [stremio-top10-fr de Apertaa](https://github.com/Apertaa/stremio-top10-fr), bajo su licencia PolyForm Noncommercial incluida en LICENSE.
 
-Rankings de **España** por plataforma, títulos y pósteres TMDB en **es-ES**, identificadores IMDb y carátulas 600 × 900 con números grandes. Addon de catálogos compatible con Stremio y Nuvio. La reproducción y las fichas detalladas siguen a cargo de los otros addons instalados.
+Rankings diarios de **España** por plataforma, títulos y pósteres TMDB en **es-ES**, identificadores IMDb y carátulas 600 × 900 con números grandes. Addon de catálogos compatible con Stremio y Nuvio. La reproducción y las fichas detalladas siguen a cargo de los otros addons instalados.
 
 ## Arquitectura
 
 GitHub Actions actualiza a las 16:00 UTC → GitHub Pages publica rankings y carátulas → Cloudflare Worker sirve el configurador, manifest y catálogos personalizados.
 
-Las plataformas solo aparecen si la fuente publica rankings españoles válidos. No se reutilizan rankings de Francia. El caché TMDB español usa `cache/tmdb-map-es-ES.json`.
+Las plataformas solo aparecen si la fuente publica rankings españoles válidos. Se incluyen Netflix, Disney+, Prime Video, Apple TV, HBO Max, SkyShowtime y Movistar Plus+. No se reutilizan rankings de Francia. El caché TMDB español usa `cache/tmdb-map-es-ES.json`.
 
 ## Desarrollo
 
@@ -36,6 +36,10 @@ La generación requiere ImageMagick y **uno** de los secretos `TMDB_READ_TOKEN` 
 
 ## Estado de validación
 
-Las pruebas automáticas cubren región española, identidad del manifest, UTF-8, filas infantiles, catálogos con IMDb, URLs de pósteres y peticiones TMDB es-ES.
+Las 11 pruebas automáticas cubren región española, identidad del manifest, UTF-8, filas infantiles, catálogos con IMDb, URLs de pósteres, peticiones TMDB es-ES, selección del ranking diario por plataforma y errores de las fuentes.
 
-La lectura en vivo de FlixPatrol mediante r.jina.ai está devolviendo una verificación de bots en este entorno (6 de octubre de 2026). Se rechaza ese contenido. Sin una primera generación real y válida no se debe anunciar el addon como operativo. Si ya hay rankings válidos, se conservan cuando falla la fuente o llega una lista incompleta.
+FlixPatrol es la fuente preferida. Si su lector devuelve una verificación de bots o falla, se consultan los rankings diarios de JustWatch para España, filtrados por plataforma y tipo de contenido. Estos miden interés de los usuarios de JustWatch, y pueden diferir del ranking interno de cada servicio. El configurador muestra la fuente y fecha de generación, y cada archivo JSON conserva la procedencia y fecha de actualización del ranking.
+
+JustWatch no publica aquí una clasificación infantil separada: esas filas solo aparecen si FlixPatrol las proporciona. Las listas anteriores se conservan ante fallos o rankings incompletos.
+
+Fuentes: [FlixPatrol](https://flixpatrol.com/top10/) y [JustWatch Streaming Charts España](https://www.justwatch.com/es/streaming-charts). Metadatos e imágenes: [TMDB](https://www.themoviedb.org/). Este producto usa la API TMDB y no está avalado ni certificado por TMDB.

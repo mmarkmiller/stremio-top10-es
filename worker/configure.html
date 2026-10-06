@@ -134,6 +134,8 @@
       <header>
         <h1>Top 10 ES 🇪🇸 🔟</h1>
         <p class="tagline">Los <b>Top 10 de España</b> de Netflix, Disney+, Prime… en Stremio y en tu TV con Nuvio. Versión personal de Marc.</p>
+        <p class="tagline" style="font-size:0.86rem;color:var(--muted)">Fuente: <a href="https://flixpatrol.com/top10/" style="color:inherit">FlixPatrol</a>. Si no está disponible, popularidad diaria de <a href="https://www.justwatch.com/es/streaming-charts" style="color:inherit">JustWatch</a> en España, filtrada por plataforma. Puede diferir del Top 10 interno de cada servicio.</p>
+        <p id="freshness" class="tagline" style="font-size:0.86rem;color:var(--muted)"></p>
         <details class="how">
           <summary>¿Cómo funciona?</summary>
           <ol>
@@ -609,6 +611,8 @@
           const r = await fetch("/availability.json", { cache: "no-cache" });
           if (!r.ok) throw new Error("availability " + r.status);
           AVAIL = await r.json();
+          const sources = [...new Set((AVAIL.rankings || []).map((r) => r.source))];
+          document.getElementById("freshness").textContent = "Generación: " + AVAIL.date + (sources.length ? " · Rankings: " + sources.map((s) => s === "justwatch" ? "JustWatch" : "FlixPatrol").join(" / ") : "");
           initState();
           buildForm();
         } catch (e) {

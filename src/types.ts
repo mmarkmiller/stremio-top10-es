@@ -89,6 +89,8 @@ export type DataFile = {
   list: ListKey;
   date: string; // AAAA-MM-JJ de la dernière mise à jour réussie (cache-buster des affiches)
   entries: DataEntry[];
+  rankingSource?: "flixpatrol" | "justwatch";
+  rankingUpdatedAt?: string;
 };
 
 /**
@@ -97,6 +99,7 @@ export type DataFile = {
  */
 export type Availability = {
   date: string;
+  rankings?: Array<{ country: string; key: string; list: ListKey; source: string; updatedAt: string }>;
   countries: Country[];
   sources: Array<{ key: string; name: string }>;
   /** combos[country][sourceKey] = listes disponibles (ex. ["movie","series","kids-movie"]). */
