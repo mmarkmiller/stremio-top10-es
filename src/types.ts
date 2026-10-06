@@ -1,5 +1,5 @@
 /**
- * types.ts — types partagés du générateur « Top 10 FR ».
+ * types.ts — types partagés du générateur « Top 10 ES 🇪🇸 ».
  *
  * Flux : FlixPatrol (Markdown via r.jina.ai) → `Entry` → résolution TMDB → `DataEntry` (stocké dans
  * `data/`, source de vérité commune au catalogue ET à la régénération d'affiche). Le Worker Cloudflare
@@ -61,7 +61,7 @@ export type Title = {
   tmdbId: number; // 0 si non résolu
   tmdbType: TmdbType;
   imdbId: string | null; // tt… (id du meta si présent)
-  titleFr: string; // titre français (champ name)
+  titleEs: string; // titre français (champ name)
   year: number | null;
   posterUrl: string | null; // affiche TMDB d'origine (source de l'affiche custom)
   rating: number | null; // note TMDB (vote_average), 0 → null

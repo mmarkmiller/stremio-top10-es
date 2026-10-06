@@ -1,7 +1,7 @@
 /**
  * resolve.ts — résout une entrée FlixPatrol (titre souvent EN) en fiche TMDB française.
  *
- * Stratégie de recherche : fr-FR avec année → fr-FR sans année → en-US avec année → en-US sans année.
+ * Stratégie de recherche : es-ES avec année → es-ES sans année → en-US avec année → en-US sans année.
  * Désambiguïsation par score (année exacte, titre exact normalisé, popularité). En dernier recours,
  * on renvoie un `Title` minimal (sans TMDB) pour ne jamais casser une rangée.
  */
@@ -20,20 +20,20 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
     return title;
   }
 
-  let results = await searchTitle(tmdbType, entry.title, entry.year, "fr-FR");
-  if (!results.length) results = await searchTitle(tmdbType, entry.title, null, "fr-FR");
+  let results = await searchTitle(tmdbType, entry.title, entry.year, "es-ES");
+  if (!results.length) results = await searchTitle(tmdbType, entry.title, null, "es-ES");
   if (!results.length) results = await searchTitle(tmdbType, entry.title, entry.year, "en-US");
   if (!results.length) results = await searchTitle(tmdbType, entry.title, null, "en-US");
 
   if (!results.length) {
     console.error(`  ⚠️ TMDB introuvable : « ${entry.title} » (${tmdbType}, ${entry.year ?? "?"})`);
-    return { tmdbId: 0, tmdbType, imdbId: null, titleFr: entry.title, year: entry.year, posterUrl: null, rating: null };
+    return { tmdbId: 0, tmdbType, imdbId: null, titleEs: entry.title, year: entry.year, posterUrl: null, rating: null };
   }
 
   const best = pickBest(results, entry, tmdbType);
-  const [details, imdbId] = await Promise.all([getDetails(tmdbType, best.id, "fr-FR"), externalIds(tmdbType, best.id)]);
+  const [details, imdbId] = await Promise.all([getDetails(tmdbType, best.id, "es-ES"), externalIds(tmdbType, best.id)]);
 
-  const titleFr = (tmdbType === "tv" ? details.name : details.title) || entry.title;
+  const titleEs = (tmdbType === "tv" ? details.name : details.title) || entry.title;
   const posterUrl = details.poster_path ? TMDB_IMG + details.poster_path : null;
   const date = tmdbType === "tv" ? details.first_air_date : details.release_date;
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
@@ -42,7 +42,7 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
     tmdbId: best.id,
     tmdbType,
     imdbId,
-    titleFr,
+    titleEs,
     year: parseYear(date) ?? entry.year,
     posterUrl,
     rating,

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="es">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Top 10 FR 🔟 — Configuration</title>
+    <title>Top 10 ES 🇪🇸 🔟 — Configuración</title>
     <style>
       :root {
         --bg: #0b0b0b;
@@ -132,29 +132,29 @@
   <body>
     <div class="wrap">
       <header>
-        <h1>Top 10 FR 🔟</h1>
-        <p class="tagline">Le vrai <b>Top 10 du jour</b> de Netflix, Disney+, Prime… directement dans Stremio et sur ta TV (Nuvio).</p>
+        <h1>Top 10 ES 🇪🇸 🔟</h1>
+        <p class="tagline">Los <b>Top 10 de España</b> de Netflix, Disney+, Prime… en Stremio y en tu TV con Nuvio. Versión personal de Marc.</p>
         <details class="how">
-          <summary>Comment ça marche ?</summary>
+          <summary>¿Cómo funciona?</summary>
           <ol>
-            <li><b>Coche</b> les plateformes que tu veux suivre.</li>
-            <li>Pour chacune, choisis le <b>pays</b> du classement et le <b>contenu</b> (films, séries ou les deux).</li>
-            <li><b>Installe dans Stremio</b>, ou <b>copie l'URL</b> et colle-la dans ton appli TV (Nuvio).</li>
+            <li><b>Marca</b> las plataformas que quieras seguir.</li>
+            <li>Elige el <b>contenido</b> de cada plataforma: películas, series o ambos.</li>
+            <li><b>Instala en Stremio</b> o <b>copia la URL</b> y pégala en Nuvio.</li>
           </ol>
         </details>
       </header>
-      <div id="form"><p style="color: var(--muted)">Chargement…</p></div>
+      <div id="form"><p style="color: var(--muted)">Cargando…</p></div>
     </div>
 
     <footer>
       <div class="panel">
         <div class="count" id="count"></div>
         <div class="btns">
-          <a class="btn primary" id="install" href="#">▶ Installer dans Stremio<small>ordinateur / mobile</small></a>
-          <button class="btn ghost" id="copy" type="button">📋 Copier l'URL<small>pour ta TV (Nuvio)</small></button>
+          <a class="btn primary" id="install" href="#">▶ Instalar en Stremio<small>ordenador / móvil</small></a>
+          <button class="btn ghost" id="copy" type="button">📋 Copiar URL<small>para Nuvio</small></button>
         </div>
         <details class="urlbox">
-          <summary>Voir / copier l'URL manuellement</summary>
+          <summary>Ver / copiar la URL manualmente</summary>
           <div class="url" id="url"></div>
         </details>
       </div>
@@ -163,8 +163,9 @@
     <script>
       // ─── Pays : forme « en toutes lettres » (miroir du Worker) ───
       const COUNTRY_LOC = {
-        france: "en France", belgium: "en Belgique", switzerland: "en Suisse",
-        canada: "au Canada", "united-states": "aux États-Unis", "united-kingdom": "au Royaume-Uni",
+        spain: "en España",
+  france: "en Francia", belgium: "en Bélgica", switzerland: "en Suiza",
+        canada: "en Canadá", "united-states": "en Estados Unidos", "united-kingdom": "en Reino Unido",
       };
       // ─── Encodage config (base64url, miroir du Worker) ───
       function encodeConfig(cfg) {
@@ -189,15 +190,15 @@
       const sourceName = (key) => (AVAIL.sources.find((s) => s.key === key) || {}).name || key;
       const flagOf = (slug) => (AVAIL.countries.find((c) => c.slug === slug) || {}).flag || "";
       const defLabel = (key, media, ts) => {
-        if (ts) return `${sourceName(key)} | Top 10 du jour`;
-        return `${sourceName(key)} | Top 10 des ${media === "series" ? "séries" : "films"} du jour`;
+        if (ts) return `${sourceName(key)} | Top 10 de hoy`;
+        return `${sourceName(key)} | Top 10 de ${media === "series" ? "series" : "películas"} de hoy`;
       };
       const countriesFor = (key) => AVAIL.countries.filter((c) => AVAIL.combos[c.slug] && AVAIL.combos[c.slug][key]);
       const countryName = (slug) => (AVAIL.countries.find((c) => c.slug === slug) || {}).name || slug;
 
       /** Nom calculé pour un type ET un pays donné (miroir exact de la logique du Worker). */
       function computeName(key, r, media, country) {
-        const plural = media === "series" ? "séries" : "films";
+        const plural = media === "series" ? "series" : "películas";
         const label = ((r.label || "").trim() || defLabel(key, media, state.ts)).replace(/\{type\}/g, plural);
         const suffix = r.cmode === "flag" ? flagOf(country) : r.cmode === "custom" ? (r.ctext || "").trim() : (COUNTRY_LOC[country] || "");
         return suffix ? `${label} ${suffix}` : label;
@@ -251,9 +252,9 @@
         window._copyUrl = httpsUrl;
         if (has) {
           const rows = countRows(cfg);
-          $count.innerHTML = `<b>${cfg.sel.length}</b> plateforme(s) · <b>${rows}</b> rangée(s) sur ton accueil`;
+          $count.innerHTML = `<b>${cfg.sel.length}</b> plataforma(s) · <b>${rows}</b> fila(s) en tu inicio`;
         } else {
-          $count.textContent = "Coche au moins une plateforme pour générer ton addon.";
+          $count.textContent = "Marca al menos una plataforma para generar tu addon.";
         }
       }
 
@@ -286,7 +287,7 @@
         const cpick = document.createElement("button");
         cpick.type = "button";
         cpick.className = "cpick" + (r.countriesOpen ? " active" : "");
-        cpick.title = "Pays du classement (plusieurs possibles)";
+        cpick.title = "País del ranking";
         const updateCpick = () => {
           const cs = r.countries;
           const extra = cs.length > 1 ? `<span class="cp-more">+${cs.length - 1}</span>` : "";
@@ -295,8 +296,8 @@
         updateCpick();
 
         const media = document.createElement("select");
-        media.title = "Contenu";
-        for (const [v, lab] of [["both", "Films + Séries"], ["movie", "Films seuls"], ["series", "Séries seules"]]) {
+        media.title = "Contenido";
+        for (const [v, lab] of [["both", "Películas + Series"], ["movie", "Solo películas"], ["series", "Solo series"]]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
@@ -308,8 +309,8 @@
         const edit = document.createElement("button");
         edit.type = "button";
         edit.className = "edit" + (r.expanded ? " active" : "");
-        edit.textContent = r.expanded ? "✕ Fermer" : "✎ Nom";
-        edit.title = "Personnaliser le nom de la rangée";
+        edit.textContent = r.expanded ? "✕ Cerrar" : "✎ Nombre";
+        edit.title = "Personalizar el nombre de la fila";
 
         row.append(main, controls, edit);
 
@@ -318,7 +319,7 @@
         cpanel.className = "countrypanel" + (r.countriesOpen ? " open" : "");
         const cpTtl = document.createElement("div");
         cpTtl.className = "cp-ttl";
-        cpTtl.textContent = "Pays du classement (coche un ou plusieurs)";
+        cpTtl.textContent = "País del ranking";
         const clist = document.createElement("div");
         clist.className = "clist";
         for (const c of countries) {
@@ -356,16 +357,16 @@
         panel.className = "namepanel" + (r.expanded ? " open" : "");
 
         const labLbl = document.createElement("label");
-        labLbl.innerHTML = 'Nom de la rangée <small>— laisse vide pour le nom automatique</small>';
+        labLbl.innerHTML = 'Nombre de la fila <small>— vacío para usar el nombre automático</small>';
         const labInput = document.createElement("input");
         labInput.type = "text";
         labInput.value = r.label;
         labInput.placeholder = defLabel(source.key, "movie", state.ts);
 
         const cmLbl = document.createElement("label");
-        cmLbl.textContent = "Affichage du pays à la fin du nom";
+        cmLbl.textContent = "Mostrar el país al final del nombre";
         const cmode = document.createElement("select");
-        for (const [v, lab] of [["full", "En toutes lettres (en France)"], ["flag", "Drapeau (🇫🇷)"], ["custom", "Texte personnalisé"], ]) {
+        for (const [v, lab] of [["full", "Nombre completo (en España)"], ["flag", "Bandera (🇪🇸)"], ["custom", "Texto personalizado"], ]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
@@ -375,7 +376,7 @@
 
         const ctextWrap = document.createElement("div");
         const ctLbl = document.createElement("label");
-        ctLbl.textContent = "Ton texte pour le pays";
+        ctLbl.textContent = "Texto del país";
         const ctext = document.createElement("input");
         ctext.type = "text";
         ctext.value = r.ctext;
@@ -399,8 +400,8 @@
               block.appendChild(head);
             }
             const lines = [];
-            if (rr.media !== "series") lines.push(["Films : ", computeName(source.key, rr, "movie", c) + (state.ts ? " - Film" : "")]);
-            if (rr.media !== "movie") lines.push(["Séries : ", computeName(source.key, rr, "series", c) + (state.ts ? " - Série" : "")]);
+            if (rr.media !== "series") lines.push(["Películas: ", computeName(source.key, rr, "movie", c) + (state.ts ? " - Película" : "")]);
+            if (rr.media !== "movie") lines.push(["Series: ", computeName(source.key, rr, "series", c) + (state.ts ? " - Serie" : "")]);
             for (const [lbl, nm] of lines) {
               const d = document.createElement("div");
               d.className = "pv-line";
@@ -417,7 +418,7 @@
           if (state.ts) {
             const note = document.createElement("div");
             note.className = "pv-note";
-            note.textContent = "L'appli ajoute « - Film » / « - Série » automatiquement (réglage « Mention Film/Série » plus bas).";
+            note.textContent = "La aplicación añade el tipo automáticamente; puedes cambiarlo más abajo.";
             preview.appendChild(note);
           }
         };
@@ -445,7 +446,7 @@
           r.expanded = !r.expanded;
           panel.classList.toggle("open", r.expanded);
           edit.classList.toggle("active", r.expanded);
-          edit.textContent = r.expanded ? "✕ Fermer" : "✎ Nom";
+          edit.textContent = r.expanded ? "✕ Cerrar" : "✎ Nombre";
         });
         labInput.addEventListener("input", () => { r.label = labInput.value; refreshPreview(); render(); });
         cmode.addEventListener("change", () => {
@@ -488,7 +489,7 @@
 
         // ── Section 1 : plateformes ──
         const h2p = document.createElement("h2");
-        h2p.innerHTML = '<span class="num">1</span> Tes plateformes <span class="sub">— coche, choisis pays &amp; contenu</span>';
+        h2p.innerHTML = '<span class="num">1</span> Tus plataformas <span class="sub">— elige el contenido</span>';
         $form.appendChild(h2p);
         for (const s of platforms) {
           const c = card(s, false);
@@ -497,7 +498,7 @@
 
         // ── Section 2 : options ──
         const h2o = document.createElement("h2");
-        h2o.innerHTML = '<span class="num">2</span> Options <span class="sub">— facultatif</span>';
+        h2o.innerHTML = '<span class="num">2</span> Opciones <span class="sub">— opcional</span>';
         $form.appendChild(h2o);
 
         // 🌍 Toutes plateformes (source « global »)
@@ -510,7 +511,7 @@
         $form.appendChild(
           optionToggle(
             state.kids,
-            "🧸 Rangées Jeunesse <small>Ajoute les Top 10 enfants (films &amp; séries) là où ils existent.</small>",
+            "🧸 Filas infantiles <small>Añade rankings infantiles donde estén disponibles.</small>",
             (v) => { state.kids = v; render(); },
           ),
         );
@@ -522,9 +523,9 @@
         tsRow.className = "opt-row";
         const tsName = document.createElement("span");
         tsName.className = "name";
-        tsName.innerHTML = 'Mention « Film » / « Série » dans le titre';
+        tsName.innerHTML = 'Tipo de contenido en el título';
         const tsSel = document.createElement("select");
-        for (const [v, lab] of [["oui", "Automatique (recommandé)"], ["non", "Intégrée au titre"]]) {
+        for (const [v, lab] of [["oui", "Automático (recomendado)"], ["non", "Incluido en el título"]]) {
           const o = document.createElement("option");
           o.value = v;
           o.textContent = lab;
@@ -536,13 +537,13 @@
         const tsHelp = document.createElement("p");
         tsHelp.className = "opt-help";
         tsHelp.innerHTML =
-          "Stremio — et Nuvio par défaut — ajoutent déjà « - Film » / « - Série » après chaque titre. Choisis <b>« Intégrée au titre »</b> uniquement si tu as <b>désactivé</b> cette option dans Nuvio.";
+          "Stremio y Nuvio añaden el tipo de contenido al título. Elige <b>« Incluido en el título »</b> si has desactivado esa opción en Nuvio.";
         const tsEx = document.createElement("div");
         tsEx.className = "opt-example";
         const updateEx = () => {
           tsEx.innerHTML = state.ts
-            ? '<div><span class="ex-tag">Automatique</span> <span class="ex">🔴 Netflix | Top 10 du jour</span> → l\'appli affiche « …du jour <b>- Film</b> »</div>'
-            : '<div><span class="ex-tag">Intégrée</span> <span class="ex">🔴 Netflix | Top 10 <b>des films</b> du jour</span> · <span class="ex">…<b>des séries</b> du jour</span></div>';
+            ? '<div><span class="ex-tag">Automático</span> <span class="ex">🔴 Netflix | Top 10 de hoy</span> → la aplicación muestra « …de hoy <b>- Película</b> »</div>'
+            : '<div><span class="ex-tag">Incluido</span> <span class="ex">🔴 Netflix | Top 10 <b>de películas</b> de hoy</span> · <span class="ex">…<b>de series</b> de hoy</span></div>';
         };
         updateEx();
         tsSel.addEventListener("change", () => { state.ts = tsSel.value === "oui"; buildForm(); });
@@ -556,10 +557,10 @@
         for (const s of AVAIL.sources) {
           const cs = countriesFor(s.key);
           if (!cs.length) continue;
-          const hasFr = cs.some((c) => c.slug === "france");
+          const hasEs = cs.some((c) => c.slug === "spain");
           state.rows[s.key] = {
-            on: s.key !== "global" && hasFr,
-            countries: [hasFr ? "france" : cs[0].slug],
+            on: s.key !== "global" && hasEs,
+            countries: [hasEs ? "spain" : cs[0].slug],
             media: "both",
             label: "",
             cmode: "full",
@@ -596,10 +597,10 @@
         try {
           await navigator.clipboard.writeText(window._copyUrl);
           const prev = b.innerHTML;
-          b.innerHTML = "✅ URL copiée !";
+          b.innerHTML = "✅ ¡URL copiada!";
           setTimeout(() => (b.innerHTML = prev), 1500);
         } catch (e) {
-          prompt("Copie cette URL :", window._copyUrl);
+          prompt("Copia esta URL:", window._copyUrl);
         }
       });
 
@@ -611,7 +612,7 @@
           initState();
           buildForm();
         } catch (e) {
-          $form.innerHTML = '<p class="err">Impossible de charger les données (' + e.message + "). Réessaie plus tard.</p>";
+          $form.innerHTML = '<p class="err">No se pudieron cargar los datos (' + e.message + "). Inténtalo más tarde.</p>";
         }
       })();
     </script>

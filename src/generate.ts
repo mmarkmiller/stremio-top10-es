@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 /**
- * generate.ts — orchestrateur + CLI du générateur « Top 10 FR » (multi-pays, configurable).
+ * generate.ts — orchestrateur + CLI du générateur « Top 10 ES 🇪🇸 » (multi-pays, configurable).
  *
  * Pipeline quotidien :
  *   1. DONNÉES — pour chaque pays × source × liste : scrape FlixPatrol (via r.jina.ai) → parse → résout
@@ -23,6 +23,7 @@ import {
   BUILD_STAMP,
   COUNTRIES,
   DEFAULT_COUNTRY,
+  HEALTH_MIN,
   LIST_KEYS,
   POSTERS_DIR,
   PUBLIC_DIR,
@@ -61,10 +62,11 @@ async function resolveEntries(md: string, source: Source, list: ListKey, cache: 
   const out: DataEntry[] = [];
   for (const entry of entries) {
     const title = await resolveTitle(entry, listMedia(list), cache);
+    if (!title.tmdbId || !title.imdbId) continue;
     out.push({
       rank: entry.rank,
       id: title.imdbId ?? (title.tmdbId ? `tmdb:${title.tmdbId}` : `top10:${entry.fpSlug}`),
-      name: title.titleFr,
+      name: title.titleEs,
       tmdbPosterUrl: title.posterUrl,
       rating: title.rating,
       year: title.year,
@@ -107,6 +109,11 @@ async function build(): Promise<void> {
             if (dataFileExists(country.slug, source.key, list)) kept++;
             continue;
           }
+          if (entries.length < HEALTH_MIN && dataFileExists(country.slug, source.key, list)) {
+            kept++;
+            console.error(`  ⏳ ${country.slug}/${source.key}/${list}: ranking incompleto → se conserva el anterior`);
+            continue;
+          }
           if (!dry) writeDataFile(country.slug, source.key, list, BUILD_STAMP, entries);
           fresh++;
         } catch (e) {
@@ -117,7 +124,7 @@ async function build(): Promise<void> {
     }
     console.error(`📡 ${country.name} traité.`);
   }
-  saveCache(cache);
+  if (!dry) saveCache(cache);
 
   // ─── 2. AFFICHES (depuis l'arbre data/, donc cohérentes même pour les listes conservées) ───
   if (!dry) {
@@ -163,6 +170,7 @@ async function verify(): Promise<void> {
   const avail = JSON.parse(readFileSync(availFile, "utf8"));
   let problems = 0;
   let lists = 0;
+  if (!Object.keys(avail.combos ?? {}).length) throw new Error("No hay rankings para publicar.");
   for (const [country, bySource] of Object.entries(avail.combos as Record<string, Record<string, ListKey[]>>)) {
     for (const [key, ls] of Object.entries(bySource)) {
       for (const list of ls) {
@@ -180,6 +188,17 @@ async function verify(): Promise<void> {
             `❌ ${country}/${key}/${list} : ${data.entries.length} entrées${bad ? `, ${bad} incomplètes` : ""}`,
           );
           problems++;
+        }
+        for (const entry of data.entries as DataEntry[]) {
+          if (!/^tt\d+$/.test(entry.id) || !Number.isInteger(entry.rank) || entry.rank < 1 || entry.rank > 10) {
+            console.error(`❌ Entrada inválida: ${country}/${key}/${list}`);
+            problems++;
+          }
+          const poster = join(POSTERS_DIR, `${posterKey(country, key, list, entry.rank)}.jpg`);
+          if (!existsSync(poster)) {
+            console.error(`❌ Carátula ausente: ${country}/${key}/${list}#${entry.rank}`);
+            problems++;
+          }
         }
       }
     }

@@ -44,7 +44,7 @@ async function tmdb(path: string, params: Record<string, string | number | undef
 }
 
 /** Recherche un titre (films ou séries). `year` filtre par année si fourni. */
-export async function searchTitle(type: TmdbType, query: string, year: number | null, lang = "fr-FR"): Promise<any[]> {
+export async function searchTitle(type: TmdbType, query: string, year: number | null, lang = "es-ES"): Promise<any[]> {
   const yearParam = type === "movie" ? { year: year ?? undefined } : { first_air_date_year: year ?? undefined };
   const j = await tmdb(`/search/${type}`, { query, language: lang, include_adult: "false", ...yearParam });
   return Array.isArray(j.results) ? j.results : [];
@@ -57,6 +57,6 @@ export async function externalIds(type: TmdbType, id: number): Promise<string | 
 }
 
 /** Détails d'un titre (titre localisé, affiche, note, date) dans la langue demandée. */
-export async function getDetails(type: TmdbType, id: number, lang = "fr-FR"): Promise<any> {
+export async function getDetails(type: TmdbType, id: number, lang = "es-ES"): Promise<any> {
   return tmdb(`/${type}/${id}`, { language: lang });
 }
