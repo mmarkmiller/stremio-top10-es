@@ -93,7 +93,14 @@ function renderNumber(rank: number, v: Variant, h: number): string {
 }
 
 /** Compose l'affiche custom et l'écrit dans `out`. */
-export function compose(posterPath: string | null, rank: number, v: Variant, out: string): void {
+export function compose(
+  posterPath: string | null,
+  rank: number,
+  v: Variant,
+  out: string,
+  title?: string,
+  logoPath?: string,
+): void {
   const { width: W, height: H } = v;
   const margin = Math.round(W * 0.035);
   const numPath = renderNumber(rank, v, Math.round(H * v.numberHeightRatio)); // hauteur du chiffre = ratio réglable
@@ -126,6 +133,57 @@ export function compose(posterPath: string | null, rank: number, v: Variant, out
     "over",
     "-composite",
   );
+  if (title) {
+    // Bande supérieure discrète pour rendre le titre lisible, sans crédits ni slogans.
+    args.push(
+      "(",
+      "-size",
+      `${W}x${Math.round(H * 0.3)}`,
+      "gradient:black-none",
+      ")",
+      "-gravity",
+      "North",
+      "-composite",
+    );
+    if (logoPath) {
+      args.push(
+        "(",
+        logoPath,
+        "-trim",
+        "+repage",
+        "-resize",
+        `${Math.round(W * 0.84)}x${Math.round(H * 0.16)}`,
+        ")",
+        "-gravity",
+        "North",
+        "-geometry",
+        `+0+${Math.round(H * 0.065)}`,
+        "-composite",
+      );
+    } else {
+      const titlePath = join(tmpdir(), `top10-title-${rank}.png`);
+      run(
+        [
+          "-background",
+          "none",
+          "-fill",
+          "white",
+          "-font",
+          v.font,
+          "-pointsize",
+          "42",
+          "-size",
+          `${Math.round(W * 0.84)}x${Math.round(H * 0.18)}`,
+          "-gravity",
+          "center",
+          `caption:${title}`,
+          titlePath,
+        ],
+        "titre",
+      );
+      args.push(titlePath, "-gravity", "North", "-geometry", `+0+${Math.round(H * 0.045)}`, "-composite");
+    }
+  }
   // Le chiffre (fichier → taille native conservée), ancré en bas-gauche.
   args.push(numPath, "-gravity", "SouthWest", "-geometry", `+${margin}+${margin}`, "-composite");
   args.push("-quality", "88", out);

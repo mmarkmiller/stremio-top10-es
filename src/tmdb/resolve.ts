@@ -15,7 +15,7 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const tmdbType: TmdbType = type === "series" ? "tv" : "movie";
 
   const cached = cache.get(entry.fpSlug);
-  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 1) {
+  if (cached && cached.tmdbType === tmdbType && cached.tmdbId && cached.artworkVersion === 2) {
     const { ts: _ts, ...title } = cached;
     return title;
   }
@@ -50,7 +50,8 @@ export async function resolveTitle(entry: Entry, type: MediaType, cache: Map<str
   const rating = typeof details.vote_average === "number" && details.vote_average > 0 ? details.vote_average : null;
 
   const title: Title = {
-    artworkVersion: 1,
+    artworkVersion: 2,
+    posterTitleOverlay: !!cleanPosters[0],
     description: details.overview || undefined,
     genres: details.genres?.map((g: any) => g.name),
     background: backdrop ? `https://image.tmdb.org/t/p/w1280${backdrop}` : undefined,

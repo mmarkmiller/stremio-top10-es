@@ -266,7 +266,7 @@ function decodeConfig(seg: string): Config {
 /** Récupère un JSON statique avec cache d'edge (10 min). */
 async function fetchJson(target: string): Promise<any> {
   const freshTarget = new URL(target);
-  freshTarget.searchParams.set("top10_es", "3");
+  freshTarget.searchParams.set("top10_es", "4");
   const r = await fetch(freshTarget.toString(), {
     cf: { cacheTtlByStatus: { "200-299": 600, "400-599": -1 }, cacheEverything: true },
   } as RequestInit);
