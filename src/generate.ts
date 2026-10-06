@@ -62,7 +62,7 @@ async function resolveEntries(entries: Entry[], list: ListKey, cache: ReturnType
   const out: DataEntry[] = [];
   for (const entry of entries) {
     const title = await resolveTitle(entry, listMedia(list), cache);
-    if (!title.tmdbId || !title.imdbId) continue;
+    if (!title.tmdbId) continue;
     out.push({
       rank: entry.rank,
       id: title.imdbId ?? (title.tmdbId ? `tmdb:${title.tmdbId}` : `top10:${entry.fpSlug}`),
@@ -200,7 +200,7 @@ async function verify(): Promise<void> {
           problems++;
         }
         for (const entry of data.entries as DataEntry[]) {
-          if (!/^tt\d+$/.test(entry.id) || !Number.isInteger(entry.rank) || entry.rank < 1 || entry.rank > 10) {
+          if (!/^(?:tt\d+|tmdb:\d+)$/.test(entry.id) || !Number.isInteger(entry.rank) || entry.rank < 1 || entry.rank > 10) {
             console.error(`❌ Entrada inválida: ${country}/${key}/${list}`);
             problems++;
           }
