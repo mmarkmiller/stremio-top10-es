@@ -155,3 +155,13 @@ test("Nuvio puede configurar desde la ruta del manifest conservando selecciones"
  expect(m.behaviorHints.configurationURL).toBe('https://top10-es.example/'+segment+'/configure');
  expect((await request('/invalid-config/configure')).status).toBe(400);
 });
+
+test("elige el primer cartel de España en el orden de TMDB, sin ordenar por votos",async()=>{
+ const {firstSpainImage}=await import("../src/tmdb/resolve.ts");
+ const mx={file_path:"/mx.jpg",iso_639_1:"es",iso_3166_1:"MX",vote_count:100};
+ const first={file_path:"/es-first.jpg",iso_639_1:"es",iso_3166_1:"ES",vote_count:1};
+ const later={file_path:"/es-second.jpg",iso_639_1:"es",iso_3166_1:"ES",vote_count:200};
+ expect(firstSpainImage([mx,first,later])).toBe(first);
+ expect(firstSpainImage([mx,{file_path:"/en.jpg",iso_639_1:"en"}]).file_path).toBe("/en.jpg");
+ expect(firstSpainImage([])).toBeUndefined();
+});
