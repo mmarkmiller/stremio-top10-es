@@ -83,7 +83,12 @@ export default {
       const rest = parts.slice(1);
       // Certains clients ouvrent /<config>/configure ou la racine du manifest.
       if (rest.length === 0 || (rest.length === 1 && rest[0] === "configure")) {
-        decodeConfig(cfgSeg);
+        try {
+          decodeConfig(cfgSeg);
+        } catch (e) {
+          if (rest.length === 0) return notFound();
+          throw e;
+        }
         return new Response(null, {
           status: 302,
           headers: { ...cors(), Location: `${url.origin}/configure#${cfgSeg}` },
