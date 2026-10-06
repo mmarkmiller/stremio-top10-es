@@ -62,7 +62,7 @@ const COUNTRY_LOC: Record<string, string> = {
   "united-kingdom": "en Reino Unido",
 };
 const ADDON_DESC =
-  "Les vrais Top 10 de hoy par plateforme et par pays (films & séries), avec les affiches « gros chiffre ».";
+  "Top 10 de España por plataforma: películas y series, metadatos en español y carátulas con números grandes.";
 
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
@@ -75,7 +75,7 @@ export default {
     try {
       // Routes sans préfixe de config.
       if (parts.length === 0 || (parts.length === 1 && parts[0] === "configure")) return html(CONFIGURE_HTML);
-      if (parts.length === 1 && parts[0] === "availability.json") return proxyJson(`${pages}/availability.json`);
+      if (parts.length === 1 && parts[0] === "availability.json") return await proxyJson(`${pages}/availability.json`);
       if (parts.length === 1 && parts[0] === "manifest.json") return json(stubManifest(url.origin, pages));
 
       // Routes avec préfixe de config : /<config>/…
