@@ -3,7 +3,7 @@
  *
  * Clé = `fpSlug` (stable, contrairement au titre qui change de casse/langue). But : éviter de
  * réinterroger TMDB chaque jour pour les mêmes titres (vitesse, stabilité, moins d'appels API).
- * Le fichier `cache/tmdb-map.json` est versionné (committé par la CI) → diffs Git propres (clés triées).
+ * Le fichier `cache/tmdb-map-es-ES.json` est versionné (committé par la CI) → diffs Git propres (clés triées).
  */
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -13,7 +13,7 @@ import type { Title } from "../types.ts";
 /** Entrée de cache = une fiche `Title` + la date de mise en cache. */
 export type CacheEntry = Title & { ts: string };
 
-const FILE = join(CACHE_DIR, "tmdb-map.json");
+const FILE = join(CACHE_DIR, "tmdb-map-es-ES.json");
 
 export function loadCache(): Map<string, CacheEntry> {
   if (!existsSync(FILE)) return new Map();

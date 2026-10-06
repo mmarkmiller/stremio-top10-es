@@ -1,5 +1,5 @@
 /**
- * index.ts — Worker Cloudflare qui sert l'addon Stremio « Top 10 FR » configurable.
+ * index.ts — Worker Cloudflare qui sert l'addon Stremio « Top 10 ES 🇪🇸 » configurable.
  *
  * Architecture hybride : les DONNÉES (listes + affiches) sont pré-générées et servies en statique par
  * GitHub Pages ; ce Worker ne fait que la LOGIQUE légère — décoder la config de l'URL, choisir les bons
@@ -42,26 +42,27 @@ type Sel = {
 
 /** Pays d'une sélection, normalisés : `cs` (multi) sinon `[c]` (mono), sinon `[]`. */
 function selCountries(sel: Sel): string[] {
-  return sel.cs && sel.cs.length ? sel.cs : sel.c ? [sel.c] : [];
+  return sel.cs?.length ? sel.cs : sel.c ? [sel.c] : [];
 }
 /** Config encodée dans l'URL. `ts` = Nuvio ajoute lui-même le type « - Film/- Série » (défaut true). */
 type Config = { v: number; sel: Sel[]; kids?: boolean; ts?: boolean };
 
 type ListKey = "movie" | "series" | "kids-movie" | "kids-series";
 
-const DEFAULT_PAGES = "https://apertaa.github.io/stremio-top10-fr";
-const ADDON_NAME = "Top 10 FR 🔟";
+const DEFAULT_PAGES = "http://localhost:8088";
+const ADDON_NAME = "Top 10 ES 🇪🇸 🔟";
 /** Forme « en toutes lettres » du pays (préposition correcte) — pour le mode d'affichage « full ». */
 const COUNTRY_LOC: Record<string, string> = {
-  france: "en France",
-  belgium: "en Belgique",
-  switzerland: "en Suisse",
-  canada: "au Canada",
-  "united-states": "aux États-Unis",
-  "united-kingdom": "au Royaume-Uni",
+  spain: "en España",
+  france: "en Francia",
+  belgium: "en Bélgica",
+  switzerland: "en Suiza",
+  canada: "en Canadá",
+  "united-states": "en Estados Unidos",
+  "united-kingdom": "en Reino Unido",
 };
 const ADDON_DESC =
-  "Les vrais Top 10 du jour par plateforme et par pays (films & séries), avec les affiches « gros chiffre ».";
+  "Les vrais Top 10 de hoy par plateforme et par pays (films & séries), avec les affiches « gros chiffre ».";
 
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
@@ -104,7 +105,7 @@ export default {
 /** Manifest « à configurer » (quand on installe l'URL nue, sans config). */
 function stubManifest(origin: string, pages: string) {
   return {
-    id: "fr.apertaa.top10",
+    id: "es.marc.top10",
     version: "2.0.0",
     name: ADDON_NAME,
     description: ADDON_DESC,
@@ -151,7 +152,7 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
 
   const types = [...new Set(catalogs.map((c) => c.type))];
   return {
-    id: "fr.apertaa.top10.custom",
+    id: "es.marc.top10.custom",
     version: `2.0.${String(avail.date || "").replace(/-/g, "")}`,
     name: ADDON_NAME,
     description: ADDON_DESC,
@@ -167,10 +168,10 @@ async function buildManifest(cfgSeg: string, pages: string, origin: string) {
 
 /**
  * Nom d'un catalogue, calculé PAR type (movie/series).
- *   label par défaut : si `ts` (Nuvio ajoute le type) → « <plateforme> | Top 10 du jour » (type-agnostique) ;
+ *   label par défaut : si `ts` (Nuvio ajoute le type) → « <plateforme> | Top 10 de hoy » (type-agnostique) ;
  *   sinon on tisse le type → « <plateforme> | Top 10 des films/séries du jour ».
  *   `sel.label` (custom) remplace le défaut ; le token `{type}` y devient « films »/« séries ».
- *   suffixe pays selon `sel.cmode` ; « · Jeunesse » pour les listes enfants.
+ *   suffixe pays selon `sel.cmode` ; « · Infantil » pour les listes enfants.
  */
 function catalogName(
   sel: Sel,
@@ -181,12 +182,12 @@ function catalogName(
   media: "movie" | "series",
   ts: boolean,
 ): string {
-  const plural = media === "series" ? "séries" : "films";
-  const def = ts ? `${srcName} | Top 10 du jour` : `${srcName} | Top 10 des ${plural} du jour`;
+  const plural = media === "series" ? "series" : "películas";
+  const def = ts ? `${srcName} | Top 10 de hoy` : `${srcName} | Top 10 de ${plural} de hoy`;
   const label = ((sel.label || "").trim() || def).replace(/\{type\}/g, plural);
   const mode = sel.cmode || "full";
   const suffix = mode === "flag" ? fl : mode === "custom" ? (sel.ctext || "").trim() : COUNTRY_LOC[country] || "";
-  const main = kids ? `${label} · Jeunesse` : label;
+  const main = kids ? `${label} · Infantil` : label;
   return suffix ? `${main} ${suffix}` : main;
 }
 
@@ -203,7 +204,11 @@ async function buildCatalog(cfgSeg: string, pages: string, type: string, id: str
   const sel = cfg.sel.find((s) => s.k === k);
   if (!sel) return { metas: [] };
   const c = country ?? selCountries(sel)[0];
-  if (!c) return { metas: [] };
+  if (!c || !selCountries(sel).includes(c)) return { metas: [] };
+  if (type !== "movie" && type !== "series") return { metas: [] };
+  if ((type === "movie" && !sel.m) || (type === "series" && !sel.s) || (kids && !cfg.kids)) {
+    return { metas: [] };
+  }
 
   const media = type === "series" ? "series" : "movie";
   const list = (kids ? `kids-${media}` : media) as ListKey;
@@ -226,8 +231,26 @@ async function buildCatalog(cfgSeg: string, pages: string, type: string, id: str
 function decodeConfig(seg: string): Config {
   let b64 = seg.replace(/-/g, "+").replace(/_/g, "/");
   while (b64.length % 4) b64 += "=";
-  const cfg = JSON.parse(atob(b64)) as Config;
-  if (!cfg || !Array.isArray(cfg.sel)) throw new Error("config invalide");
+  const bytes = Uint8Array.from(atob(b64), (c) => c.charCodeAt(0));
+  const cfg = JSON.parse(new TextDecoder("utf-8", { fatal: true, ignoreBOM: false }).decode(bytes)) as Config;
+  if (!cfg || cfg.v !== 1 || !Array.isArray(cfg.sel) || cfg.sel.length > 20) throw new Error("Configuración inválida");
+  const keys = new Set<string>();
+  for (const sel of cfg.sel) {
+    if (!sel || !/^[a-z][a-z0-9-]*$/.test(sel.k) || keys.has(sel.k)) throw new Error("Plataforma inválida");
+    keys.add(sel.k);
+    if (sel.cs !== undefined && !Array.isArray(sel.cs)) throw new Error("País inválido");
+    const countries = selCountries(sel);
+    if (
+      !countries.length ||
+      countries.length > 10 ||
+      countries.some((c) => typeof c !== "string" || !/^[a-z][a-z-]*$/.test(c))
+    ) {
+      throw new Error("País inválido");
+    }
+    if ([sel.label, sel.ctext].some((s) => s !== undefined && (typeof s !== "string" || s.length > 200))) {
+      throw new Error("Nombre inválido");
+    }
+  }
   return cfg;
 }
 

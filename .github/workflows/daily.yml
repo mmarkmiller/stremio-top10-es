@@ -3,7 +3,7 @@ name: daily
 # Robot quotidien : régénère les Top 10 et publie sur GitHub Pages, tout seul.
 on:
   schedule:
-    - cron: "0 16 * * *" # 16:00 UTC = 18h Paris — APRÈS la publication Netflix (~15h UTC, la plus tardive ; autres plateformes ~11h UTC)
+    - cron: "0 16 * * *" # 18:00 en España en verano; 17:00 en invierno.
   workflow_dispatch: {} # + bouton « Run workflow » pour lancer à la main
 
 permissions:
@@ -25,8 +25,21 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Garantir ImageMagick
-        run: (magick -version || convert -version) >/dev/null 2>&1 || sudo apt-get update && sudo apt-get install -y imagemagick
+      - name: Instalar dependencias
+        run: bun install --frozen-lockfile
+
+      - name: Comprobar el addon
+        run: |
+          bun test
+          bun run typecheck
+          bunx tsc --noEmit -p worker/tsconfig.json
+
+      - name: Garantizar ImageMagick
+        run: |
+          if ! (magick -version || convert -version) >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y imagemagick
+          fi
 
       - name: Générer les Top 10
         env:
@@ -45,7 +58,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cache public
-          git commit -m "Top 10 FR — $(date -u +%F)" || { echo "Rien à committer (déjà à jour)."; exit 0; }
+          git commit -m "Top 10 ES 🇪🇸 — $(date -u +%F)" || { echo "Rien à committer (déjà à jour)."; exit 0; }
           # Intègre d'éventuels commits concurrents, puis pousse. Un push raté (course) ne doit PAS
           # bloquer le déploiement : les données seront re-persistées au prochain run.
           git pull --rebase origin main || true

@@ -8,7 +8,7 @@
  */
 const JINA = "https://r.jina.ai/";
 const FLIXPATROL = "https://flixpatrol.com/top10/";
-const UA = "stremio-top10-fr/1.0 (+https://github.com/Apertaa/stremio-top10-fr)";
+const UA = "stremio-top10-es/2.0 (+https://github.com/mmarkmiller/stremio-top10-es)";
 const TIMEOUT_MS = 45_000; // r.jina.ai rend la page côté serveur → lent
 const RETRIES = 3;
 

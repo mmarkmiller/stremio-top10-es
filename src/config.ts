@@ -1,5 +1,5 @@
 /**
- * config.ts — constantes du générateur « Top 10 FR » (pays, sources, listes, chemins, réglages).
+ * config.ts — constantes du générateur « Top 10 ES 🇪🇸 » (pays, sources, listes, chemins, réglages).
  *
  * Les chemins sont résolus par rapport à la RACINE du dépôt (calculée depuis ce fichier),
  * pour que le générateur écrive au bon endroit quel que soit le répertoire courant.
@@ -27,7 +27,7 @@ export function posterKey(country: string, key: string, list: ListKey, rank: num
 
 // ─────────── Publication ───────────
 /** Déploiement de référence — dernier repli quand on tourne hors CI et sans override. */
-export const PAGES_BASE = "https://apertaa.github.io/stremio-top10-fr";
+export const PAGES_BASE = "https://mmarkmiller.github.io/stremio-top10-es";
 
 /**
  * Base de l'URL publique servie (sert à fabriquer les URLs d'affiches), par ordre de priorité :
@@ -93,17 +93,10 @@ export function listAudience(list: ListKey): Audience {
   return list.startsWith("kids") ? "kids" : "main";
 }
 
-// ─────────── Pays (la France d'abord ; ordre = affichage par défaut) ───────────
-export const COUNTRIES: Country[] = [
-  { slug: "france", name: "France", flag: "🇫🇷" },
-  { slug: "belgium", name: "Belgique", flag: "🇧🇪" },
-  { slug: "switzerland", name: "Suisse", flag: "🇨🇭" },
-  { slug: "canada", name: "Canada", flag: "🇨🇦" },
-  { slug: "united-states", name: "États-Unis", flag: "🇺🇸" },
-  { slug: "united-kingdom", name: "Royaume-Uni", flag: "🇬🇧" },
-];
+// ─────────── País del ranking: España ───────────
+export const COUNTRIES: Country[] = [{ slug: "spain", name: "España", flag: "🇪🇸" }];
 /** Pays par défaut (config simple sans personnalisation + rétro-compat). */
-export const DEFAULT_COUNTRY = "france";
+export const DEFAULT_COUNTRY = "spain";
 
 // ─────────── Sources (plateformes + agrégat « toutes plateformes ») ───────────
 const STD_SECTIONS = {
@@ -113,7 +106,7 @@ const STD_SECTIONS = {
   "kids-series": "TOP 10 Kids TV Shows",
 } as const;
 
-/** Les 7 plateformes (ordre = celui de l'accueil de Sébastien). */
+/** Plataformas; se muestran solo cuando tienen rankings españoles. */
 export const PLATFORMS: Source[] = [
   { key: "netflix", slug: "netflix", name: "🔴 Netflix", sections: { ...STD_SECTIONS } },
   { key: "disney", slug: "disney", name: "🏰 Disney+", sections: { ...STD_SECTIONS } },
@@ -134,7 +127,7 @@ export const PLATFORMS: Source[] = [
 export const GLOBAL: Source = {
   key: "global",
   slug: "streaming",
-  name: "🌍 Toutes plateformes",
+  name: "🌍 Todas las plataformas",
   sections: { movie: "TOP 10 Movies", series: "TOP 10 TV Shows" },
 };
 

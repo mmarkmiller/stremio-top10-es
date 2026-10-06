@@ -1,13 +1,13 @@
-# Worker Cloudflare — sert l'addon « Top 10 FR » configurable.
+# Worker Cloudflare — sert l'addon « Top 10 ES 🇪🇸 » configurable.
 # Déploiement : depuis ce dossier, `bunx wrangler deploy` (après `wrangler login`).
-name = "stremio-top10-fr"
+name = "stremio-top10-es"
 main = "index.ts"
 compatibility_date = "2026-06-01"
 workers_dev = true
 
 # Base des données statiques (GitHub Pages). Un FORK remplace cette valeur par son propre Pages.
 [vars]
-PAGES_BASE = "https://apertaa.github.io/stremio-top10-fr"
+PAGES_BASE = "https://mmarkmiller.github.io/stremio-top10-es"
 
 # Permet d'importer la page de configuration (HTML) comme une simple chaîne de caractères.
 [[rules]]
