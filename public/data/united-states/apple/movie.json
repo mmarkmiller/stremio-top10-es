@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,7 +30,7 @@
       "id": "tt1285016",
       "name": "La red social",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.376,
+      "rating": 7.377,
       "year": 2010,
       "days": null,
       "trend": {
@@ -76,40 +76,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png",
-      "runtime": "98 min",
-      "director": [
-        "Amir Bar-Lev"
-      ],
-      "cast": [
-        "John Snorri Sigurjónsson",
-        "محمد علی سد پارہ",
-        "Sajid Sadpara",
-        "Lina Moey",
-        "Angela Benavides",
-        "Elia Saikaly",
-        "Sandro Gromen Hayes",
-        "Nirmal Purja"
-      ],
-      "rank": 3,
-      "id": "tt39150288",
-      "name": "La última gran escalada: El K2 en invierno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
-      "rating": 5.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
       "genres": [
         "Terror",
@@ -132,12 +98,48 @@
         "Luke Mably",
         "Stuart McQuarrie"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0289043",
       "name": "28 días después",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.2,
+      "rating": 7.243,
       "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
+      "runtime": "139 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Paul Bettany",
+        "James D'Arcy",
+        "Robert Pugh",
+        "David Threlfall",
+        "Lee Ingleby",
+        "Max Pirkis",
+        "Max Benitz"
+      ],
+      "rank": 4,
+      "id": "tt0311113",
+      "name": "Master and commander: Al otro lado del mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
+      "rating": 7.205,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,6 +184,76 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png",
+      "runtime": "98 min",
+      "director": [
+        "Amir Bar-Lev"
+      ],
+      "cast": [
+        "John Snorri Sigurjónsson",
+        "محمد علی سد پارہ",
+        "Sajid Sadpara",
+        "Lina Moey",
+        "Angela Benavides",
+        "Elia Saikaly",
+        "Sandro Gromen Hayes",
+        "Nirmal Purja"
+      ],
+      "rank": 6,
+      "id": "tt39150288",
+      "name": "La última gran escalada: El K2 en invierno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
+      "runtime": "107 min",
+      "director": [
+        "Ben Stiller"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert Downey Jr.",
+        "Jack Black",
+        "Jay Baruchel",
+        "Brandon T. Jackson",
+        "Brandon Soo Hoo",
+        "Matthew McConaughey",
+        "Tom Cruise"
+      ],
+      "rank": 7,
+      "id": "tt0942385",
+      "name": "Tropic Thunder, ¡una guerra muy perra!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
+      "rating": 6.73,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
       "genres": [
         "Drama"
@@ -202,7 +274,7 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
@@ -239,7 +311,7 @@
         "Glenn Mendelson",
         "Ann Altieri"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
@@ -253,106 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
+      "description": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Bélica"
+        "Crimen",
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png",
+      "runtime": "180 min",
       "director": [
-        "Ben Stiller"
+        "Martin Scorsese"
       ],
       "cast": [
-        "Ben Stiller",
-        "Robert Downey Jr.",
-        "Jack Black",
-        "Jay Baruchel",
-        "Brandon T. Jackson",
-        "Brandon Soo Hoo",
-        "Matthew McConaughey",
-        "Tom Cruise"
-      ],
-      "rank": 8,
-      "id": "tt0942385",
-      "name": "Tropic Thunder, ¡una guerra muy perra!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
-      "rating": 6.7,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas. El fin se supone que es salvar vidas, no segarlas. Pero resulta que el principal objetivo de la misión es capturar al caudillo Aidid y acabar de raíz con la guerra. Al principio, todo parece ir bien, hasta que dos helicópteros Black Hawk, aparentemente invencibles, son derribados. Entonces la misión se convierte en una desesperada carrera para rescatar a la tripulación y a los soldados de tierra que han quedado atrapados o han resultado heridos en el accidente.",
-      "genres": [
-        "Acción",
-        "Bélica",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/90GlfqiSbSPubPNiUBYgulsttC.png",
-      "runtime": "145 min",
-      "director": [
-        "Ridley Scott"
-      ],
-      "cast": [
-        "Josh Hartnett",
-        "Ewan McGregor",
-        "Tom Sizemore",
-        "Eric Bana",
-        "William Fichtner",
-        "Ewen Bremner",
-        "Sam Shepard",
-        "Gabriel Casseus"
-      ],
-      "rank": 9,
-      "id": "tt0265086",
-      "name": "Black Hawk derribado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
-      "rating": 7.401,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Peter Bretter es un compositor que está hecho polvo desde que Sarah Marshall, su novia durante cinco años, le abandona. Su medio hermano Brian le sugiere que se vaya de viaje a Hawai para levantar el ánimo. A Peter le gusta la idea y viaja a un centro turístico en la isla de Oahu pero tan pronto como termina de registrarse en el hotel, ve a Sarah con su nuevo novio, el rockero británico Aldous Snow. Peter vuelve a hundirse en la miseria, y solo consigue levantar la cabeza gracias a Rachel, una empleada del hotel.",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s39aQY3dK1s6ARrUKP5yeq824nR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4xTgE3pg8zgmZCNzGgRBT19YVdt.png",
-      "runtime": "111 min",
-      "director": [
-        "Nicholas Stoller"
-      ],
-      "cast": [
-        "Jason Segel",
-        "Kristen Bell",
-        "Mila Kunis",
-        "Russell Brand",
-        "Bill Hader",
+        "Leonardo DiCaprio",
         "Jonah Hill",
-        "Liz Cackowski",
-        "Jack McBrayer"
+        "Margot Robbie",
+        "Matthew McConaughey",
+        "Kyle Chandler",
+        "Rob Reiner",
+        "Jon Bernthal",
+        "Jon Favreau"
       ],
       "rank": 10,
-      "id": "tt0800039",
-      "name": "Paso de ti",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jSKVemmRF2JhFOo5Qvm1TZfHa3H.jpg",
-      "rating": 6.509,
-      "year": 2008,
+      "id": "tt0993846",
+      "name": "El lobo de Wall Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "rating": 8,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

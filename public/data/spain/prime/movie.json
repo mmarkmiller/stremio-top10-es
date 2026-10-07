@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -67,80 +67,8 @@
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.2,
+      "rating": 7.225,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "157 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 3,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
-      "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x6kUyz5oiEBcW1NxVxVhYYwKZg7.png",
-      "runtime": "93 min",
-      "director": [
-        "Matthias Hoene"
-      ],
-      "cast": [
-        "Joely Richardson",
-        "Sadie Soverall",
-        "Neil Linpow",
-        "Harry Cadby",
-        "Roger Ajogbe",
-        "Euan Bennet",
-        "Cameron Jack",
-        "Sharon Young"
-      ],
-      "rank": 4,
-      "id": "tt19858164",
-      "name": "El frío en los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
-      "rating": 6.603,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +98,47 @@
         "Jeananne Goossen",
         "Aladeen Tawfeek"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt22526100",
       "name": "La hipótesis del amor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.067,
+      "rating": 8.05,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 4,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -205,12 +169,47 @@
         "Mckenna Grace",
         "Madeline Brewer"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt12583926",
       "name": "Aniversario",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ivuxh5CskKOHcjgCmjZRBvxGwBL.jpg",
       "rating": 6.9,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta película de acción trepidante está ambientada en el centro de Tailandia, donde dos pueblos rivales dejan a un lado sus diferencias y se unen para luchar contra un gángster despiadado. También conocida como Thai Fighters. Distribuida en exclusiva a nivel internacional por 3388 Films.",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9GWyiezidQZohNOgt4dWGgrKnNv.jpg",
+      "runtime": "90 min",
+      "director": [
+        "Towatchai Ladloy",
+        "ชัยวัฒน์ สีตลาศัย"
+      ],
+      "cast": [
+        "Thunyaphat Phatrathinchaicherin",
+        "Natthawut Saenyabut",
+        "ชาติชาย ชินศรี",
+        "Songkran Sitthi",
+        "ศุภกรณ์ กิจสุวรรณ",
+        "ไซม่อน กุ๊ก",
+        "สุเทพ สีใส",
+        "วาเนสซ่า บีเวอร์"
+      ],
+      "rank": 6,
+      "id": "tmdb:1543142",
+      "name": "Luchadores Tailandeses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f9Anudrk4WFkJf91BGqTXl5rodI.jpg",
+      "rating": 4,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +244,7 @@
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.1,
+      "rating": 7.105,
       "year": 2026,
       "days": null,
       "trend": {
@@ -255,32 +254,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La película consta de nueve tramas paralelas que tienen lugar en el Valle de San Fernando, en Los Angeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación. Magnolia es el retrato de la vida americana visto a través de una serie de viñetas cómicas y conmovedoras.",
+      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
       "genres": [
-        "Drama"
+        "Acción",
+        "Comedia",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qpYhfkhWR1lFFtxjmmG9SrPDUs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qIOG8kOOqjWlCV5tPRTepDek5DJ.png",
-      "runtime": "188 min",
+      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
+      "runtime": "110 min",
       "director": [
-        "Paul Thomas Anderson"
+        "Guy Ritchie"
       ],
       "cast": [
-        "Tom Cruise",
-        "Philip Baker Hall",
-        "Philip Seymour Hoffman",
-        "Julianne Moore",
-        "William H. Macy",
-        "John C. Reilly",
-        "Melora Walters",
-        "Jeremy Blackman"
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell",
+        "Henry Golding",
+        "Tom Wu"
       ],
       "rank": 8,
-      "id": "tt0175880",
-      "name": "Magnolia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzy5ssxNL5OlPjITaY1OeOeeFyR.jpg",
+      "id": "tt8367814",
+      "name": "The Gentlemen: Los señores de la mafia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
       "rating": 7.7,
-      "year": 1999,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -289,33 +290,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "A raíz de la muerte de su padre, Iris  se esfuerza por ganarse la vida mientras cuida a su hermano pequeño, un enfermo terminal. Shepard Lambrick un aristócrata aparentemente filantrópico, expresa su interés en ayudarles. Cuando Lambrick la invita a una exclusiva cena en su casa, ella acepta, pero a esa cena también asisten otros siete individuos tan desesperados como ella. Pronto se encontrarán atrapados en la mansión de Lambrick y serán obligados a un juego sádico llamado \"Would You Rather\".",
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
       "genres": [
-        "Suspense",
-        "Terror"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/f41eZ9eD0V8bYacXCheqgg4KZRL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8SwuCrIa2rjsiXkNlgv6ED7EgKE.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "123 min",
       "director": [
-        "David Guy Levy"
+        "Wim Wenders"
       ],
       "cast": [
-        "Brittany Snow",
-        "Jeffrey Combs",
-        "Jonny Coyne",
-        "Lawrence Gilliard Jr.",
-        "Enver Gjokaj",
-        "Sasha Grey",
-        "John Heard",
-        "Charlie Hofheimer"
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
+      ],
+      "rank": 9,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.8,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Malice in Wonderland sigue los pasos de Alice, una estudiante de derecho que tras ser atropellada por un coche se despierta en un territorio extraño. En él, se encontrará con todos los personajes del texto de Carroll, convertidos en seres urbanos que parecen salidos de Snatch, cerdos y diamantes.",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVftNpJHp6ahi7MhW6XRZkoLzCL.jpg",
+      "runtime": "87 min",
+      "director": [
+        "Simon Fellows"
+      ],
+      "cast": [
+        "Maggie Grace",
+        "Danny Dyer",
+        "Matt King",
+        "Nathaniel Parker",
+        "Bronagh Gallagher",
+        "Anthony Higgins",
+        "Paul Kaye",
+        "Garrick Hagon"
       ],
       "rank": 10,
-      "id": "tt1999995",
-      "name": "Would You Rather",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7oXzvesOXH2UnSrd1Xflhqa1dBt.jpg",
-      "rating": 5.965,
-      "year": 2013,
+      "id": "tt0374853",
+      "name": "Malice in Wonderland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azesynSFVrwZbBpATRP7lGbTpoo.jpg",
+      "rating": 5.3,
+      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

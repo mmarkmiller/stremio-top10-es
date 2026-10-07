@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,32 +40,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
+      "description": "Adaptación cinematográfica de la novela gráfica homónima de Seth Grahame-Smith, basada en el clásico literario de Jane Austen, que se desarrolla en un universo alternativo a la Regencia Británica de 1819, donde una plaga de zombies invaden la apacible población inglesa de Meryton.",
       "genres": [
-        "Drama"
+        "Romance",
+        "Terror",
+        "Comedia",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5sEH6dc1ul08DbZalSUK8JBNjaz.png",
+      "runtime": "108 min",
       "director": [
-        "Elizabeth Chomko"
+        "Burr Steers"
       ],
       "cast": [
-        "Hilary Swank",
-        "Michael Shannon",
-        "Robert Forster",
-        "Blythe Danner",
-        "Taissa Farmiga",
-        "Josh Lucas",
-        "Sarah Sutherland",
-        "Marilyn Dodds Frank"
+        "Lily James",
+        "Sam Riley",
+        "Jack Huston",
+        "Bella Heathcote",
+        "Douglas Booth",
+        "Matt Smith",
+        "Charles Dance",
+        "Lena Headey"
       ],
       "rank": 2,
-      "id": "tt6662736",
-      "name": "Más fuerte que el olvido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
-      "rating": 6.472,
-      "year": 2018,
+      "id": "tt1374989",
+      "name": "Orgullo + Prejuicio + Zombis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg",
+      "rating": 6.2,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Kevin Bacon",
+        "Jeannine Taylor",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson",
+        "Betsy Palmer",
+        "Peter Brouwer"
+      ],
+      "rank": 3,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.4,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -96,12 +133,108 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.568,
+      "rating": 6.563,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 5,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
+      "runtime": "101 min",
+      "director": [
+        "Elizabeth Chomko"
+      ],
+      "cast": [
+        "Hilary Swank",
+        "Michael Shannon",
+        "Robert Forster",
+        "Blythe Danner",
+        "Taissa Farmiga",
+        "Josh Lucas",
+        "Sarah Sutherland",
+        "Marilyn Dodds Frank"
+      ],
+      "rank": 6,
+      "id": "tt6662736",
+      "name": "Más fuerte que el olvido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
+      "rating": 6.472,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lHctVQ60nBYzJ51n9xpZGYJiWiV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnnDPNeaEmaRQPplizeqwtvxVmJ.png",
+      "runtime": "60 min",
+      "director": [
+        "Louis C.K."
+      ],
+      "cast": [
+        "Louis C.K."
+      ],
+      "rank": 7,
+      "id": "tt12087624",
+      "name": "Sincerely Louis C.K.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
+      "rating": 7.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -129,7 +262,7 @@
         "James Andrew Miller",
         "Timothée Chalamet"
       ],
-      "rank": 4,
+      "rank": 8,
       "id": "tt39847629",
       "name": "Lorne",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
@@ -143,102 +276,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Todavía conmocionadas por la trágica muerte de su madre, una adolescente y su hermana menor se ven atormentadas por una presencia sádica en su casa y luchan para que su afligido padre les preste atención antes de que sea demasiado tarde.",
+      "description": "El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
       "genres": [
-        "Terror"
+        "Ciencia ficción",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6OnDSJThAbF6GxXNXNmcusGjBDy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8d8SaZaVs61ARZSERlpPSMkxXGz.png",
-      "runtime": "99 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oUuJ6UlgOUc1WcE8XK5lLp0K0eb.png",
+      "runtime": "123 min",
       "director": [
-        "Rob Savage"
+        "James Gray"
       ],
       "cast": [
-        "Sophie Thatcher",
-        "Vivien Lyra Blair",
-        "Chris Messina",
-        "David Dastmalchian",
-        "Marin Ireland",
-        "Madison Hu",
-        "Maddie Nichols",
-        "Mabel Tyler"
+        "Brad Pitt",
+        "Tommy Lee Jones",
+        "Liv Tyler",
+        "Ruth Negga",
+        "Donald Sutherland",
+        "Kimberly Elise",
+        "Loren Dean",
+        "Donnie Keshawarz"
       ],
-      "rank": 5,
-      "id": "tt3427252",
-      "name": "The Boogeyman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zzaEJ68gtZZ6cPqffUkAl56x223.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
-      "runtime": "120 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Henry Cavill",
-        "Eiza González",
-        "Alan Ritchson",
-        "Henry Golding",
-        "Cary Elwes",
-        "Alex Pettyfer",
-        "Babs Olusanmokun",
-        "Hero Fiennes Tiffin"
-      ],
-      "rank": 6,
-      "id": "tt5177120",
-      "name": "El ministerio de la Guerra Sucia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
-      "rating": 6.997,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
-      "director": [
-        "Sean S. Cunningham"
-      ],
-      "cast": [
-        "Adrienne King",
-        "Kevin Bacon",
-        "Jeannine Taylor",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson",
-        "Betsy Palmer",
-        "Peter Brouwer"
-      ],
-      "rank": 7,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.4,
-      "year": 1980,
+      "rank": 9,
+      "id": "tt2935510",
+      "name": "Ad astra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
+      "rating": 6.1,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -269,7 +333,7 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
@@ -280,69 +344,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
-      "runtime": "100 min",
-      "director": [
-        "Eric Appel"
-      ],
-      "cast": [
-        "Nate Bargatze",
-        "Mandy Moore",
-        "Stella Grace Fitzgerald",
-        "Birdie Borria",
-        "Charlotte Ann Tucker",
-        "Colin Jost",
-        "Will Forte",
-        "Martin Herlihy"
-      ],
-      "rank": 9,
-      "id": "tt34459219",
-      "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
-      "rating": 7.11,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lHctVQ60nBYzJ51n9xpZGYJiWiV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnnDPNeaEmaRQPplizeqwtvxVmJ.png",
-      "runtime": "60 min",
-      "director": [
-        "Louis C.K."
-      ],
-      "cast": [
-        "Louis C.K."
-      ],
-      "rank": 10,
-      "id": "tt12087624",
-      "name": "Sincerely Louis C.K.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
-      "rating": 7.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

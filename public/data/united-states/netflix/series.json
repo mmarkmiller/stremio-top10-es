@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -19,63 +19,13 @@
         "Mike Faist",
         "Hoon Lee",
         "Ciarán Hinds",
-        "Joseph Zada",
-        "Costa D'Angelo"
+        "Joseph Zada"
       ],
       "rank": 1,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.903,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
-      "director": [],
-      "cast": [
-        "Maura Tierney",
-        "David Ajala",
-        "Tony Goldwyn",
-        "Hugh Dancy",
-        "Odelya Halevi"
-      ],
-      "rank": 2,
-      "id": "tt0098844",
-      "name": "Ley y orden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.3,
-      "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg",
-      "director": [],
-      "cast": [],
-      "rank": 3,
-      "id": "tt44877899",
-      "name": "Outside",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
-      "rating": 5.2,
+      "rating": 7.927,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,7 +50,7 @@
         "Cree",
         "Annie Potts"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
@@ -132,11 +82,159 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.872,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "director": [],
+      "cast": [
+        "Molly Parker",
+        "Omar Metwally",
+        "Amirah Vann",
+        "Jon-Michael Ecker",
+        "Felicity Huffman"
+      ],
+      "rank": 4,
+      "id": "tt26748321",
+      "name": "Doc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "director": [],
+      "cast": [
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
+      ],
+      "rank": 5,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.6,
+      "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
+      "director": [],
+      "cast": [
+        "Maura Tierney",
+        "David Ajala",
+        "Tony Goldwyn",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "rank": 6,
+      "id": "tt0098844",
+      "name": "Ley y orden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "rating": 7.285,
+      "year": 1990,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "director": [],
+      "cast": [
+        "Ella Beatty",
+        "Vicky Krieps",
+        "Sarah Paulson",
+        "Charlie Hunnam",
+        "Rebecca Hall",
+        "Billie Lourd",
+        "Jessica Barden"
+      ],
+      "rank": 7,
+      "id": "tmdb:299939",
+      "name": "Monstruo: La historia de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0giXYYfrLbztULkjZWfDkUXwWp.png",
+      "director": [],
+      "cast": [
+        "Rossif Sutherland",
+        "Kristin Kreuk",
+        "Aaron Douglas",
+        "Savonna Spracklin",
+        "Bethany Brown"
+      ],
+      "rank": 8,
+      "id": "tt12408718",
+      "name": "Murder in a Small Town",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
+      "rating": 6.9,
       "year": 2024,
       "days": null,
       "trend": {
@@ -164,40 +262,12 @@
         "Hamish Allan-Headley",
         "Nishi Munshi"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt11712058",
       "name": "Mayor of Kingstown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
       "rating": 8,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0giXYYfrLbztULkjZWfDkUXwWp.png",
-      "director": [],
-      "cast": [
-        "Rossif Sutherland",
-        "Kristin Kreuk",
-        "Aaron Douglas",
-        "Savonna Spracklin",
-        "Bethany Brown"
-      ],
-      "rank": 7,
-      "id": "tt12408718",
-      "name": "Murder in a Small Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
-      "rating": 6.9,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -220,7 +290,7 @@
         "Ravi Patel",
         "Grace Palmer"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt21376524",
       "name": "Animal Control",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
@@ -231,71 +301,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
-      "director": [],
-      "cast": [
-        "Ella Beatty",
-        "Vicky Krieps",
-        "Sarah Paulson",
-        "Charlie Hunnam",
-        "Rebecca Hall",
-        "Billie Lourd",
-        "Jessica Barden"
-      ],
-      "rank": 9,
-      "id": "tmdb:299939",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.077,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "David Gyasi",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney"
-      ],
-      "rank": 10,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.602,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

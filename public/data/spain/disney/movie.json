@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "runtime": "99 min",
+      "director": [
+        "Kate Dolan"
+      ],
+      "cast": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Sydney Blackburn",
+        "Isabelle Bonfrer"
+      ],
+      "rank": 1,
+      "id": "tt32654916",
+      "name": "Soulm8te",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiBD9XAkH3JfsHEuyF7qMP2LhHD.jpg",
+      "rating": 7.507,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -29,7 +65,7 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
@@ -65,7 +101,7 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
@@ -79,68 +115,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
+      "description": "En Brooklyn, un solitario camarero rescata a un cachorro de un cubo de basura. Sus problemas empiezan cuando aparece el dueño del animal, un hombre con problemas mentales que, además, está involucrado en una conspiración criminal que se planea en el bar en el que trabaja el camarero.",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jDNXIth0TlZcz3sBMJdMx7JjIZf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3tQIu2Dhz2OyouF6il2j20Wcsgs.png",
+      "runtime": "106 min",
       "director": [
-        "Colin Higgins"
+        "Michaël R. Roskam"
       ],
       "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 3,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "runtime": "99 min",
-      "director": [
-        "Kate Dolan"
-      ],
-      "cast": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Sydney Blackburn",
-        "Isabelle Bonfrer"
+        "Tom Hardy",
+        "Noomi Rapace",
+        "James Gandolfini",
+        "Matthias Schoenaerts",
+        "John Ortiz",
+        "Ann Dowd",
+        "Michael Aronov",
+        "James Frecheville"
       ],
       "rank": 4,
-      "id": "tt32654916",
-      "name": "Soulm8te",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eiBD9XAkH3JfsHEuyF7qMP2LhHD.jpg",
-      "rating": 7.518,
-      "year": 2026,
+      "id": "tt1600196",
+      "name": "La entrega",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/15ODu72Q8Z6uFwefH8U0vjYZ75v.jpg",
+      "rating": 6.8,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -175,7 +176,7 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
+      "rating": 7.467,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,35 +186,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hace muchos, muchos años, tantos como 20.000, una pequeña ardirata de nombre Scrat quería esconder una bellota en el hielo. Pero lo que hace es provocar una semicatástrofe que provoca que todos los animales migren hacia el sur, hacia tierras más cálidas. Bueno, lo que se dice todos, todos, no. Porque hay uno que lleva la contraria: se trata del mamut Manfred, un auténtico lobo solitario vagabundo y soberbio que va hacia el norte sólo porque los demás están yendo hacia el sur.",
+      "description": "Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",
       "genres": [
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Aventura"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCVQ2cZmGkAHG2Q3fDZTQA1YzeI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uABe8XAnWn98JrYj4jNItXe33rl.png",
-      "runtime": "75 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxf5uKSYSCaAZwBMe6yqEcPaz0p.png",
+      "runtime": "110 min",
       "director": [
-        "Chris Wedge"
+        "David Bruckner"
       ],
       "cast": [
-        "Ray Romano",
-        "John Leguizamo",
-        "Denis Leary",
-        "Goran Višnjić",
-        "Jack Black",
-        "Cedric the Entertainer",
-        "Stephen Root",
-        "Diedrich Bader"
+        "Rebecca Hall",
+        "Sarah Goldberg",
+        "Vondie Curtis-Hall",
+        "Evan Jonigkeit",
+        "Stacy Martin",
+        "David Abeles",
+        "Christina Jackson",
+        "Patrick Klein"
       ],
       "rank": 6,
-      "id": "tt0268380",
-      "name": "Ice Age: La edad de hielo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yzz9kZPeNtJLd3LxgbO6fBxNxez.jpg",
-      "rating": 7.385,
-      "year": 2002,
+      "id": "tt9731534",
+      "name": "La casa oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s6nLBypiujQQMBBfgJJAWleoWw1.jpg",
+      "rating": 6.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -222,33 +221,66 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
       "genres": [
-        "Animación",
-        "Acción",
-        "Fantasía"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuWeqrZWgYM21G0SimOzzgM71HG.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
       "director": [
-        "Haruo Sotozaki"
+        "Colin Higgins"
       ],
       "cast": [
-        "Natsuki Hanae",
-        "Takahiro Sakurai",
-        "Akira Ishida",
-        "Hiro Shimono",
-        "Yoshimasa Hosoya",
-        "Saori Hayami",
-        "Mamoru Miyano",
-        "Reina Ueda"
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
       ],
       "rank": 7,
-      "id": "tt32820897",
-      "name": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYnhd124Fi3vVYlh6qmItxpGZXd.jpg",
-      "rating": 8.798,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Charlie Heller es un brillante pero introvertido decodificador de la CIA que trabaja en una oficina en el sótano de la sede de Langley. Su vida cambia radicalmente cuando su esposa muere en un ataque terrorista en Londres. Cuando sus supervisores se niegan a tomar cartas en el asunto, él mismo toma las riendas y se embarca en un peligroso viaje por todo el mundo para localizar a los responsables. Su inteligencia puede ser el arma definitiva para llevar a cabo su venganza.",
+      "genres": [
+        "Suspense",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dBaC7W7i3NbjgCbQPhDTZOEXFUD.png",
+      "runtime": "123 min",
+      "director": [
+        "James Hawes"
+      ],
+      "cast": [
+        "Rami Malek",
+        "Holt McCallany",
+        "Danny Sapani",
+        "Rachel Brosnahan",
+        "Michael Stuhlbarg",
+        "Laurence Fishburne",
+        "Julianne Nicholson",
+        "Caitríona Balfe"
+      ],
+      "rank": 8,
+      "id": "tt0899043",
+      "name": "Amateur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9WPWF0AmklsKclrXeyKXbQ543ZA.jpg",
+      "rating": 6.9,
       "year": 2025,
       "days": null,
       "trend": {
@@ -258,71 +290,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
       "genres": [
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Historia",
-        "Bélica"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcyz89Ues6pi1QoDzhFN4YlXkqq.png",
-      "runtime": "144 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
+      "runtime": "119 min",
       "director": [
-        "Ridley Scott"
+        "David Frankel"
       ],
       "cast": [
-        "Orlando Bloom",
-        "Eva Green",
-        "Jeremy Irons",
-        "David Thewlis",
-        "غسان مسعود",
-        "Liam Neeson",
-        "Brendan Gleeson",
-        "Marton Csokas"
-      ],
-      "rank": 8,
-      "id": "tt0320661",
-      "name": "El reino de los cielos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
-      "rating": 7.1,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Qué podría ser peor para un padre que la impotencia cuando al otro lado de una llamada de móvil oye cómo secuestran a su hija? Esta es la pesadilla que se hace realidad para Bryan (Liam Neeson), un espía retirado que sólo tiene unas horas para recuperar a su hija, que ha sido secuestrada por una peligrosa banda especializada en la venta de jóvenes adolescentes.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6JcjsLvVFamAyr1NIsxtUYIYLiW.png",
-      "runtime": "93 min",
-      "director": [
-        "Pierre Morel"
-      ],
-      "cast": [
-        "Liam Neeson",
-        "Maggie Grace",
-        "Famke Janssen",
-        "Olivier Rabourdin",
-        "Katie Cassidy",
-        "Nicolas Giraud",
-        "Leland Orser",
-        "Jon Gries"
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt",
+        "Stanley Tucci",
+        "Kenneth Branagh",
+        "Justin Theroux",
+        "Lucy Liu",
+        "Tracie Thoms"
       ],
       "rank": 9,
-      "id": "tt0936501",
-      "name": "Venganza",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO9HTzeL7sd346tybTfbd99Nv3R.jpg",
-      "rating": 7.4,
-      "year": 2008,
+      "id": "tt33612209",
+      "name": "El diablo viste de Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "rating": 7.042,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -331,35 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie.",
+      "description": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
       "genres": [
-        "Animación",
-        "Familia",
-        "Comedia",
-        "Aventura"
+        "Ciencia ficción",
+        "Aventura",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g1TDxgGzdXwugw3c4mktvm7Fmm6.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7DrxPRFEIEmkijc7FRFJUqSJGJS.png",
+      "runtime": "198 min",
       "director": [
-        "Carlos Saldanha"
+        "James Cameron"
       ],
       "cast": [
-        "Ray Romano",
-        "John Leguizamo",
-        "Denis Leary",
-        "Queen Latifah",
-        "Seann William Scott",
-        "Josh Peck",
-        "Jay Leno",
-        "Will Arnett"
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Oona Chaplin",
+        "Jack Champion",
+        "Kate Winslet",
+        "Cliff Curtis"
       ],
       "rank": 10,
-      "id": "tt0438097",
-      "name": "Ice Age 2: El deshielo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg",
-      "rating": 6.7,
-      "year": 2006,
+      "id": "tt1757678",
+      "name": "Avatar: Fuego y ceniza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+      "rating": 7.6,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -368,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

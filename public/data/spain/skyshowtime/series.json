@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.473,
+      "rating": 8.472,
       "year": 2025,
       "days": null,
       "trend": {
@@ -95,33 +95,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 4,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
       "genres": [
         "Western",
@@ -140,11 +113,11 @@
         "Ryan Bingham",
         "Finn Little"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.273,
+      "rating": 8.3,
       "year": 2018,
       "days": null,
       "trend": {
@@ -154,31 +127,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "description": "Malotru, un agente de la Inteligencia Francesa, encubierto en Siria durante 6 años, es llamado de vuelta a casa. Se enfrentará a la dificultad de olvidar su identidad encubierta, la desaparición de un colega en Argelia, y el entrenamiento de una joven chica.",
       "genres": [
-        "Drama",
         "Crimen",
-        "Action & Adventure"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOvVP88lVgUK9GiVdbo96xbefbQ.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Logan Marshall-Green",
-        "Arielle Kebbel",
-        "Ash Santos",
-        "Tatanka Means",
-        "Brecken Merrill",
-        "Mo Brings Plenty",
-        "Gil Birmingham"
+        "Mathieu Kassovitz",
+        "Sara Giraudeau",
+        "Stefan Crepon",
+        "Zineb Triki",
+        "Florence Loiret Caille",
+        "Jonathan Zaccaï",
+        "Олексій Горбунов",
+        "Mathieu Amalric"
+      ],
+      "rank": 5,
+      "id": "tt4063800",
+      "name": "Oficina de infiltrados",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
+      "rating": 8.2,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en las proverbiales ciudades en auge del oeste de Texas, se trata de un drama sobre la búsqueda de la fortuna en el mundo de las plataformas petrolíferas basada en el podcast 'Boomtown', una historia de clases, con matones y multimillonarios salvajes que impulsan un boom tan grande que está cambiando nuestro clima, nuestra economía y nuestra geopolítica.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lsTW6jjloPFqo7ZDTOqEYLaoLnb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wx0mQPv5C41Vo35Nw7Br8gUgi3N.png",
+      "director": [],
+      "cast": [
+        "Billy Bob Thornton",
+        "Demi Moore",
+        "Andy Garcia",
+        "Ali Larter",
+        "Jacob Lofland",
+        "Michelle Randolph",
+        "Paulina Chávez",
+        "Kayla Wallace"
       ],
       "rank": 6,
-      "id": "tt36849871",
-      "name": "Marshals: Una historia de Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.912,
-      "year": 2026,
+      "id": "tt14186672",
+      "name": "Landman: Un negocio crudo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg",
+      "rating": 8.2,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,58 +190,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía.\n\nEntre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de acceso a la facultad de derecho.\n\nEl azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter.\n\nLa inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un único título universitario.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Gabriel Macht",
-        "Rick Hoffman",
-        "Sarah Rafferty",
-        "Amanda Schull",
-        "Dulé Hill",
-        "Katherine Heigl"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 7,
-      "id": "tt1632701",
-      "name": "Suits: la clave del éxito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nZsdLWlvZgA5waLpKl9koRg1VbJ.jpg",
-      "rating": 8.2,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
-      "director": [],
-      "cast": [
-        "Jean Smart",
-        "Hannah Einbinder",
-        "Carl Clemons-Hopkins",
-        "Paul W. Downs",
-        "Megan Stalter",
-        "Mark Indelicato",
-        "Rose Abdoo"
-      ],
-      "rank": 8,
-      "id": "tt11815682",
-      "name": "Hacks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-      "rating": 7.5,
-      "year": 2021,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -260,12 +230,43 @@
         "Christian Slater",
         "Carly Chaikin"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt4158110",
       "name": "Mr. Robot",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "rating": 8.27,
+      "rating": 8.3,
       "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Connie Britton",
+        "Aimee Teegarden",
+        "Michael B. Jordan",
+        "Jurnee Smollett-Bell",
+        "Dora Madison",
+        "Grey Damon",
+        "Matt Lauria"
+      ],
+      "rank": 9,
+      "id": "tt0758745",
+      "name": "Friday Night Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+      "rating": 8,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -296,7 +297,7 @@
       "id": "tt31314751",
       "name": "Su peor pesadilla",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kxDzi564wDHCIse4GiJZrh0usqa.jpg",
-      "rating": 8.052,
+      "rating": 8.1,
       "year": 2025,
       "days": null,
       "trend": {
@@ -306,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

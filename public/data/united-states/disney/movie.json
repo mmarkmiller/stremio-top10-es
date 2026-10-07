@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -69,7 +69,7 @@
       "id": "tt33978029",
       "name": "Noche de bodas 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.542,
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -105,7 +105,7 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
+      "rating": 7.467,
       "year": 2026,
       "days": null,
       "trend": {
@@ -141,42 +141,8 @@
       "id": "tt0107120",
       "name": "El retorno de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.036,
+      "rating": 7.037,
       "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 5,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,11 +173,11 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.8,
+      "rating": 7.846,
       "year": 1993,
       "days": null,
       "trend": {
@@ -221,33 +187,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
       "genres": [
+        "Acción",
         "Aventura",
         "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zej50ECKl9otrLX78RMcnnPRoIb.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
+      "runtime": "148 min",
       "director": [
-        "Steven Spielberg"
+        "Jon Watts"
       ],
       "cast": [
-        "Sam Neill",
-        "Laura Dern",
-        "Jeff Goldblum",
-        "Richard Attenborough",
-        "Bob Peck",
-        "Martin Ferrero",
-        "BD Wong",
-        "Joseph Mazzello"
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch",
+        "Jacob Batalon",
+        "Jon Favreau",
+        "Jamie Foxx",
+        "Willem Dafoe",
+        "Alfred Molina"
+      ],
+      "rank": 6,
+      "id": "tt10872600",
+      "name": "Spider-Man: No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+      "rating": 7.947,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Principios del siglo XX. A una pequeña ciudad americana llega una misteriosa compañía de cómicos ambulantes, pero dos niños descubrirán el oscuro y peligroso secreto que se oculta tras una fachada de diversión y alegría.",
+      "genres": [
+        "Fantasía",
+        "Misterio",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/28BYjdzw6nJjFMIKjfUu1JA6tNC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ok9EXedBLoYVkXTYENnSezwjssn.png",
+      "runtime": "96 min",
+      "director": [
+        "Jack Clayton"
+      ],
+      "cast": [
+        "Jason Robards",
+        "Jonathan Pryce",
+        "Diane Ladd",
+        "Royal Dano",
+        "Vidal Peterson",
+        "Shawn Carson",
+        "Mary Grace Canfield",
+        "Richard Davalos"
       ],
       "rank": 7,
-      "id": "tt0107290",
-      "name": "Jurassic Park (Parque Jurásico)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg",
-      "rating": 8,
-      "year": 1993,
+      "id": "tt0086336",
+      "name": "El Carnaval De Las Tinieblas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rt4YVkJFvlcLLwIuOxMvK0ozN2G.jpg",
+      "rating": 6.5,
+      "year": 1983,
       "days": null,
       "trend": {
         "dir": "same",
@@ -256,35 +259,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
+      "description": "Un equipo de científicos de una instalación petrolífera es contratado por la marina norteamericana para llevar a cabo la operación de rescate de un submarino nuclear atrapado, en extrañas circunstancias, en el fondo del mar, justamente al borde de una grieta abisal de varios kilómetros de profundidad. Un grupo de las fuerzas especiales del ejército acompañará a los científicos. Muy pronto estos últimos empiezan a sospechar que lo que está sucediendo en las profundidades abisales es algo tan extraño que, en principio, escapa a su comprensión.",
       "genres": [
         "Aventura",
-        "Animación",
-        "Comedia",
-        "Familia"
+        "Suspense",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zWeN6tQPRYztSyUDeo1FfrXg6Ta.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
-      "runtime": "87 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xLzkWj2C6zCWyFT8Z7tKKtfrwcR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2BDYivUdIM77qyAXBvxPh6CQKiG.png",
+      "runtime": "140 min",
       "director": [
-        "Wes Anderson"
+        "James Cameron"
       ],
       "cast": [
-        "George Clooney",
-        "Meryl Streep",
-        "Jason Schwartzman",
-        "Eric Chase Anderson",
-        "Wallace Wolodarsky",
-        "Willem Dafoe",
-        "Michael Gambon",
-        "Robin Hurlstone"
+        "Ed Harris",
+        "Mary Elizabeth Mastrantonio",
+        "Michael Biehn",
+        "Leo Burmester",
+        "Todd Graff",
+        "John Bedford Lloyd",
+        "Kimberly Scott",
+        "Chris Elliott"
       ],
       "rank": 8,
-      "id": "tt0432283",
-      "name": "Fantástico Sr. Fox",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2B2IcoSMpOa64Yw8DDtGzXdS4vl.jpg",
-      "rating": 7.828,
-      "year": 2009,
+      "id": "tt0096754",
+      "name": "Abyss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3IF8MSSy6lo2pg7dfa1n9n8SeUX.jpg",
+      "rating": 7.4,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,35 +295,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "description": "Durante la Edad Media, la pequeña Danielle, huérfana de madre, ha encontrado en los libros y en el amor de su padre el refugio ideal, pero tras su trágica muerte se convierte siendo una niña en la criada de su nueva madrastra. Por si fuera poco, sus dos hermanastras son realmente crueles con ella. Con el tiempo Danielle crece y se convierte en una damisela cuyo destino se cruzará fortuitamente con el príncipe Henry.",
       "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
+        "Drama",
+        "Romance",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pfhSNFSTFZyTgl52npRg4eszH5U.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/lhpokM60CnLWcNETQqKMz2q9ryL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qfvZuUi0VVlipnp9gbFPy5Eca6I.png",
+      "runtime": "121 min",
       "director": [
-        "Joe Russo",
-        "Anthony Russo"
+        "Andy Tennant"
       ],
       "cast": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo",
-        "Chris Hemsworth",
-        "Scarlett Johansson",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Don Cheadle"
+        "Drew Barrymore",
+        "Anjelica Huston",
+        "Dougray Scott",
+        "Patrick Godfrey",
+        "Megan Dodds",
+        "Melanie Lynskey",
+        "Timothy West",
+        "Judy Parfitt"
       ],
       "rank": 9,
-      "id": "tt4154796",
-      "name": "Vengadores: Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "rating": 8.246,
-      "year": 2019,
+      "id": "tt0120631",
+      "name": "Por siempre jamás: Una historia de Cenicienta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yOk1LP4qZoRzXEHUSunBIJaBLcX.jpg",
+      "rating": 7.5,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -330,34 +331,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Después de buscar fortuna durante cinco años, Westley retorna a su tierra para casarse con su amada, la bella Buttercup, a la que había jurado amor eterno. Sin embargo, para recuperarla habrá de enfrentarse a Vizzini y sus esbirros. Una vez derrotados éstos, tendrá que superar el peor de los obstáculos: el príncipe Humperdinck pretende desposar a la desdichada Buttercup, pese a que ella no lo ama, ya que sigue enamorada de Westley.",
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
       "genres": [
-        "Aventura",
-        "Fantasía",
-        "Familia"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png",
-      "runtime": "98 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
       "director": [
-        "Rob Reiner"
+        "Colin Higgins"
       ],
       "cast": [
-        "Cary Elwes",
-        "Robin Wright",
-        "Mandy Patinkin",
-        "Chris Sarandon",
-        "Christopher Guest",
-        "Wallace Shawn",
-        "André Roussimoff",
-        "Fred Savage"
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
       ],
       "rank": 10,
-      "id": "tt0093779",
-      "name": "La princesa prometida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aLmXzFuc5GOYC1Djvl1Ul09OjQ7.jpg",
-      "rating": 7.7,
-      "year": 1987,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

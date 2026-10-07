@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.4,
+      "rating": 8.362,
       "year": 2020,
       "days": null,
       "trend": {
@@ -70,6 +70,72 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
+      "director": [],
+      "cast": [
+        "Pearce Quigley",
+        "Michael Palin",
+        "Lauren Patel",
+        "Mackenzie Crook",
+        "Shola Adewusi",
+        "Paul Kaye",
+        "Jon Pointing",
+        "Sophie Willan"
+      ],
+      "rank": 3,
+      "id": "tt38504111",
+      "name": "Pequeños profetas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
+      "director": [],
+      "cast": [
+        "Patrick Brammall",
+        "Brendan Cowell",
+        "Maxine Peake",
+        "Daniel Henshall",
+        "Jessica Wren",
+        "Zahra Newman",
+        "James Saunders",
+        "Taylor Ferguson"
+      ],
+      "rank": 4,
+      "id": "tt6037988",
+      "name": "Causa abierta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "rating": 7.932,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
         "Drama",
@@ -87,7 +153,7 @@
         "Kingston Rumi Southwick",
         "Stephen Root"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
@@ -118,77 +184,12 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
       "rating": 7.8,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "director": [],
-      "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Chinaza Uche",
-        "Ashley Zukerman",
-        "Shane McRae",
-        "Remmie Milner",
-        "Alexandria Riley",
-        "Reed Birney"
-      ],
-      "rank": 5,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.2,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
-      "director": [],
-      "cast": [
-        "Patrick Brammall",
-        "Brendan Cowell",
-        "Maxine Peake",
-        "Daniel Henshall",
-        "Jessica Wren",
-        "Zahra Newman",
-        "James Saunders",
-        "Taylor Ferguson"
-      ],
-      "rank": 6,
-      "id": "tt6037988",
-      "name": "Causa abierta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 8.21,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -228,24 +229,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "Rebecca Ferguson",
+        "Common",
+        "Chinaza Uche",
+        "Ashley Zukerman",
+        "Shane McRae",
+        "Remmie Milner",
+        "Alexandria Riley",
+        "Reed Birney"
       ],
       "rank": 8,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.932,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "rating": 8.2,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2OasrKGxo1RHOHQS7zIzw3qoWtw.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Amanda Peet",
+        "Olivia Munn",
+        "Hoon Lee",
+        "Mark Tallman",
+        "Lena Hall",
+        "Aimee Carrero",
+        "Eunice Bae"
+      ],
+      "rank": 9,
+      "id": "tt30459041",
+      "name": "Vicios ocultos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
+      "rating": 7.762,
       "year": 2025,
       "days": null,
       "trend": {
@@ -270,41 +308,12 @@
         "Aunjanue Ellis-Taylor",
         "Timothy Olyphant"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt34866681",
       "name": "Lucky",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
-      "rating": 7.325,
+      "rating": 7.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jimmy Keene comienza una condena de 10 años de cárcel, recibe una oferta increíble: si puede obtener una confesión del presunto asesino Larry Hall, Jimmy será liberado. Completar esta misión se convierte en el reto de su vida.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2RjFENYUCQbQ4bmukmQ1Nmq6D0k.png",
-      "director": [],
-      "cast": [
-        "Taron Egerton",
-        "Paul Walter Hauser",
-        "Sepideh Moafi",
-        "Greg Kinnear",
-        "Ray Liotta"
-      ],
-      "rank": 10,
-      "id": "tt4301160",
-      "name": "Encerrado con el diablo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZalUWRabIM2HehTDv8eqffqD4g.jpg",
-      "rating": 8.1,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

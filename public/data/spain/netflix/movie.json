@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.568,
+      "rating": 6.563,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,8 +67,41 @@
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.1,
+      "rating": 7.092,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 6000: En un desarrollado planeta donde la gente vive 250 años nadie quiere ir de viaje a la Tierra",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lq738hUNxRdUR5jWJPqUgDgXKMa.jpg",
+      "runtime": "99 min",
+      "director": [
+        "Coline Serreau"
+      ],
+      "cast": [
+        "Coline Serreau",
+        "Vincent Lindon",
+        "James Thierrée",
+        "Marion Cotillard",
+        "Claire Keim",
+        "Samuel Tasinaje",
+        "Catherine Samie",
+        "Paul Crauchet"
+      ],
+      "rank": 3,
+      "id": "tt0115650",
+      "name": "El Planeta Libre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u0ZVgBytioRfcNHXIFVhAPWZNCG.jpg",
+      "rating": 7.2,
+      "year": 1996,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,7 +132,7 @@
         "Юрий Колокольников",
         "Levi Miller"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
@@ -113,34 +146,36 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En Illinois, en 1936, dos ladrones dan un golpe a un hombre de confianza de un gángster y se embolsan un montón de dinero. El gángster decide vengarse y mata a uno de los que dieron el golpe, mientras que el otro logra escapar y entra en contacto con un ex compinche. Los dos deciden intentar un gran timo que hará temblar las finanzas del jefe de la mafia.",
+      "description": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales.",
       "genres": [
-        "Comedia",
         "Crimen",
-        "Drama"
+        "Terror",
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/egdyyXCcrMY1wjrC9RFQYfZi9tO.png",
-      "runtime": "122 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5NGeHV2z8EByT3P23D471nSPjGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAGyXFIoDmpqwv8PM15cgXIeqGw.png",
+      "runtime": "111 min",
       "director": [
-        "George Roy Hill"
+        "Alexandre Bustillo",
+        "Julien Maury"
       ],
       "cast": [
-        "Paul Newman",
-        "Robert Redford",
-        "Robert Shaw",
-        "Charles Durning",
-        "Ray Walston",
-        "Eileen Brennan",
-        "Harold Gould",
-        "John Heffernan"
+        "Virginie Ledoyen",
+        "Paul Hamy",
+        "Sandrine Bonnaire",
+        "Malik Zidi",
+        "Manu Lanzi",
+        "Christophe Favre",
+        "Jérémy Margallé",
+        "Francis Renaud"
       ],
-      "rank": 4,
-      "id": "tt0070735",
-      "name": "El golpe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cnCv2NhtymMwq5oWSzoz6tXcjQf.jpg",
-      "rating": 8.013,
-      "year": 1973,
+      "rank": 5,
+      "id": "tt28821588",
+      "name": "Las desapariciones",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
+      "rating": 6.2,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -149,32 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
       "genres": [
-        "Terror"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hOVWmdszhzbCDLxYwfoHfP27BoK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tzzqZlLDplHmK6C7sHn88Sj5891.png",
-      "runtime": "73 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
+      "runtime": "181 min",
       "director": [
-        "Ben Leonberg"
+        "Christopher Nolan"
       ],
       "cast": [
-        "Indy",
-        "Shane Jensen",
-        "Arielle Friedman",
-        "Larry Fessenden",
-        "Stuart Rudin",
-        "Anya Krawcheck",
-        "Hunter Goetz",
-        "Max"
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Florence Pugh",
+        "Josh Hartnett",
+        "Casey Affleck",
+        "Rami Malek"
       ],
-      "rank": 5,
-      "id": "tt35521922",
-      "name": "Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
-      "rating": 6.6,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt15398776",
+      "name": "Oppenheimer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "rating": 8.022,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,7 +241,7 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
@@ -219,67 +255,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
-      "runtime": "181 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Matt Damon",
-        "Robert Downey Jr.",
-        "Florence Pugh",
-        "Josh Hartnett",
-        "Casey Affleck",
-        "Rami Malek"
-      ],
-      "rank": 7,
-      "id": "tt15398776",
-      "name": "Oppenheimer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
-      "rating": 8.022,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
       "genres": [
         "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sCBkhFkuqSzo4YXU2elqrg4brkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hOVWmdszhzbCDLxYwfoHfP27BoK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tzzqZlLDplHmK6C7sHn88Sj5891.png",
+      "runtime": "73 min",
       "director": [
-        "Paco Plaza"
+        "Ben Leonberg"
       ],
       "cast": [
-        "Sandra Escacena",
-        "Bruna González",
-        "Claudia Placer",
-        "Iván Chavero",
-        "Ana Torrent",
-        "Consuelo Trujillo",
-        "Ángela Fabián",
-        "Carla Campra"
+        "Indy",
+        "Shane Jensen",
+        "Arielle Friedman",
+        "Larry Fessenden",
+        "Stuart Rudin",
+        "Anya Krawcheck",
+        "Hunter Goetz",
+        "Max"
       ],
       "rank": 8,
-      "id": "tt5862312",
-      "name": "Verónica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
-      "rating": 6.249,
-      "year": 2017,
+      "id": "tt35521922",
+      "name": "Good Boy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
+      "rating": 6.615,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,7 +314,7 @@
       "id": "tt0111301",
       "name": "Street Fighter: La última batalla",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg",
-      "rating": 4.682,
+      "rating": 4.7,
       "year": 1994,
       "days": null,
       "trend": {
@@ -359,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

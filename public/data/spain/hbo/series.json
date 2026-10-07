@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,37 +66,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gcleyh5KBnoXoYj0yATtD6dwClz.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 3,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3e9lsvqXT9w9mrA6tofjN1ZosxD.jpg",
-      "rating": 6.905,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
       "genres": [
         "Sci-Fi & Fantasy",
@@ -116,7 +85,7 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
@@ -130,31 +99,59 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
       "director": [],
       "cast": [
-        "Harold Perrineau",
-        "Catalina Sandino Moreno",
-        "Ricky He",
-        "David Alpay",
-        "Chloe Van Landschoot",
-        "Hannah Cheramy",
-        "Pegah Ghafoori",
-        "Simon Webster"
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
+      ],
+      "rank": 4,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jackie Price ha vivido una vida de lujos y riqueza durante los últimos 20 años tras escapar de un peligroso pasado como traficante internacional de cocaína. Pero justo cuando la vida empieza a resultarle un poco aburrida, descubre que Los Siete Demonios, un grupo de los sicarios más temibles del mundo, han sido contratados para matarla.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
+      "director": [],
+      "cast": [
+        "Catherine Zeta-Jones",
+        "Daniel Ings",
+        "Sidse Babett Knudsen",
+        "Julian Rhind-Tutt",
+        "Raff Law",
+        "Christine Adams",
+        "Ron Perlman",
+        "Bill Paterson"
       ],
       "rank": 5,
-      "id": "tt9813792",
-      "name": "From",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
-      "rating": 8.49,
-      "year": 2022,
+      "id": "tt35726020",
+      "name": "Kill Jackie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/93ACVKVcMMD3DBJwFOlHWWKekhS.jpg",
+      "rating": 6.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -194,25 +191,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
+      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
       "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTq5aU1mKNom15T3L6spt9cicG5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gcleyh5KBnoXoYj0yATtD6dwClz.png",
       "director": [],
       "cast": [
-        "Kevin Sussman",
-        "Lauren Lapkus",
-        "Brian Posehn",
-        "John Ross Bowie"
+        "Alan Cumming",
+        "David Morrissey",
+        "Elizabeth Berrington",
+        "Pooky Quesnel",
+        "Iz Hesketh",
+        "Paul Rhys",
+        "Jackson Connor",
+        "Joseph William Evans"
       ],
       "rank": 7,
-      "id": "tt27497393",
-      "name": "Stuart no consigue salvar el universo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-      "rating": 8.4,
+      "id": "tt35768911",
+      "name": "De puntillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3e9lsvqXT9w9mrA6tofjN1ZosxD.jpg",
+      "rating": 6.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -222,28 +222,63 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jackie Price ha vivido una vida de lujos y riqueza durante los últimos 20 años tras escapar de un peligroso pasado como traficante internacional de cocaína. Pero justo cuando la vida empieza a resultarle un poco aburrida, descubre que Los Siete Demonios, un grupo de los sicarios más temibles del mundo, han sido contratados para matarla.",
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
       "genres": [
+        "Misterio",
         "Drama",
-        "Crimen"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
+      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
       "director": [],
       "cast": [
-        "Catherine Zeta-Jones",
-        "Daniel Ings",
-        "Sidse Babett Knudsen",
-        "Julian Rhind-Tutt",
-        "Raff Law",
-        "Christine Adams"
+        "Harold Perrineau",
+        "Catalina Sandino Moreno",
+        "Ricky He",
+        "David Alpay",
+        "Chloe Van Landschoot",
+        "Hannah Cheramy",
+        "Pegah Ghafoori",
+        "Simon Webster"
       ],
       "rank": 8,
-      "id": "tt35726020",
-      "name": "Kill Jackie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/93ACVKVcMMD3DBJwFOlHWWKekhS.jpg",
-      "rating": 6.75,
-      "year": 2026,
+      "id": "tt9813792",
+      "name": "From",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "rating": 8.49,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
+      "director": [],
+      "cast": [
+        "Dominic West",
+        "Lance Reddick",
+        "Sonja Sohn",
+        "Wendell Pierce",
+        "Michael Kenneth Williams",
+        "Deirdre Lovejoy",
+        "Andre Royo",
+        "John Doman"
+      ],
+      "rank": 9,
+      "id": "tt0306414",
+      "name": "Bajo escucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "rating": 8.6,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -269,7 +304,7 @@
         "Chris Zylka",
         "Jovan Adepo"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt2699128",
       "name": "The Leftovers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NKJdryIFHr245Umq6gXsf7oULW.jpg",
@@ -280,40 +315,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Este western contemporáneo nos sumerge en la América profunda siguiendo la odisea de Lucas Hood, un ex convicto dispuesto a cualquier cosa para resolver los asuntos de su turbio pasado. La oscura vida de Lucas Hood se complica aún más cuando, tras salir de prisión, decide tomar la identidad del nuevo sheriff de Banshee, un pequeño pueblo situado en Pennsylvania que oculta más de lo que parece. Allí espera encontrarse con su antigua colega y amante Ana, al tiempo que huye de quienes lo persiguen desde hace años y lidia a su manera con las acciones del siniestro cacique del pueblo.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png",
-      "director": [],
-      "cast": [
-        "Antony Starr",
-        "Ivana Miličević",
-        "Hoon Lee",
-        "Frankie Faison",
-        "Ulrich Thomsen",
-        "Matthew Rauch",
-        "Matt Servitto",
-        "Lili Simmons"
-      ],
-      "rank": 10,
-      "id": "tt2017109",
-      "name": "Banshee",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
-      "rating": 8,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,73 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.4,
+      "rating": 8.362,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "director": [],
+      "cast": [
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas",
+        "Hugo Weaving",
+        "Saskia Reeves",
+        "Christopher Chung",
+        "Aimee-Ffion Edwards"
+      ],
+      "rank": 2,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
+      "director": [],
+      "cast": [
+        "Pearce Quigley",
+        "Michael Palin",
+        "Lauren Patel",
+        "Mackenzie Crook",
+        "Shola Adewusi",
+        "Paul Kaye",
+        "Jon Pointing",
+        "Sophie Willan"
+      ],
+      "rank": 3,
+      "id": "tt38504111",
+      "name": "Pequeños profetas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -55,7 +120,7 @@
         "Kingston Rumi Southwick",
         "Stephen Root"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
@@ -87,44 +152,12 @@
         "Alexandria Riley",
         "Reed Birney"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "rating": 8.2,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
-      "director": [],
-      "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
-      ],
-      "rank": 4,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,12 +183,43 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
       "rating": 7.8,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "director": [],
+      "cast": [
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Natalie Martinez",
+        "Brittany Ishibashi",
+        "Nolan Almeida",
+        "Ella Grace Helton",
+        "Noah Carganilla",
+        "Highdee Kuan"
+      ],
+      "rank": 7,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,11 +247,11 @@
         "Dichen Lachman",
         "Sarah Bock"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt11280740",
       "name": "Separación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.4,
+      "rating": 8.395,
       "year": 2022,
       "days": null,
       "trend": {
@@ -216,11 +280,11 @@
         "James Saunders",
         "Taylor Ferguson"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt6037988",
       "name": "Causa abierta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 8.21,
+      "rating": 7.932,
       "year": 2026,
       "days": null,
       "trend": {
@@ -243,70 +307,12 @@
         "Karolina Wydra",
         "Carlos-Manuel Vesga"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt22202452",
       "name": "Pluribus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.932,
+      "rating": 7.931,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El caos se cierne sobre una pareja de abogados felizmente casados cuando un famoso asesino de su pasado sale de la cárcel.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png",
-      "director": [],
-      "cast": [
-        "Amy Adams",
-        "Javier Bardem",
-        "Patrick Wilson",
-        "Joe Anders",
-        "Lily Collias",
-        "Malia Pyles",
-        "CCH Pounder"
-      ],
-      "rank": 9,
-      "id": "tt34675596",
-      "name": "Cape Fear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ante la imposibilidad de tener un bebé, Nikki y Jason se embarcan en la aventura de la adopción para cumplir su sueño. Con sus vidas caóticas, amigos atípicos y familias excéntricas, ¿conseguirán formar la familia que tanto desean?",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hVIZWo8FmrhQf8WYSGeJoViEVnj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/s3MLCzSA6CCCtwcS1uRSiMd5mxT.png",
-      "director": [],
-      "cast": [
-        "Rafe Spall",
-        "Esther Smith",
-        "Scarlett Rayner",
-        "Cooper Turner"
-      ],
-      "rank": 10,
-      "id": "tt10982034",
-      "name": "Ciclos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i60GHCNKIXncadHwf0INXhyHm2E.jpg",
-      "rating": 7.6,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +321,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

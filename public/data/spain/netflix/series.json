@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -19,14 +19,13 @@
         "Mike Faist",
         "Hoon Lee",
         "Ciarán Hinds",
-        "Joseph Zada",
-        "Costa D'Angelo"
+        "Joseph Zada"
       ],
       "rank": 1,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.903,
+      "rating": 7.927,
       "year": 2026,
       "days": null,
       "trend": {
@@ -58,7 +57,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.872,
       "year": 2024,
       "days": null,
       "trend": {
@@ -90,7 +89,7 @@
       "id": "tt36832679",
       "name": "El problema final",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "rating": 6.883,
+      "rating": 6.871,
       "year": 2026,
       "days": null,
       "trend": {
@@ -121,7 +120,7 @@
       "id": "tmdb:299939",
       "name": "Monstruo: La historia de Lizzie Borden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.077,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -163,37 +162,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
-      "director": [],
-      "cast": [
-        "Lola Rodríguez",
-        "Isabel Torres",
-        "Daniela Santiago",
-        "Jedet",
-        "Paca la Piraña",
-        "Israel Elejalde",
-        "Sophia Lamar",
-        "Mariona Terés"
-      ],
-      "rank": 6,
-      "id": "tt10383046",
-      "name": "Veneno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
-      "rating": 8.414,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "genres": [
         "Action & Adventure",
@@ -213,7 +181,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -227,30 +195,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
       "director": [],
       "cast": [
-        "Bryan Cranston",
-        "Aaron Paul",
-        "Anna Gunn",
-        "RJ Mitte",
-        "Dean Norris",
-        "Betsy Brandt",
-        "Bob Odenkirk",
-        "Jonathan Banks"
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
       ],
-      "rank": 8,
-      "id": "tt0903747",
-      "name": "Breaking Bad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "rating": 8.954,
-      "year": 2008,
+      "rank": 7,
+      "id": "tt10383046",
+      "name": "Veneno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "rating": 8.414,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,7 +244,7 @@
         "יעקב זדה-דניאל",
         "Dan Kadosh"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt4565380",
       "name": "Fauda",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
@@ -291,31 +258,59 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "description": "Paquita, una de las mejores representantes de actores de España en los 90, se ve buscando nuevas estrellas desesperadamente, después de perder a su mayor cliente.",
       "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aok7IhrbA83josNz9Dqh8tNA0Ao.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/r7eGdrN6Zt7YjhQl2UEOfBk0xgP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jDBpKlBcgv0R6lel7ZzUzt82xET.png",
       "director": [],
       "cast": [
-        "Marina Inoue",
-        "Hiro Shimono",
-        "Yuki Kaji",
-        "Natsuki Hanae",
-        "Ayane Sakura",
-        "Kisho Taniyama",
-        "Yui Ishikawa",
-        "Yoshimasa Hosoya"
+        "Brays Efe",
+        "Belén Cuesta",
+        "Lidia San José",
+        "Yolanda Ramos",
+        "Anna Castillo",
+        "Belinda Washington",
+        "Terelu Campos"
+      ],
+      "rank": 9,
+      "id": "tt5866074",
+      "name": "Paquita Salas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gp2LneVGFlMxoU7N4uUc0OmnKHB.jpg",
+      "rating": 7.1,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la muerte del dueño de la funeraria Torregrosa, su ambicioso pupilo se prepara para hacerse cargo del negocio pero acaba a las órdenes de una viuda sin experiencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w0WT4opEOeldCegD2eAYSspVieg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
+      "director": [],
+      "cast": [
+        "Carlos Areces",
+        "Gerald B. Fillmore",
+        "Aitziber Garmendia",
+        "Ascen López",
+        "Diego Martín",
+        "Salva Reina",
+        "Roque Ruiz",
+        "Amaia Salamanca"
       ],
       "rank": 10,
-      "id": "tt2560140",
-      "name": "Ataque a los Titanes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.687,
-      "year": 2013,
+      "id": "tt29614148",
+      "name": "Muertos S.L.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
+      "rating": 7.343,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "movie",
-  "date": "202610062038",
+  "date": "202610072054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -42,6 +42,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+      "genres": [
+        "Acción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
+      "runtime": "155 min",
+      "director": [
+        "Joseph Kosinski"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem",
+        "Kerry Condon",
+        "Tobias Menzies",
+        "Kim Bodnia",
+        "Sarah Niles",
+        "Will Merrick"
+      ],
+      "rank": 2,
+      "id": "tt16311594",
+      "name": "F1 la película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
+      "rating": 7.826,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
       "genres": [
         "Suspense",
@@ -64,12 +99,48 @@
         "Игорь Грабузов",
         "Олег Штефанко"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt12758060",
       "name": "Tetris",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
       "rating": 7.761,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
+      "genres": [
+        "Acción",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uSkcH2bcDBkUZCZMPcLSzaMY0td.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png",
+      "runtime": "119 min",
+      "director": [
+        "Doug Liman"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Franka Potente",
+        "Chris Cooper",
+        "Clive Owen",
+        "Brian Cox",
+        "Adewale Akinnuoye-Agbaje",
+        "Gabriel Mann",
+        "Julia Stiles"
+      ],
+      "rank": 4,
+      "id": "tt0258463",
+      "name": "The Bourne Identity: El caso Bourne",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+      "rating": 7.486,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,7 +171,7 @@
         "Betty Buckley",
         "Darryl Scheelar"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt24950660",
       "name": "Eternity",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
@@ -114,69 +185,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+      "description": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
       "genres": [
         "Acción",
-        "Drama"
+        "Aventura",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tLyQ8mOujA8Ko5ZIisiMAlcgkcM.png",
+      "runtime": "129 min",
       "director": [
-        "Joseph Kosinski"
+        "Jon Watts"
       ],
       "cast": [
-        "Brad Pitt",
-        "Damson Idris",
-        "Javier Bardem",
-        "Kerry Condon",
-        "Tobias Menzies",
-        "Kim Bodnia",
-        "Sarah Niles",
-        "Will Merrick"
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Samuel L. Jackson",
+        "Marisa Tomei",
+        "Jon Favreau",
+        "Zendaya",
+        "Jacob Batalon",
+        "Tony Revolori"
       ],
-      "rank": 4,
-      "id": "tt16311594",
-      "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.8,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
-      "genres": [
-        "Romance",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6m600JdCsS9MDvVtt3Thfe8OMvp.png",
-      "runtime": "127 min",
-      "director": [
-        "Scott Derrickson"
-      ],
-      "cast": [
-        "Miles Teller",
-        "Anya Taylor-Joy",
-        "Sigourney Weaver",
-        "Ṣọpẹ́ Dìrísù",
-        "William Houston",
-        "Kobna Holdbrook-Smith",
-        "James Marlowe",
-        "Julianna Kurokawa"
-      ],
-      "rank": 5,
-      "id": "tt13654226",
-      "name": "El abismo secreto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
-      "rating": 7.7,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt6320628",
+      "name": "Spider-Man: Lejos de casa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "rating": 7.39,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,11 +241,11 @@
         "Sandro Gromen Hayes",
         "Nirmal Purja"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt39150288",
       "name": "La última gran escalada: El K2 en invierno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
-      "rating": 5.3,
+      "rating": 6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -241,7 +277,7 @@
         "Mark Rylance",
         "Philip Zhao"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt1677720",
       "name": "Ready Player One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
@@ -255,70 +291,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "description": "Ray Ferrier es un descargador de muelle, divorciado y padre nada modélico. Poco después de que su ex mujer y su nuevo marido se vayan después de dejar a Robbie, su hijo adolescente, y a su pequeña hija Rachel para una de sus contadas visitas, estalla una tremenda e inesperada tormenta eléctrica. Unos momentos después, en un cruce cerca de la casa, Ray es testigo de un acontecimiento que cambiará su vida y la de los suyos para siempre. Una enorme máquina de tres patas emerge del suelo y antes de que alguien pueda hacer algo, arrasa todo lo que está a su alcance. Un día como otro cualquiera acaba de convertirse en la fecha más extraordinaria de su vida: el primer ataque alienígena contra la Tierra.",
       "genres": [
-        "Acción",
         "Aventura",
+        "Suspense",
         "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tLyQ8mOujA8Ko5ZIisiMAlcgkcM.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bzNoJBoQqeBGKEfbzbBo4dZ661J.png",
+      "runtime": "116 min",
       "director": [
-        "Jon Watts"
+        "Steven Spielberg"
       ],
       "cast": [
-        "Tom Holland",
-        "Jake Gyllenhaal",
-        "Samuel L. Jackson",
-        "Marisa Tomei",
-        "Jon Favreau",
-        "Zendaya",
-        "Jacob Batalon",
-        "Tony Revolori"
-      ],
-      "rank": 8,
-      "id": "tt6320628",
-      "name": "Spider-Man: Lejos de casa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
-      "rating": 7.39,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
-      "genres": [
-        "Acción",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uSkcH2bcDBkUZCZMPcLSzaMY0td.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png",
-      "runtime": "119 min",
-      "director": [
-        "Doug Liman"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Franka Potente",
-        "Chris Cooper",
-        "Clive Owen",
-        "Brian Cox",
-        "Adewale Akinnuoye-Agbaje",
-        "Gabriel Mann",
-        "Julia Stiles"
+        "Tom Cruise",
+        "Dakota Fanning",
+        "Miranda Otto",
+        "Justin Chatwin",
+        "Tim Robbins",
+        "Rick Gonzalez",
+        "Yul Vazquez",
+        "Lenny Venito"
       ],
       "rank": 9,
-      "id": "tt0258463",
-      "name": "The Bourne Identity: El caso Bourne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
-      "rating": 7.5,
-      "year": 2002,
+      "id": "tt0407304",
+      "name": "La guerra de los mundos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qlgvS2InG3oU8GixavRq3t3A9H7.jpg",
+      "rating": 6.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-06T17:12:48.618Z"
+  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
 }
