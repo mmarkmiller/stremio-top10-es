@@ -2,43 +2,8 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png",
-      "runtime": "97 min",
-      "director": [
-        "Osgood Perkins"
-      ],
-      "cast": [
-        "Theo James",
-        "Tatiana Maslany",
-        "Christian Convery",
-        "Colin O'Brien",
-        "Adam Scott",
-        "Elijah Wood",
-        "Rohan Campbell",
-        "Sarah Levy"
-      ],
-      "rank": 1,
-      "id": "tt27714946",
-      "name": "The Monkey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
-      "rating": 5.986,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
@@ -63,11 +28,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.008,
+      "rating": 7.007,
       "year": 2026,
       "days": null,
       "trend": {
@@ -99,12 +64,48 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.225,
+      "rating": 7.236,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sam y su hermano mayor Michael son los típicos jóvenes americanos con intereses normales. Pero nada más instalarse en la tranquila ciudad de Santa Carla, California, las cosas misteriosamente empiezan a cambiar. La personalidad de Michael se transforma. Y a su madre no le gustaría ver en lo que se está convirtiendo.",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iiO2aaYRYAZ4WhsRXQlZ4IHGetP.png",
+      "runtime": "97 min",
+      "director": [
+        "Joel Schumacher"
+      ],
+      "cast": [
+        "Jason Patric",
+        "Corey Haim",
+        "Dianne Wiest",
+        "Barnard Hughes",
+        "Edward Herrmann",
+        "Kiefer Sutherland",
+        "Jami Gertz",
+        "Corey Feldman"
+      ],
+      "rank": 3,
+      "id": "tt0093437",
+      "name": "Jóvenes ocultos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
+      "rating": 7.117,
+      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",
@@ -139,7 +140,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.563,
+      "rating": 6.545,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,32 +150,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Nathan, un programador multimillonario con fama de ermitaño, selecciona a Caleb, un joven empleado de su empresa, para que pase una semana con él en un lugar remoto en las montañas con el objetivo de realizar un test en el que está involucrada su última creación: Ava, un robot-mujer en el que la inteligencia artificial lo es todo.",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
-        "Drama",
-        "Ciencia ficción"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dfzyELOXqzWYH5LnfgQl3io1oS4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vpT3JzVdQoLbf6rreK7TwYVh3GY.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "Alex Garland"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "Domhnall Gleeson",
-        "Alicia Vikander",
-        "Oscar Isaac",
-        "Sonoya Mizuno",
-        "Corey Johnson",
-        "Claire Selby",
-        "Symara A. Templeman",
-        "Gana Bayarsaikhan"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 5,
-      "id": "tt0470752",
-      "name": "Ex Machina",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mQohkAkV1m7yT43UnYkgvmyKUoa.jpg",
-      "rating": 7.571,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.274,
       "year": 2015,
       "days": null,
       "trend": {
@@ -184,33 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
       "director": [
-        "Kristoffer Borgli"
+        "Phil Lord",
+        "Christopher Miller"
       ],
       "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
       ],
       "rank": 6,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.898,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.634,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,135 +220,138 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
-      "director": [
-        "Claire Scanlon"
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 7,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.05,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
-      "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
-      ],
-      "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
-      ],
-      "rank": 8,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.092,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Año 6000: En un desarrollado planeta donde la gente vive 250 años nadie quiere ir de viaje a la Tierra",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lq738hUNxRdUR5jWJPqUgDgXKMa.jpg",
-      "runtime": "99 min",
-      "director": [
-        "Coline Serreau"
-      ],
-      "cast": [
-        "Coline Serreau",
-        "Vincent Lindon",
-        "James Thierrée",
-        "Marion Cotillard",
-        "Claire Keim",
-        "Samuel Tasinaje",
-        "Catherine Samie",
-        "Paul Crauchet"
-      ],
-      "rank": 9,
-      "id": "tt0115650",
-      "name": "El Planeta Libre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u0ZVgBytioRfcNHXIFVhAPWZNCG.jpg",
-      "rating": 7.2,
-      "year": 1996,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Leila es una joven sexualmente voraz que se relaciona con los hombres mediante breves encuentros íntimos. Una noche, durante una concurrida fiesta privada en una casa, conoce a David y la lujuria surge a primera vista. Poco después, mientras Leila practica sexo con un desconocido en la parte trasera de la casa, David y su novia hacen lo mismo pero en su coche. Leila y David se miran fijamente mientras hacen el amor con otras personas, iniciándose así un ritual de cortejo que dará paso a una aventura sexual entre ambos.",
+      "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRJ5hiOp7zegUp8MPh25filAVzy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oue6rCeMtZ3tpFzS5Hqg98QYKwH.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
+      "runtime": "120 min",
       "director": [
-        "Clement Virgo"
+        "David Fincher"
       ],
       "cast": [
-        "Lauren Lee Smith",
-        "Eric Balfour",
-        "Polly Shannon",
-        "Kate Lynch",
-        "Michael Facciolo",
-        "Kristin Lehman",
-        "Ron White",
-        "Mayko Nguyen"
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Armie Hammer",
+        "Justin Timberlake",
+        "Rooney Mara",
+        "Max Minghella",
+        "Brenda Song",
+        "Josh Pence"
+      ],
+      "rank": 7,
+      "id": "tt1285016",
+      "name": "La red social",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
+      "rating": 7.377,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4JmGZIWUQfCGvxT1ueKeVz0707c.png",
+      "runtime": "109 min",
+      "director": [
+        "Daniel Roher"
+      ],
+      "cast": [
+        "Leo Woodall",
+        "Dustin Hoffman",
+        "Havana Rose Liu",
+        "ליאור רז",
+        "Tovah Feldshuh",
+        "Jean Reno",
+        "Nissan Sakira",
+        "Gil Cohen"
+      ],
+      "rank": 8,
+      "id": "tt33296751",
+      "name": "Un talento único",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de una serie de tragedias, incluida la muerte de su suegro, Robert y su esposa Maia abandonan su hogar en Londres para regresar a la casa de su infancia. Pero cuando Robert descubre un viejo retrato en el ático de un hombre que es su viva imagen, se mete en una madriguera de conejo para descubrir la identidad de este misterioso doppelganger conocido solo como el visitante. No pasa mucho tiempo hasta que se da cuenta: a donde va el visitante, la muerte lo sigue.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/anOSFUoG99qdynHLeOnL1DSaquk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ouiwSqB9n5zZ3EGDIlUtAEKIjeN.png",
+      "runtime": "89 min",
+      "director": [
+        "Justin P. Lange"
+      ],
+      "cast": [
+        "Finn Jones",
+        "Jessica McNamee",
+        "Donna Biscoe",
+        "Thomas Francis Murphy",
+        "Dane Rhodes",
+        "Shanna Forrestall",
+        "Susan McPhail",
+        "Sue Rock"
+      ],
+      "rank": 9,
+      "id": "tt15558152",
+      "name": "El Visitante (The Visitor)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5ckk0dggJYpGhuoZ18VylEXVu1P.jpg",
+      "rating": 5.1,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El detective descarado Ezekiel \"Zeke\" Banks, y su compañero novato, se hacen cargo de una espeluznante investigación sobre varios asesinatos espantosos. Zeke, involuntariamente, se vera atrapado en el  morboso juego del asesino.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wj4Y6QuWQCUHVMb7MSNrVbs4mjr.png",
+      "runtime": "93 min",
+      "director": [
+        "Darren Lynn Bousman"
+      ],
+      "cast": [
+        "Chris Rock",
+        "Max Minghella",
+        "Samuel L. Jackson",
+        "Marisol Nichols",
+        "Dan Petronijevic",
+        "Richard Zeppieri",
+        "Patrick McManus",
+        "Ali Johnson"
       ],
       "rank": 10,
-      "id": "tt0418832",
-      "name": "Lie with Me, el diario íntimo de Leila",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lLsKWqDLBlRgRC0saZlanzzNDlx.jpg",
-      "rating": 5.22,
-      "year": 2005,
+      "id": "tt10342730",
+      "name": "Spiral: Saw",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
+      "rating": 5.9,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,39 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.472,
+      "rating": 8.479,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Connie Britton",
+        "Aimee Teegarden",
+        "Michael B. Jordan",
+        "Jurnee Smollett-Bell",
+        "Dora Madison",
+        "Grey Damon",
+        "Matt Lauria"
+      ],
+      "rank": 2,
+      "id": "tt0758745",
+      "name": "Friday Night Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+      "rating": 8,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -56,37 +87,12 @@
         "Genesis Rodriguez",
         "Michael Kelly"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.3,
+      "rating": 8.258,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
-      "director": [],
-      "cast": [
-        "Kyle MacLachlan"
-      ],
-      "rank": 3,
-      "id": "tt0098936",
-      "name": "Twin Peaks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "rating": 8.3,
-      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -127,61 +133,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Malotru, un agente de la Inteligencia Francesa, encubierto en Siria durante 6 años, es llamado de vuelta a casa. Se enfrentará a la dificultad de olvidar su identidad encubierta, la desaparición de un colega en Argelia, y el entrenamiento de una joven chica.",
+      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOvVP88lVgUK9GiVdbo96xbefbQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
       "director": [],
       "cast": [
-        "Mathieu Kassovitz",
-        "Sara Giraudeau",
-        "Stefan Crepon",
-        "Zineb Triki",
-        "Florence Loiret Caille",
-        "Jonathan Zaccaï",
-        "Олексій Горбунов",
-        "Mathieu Amalric"
+        "Kyle MacLachlan"
       ],
       "rank": 5,
-      "id": "tt4063800",
-      "name": "Oficina de infiltrados",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
-      "rating": 8.2,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en las proverbiales ciudades en auge del oeste de Texas, se trata de un drama sobre la búsqueda de la fortuna en el mundo de las plataformas petrolíferas basada en el podcast 'Boomtown', una historia de clases, con matones y multimillonarios salvajes que impulsan un boom tan grande que está cambiando nuestro clima, nuestra economía y nuestra geopolítica.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lsTW6jjloPFqo7ZDTOqEYLaoLnb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wx0mQPv5C41Vo35Nw7Br8gUgi3N.png",
-      "director": [],
-      "cast": [
-        "Billy Bob Thornton",
-        "Demi Moore",
-        "Andy Garcia",
-        "Ali Larter",
-        "Jacob Lofland",
-        "Michelle Randolph",
-        "Paulina Chávez",
-        "Kayla Wallace"
-      ],
-      "rank": 6,
-      "id": "tt14186672",
-      "name": "Landman: Un negocio crudo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg",
-      "rating": 8.2,
-      "year": 2024,
+      "id": "tt0098936",
+      "name": "Twin Peaks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "rating": 8.3,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -203,7 +171,7 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
@@ -217,56 +185,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
       "genres": [
-        "Crimen",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
       "director": [],
       "cast": [
-        "Rami Malek",
-        "Christian Slater",
-        "Carly Chaikin"
+        "Jean Smart",
+        "Hannah Einbinder",
+        "Carl Clemons-Hopkins",
+        "Paul W. Downs",
+        "Megan Stalter",
+        "Mark Indelicato",
+        "Rose Abdoo"
       ],
-      "rank": 8,
-      "id": "tt4158110",
-      "name": "Mr. Robot",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "rating": 8.3,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Connie Britton",
-        "Aimee Teegarden",
-        "Michael B. Jordan",
-        "Jurnee Smollett-Bell",
-        "Dora Madison",
-        "Grey Damon",
-        "Matt Lauria"
-      ],
-      "rank": 9,
-      "id": "tt0758745",
-      "name": "Friday Night Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "rating": 8,
-      "year": 2006,
+      "rank": 7,
+      "id": "tt11815682",
+      "name": "Hacks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "rating": 7.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,7 +234,7 @@
         "Jay Ellis",
         "Duke McCloud"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt31314751",
       "name": "Su peor pesadilla",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kxDzi564wDHCIse4GiJZrh0usqa.jpg",
@@ -304,8 +245,69 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
+      "director": [],
+      "cast": [
+        "Maura Tierney",
+        "David Ajala",
+        "Tony Goldwyn",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "rank": 9,
+      "id": "tt0098844",
+      "name": "Ley y orden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "rating": 7.285,
+      "year": 1990,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rzAzvWJoZSwVSswvWsKx1lqT63m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
+      "director": [],
+      "cast": [
+        "Anson Mount",
+        "Ethan Peck",
+        "Jess Bush",
+        "Christina Chong",
+        "Celia Rose Gooding",
+        "Melissa Navia",
+        "Babs Olusanmokun",
+        "Martin Quinn"
+      ],
+      "rank": 10,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
+      "rating": 7.9,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

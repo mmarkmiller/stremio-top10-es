@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.3,
+      "rating": 8.323,
       "year": 2026,
       "days": null,
       "trend": {
@@ -55,8 +55,38 @@
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "rating": 8.8,
+      "rating": 8,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
+      "director": [],
+      "cast": [
+        "Quinta Brunson",
+        "Tyler James Williams",
+        "Sheryl Lee Ralph",
+        "Lisa Ann Walter",
+        "Chris Perfetti",
+        "Janelle James",
+        "William Stanford Davis"
+      ],
+      "rank": 3,
+      "id": "tt14218830",
+      "name": "Colegio Abbott",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
+      "rating": 7.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -80,12 +110,45 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
       "rating": 7.8,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4kTINu9mv2YV1PqFqPGG1FZMnhi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
+      "director": [],
+      "cast": [
+        "Peter Dinklage",
+        "Kit Harington",
+        "Nikolaj Coster-Waldau",
+        "Lena Headey",
+        "Emilia Clarke",
+        "Liam Cunningham",
+        "Maisie Williams",
+        "Isaac Hempstead Wright"
+      ],
+      "rank": 5,
+      "id": "tt0944947",
+      "name": "Juego de tronos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
+      "rating": 8.5,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -111,12 +174,62 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.735,
+      "rating": 8.7,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 7,
+      "id": "tt2297757",
+      "name": "Nathan for You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
+      "rating": 8.233,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
+      "genres": [
+        "Talk",
+        "Comedia",
+        "News"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
+      "director": [],
+      "cast": [
+        "John Oliver"
+      ],
+      "rank": 8,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.8,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -142,7 +255,7 @@
         "Rich Sommer",
         "Kiernan Shipka"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0804503",
       "name": "Mad Men",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
@@ -156,148 +269,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
+      "description": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
       "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
-      "director": [],
-      "cast": [
-        "Quinta Brunson",
-        "Tyler James Williams",
-        "Sheryl Lee Ralph",
-        "Lisa Ann Walter",
-        "Chris Perfetti",
-        "Janelle James",
-        "William Stanford Davis"
-      ],
-      "rank": 6,
-      "id": "tt14218830",
-      "name": "Colegio Abbott",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.5,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
-      "director": [],
-      "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
-      ],
-      "rank": 7,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.4,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue a policías novatos que trabajan en Belfast, una ciudad en la que ser policía de primera línea conlleva presiones y peligros únicos.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zIMWblj36xRkLHjAwFjZt1crdGZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
-      "director": [],
-      "cast": [
-        "Sian Brooke",
-        "Katherine Devlin",
-        "Nathan Braniff",
-        "Martin McCann",
-        "Andi Osho"
-      ],
-      "rank": 8,
-      "id": "tt14466018",
-      "name": "Blue Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
-      "rating": 7.6,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
-      "genres": [
-        "Talk",
         "Comedia",
-        "News"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTq5aU1mKNom15T3L6spt9cicG5.png",
       "director": [],
       "cast": [
-        "John Oliver"
-      ],
-      "rank": 9,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.8,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
-      "director": [],
-      "cast": [
-        "Dominic West",
-        "Lance Reddick",
-        "Sonja Sohn",
-        "Wendell Pierce",
-        "Michael Kenneth Williams",
-        "Deirdre Lovejoy",
-        "Andre Royo",
-        "John Doman"
+        "Kevin Sussman",
+        "Lauren Lapkus",
+        "Brian Posehn",
+        "John Ross Bowie"
       ],
       "rank": 10,
-      "id": "tt0306414",
-      "name": "Bajo escucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
-      "rating": 8.6,
-      "year": 2002,
+      "id": "tt27497393",
+      "name": "Stuart no consigue salvar el universo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+      "rating": 8.395,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,5 +297,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

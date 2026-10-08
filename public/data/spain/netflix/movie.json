@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.563,
+      "rating": 6.545,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,66 +42,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
-        "Terror"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 2,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.092,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Año 6000: En un desarrollado planeta donde la gente vive 250 años nadie quiere ir de viaje a la Tierra",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lq738hUNxRdUR5jWJPqUgDgXKMa.jpg",
-      "runtime": "99 min",
-      "director": [
-        "Coline Serreau"
-      ],
-      "cast": [
-        "Coline Serreau",
-        "Vincent Lindon",
-        "James Thierrée",
-        "Marion Cotillard",
-        "Claire Keim",
-        "Samuel Tasinaje",
-        "Catherine Samie",
-        "Paul Crauchet"
-      ],
-      "rank": 3,
-      "id": "tt0115650",
-      "name": "El Planeta Libre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u0ZVgBytioRfcNHXIFVhAPWZNCG.jpg",
-      "rating": 7.2,
-      "year": 1996,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.274,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,12 +98,211 @@
         "Юрий Колокольников",
         "Levi Miller"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
-      "rating": 6.4,
+      "rating": 6.411,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 6000: En un desarrollado planeta donde la gente vive 250 años nadie quiere ir de viaje a la Tierra",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lq738hUNxRdUR5jWJPqUgDgXKMa.jpg",
+      "runtime": "99 min",
+      "director": [
+        "Coline Serreau"
+      ],
+      "cast": [
+        "Coline Serreau",
+        "Vincent Lindon",
+        "James Thierrée",
+        "Marion Cotillard",
+        "Claire Keim",
+        "Samuel Tasinaje",
+        "Catherine Samie",
+        "Paul Crauchet"
+      ],
+      "rank": 4,
+      "id": "tt0115650",
+      "name": "El Planeta Libre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u0ZVgBytioRfcNHXIFVhAPWZNCG.jpg",
+      "rating": 7.202,
+      "year": 1996,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
+      "director": [
+        "Cameron Cairnes",
+        "Colin Cairnes"
+      ],
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
+      ],
+      "rank": 5,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.091,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 6,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.8,
+      "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
+      "runtime": "181 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Florence Pugh",
+        "Josh Hartnett",
+        "Casey Affleck",
+        "Rami Malek"
+      ],
+      "rank": 7,
+      "id": "tt15398776",
+      "name": "Oppenheimer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "rating": 8.021,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 8,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.601,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [],
+      "runtime": "118 min",
+      "director": [
+        "井上春生"
+      ],
+      "cast": [
+        "Gozo Yoshimasu",
+        "Jonas Mekas",
+        "Sebastian Mekas"
+      ],
+      "rank": 9,
+      "id": "tmdb:999693",
+      "name": "眩暈 Vertigo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xfIoRheiklVTgJUb8ztnFqV9xDC.jpg",
+      "rating": null,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,188 +335,12 @@
         "Jérémy Margallé",
         "Francis Renaud"
       ],
-      "rank": 5,
+      "rank": 10,
       "id": "tt28821588",
       "name": "Las desapariciones",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
-      "rating": 6.2,
+      "rating": 6.186,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
-      "runtime": "181 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Matt Damon",
-        "Robert Downey Jr.",
-        "Florence Pugh",
-        "Josh Hartnett",
-        "Casey Affleck",
-        "Rami Malek"
-      ],
-      "rank": 6,
-      "id": "tt15398776",
-      "name": "Oppenheimer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
-      "rating": 8.022,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 7,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.811,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hOVWmdszhzbCDLxYwfoHfP27BoK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tzzqZlLDplHmK6C7sHn88Sj5891.png",
-      "runtime": "73 min",
-      "director": [
-        "Ben Leonberg"
-      ],
-      "cast": [
-        "Indy",
-        "Shane Jensen",
-        "Arielle Friedman",
-        "Larry Fessenden",
-        "Stuart Rudin",
-        "Anya Krawcheck",
-        "Hunter Goetz",
-        "Max"
-      ],
-      "rank": 8,
-      "id": "tt35521922",
-      "name": "Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
-      "rating": 6.615,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una inexpugnable fortaleza un renegado señor de la guerra, M. Bison, mantiene a 63 rehenes, a los que matará si no recibe un desorbitado rescate de 20.000 millones de dólares. El coronel Guile y más de una docena de hombres -héroes multiétnicos- tratarán de localizar y liberar a los secuestrados.",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Ow1IfvMkp3f7UQ2C5hIeEwBJG2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tZSKip38QnUH39uFZZt6oLQxJsh.png",
-      "runtime": "102 min",
-      "director": [
-        "Steven E. de Souza"
-      ],
-      "cast": [
-        "Jean-Claude Van Damme",
-        "Raúl Juliá",
-        "Kylie Minogue",
-        "Byron Mann",
-        "Damian Chapa",
-        "Ming-Na Wen",
-        "Andrew Bryniarski",
-        "Grand L. Bush"
-      ],
-      "rank": 9,
-      "id": "tt0111301",
-      "name": "Street Fighter: La última batalla",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg",
-      "rating": 4.7,
-      "year": 1994,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
-      "director": [
-        "James Ashcroft"
-      ],
-      "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "rank": 10,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.9,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +349,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

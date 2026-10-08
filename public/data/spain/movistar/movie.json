@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Sam y su hermano mayor Michael son los típicos jóvenes americanos con intereses normales. Pero nada más instalarse en la tranquila ciudad de Santa Carla, California, las cosas misteriosamente empiezan a cambiar. La personalidad de Michael se transforma. Y a su madre no le gustaría ver en lo que se está convirtiendo.",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iiO2aaYRYAZ4WhsRXQlZ4IHGetP.png",
+      "runtime": "97 min",
+      "director": [
+        "Joel Schumacher"
+      ],
+      "cast": [
+        "Jason Patric",
+        "Corey Haim",
+        "Dianne Wiest",
+        "Barnard Hughes",
+        "Edward Herrmann",
+        "Kiefer Sutherland",
+        "Jami Gertz",
+        "Corey Feldman"
+      ],
+      "rank": 1,
+      "id": "tt0093437",
+      "name": "Jóvenes ocultos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
+      "rating": 7.117,
+      "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
@@ -26,12 +62,83 @@
         "Brenda Song",
         "Josh Pence"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt1285016",
       "name": "La red social",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
       "rating": 7.377,
       "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Controvertido y célebre flim sobre un clérigo, en la Francia del XVII, acusado de herejía. Basada libremente en hechos reales ocurridos en el convento de Laudun, en Francia, en el que supuestamente unas  monjas Ursulinas fueron poseídas por el diablo en 1634.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BSsugMxJGCRWD8qxqBPWhH71H3.png",
+      "runtime": "103 min",
+      "director": [
+        "Ken Russell"
+      ],
+      "cast": [
+        "Vanessa Redgrave",
+        "Oliver Reed",
+        "Dudley Sutton",
+        "Max Adrian",
+        "Gemma Jones",
+        "Murray Melvin",
+        "Michael Gothard",
+        "Georgina Hale"
+      ],
+      "rank": 3,
+      "id": "tt0066993",
+      "name": "Los demonios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJIx17hCWq3CEhc8UzioBngrMJc.jpg",
+      "rating": 7.5,
+      "year": 1971,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 4,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.266,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -62,11 +169,11 @@
         "Henry Golding",
         "Tom Wu"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt8367814",
       "name": "The Gentlemen: Los señores de la mafia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.7,
+      "rating": 7.657,
       "year": 2020,
       "days": null,
       "trend": {
@@ -76,104 +183,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
-      "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x6kUyz5oiEBcW1NxVxVhYYwKZg7.png",
-      "runtime": "93 min",
-      "director": [
-        "Matthias Hoene"
-      ],
-      "cast": [
-        "Joely Richardson",
-        "Sadie Soverall",
-        "Neil Linpow",
-        "Harry Cadby",
-        "Roger Ajogbe",
-        "Euan Bennet",
-        "Cameron Jack",
-        "Sharon Young"
-      ],
-      "rank": 3,
-      "id": "tt19858164",
-      "name": "El frío en los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
-      "rating": 6.603,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "“La Gaviota” es una casa con veleta situada a las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer Julia, maestra represaliada durante la Guerra Civil, y Estrella, la hija de ambos. Estrella recorrerá el camino desde la infancia hasta la adolescencia sospechando que hay algo oculto en la vida de su querido padre: otra mujer. A medida que Estrella va sabiendo más, la vida en “La Gaviota” empieza a cambiar.",
+      "description": "Historia de un neo-nazi (Gosling) que también resulta ser judío. Danny Balint estudia en una escuela judía de Nueva York. Al mismo tiempo, su popularidad crece dentro de círculos neofascistas, hasta convertirse en un admirado líder. En su interior se desarrolla una personalidad paralela; por un lado, se está formando como rabino, estudiando la Torah y enseñando hebreo; y por el otro, ataca a los judíos... Judaísmo ortodoxo y antisemitismo radical se combinan en esta alabadísima producción premiada en Sundance, ópera prima del guionista Henry Bean (Internal Affairs, 1990).",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/59oQw0wBqaJpPBxKf7uVgE0e7yS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fAE2PRKuCzVn4Rv2p0DRDwJczCE.png",
-      "runtime": "94 min",
+      "background": "https://image.tmdb.org/t/p/w1280/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fltiPf5Tkx01mNccvQUsvBCTAzU.png",
+      "runtime": "98 min",
       "director": [
-        "Víctor Erice"
+        "Henry Bean"
       ],
       "cast": [
-        "Omero Antonutti",
-        "Sonsoles Aranguren",
-        "Icíar Bollaín",
-        "Lola Cardona",
-        "Rafaela Aparicio",
-        "Aurore Clément",
-        "Maria Caro",
-        "Francisco Merino"
+        "Ryan Gosling",
+        "Summer Phoenix",
+        "Theresa Russell",
+        "Billy Zane",
+        "Garret Dillahunt",
+        "A.D. Miles",
+        "Glenn Fitzgerald",
+        "Elizabeth Reaser"
       ],
-      "rank": 4,
-      "id": "tt0084740",
-      "name": "El sur",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eSwNZHkvSPZBRtsXrv4RluzMz7n.jpg",
-      "rating": 7.6,
-      "year": 1983,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los habitantes de un remoto pueblo del interior de California, entre los que se encuentran los propietarios de un rancho, James y Jill Haywood, realizan un descubrimiento tan insólito como estremecedor.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xVbppM1xgbskOKgOuV8fbWBWHtt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8R3ASg0ztpjzAv83dLluFYDPsjx.png",
-      "runtime": "130 min",
-      "director": [
-        "Jordan Peele"
-      ],
-      "cast": [
-        "Daniel Kaluuya",
-        "Keke Palmer",
-        "Brandon Perea",
-        "Michael Wincott",
-        "Steven Yeun",
-        "Wrenn Schmidt",
-        "Keith David",
-        "Devon Graye"
-      ],
-      "rank": 5,
-      "id": "tt10954984",
-      "name": "¡Nop!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tfZPQAHZ3xKSdilLywRzHj8xH7p.jpg",
-      "rating": 6.8,
-      "year": 2022,
+      "rank": 6,
+      "id": "tt0247199",
+      "name": "The Believer (El creyente)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bPWCXoRItooEDeDaGVouSGegiL4.jpg",
+      "rating": 6.9,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -202,7 +237,7 @@
         "Florentino Fernández",
         "Ramón García"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt43675412",
       "name": "El otro Chiquito",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mhm3BO8kpFn7DLTleIJLAd55xjn.jpg",
@@ -216,104 +251,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Historia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
+      "runtime": "150 min",
       "director": [
-        "Zach Cregger"
+        "James Vanderbilt"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 7,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos obstáculos mientras lucha contra criminales y policías corruptos. En el camino conoce a Navin, un periodista en busca de su esposa desaparecida. Ambos despliegan sus habilidades de combate mientras aprenden las virtudes de la confianza mutua.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-      "runtime": "113 min",
-      "director": [
-        "谷垣健治"
-      ],
-      "cast": [
-        "谢苗",
-        "Joe Taslim",
-        "Yang Enyou",
-        "Yayan Ruhian",
-        "ฉันทธนิสา ตัง",
-        "Brian Le",
-        "岩永ジョーイ",
-        "สหจักร บุญธนกิจ"
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon",
+        "Leo Woodall",
+        "John Slattery",
+        "Richard E. Grant",
+        "Mark O'Brien",
+        "Colin Hanks"
       ],
       "rank": 8,
-      "id": "tt33311069",
-      "name": "The Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k67puWhDpttf1df89EtVUc5banO.png",
-      "runtime": "95 min",
-      "director": [
-        "Genki Kawamura"
-      ],
-      "cast": [
-        "二宮和也",
-        "河内大和",
-        "浅沼成",
-        "花瀬琴音",
-        "小松菜奈",
-        "大塚ヒロタ",
-        "中島多羅",
-        "曽田怜央"
-      ],
-      "rank": 9,
-      "id": "tt35222590",
-      "name": "Exit 8",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqlgMvy1d5jIbIE6SPlJq724htT.jpg",
-      "rating": 7,
+      "id": "tt29567915",
+      "name": "Núremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
+      "rating": 7.601,
       "year": 2025,
       "days": null,
       "trend": {
@@ -323,29 +286,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
+      "description": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
+        "Western"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rvRGFevvZK48onX0PYI1eQLbuJd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/68SVakAGEqw6B5MBf7tcI4r6d23.png",
+      "runtime": "131 min",
       "director": [
-        "David Ilundain"
+        "Clint Eastwood"
       ],
       "cast": [
-        "Lolita Flores",
-        "Asia Ortega",
-        "Jordi Sánchez",
-        "Elena Furiase"
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Morgan Freeman",
+        "Jaimz Woolvett",
+        "Richard Harris",
+        "Saul Rubinek",
+        "Frances Fisher",
+        "Anna Thomson"
+      ],
+      "rank": 9,
+      "id": "tt0105695",
+      "name": "Sin perdón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhcVwMko4DbSELZapIQv4mmdPKY.jpg",
+      "rating": 7.913,
+      "year": 1992,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
       ],
       "rank": 10,
-      "id": "tt36151341",
-      "name": "Mallorca confidencial",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
-      "rating": 6.875,
-      "year": 2026,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.6,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -354,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

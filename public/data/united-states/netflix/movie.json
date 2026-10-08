@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,43 +40,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Adaptación cinematográfica de la novela gráfica homónima de Seth Grahame-Smith, basada en el clásico literario de Jane Austen, que se desarrolla en un universo alternativo a la Regencia Británica de 1819, donde una plaga de zombies invaden la apacible población inglesa de Meryton.",
-      "genres": [
-        "Romance",
-        "Terror",
-        "Comedia",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5sEH6dc1ul08DbZalSUK8JBNjaz.png",
-      "runtime": "108 min",
-      "director": [
-        "Burr Steers"
-      ],
-      "cast": [
-        "Lily James",
-        "Sam Riley",
-        "Jack Huston",
-        "Bella Heathcote",
-        "Douglas Booth",
-        "Matt Smith",
-        "Charles Dance",
-        "Lena Headey"
-      ],
-      "rank": 2,
-      "id": "tt1374989",
-      "name": "Orgullo + Prejuicio + Zombis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg",
-      "rating": 6.2,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
       "genres": [
         "Terror"
@@ -101,7 +64,7 @@
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.4,
+      "rating": 6.402,
       "year": 1980,
       "days": null,
       "trend": {
@@ -137,8 +100,81 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.563,
+      "rating": 6.545,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
+      "runtime": "123 min",
+      "director": [
+        "Richard Curtis"
+      ],
+      "cast": [
+        "Domhnall Gleeson",
+        "Rachel McAdams",
+        "Bill Nighy",
+        "Tom Hollander",
+        "Margot Robbie",
+        "Lydia Wilson",
+        "Lindsay Duncan",
+        "Richard Cordery"
+      ],
+      "rank": 5,
+      "id": "tt2194499",
+      "name": "Una cuestión de tiempo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
+      "rating": 7.9,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Adaptación cinematográfica de la novela gráfica homónima de Seth Grahame-Smith, basada en el clásico literario de Jane Austen, que se desarrolla en un universo alternativo a la Regencia Británica de 1819, donde una plaga de zombies invaden la apacible población inglesa de Meryton.",
+      "genres": [
+        "Romance",
+        "Terror",
+        "Comedia",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1HdBV5te8Hjj093JlnX4kmZBOqN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5sEH6dc1ul08DbZalSUK8JBNjaz.png",
+      "runtime": "108 min",
+      "director": [
+        "Burr Steers"
+      ],
+      "cast": [
+        "Lily James",
+        "Sam Riley",
+        "Jack Huston",
+        "Bella Heathcote",
+        "Douglas Booth",
+        "Matt Smith",
+        "Charles Dance",
+        "Lena Headey"
+      ],
+      "rank": 6,
+      "id": "tt1374989",
+      "name": "Orgullo + Prejuicio + Zombis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg",
+      "rating": 6.2,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,11 +205,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
+      "rating": 7.601,
       "year": 2023,
       "days": null,
       "trend": {
@@ -183,91 +219,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Bridget (Hilary Swank) es una mujer que regresa a su casa, a instancias de su hermano (Michael Shannon), para ayudar a su madre enferma de alzheimer (Blythe Danner), mientras lidia con su propio pasado.",
+      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
       "genres": [
-        "Drama"
+        "Acción",
+        "Comedia",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qhSz7yk5MGKFmku2kSOpJBGejGg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vYO6MBs7YnFcPaonZMofkYnmI5b.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
+      "runtime": "120 min",
       "director": [
-        "Elizabeth Chomko"
+        "Guy Ritchie"
       ],
       "cast": [
-        "Hilary Swank",
-        "Michael Shannon",
-        "Robert Forster",
-        "Blythe Danner",
-        "Taissa Farmiga",
-        "Josh Lucas",
-        "Sarah Sutherland",
-        "Marilyn Dodds Frank"
-      ],
-      "rank": 6,
-      "id": "tt6662736",
-      "name": "Más fuerte que el olvido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k6h2wpoPcu0zdIpJ6Owl2jUCIfR.jpg",
-      "rating": 6.472,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lHctVQ60nBYzJ51n9xpZGYJiWiV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnnDPNeaEmaRQPplizeqwtvxVmJ.png",
-      "runtime": "60 min",
-      "director": [
-        "Louis C.K."
-      ],
-      "cast": [
-        "Louis C.K."
-      ],
-      "rank": 7,
-      "id": "tt12087624",
-      "name": "Sincerely Louis C.K.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
-      "rating": 7.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xfCv9NDDjTdE49Ako5fsH6SACqD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uSqbj3GboIqorHPK3meqHrfxXh2.png",
-      "runtime": "101 min",
-      "director": [
-        "Morgan Neville"
-      ],
-      "cast": [
-        "Lorne Michaels",
-        "Steve Higgins",
-        "Michael Che",
-        "Colin Jost",
-        "Tom Schiller",
-        "Paul Simon",
-        "James Andrew Miller",
-        "Timothée Chalamet"
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer",
+        "Babs Olusanmokun",
+        "Hero Fiennes Tiffin"
       ],
       "rank": 8,
-      "id": "tt39847629",
-      "name": "Lorne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
-      "rating": 7.1,
-      "year": 2026,
+      "id": "tt5177120",
+      "name": "El ministerio de la Guerra Sucia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+      "rating": 6.993,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,33 +255,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
+      "description": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
       "genres": [
-        "Ciencia ficción",
-        "Drama"
+        "Terror",
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oUuJ6UlgOUc1WcE8XK5lLp0K0eb.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3TLppfrmhnuldfXozpCmUIK6iXV.png",
+      "runtime": "109 min",
       "director": [
-        "James Gray"
+        "Alfred Hitchcock"
       ],
       "cast": [
-        "Brad Pitt",
-        "Tommy Lee Jones",
-        "Liv Tyler",
-        "Ruth Negga",
-        "Donald Sutherland",
-        "Kimberly Elise",
-        "Loren Dean",
-        "Donnie Keshawarz"
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin",
+        "Martin Balsam",
+        "John McIntire",
+        "Simon Oakland",
+        "Frank Albertson"
       ],
       "rank": 9,
-      "id": "tt2935510",
-      "name": "Ad astra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
-      "rating": 6.1,
-      "year": 2019,
+      "id": "tt0054215",
+      "name": "Psicosis",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+      "rating": 8.406,
+      "year": 1960,
       "days": null,
       "trend": {
         "dir": "same",
@@ -337,7 +317,7 @@
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.9,
+      "rating": 6.868,
       "year": 2026,
       "days": null,
       "trend": {
@@ -347,5 +327,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }

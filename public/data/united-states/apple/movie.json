@@ -2,42 +2,8 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610072054",
+  "date": "202610082054",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
-      "runtime": "120 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Jesse Eisenberg",
-        "Andrew Garfield",
-        "Armie Hammer",
-        "Justin Timberlake",
-        "Rooney Mara",
-        "Max Minghella",
-        "Brenda Song",
-        "Josh Pence"
-      ],
-      "rank": 1,
-      "id": "tt1285016",
-      "name": "La red social",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.377,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
@@ -62,7 +28,7 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
@@ -98,11 +64,11 @@
         "Luke Mably",
         "Stuart McQuarrie"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0289043",
       "name": "28 días después",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.243,
+      "rating": 7.244,
       "year": 2002,
       "days": null,
       "trend": {
@@ -112,34 +78,66 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "description": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
       "genres": [
-        "Aventura",
-        "Drama",
-        "Bélica"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png",
+      "runtime": "98 min",
       "director": [
-        "Peter Weir"
+        "Amir Bar-Lev"
       ],
       "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
+        "John Snorri Sigurjónsson",
+        "محمد علی سد پارہ",
+        "Sajid Sadpara",
+        "Lina Moey",
+        "Angela Benavides",
+        "Elia Saikaly",
+        "Sandro Gromen Hayes",
+        "Nirmal Purja"
+      ],
+      "rank": 3,
+      "id": "tt39150288",
+      "name": "La última gran escalada: El K2 en invierno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
       "rank": 4,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.205,
-      "year": 2003,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.165,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,40 +182,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png",
-      "runtime": "98 min",
-      "director": [
-        "Amir Bar-Lev"
-      ],
-      "cast": [
-        "John Snorri Sigurjónsson",
-        "محمد علی سد پارہ",
-        "Sajid Sadpara",
-        "Lina Moey",
-        "Angela Benavides",
-        "Elia Saikaly",
-        "Sandro Gromen Hayes",
-        "Nirmal Purja"
-      ],
-      "rank": 6,
-      "id": "tt39150288",
-      "name": "La última gran escalada: El K2 en invierno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
       "genres": [
         "Acción",
@@ -240,7 +204,7 @@
         "Matthew McConaughey",
         "Tom Cruise"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0942385",
       "name": "Tropic Thunder, ¡una guerra muy perra!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
@@ -254,32 +218,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
       "genres": [
-        "Drama"
+        "Aventura",
+        "Drama",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
+      "runtime": "139 min",
       "director": [
-        "Gus Van Sant"
+        "Peter Weir"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Russell Crowe",
+        "Paul Bettany",
+        "James D'Arcy",
+        "Robert Pugh",
+        "David Threlfall",
+        "Lee Ingleby",
+        "Max Pirkis",
+        "Max Benitz"
       ],
-      "rank": 8,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.165,
-      "year": 1997,
+      "rank": 7,
+      "id": "tt0311113",
+      "name": "Master and commander: Al otro lado del mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
+      "rating": 7.205,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,7 +277,7 @@
         "Glenn Mendelson",
         "Ann Altieri"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
@@ -325,34 +291,71 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "description": "Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto con el principal sospechoso, Walter Finch, un novelista ermitaño.",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mDy2fmfGOmqZUM1wWF4AY3dahrL.png",
+      "runtime": "118 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Al Pacino",
+        "Robin Williams",
+        "Hilary Swank",
+        "Maura Tierney",
+        "Martin Donovan",
+        "Nicky Katt",
+        "Paul Dooley",
+        "Jonathan Jackson"
+      ],
+      "rank": 9,
+      "id": "tt0278504",
+      "name": "Insomnio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9DZURodSAFt093lD6xWxuU55vS5.jpg",
+      "rating": 6.956,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El detective John Hobbes está convencido de que tras la ejecución del asesino en serie Edgar Reese se han acabado los problemas. Pero cuando la gente que conoce comienza a cantar la misma canción que Reese cantó durante su ejecución, Hobbes se da cuenta que quizá tras los crímenes se encuentre el ángel caído Azazel, que fue condenado a vagar informe por la Tierra y toma los cuerpos de otras personas.",
       "genres": [
         "Crimen",
         "Drama",
-        "Comedia"
+        "Suspense",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png",
-      "runtime": "180 min",
+      "background": "https://image.tmdb.org/t/p/w1280/cYlvxDI16HtZ74L159LyKvxHyXU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z6KSLBy0U75yukqpqErKinvAcpP.png",
+      "runtime": "119 min",
       "director": [
-        "Martin Scorsese"
+        "Gregory Hoblit"
       ],
       "cast": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie",
-        "Matthew McConaughey",
-        "Kyle Chandler",
-        "Rob Reiner",
-        "Jon Bernthal",
-        "Jon Favreau"
+        "Denzel Washington",
+        "John Goodman",
+        "Donald Sutherland",
+        "Embeth Davidtz",
+        "James Gandolfini",
+        "Elias Koteas",
+        "Gabriel Casseus",
+        "Robert Joy"
       ],
       "rank": 10,
-      "id": "tt0993846",
-      "name": "El lobo de Wall Street",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
-      "rating": 8,
-      "year": 2013,
+      "id": "tt0119099",
+      "name": "Fallen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tczRJmkK4UqqdPGcporCMaEPhru.jpg",
+      "rating": 6.826,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-07T17:16:49.389Z"
+  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
 }
