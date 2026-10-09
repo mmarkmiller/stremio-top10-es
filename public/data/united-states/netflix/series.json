@@ -2,8 +2,39 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 1,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
@@ -21,40 +52,11 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.078,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
-      "director": [],
-      "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts"
-      ],
-      "rank": 2,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.2,
+      "rating": 8.137,
       "year": 2026,
       "days": null,
       "trend": {
@@ -83,7 +85,7 @@
       "id": "tt0098844",
       "name": "Ley y orden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.285,
+      "rating": 7.3,
       "year": 1990,
       "days": null,
       "trend": {
@@ -93,30 +95,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Action & Adventure"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
       "director": [],
       "cast": [
-        "Sean Murray",
-        "Wilmer Valderrama",
-        "Katrina Law",
-        "Brian Dietzen",
-        "Diona Reasonover",
-        "Gary Cole",
-        "Michael Weatherly"
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts"
       ],
       "rank": 4,
-      "id": "tt0364845",
-      "name": "Navy: Investigación criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.6,
-      "year": 2003,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -147,7 +146,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.874,
       "year": 2024,
       "days": null,
       "trend": {
@@ -157,26 +156,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
       "genres": [
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
       "director": [],
       "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
       ],
       "rank": 6,
-      "id": "tt26748321",
-      "name": "Doc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-      "rating": 7.3,
-      "year": 2025,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.61,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -203,8 +206,36 @@
       "id": "tt12408718",
       "name": "Murder in a Small Town",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
-      "rating": 6.829,
+      "rating": 6.8,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "director": [],
+      "cast": [
+        "Molly Parker",
+        "Omar Metwally",
+        "Amirah Vann",
+        "Jon-Michael Ecker",
+        "Felicity Huffman"
+      ],
+      "rank": 9,
+      "id": "tt26748321",
+      "name": "Doc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "rating": 7.351,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -231,39 +262,11 @@
         "Bradley Whitford",
         "Allison Janney"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.607,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esta comedia de una sola cámara sigue a un grupo de trabajadores locales de Control de Animales cuyas vidas se complican por el hecho de que los animales son simples, pero los humanos no lo son.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zI289OXhJuhyKY8cqvOVzV7lVkA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGO1xGZNiNhBWMAIAwMAcijg3zJ.png",
-      "director": [],
-      "cast": [
-        "Joel McHale",
-        "Vella Lovell",
-        "Michael Rowland",
-        "Ravi Patel",
-        "Grace Palmer"
-      ],
-      "rank": 10,
-      "id": "tt21376524",
-      "name": "Animal Control",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
-      "rating": 6.2,
+      "rating": 7.605,
       "year": 2023,
       "days": null,
       "trend": {
@@ -273,5 +276,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

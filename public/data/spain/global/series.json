@@ -2,14 +2,43 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skTxhiqjhfo5nXDDX4VeKT6Zkdf.png",
+      "director": [],
+      "cast": [
+        "Omar Ayuso",
+        "Laia Marull",
+        "Valentina Vidal",
+        "Raúl Arévalo"
+      ],
+      "rank": 1,
+      "id": "tt39216741",
+      "name": "El Castillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iau1TwNnvKsS2L8B3QkbGO6zzJb.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "genres": [
         "Misterio",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
@@ -24,11 +53,42 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt11540908",
       "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.323,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 3,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,73 +116,12 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.479,
+      "rating": 8.5,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 3,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.36,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Hoon Lee",
-        "Ciarán Hinds",
-        "Joseph Zada"
-      ],
-      "rank": 4,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.078,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -163,6 +162,67 @@
     },
     {
       "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Hoon Lee",
+        "Ciarán Hinds",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8.137,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
+      ],
+      "rank": 7,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.362,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
         "Drama",
@@ -177,44 +237,12 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.323,
+      "rating": 8.307,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
-      "director": [],
-      "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
-      ],
-      "rank": 7,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.044,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,11 +269,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.874,
       "year": 2024,
       "days": null,
       "trend": {
@@ -255,61 +283,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "description": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
       "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Connie Britton",
-        "Aimee Teegarden",
-        "Michael B. Jordan",
-        "Jurnee Smollett-Bell",
-        "Dora Madison",
-        "Grey Damon",
-        "Matt Lauria"
-      ],
-      "rank": 9,
-      "id": "tt0758745",
-      "name": "Friday Night Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "rating": 8,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-      "genres": [
-        "Comedia",
-        "Drama",
+        "Crimen",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
+      "background": "https://image.tmdb.org/t/p/w1280/j8yTYNL7wnnlRsU6gm7r8gJb5RY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QZJWK9QUDUFBdfJBuyqDSqLQco.png",
       "director": [],
       "cast": [
-        "Pearce Quigley",
-        "Michael Palin",
-        "Lauren Patel",
-        "Mackenzie Crook",
-        "Shola Adewusi",
-        "Paul Kaye",
-        "Jon Pointing",
-        "Sophie Willan"
+        "Jose Coronado",
+        "María Valverde",
+        "Martiño Rivas",
+        "Maribel Verdú",
+        "Gonzalo de Castro",
+        "Cristina Kovani",
+        "José Condessa",
+        "Pepón Nieto"
       ],
       "rank": 10,
-      "id": "tt38504111",
-      "name": "Pequeños profetas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.1,
+      "id": "tt36832679",
+      "name": "El problema final",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "rating": 6.871,
       "year": 2026,
       "days": null,
       "trend": {
@@ -319,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

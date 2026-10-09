@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.323,
+      "rating": 8.307,
       "year": 2026,
       "days": null,
       "trend": {
@@ -95,6 +95,31 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment"
+      ],
+      "rank": 4,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8.01,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
       "genres": [
         "Comedia",
@@ -110,45 +135,12 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
       "rating": 7.8,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4kTINu9mv2YV1PqFqPGG1FZMnhi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
-      "director": [],
-      "cast": [
-        "Peter Dinklage",
-        "Kit Harington",
-        "Nikolaj Coster-Waldau",
-        "Lena Headey",
-        "Emilia Clarke",
-        "Liam Cunningham",
-        "Maisie Williams",
-        "Isaac Hempstead Wright"
-      ],
-      "rank": 5,
-      "id": "tt0944947",
-      "name": "Juego de tronos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
-      "rating": 8.5,
-      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -178,58 +170,8 @@
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.7,
+      "rating": 8.735,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
-      "director": [],
-      "cast": [
-        "Nathan Fielder"
-      ],
-      "rank": 7,
-      "id": "tt2297757",
-      "name": "Nathan for You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
-      "rating": 8.233,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
-      "genres": [
-        "Talk",
-        "Comedia",
-        "News"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
-      "director": [],
-      "cast": [
-        "John Oliver"
-      ],
-      "rank": 8,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.8,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,7 +197,7 @@
         "Rich Sommer",
         "Kiernan Shipka"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0804503",
       "name": "Mad Men",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
@@ -269,26 +211,90 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
       "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTq5aU1mKNom15T3L6spt9cicG5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
       "director": [],
       "cast": [
-        "Kevin Sussman",
-        "Lauren Lapkus",
-        "Brian Posehn",
-        "John Ross Bowie"
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
+      ],
+      "rank": 8,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.4,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+      "genres": [
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+      "director": [],
+      "cast": [
+        "Jérôme Niel",
+        "Yoann Gasiorowski",
+        "Magalie Lépine-Blondeau",
+        "Marie Oppert",
+        "Léo Chalié",
+        "Véronique Ruggia Saura",
+        "Guslagie Malanda",
+        "Salif Cissé"
+      ],
+      "rank": 9,
+      "id": "tt40407840",
+      "name": "Paolo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EGhg689jbAO865qWs8AznalyWl.jpg",
+      "rating": 4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "director": [],
+      "cast": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
       ],
       "rank": 10,
-      "id": "tt27497393",
-      "name": "Stuart no consigue salvar el universo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-      "rating": 8.395,
-      "year": 2026,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.407,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -297,5 +303,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

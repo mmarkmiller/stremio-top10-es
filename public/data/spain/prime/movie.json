@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,43 +32,7 @@
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.236,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 2,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 7.235,
       "year": 2026,
       "days": null,
       "trend": {
@@ -99,12 +63,115 @@
         "Patrick McManus",
         "Ali Johnson"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt10342730",
       "name": "Spiral: Saw",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
       "rating": 5.9,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 3,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.634,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hipocondríaco por fin es feliz cuando puede contarles a sus amigos que se muere de verdad. Una pareja encuentra de nuevo la chispa del amor gracias a la pérdida de su querido perro disecado. Una profesora de yoga verá perturbada su paz debido a los extraños ruidos que emite su nueva vecina. Un campista se encuentra metido en una vorágine de locura y tensión con el resto de veraneantes, cuando decide no acudir a la cena de bienvenida del verano. Y por último, un obsesivo y metódico relojero que solo puede trabajar escuchando de fondo su programa de radio favorito titulado “Pequeños Calvarios”, se enfrentará a las consecuencias de su última emisión. Estas cinco historias componen un puzzle de manías, taritas y obsesiones varias que hacen que no podamos vivir en paz nuestro día a día. ¿O todo lo contrario?",
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "92 min",
+      "director": [
+        "Javier Polo Gandía"
+      ],
+      "cast": [
+        "Arturo Valls",
+        "Andrea Duro",
+        "Rubén Bernal",
+        "Vito Sanz",
+        "Raúl Navarro",
+        "Marta Belenguer",
+        "Berta Vázquez",
+        "Lorena López"
+      ],
+      "rank": 4,
+      "id": "tt28750449",
+      "name": "Pequeños calvarios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rVMfvBVPFyL9BfUIsGHcIa6UxTJ.jpg",
+      "rating": null,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/foFq1RZWQIgFuCQ0nyYccywjFyX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kUihTGOvwehtZParyC1VEd8BZcg.png",
+      "runtime": "122 min",
+      "director": [
+        "Céline Sciamma"
+      ],
+      "cast": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami",
+        "Valeria Golino",
+        "Christel Baras",
+        "Armande Boulanger",
+        "Guy Delamarche",
+        "Clément Bouyssou"
+      ],
+      "rank": 5,
+      "id": "tt8613070",
+      "name": "Retrato de una mujer en llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iFEBLWA0nnkIuqN1hEKhRpKa7UI.jpg",
+      "rating": 8.1,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,12 +201,45 @@
         "Rohan Campbell",
         "Sarah Levy"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt27714946",
       "name": "The Monkey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
       "rating": 5.987,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un fabricante catalán de porteros electrónicos viaja a Madrid, acompañado de su amante, para asistir a una cacería que él mismo ha organizado. Lo que pretende es relacionarse con gente de la alta sociedad para promocionar su negocio. En la finca del marqués de Leguineche conoce a diversos personajes y vive las situaciones más absurdas y disparatadas.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b0F0k58AQmsqroqjBHQLFXhf00Y.jpg",
+      "runtime": "87 min",
+      "director": [
+        "Luis García Berlanga"
+      ],
+      "cast": [
+        "José «Saza» Sazatornil",
+        "Luis Escobar",
+        "José Luis López Vázquez",
+        "Antonio Ferrandis",
+        "Agustín González",
+        "Mónica Randall",
+        "Laly Soldevila",
+        "Andrés Mejuto"
+      ],
+      "rank": 7,
+      "id": "tt0076001",
+      "name": "La escopeta nacional",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rIYrY2pML6JdKv7J1ugusFnuOHi.jpg",
+      "rating": 6.8,
+      "year": 1978,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +270,11 @@
         "Tom Taylor",
         "Georgia Goodman"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.105,
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -184,68 +284,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
       "director": [
-        "Claire Scanlon"
+        "Brian De Palma"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
       ],
-      "rank": 6,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.061,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/foFq1RZWQIgFuCQ0nyYccywjFyX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kUihTGOvwehtZParyC1VEd8BZcg.png",
-      "runtime": "122 min",
-      "director": [
-        "Céline Sciamma"
-      ],
-      "cast": [
-        "Noémie Merlant",
-        "Adèle Haenel",
-        "Luàna Bajrami",
-        "Valeria Golino",
-        "Christel Baras",
-        "Armande Boulanger",
-        "Guy Delamarche",
-        "Clément Bouyssou"
-      ],
-      "rank": 7,
-      "id": "tt8613070",
-      "name": "Retrato de una mujer en llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iFEBLWA0nnkIuqN1hEKhRpKa7UI.jpg",
-      "rating": 8.1,
-      "year": 2019,
+      "rank": 9,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.34,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,7 +341,7 @@
         "Cameron Jack",
         "Sharon Young"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt19858164",
       "name": "El frío en los huesos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
@@ -287,78 +352,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Malice in Wonderland sigue los pasos de Alice, una estudiante de derecho que tras ser atropellada por un coche se despierta en un territorio extraño. En él, se encontrará con todos los personajes del texto de Carroll, convertidos en seres urbanos que parecen salidos de Snatch, cerdos y diamantes.",
-      "genres": [
-        "Fantasía",
-        "Drama",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVftNpJHp6ahi7MhW6XRZkoLzCL.jpg",
-      "runtime": "87 min",
-      "director": [
-        "Simon Fellows"
-      ],
-      "cast": [
-        "Maggie Grace",
-        "Danny Dyer",
-        "Matt King",
-        "Nathaniel Parker",
-        "Bronagh Gallagher",
-        "Anthony Higgins",
-        "Paul Kaye",
-        "Garrick Hagon"
-      ],
-      "rank": 9,
-      "id": "tt0374853",
-      "name": "Malice in Wonderland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azesynSFVrwZbBpATRP7lGbTpoo.jpg",
-      "rating": 5.3,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 10,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.34,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

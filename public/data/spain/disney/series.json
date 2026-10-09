@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -39,6 +39,93 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "director": [],
+      "cast": [
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
+      ],
+      "rank": 2,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
+      "rating": 7.408,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
+      "director": [],
+      "cast": [
+        "Malina Weissman",
+        "Malachi Barton",
+        "Jordan Leftwich",
+        "Ora Duplass",
+        "Louis Thresher",
+        "Tiffani Thiessen",
+        "Devon Sawa"
+      ],
+      "rank": 3,
+      "id": "tt36064406",
+      "name": "Coven Academy: El hechizo de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+      "rating": 7.222,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 4,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.584,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "genres": [
         "Action & Adventure",
@@ -58,7 +145,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -86,7 +173,7 @@
         "Amita Rao",
         "Owen Thiele"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt33049767",
       "name": "Adults",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
@@ -100,26 +187,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
       "genres": [
         "Drama",
-        "Crimen"
+        "Crimen",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
       "director": [],
       "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
       ],
-      "rank": 4,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.408,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.5,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -128,25 +220,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/em2Jzx5QyBTVI7gKipCoE0kG4ot.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Zach Braff",
+        "Donald Faison",
+        "Sarah Chalke",
+        "Ava Bunn"
       ],
-      "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
+      "rank": 8,
+      "id": "tt40197357",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "rating": 7.7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -155,30 +247,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
       "director": [],
       "cast": [
-        "Malina Weissman",
-        "Malachi Barton",
-        "Jordan Leftwich",
-        "Ora Duplass",
-        "Louis Thresher",
-        "Tiffani Thiessen",
-        "Devon Sawa"
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
-      "rank": 6,
-      "id": "tt36064406",
-      "name": "Coven Academy: El hechizo de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-      "rating": 7.1,
-      "year": 2026,
+      "rank": 9,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.116,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,104 +294,12 @@
         "Liza Colón-Zayas",
         "Edwin Lee Gibson"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.152,
+      "rating": 8.2,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A medida que Los Ángeles pasaba del crack al rap en la década de los noventa, los territorios de las bandas controlados por los Bloods y los Crips se convirtieron en el epicentro de una escena musical emergente en South Central.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qMRrBs1Gool5TIfZudC3KxzZgWC.png",
-      "director": [],
-      "cast": [
-        "Gail Bean",
-        "Isaiah John",
-        "Asante Blackk",
-        "Peyton Alex Smith",
-        "Simmie Sims III",
-        "Mykelti Williamson",
-        "Nicki Micheaux",
-        "Brandon Mychal Smith"
-      ],
-      "rank": 8,
-      "id": "tt36210894",
-      "name": "The Drop: Una historia de Snowfall",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-      "rating": 8.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jXB3OoWPkojsOP2O2OoLCeAIDRS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png",
-      "director": [],
-      "cast": [
-        "Elisabeth Moss",
-        "Yvonne Strahovski",
-        "Samira Wiley"
-      ],
-      "rank": 9,
-      "id": "tt5834204",
-      "name": "El cuento de la criada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
-      "rating": 8.148,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png",
-      "director": [],
-      "cast": [
-        "Iain Armitage",
-        "Zoe Perry",
-        "Lance Barber",
-        "Montana Jordan",
-        "Raegan Revord",
-        "Annie Potts",
-        "Emily Osment",
-        "Jim Parsons"
-      ],
-      "rank": 10,
-      "id": "tt6226232",
-      "name": "El joven Sheldon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
-      "rating": 8,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

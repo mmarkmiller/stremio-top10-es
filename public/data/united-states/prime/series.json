@@ -2,14 +2,15 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "genres": [
         "Misterio",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
@@ -27,71 +28,9 @@
       "rank": 1,
       "id": "tt11540908",
       "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.323,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
-      "director": [],
-      "cast": [
-        "Maria Sten",
-        "Greyston Holt",
-        "Adeline Rudolph",
-        "Matthew Del Negro",
-        "Damon Herriman",
-        "Jasper Jones",
-        "Emily Mitchell"
-      ],
-      "rank": 2,
-      "id": "tt33539520",
-      "name": "Neagley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.13,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
-      "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
-      ],
-      "rank": 3,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.136,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -119,12 +58,74 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "rating": 8.1,
       "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+      "director": [],
+      "cast": [
+        "Maria Sten",
+        "Greyston Holt",
+        "Adeline Rudolph",
+        "Matthew Del Negro",
+        "Damon Herriman",
+        "Jasper Jones",
+        "Emily Mitchell"
+      ],
+      "rank": 3,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "rating": 8.118,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "director": [],
+      "cast": [
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
+      ],
+      "rank": 4,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.136,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -163,28 +164,114 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Carrie Wells tiene hipertimesia, es decir, puede recordarlo todo hasta el último detalle. Todo, salvo las claves que ayudarían a resolver el misterioso asesinato de su hermana. Así, Carrie utilizará su don para ayudar a resolver crímenes mientras intenta desbloquear los recuerdos que harán avanzar el caso de su hermana.",
+      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
       "genres": [
         "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wyzcC1X3UOmkKVw1BuDaOKc2pTW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/j1Omd5YE9oeg7mMA67X2JEgg3N6.png",
+      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
       "director": [],
       "cast": [
-        "Poppy Montgomery",
-        "Dylan Walsh",
-        "James Hiroyuki Liao",
-        "E.J. Bonilla",
-        "La La Anthony"
+        "Jason Beghe",
+        "Marina Squerciati",
+        "Patrick John Flueger",
+        "Benjamin Levy Aguilar",
+        "Arienne Mandi",
+        "Amy Morton"
       ],
       "rank": 6,
-      "id": "tt1842530",
-      "name": "Imborrable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y4WjnhdLj0Sg9PycTK6lk9qcznf.jpg",
-      "rating": 7.2,
-      "year": 2011,
+      "id": "tt2805096",
+      "name": "Chicago P.D.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "rating": 8.421,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Connie Britton",
+        "Aimee Teegarden",
+        "Michael B. Jordan",
+        "Jurnee Smollett-Bell",
+        "Dora Madison",
+        "Grey Damon",
+        "Matt Lauria"
+      ],
+      "rank": 7,
+      "id": "tt0758745",
+      "name": "Friday Night Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+      "rating": 8,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Para salvar a su familia, Perséfone se casa con un duque frío y distante, sin imaginar que despertaría un amor que podría cambiarlos a ambos para siempre.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/x0zAZmhH4Pbo6PctR5WzWoJ7SAV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Ac42oCOOZFCfrprxyq6DHWlJ0Dp.png",
+      "director": [],
+      "cast": [
+        "Ryann Bailey",
+        "Jake Stormoen",
+        "Toby-Alexander Smith",
+        "Wynne Potts"
+      ],
+      "rank": 8,
+      "id": "tt29666911",
+      "name": "En busca de Perséfone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+      "rating": 8.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
+      "director": [],
+      "cast": [
+        "Jared Padalecki",
+        "Jensen Ackles",
+        "Misha Collins"
+      ],
+      "rank": 9,
+      "id": "tt0460681",
+      "name": "Sobrenatural",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "rating": 8.315,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -211,7 +298,7 @@
         "Liza Weil",
         "Sean Gunn"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt0238784",
       "name": "Las chicas Gilmore",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
@@ -222,88 +309,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Connie Britton",
-        "Aimee Teegarden",
-        "Michael B. Jordan",
-        "Jurnee Smollett-Bell",
-        "Dora Madison",
-        "Grey Damon",
-        "Matt Lauria"
-      ],
-      "rank": 8,
-      "id": "tt0758745",
-      "name": "Friday Night Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "rating": 8,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/npoAJkghXU2B6XCDJ35yzV8Pnx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/73HD5p4XZNRcAM5X2i0noFFDtUO.png",
-      "director": [],
-      "cast": [],
-      "rank": 9,
-      "id": "tt31719701",
-      "name": "Drink: A Look Inside the Glass",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ro93qabEjEcfnhgOzWS7Iv87Idd.jpg",
-      "rating": 1,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
-      "director": [],
-      "cast": [
-        "Jared Padalecki",
-        "Jensen Ackles",
-        "Misha Collins"
-      ],
-      "rank": 10,
-      "id": "tt0460681",
-      "name": "Sobrenatural",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
-      "rating": 8.3,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

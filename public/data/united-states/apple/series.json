@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,40 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.36,
+      "rating": 8.362,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "director": [],
+      "cast": [
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas",
+        "Hugo Weaving",
+        "Saskia Reeves",
+        "Christopher Chung",
+        "Aimee-Ffion Edwards"
+      ],
+      "rank": 2,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "rating": 8.044,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,44 +89,12 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.1,
+      "rating": 8.231,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
-      "director": [],
-      "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
-      ],
-      "rank": 3,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.044,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -126,7 +126,7 @@
       "id": "tt6037988",
       "name": "Causa abierta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 7.726,
+      "rating": 7.648,
       "year": 2026,
       "days": null,
       "trend": {
@@ -157,38 +157,7 @@
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.007,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
-      "director": [],
-      "cast": [
-        "Matthew McConaughey",
-        "Woody Harrelson",
-        "Natalie Martinez",
-        "Brittany Ishibashi",
-        "Nolan Almeida",
-        "Ella Grace Helton",
-        "Noah Carganilla",
-        "Highdee Kuan"
-      ],
-      "rank": 6,
-      "id": "tt6773088",
-      "name": "Brothers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 8.2,
+      "rating": 8.005,
       "year": 2026,
       "days": null,
       "trend": {
@@ -215,12 +184,43 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
       "rating": 7.8,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "director": [],
+      "cast": [
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Natalie Martinez",
+        "Brittany Ishibashi",
+        "Nolan Almeida",
+        "Ella Grace Helton",
+        "Noah Carganilla",
+        "Highdee Kuan"
+      ],
+      "rank": 7,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,7 +251,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.222,
+      "rating": 8.225,
       "year": 2023,
       "days": null,
       "trend": {
@@ -261,27 +261,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
+      "description": "Vive la escalofriante historia del caso poltergeist más famoso del mundo a través de las grabaciones de audio originales hechas dentro de la casa mientras sucedían los hechos.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fTD5udVc8zo9chXh0KrH86lOtmZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqSksbxVbM3pHRRFCTP3P86L6q8.png",
       "director": [],
       "cast": [
-        "Anya Taylor-Joy",
-        "Annette Bening",
-        "Clifton Collins Jr.",
-        "Aunjanue Ellis-Taylor",
-        "Timothy Olyphant"
+        "Olivia Booth-Ford",
+        "Christos Lawton",
+        "Daniel Lee",
+        "Paula Benson",
+        "Charlotte Miller",
+        "Anthony Ilott"
       ],
       "rank": 9,
-      "id": "tt34866681",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
-      "rating": 7.308,
-      "year": 2026,
+      "id": "tt21377088",
+      "name": "El poltergeist de Enfield",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PW4qAXDgJ6DyOfNxN4dL5kvBI6.jpg",
+      "rating": 6.3,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,24 +290,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qlQdtKyyjkq3kv5hHZeEcVrttvh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "Owen Wilson",
+        "Peter Dager",
+        "Lilli Kay",
+        "Mariana Treviño",
+        "Marc Maron",
+        "Rhea Seehorn"
       ],
       "rank": 10,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.9,
+      "id": "tt31710249",
+      "name": "Sticks: Cracks del golf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
+      "rating": 7.3,
       "year": 2025,
       "days": null,
       "trend": {
@@ -317,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

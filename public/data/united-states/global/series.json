@@ -2,14 +2,15 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "genres": [
         "Misterio",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
@@ -27,8 +28,39 @@
       "rank": 1,
       "id": "tt11540908",
       "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.323,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 2,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,11 +88,11 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.36,
+      "rating": 8.362,
       "year": 2020,
       "days": null,
       "trend": {
@@ -85,11 +117,45 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.078,
+      "rating": 8.137,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
+      "director": [],
+      "cast": [
+        "Saheli Khan",
+        "Aishwarya 'Aishu' Devan",
+        "Akshay Khanna",
+        "Major Curda",
+        "Sakina Jaffrey",
+        "Darren Barnet",
+        "Dianne Doan",
+        "Dee Bradley Baker"
+      ],
+      "rank": 5,
+      "id": "tt35854736",
+      "name": "Avatar: Los Siete Refugios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lrWh0pKLjPKfNkuUhQV1bhbruEP.jpg",
+      "rating": 9.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -113,11 +179,74 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.323,
+      "rating": 8.307,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "director": [],
+      "cast": [
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas",
+        "Hugo Weaving",
+        "Saskia Reeves",
+        "Christopher Chung",
+        "Aimee-Ffion Edwards"
+      ],
+      "rank": 7,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "rating": 8.044,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
+      "director": [],
+      "cast": [
+        "Dominic West",
+        "Sienna Miller",
+        "Phoebe Fox",
+        "James McArdle",
+        "Nina Sosanya",
+        "Pip Torrens",
+        "Archie Renaux",
+        "Emma Laird"
+      ],
+      "rank": 8,
+      "id": "tt37972251",
+      "name": "WAR",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -146,11 +275,11 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.1,
+      "rating": 8.231,
       "year": 2026,
       "days": null,
       "trend": {
@@ -160,152 +289,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "description": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los episodios son usualmente \"sacados de los titulares\" o basados libremente en verdaderos asesinatos que han recibido la atención de los medios.",
       "genres": [
         "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
       "director": [],
       "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
-      ],
-      "rank": 6,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.044,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png",
-      "director": [],
-      "cast": [
-        "Steven Weber",
-        "Jessy Schram",
-        "Luke Mitchell",
-        "Sarah Ramos",
-        "Darren Barnet",
-        "S. Epatha Merkerson",
-        "Oliver Platt"
-      ],
-      "rank": 7,
-      "id": "tt4655480",
-      "name": "Chicago Med",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
-      "rating": 8.3,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
-      "director": [],
-      "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts"
-      ],
-      "rank": 8,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
-      "director": [],
-      "cast": [
-        "Dominic West",
-        "Sienna Miller",
-        "Phoebe Fox",
-        "James McArdle",
-        "Nina Sosanya",
-        "Pip Torrens",
-        "Archie Renaux",
-        "Emma Laird"
-      ],
-      "rank": 9,
-      "id": "tt37972251",
-      "name": "WAR",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6tKY8AvGrO5zh2WdaQyQf610Cf8.png",
-      "director": [],
-      "cast": [
-        "Tom Hardy",
-        "Pierce Brosnan",
-        "Paddy Considine",
-        "Joanne Froggatt",
-        "Lara Pulver",
-        "Anson Boon",
-        "Mandeep Dhillon",
-        "Jasmine Jobson"
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
       ],
       "rank": 10,
-      "id": "tt31510819",
-      "name": "Tierra de mafiosos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.479,
-      "year": 2025,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+      "rating": 7.955,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -314,5 +321,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
+      "runtime": "123 min",
+      "director": [
+        "Dylan Southern",
+        "Will Lovelace"
+      ],
+      "cast": [
+        "Liam Gallagher",
+        "Noel Gallagher",
+        "Paul Arthurs",
+        "Gem Archer",
+        "Andy Bell",
+        "Joey Waronker",
+        "Christian Madden",
+        "Anaïs Gallagher"
+      ],
+      "rank": 1,
+      "id": "tt36150957",
+      "name": "Oasis: Don't Look Back in Anger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -29,11 +65,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.3,
+      "rating": 8.298,
       "year": 2026,
       "days": null,
       "trend": {
@@ -43,70 +79,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "runtime": "99 min",
+      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
+      "runtime": "148 min",
       "director": [
-        "Kate Dolan"
+        "Jon Watts"
       ],
       "cast": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Sydney Blackburn",
-        "Isabelle Bonfrer"
-      ],
-      "rank": 2,
-      "id": "tt32654916",
-      "name": "Soulm8te",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
-      "rating": 7.502,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch",
+        "Jacob Batalon",
+        "Jon Favreau",
+        "Jamie Foxx",
+        "Willem Dafoe",
+        "Alfred Molina"
       ],
       "rank": 3,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
-      "year": 1998,
+      "id": "tt10872600",
+      "name": "Spider-Man: No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+      "rating": 7.947,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -151,78 +151,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xxf5uKSYSCaAZwBMe6yqEcPaz0p.png",
-      "runtime": "110 min",
-      "director": [
-        "David Bruckner"
-      ],
-      "cast": [
-        "Rebecca Hall",
-        "Sarah Goldberg",
-        "Vondie Curtis-Hall",
-        "Evan Jonigkeit",
-        "Stacy Martin",
-        "David Abeles",
-        "Christina Jackson",
-        "Patrick Klein"
-      ],
-      "rank": 5,
-      "id": "tt9731534",
-      "name": "La casa oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s6nLBypiujQQMBBfgJJAWleoWw1.jpg",
-      "rating": 6.55,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de investigadores submarinos debe ponerse a salvo después de que un terremoto destroce por completo el laboratorio subterráneo en el que trabajaban.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fYPiQewg7ogbzro2XcCTACSB2KC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w1AqwdCrm1LPnr3r8os49IWEOO1.png",
-      "runtime": "94 min",
-      "director": [
-        "William Eubank"
-      ],
-      "cast": [
-        "Kristen Stewart",
-        "Vincent Cassel",
-        "Mamoudou Athie",
-        "T.J. Miller",
-        "John Gallagher Jr.",
-        "Jessica Henwick",
-        "Gunner Wright",
-        "Fiona Rene"
-      ],
-      "rank": 6,
-      "id": "tt5774060",
-      "name": "Underwater",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xx6i7QlMPYaMaQaVnJxmK99P6l5.jpg",
-      "rating": 6.3,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
       "genres": [
         "Comedia",
@@ -245,7 +173,7 @@
         "Susan May Pratt",
         "Gabrielle Union"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
@@ -259,36 +187,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
       "genres": [
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Historia",
-        "Bélica"
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcyz89Ues6pi1QoDzhFN4YlXkqq.png",
-      "runtime": "144 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "runtime": "99 min",
       "director": [
-        "Ridley Scott"
+        "Kate Dolan"
       ],
       "cast": [
-        "Orlando Bloom",
-        "Eva Green",
-        "Jeremy Irons",
-        "David Thewlis",
-        "غسان مسعود",
-        "Liam Neeson",
-        "Brendan Gleeson",
-        "Marton Csokas"
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Sydney Blackburn",
+        "Isabelle Bonfrer"
       ],
-      "rank": 8,
-      "id": "tt0320661",
-      "name": "El reino de los cielos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
-      "rating": 7.1,
-      "year": 2005,
+      "rank": 6,
+      "id": "tt32654916",
+      "name": "Soulm8te",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 7,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.815,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -318,7 +280,7 @@
         "Lucy Liu",
         "Tracie Thoms"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt33612209",
       "name": "El diablo viste de Prada 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
@@ -332,32 +294,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "description": "En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino.",
       "genres": [
-        "Drama"
+        "Misterio",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qB9wshRySHgN2MibLOlsW6YalqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qDMNNs4osLyHzCSGT1IcY2dwitl.png",
+      "runtime": "104 min",
       "director": [
-        "Peter Weir"
+        "Kenneth Branagh"
       ],
       "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
+        "Kenneth Branagh",
+        "Kyle Allen",
+        "Camille Cottin",
+        "Jamie Dornan",
+        "Tina Fey",
+        "Jude Hill",
+        "Ali Khan",
+        "Emma Laird"
+      ],
+      "rank": 9,
+      "id": "tt22687790",
+      "name": "Misterio en Venecia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
+      "rating": 6.563,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
+      "runtime": "179 min",
+      "director": [
+        "Peter Jackson"
+      ],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler",
+        "Christopher Lee",
+        "Sean Bean"
       ],
       "rank": 10,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
-      "year": 1989,
+      "id": "tt0120737",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "rating": 8.4,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +366,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

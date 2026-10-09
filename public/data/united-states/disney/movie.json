@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -33,7 +33,7 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.3,
+      "rating": 8.298,
       "year": 2026,
       "days": null,
       "trend": {
@@ -151,42 +151,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
-      "runtime": "148 min",
-      "director": [
-        "Jon Watts"
-      ],
-      "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Benedict Cumberbatch",
-        "Jacob Batalon",
-        "Jon Favreau",
-        "Jamie Foxx",
-        "Willem Dafoe",
-        "Alfred Molina"
-      ],
-      "rank": 5,
-      "id": "tt10872600",
-      "name": "Spider-Man: No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
-      "rating": 7.9,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
       "genres": [
         "Fantasía",
@@ -209,11 +173,11 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.8,
+      "rating": 7.847,
       "year": 1993,
       "days": null,
       "trend": {
@@ -223,105 +187,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante la Edad Media, la pequeña Danielle, huérfana de madre, ha encontrado en los libros y en el amor de su padre el refugio ideal, pero tras su trágica muerte se convierte siendo una niña en la criada de su nueva madrastra. Por si fuera poco, sus dos hermanastras son realmente crueles con ella. Con el tiempo Danielle crece y se convierte en una damisela cuyo destino se cruzará fortuitamente con el príncipe Henry.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lhpokM60CnLWcNETQqKMz2q9ryL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qfvZuUi0VVlipnp9gbFPy5Eca6I.png",
-      "runtime": "121 min",
-      "director": [
-        "Andy Tennant"
-      ],
-      "cast": [
-        "Drew Barrymore",
-        "Anjelica Huston",
-        "Dougray Scott",
-        "Patrick Godfrey",
-        "Megan Dodds",
-        "Melanie Lynskey",
-        "Timothy West",
-        "Judy Parfitt"
-      ],
-      "rank": 7,
-      "id": "tt0120631",
-      "name": "Por siempre jamás: Una historia de Cenicienta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yOk1LP4qZoRzXEHUSunBIJaBLcX.jpg",
-      "rating": 7.5,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 8,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alex es un niño británico de doce años cuyos problemas diarios pasan a un segundo plano cuando descubre la mítica espada Excalibur. Ahora, con la espada más poderosa de la historia en manos del estudiante más desvalido de Inglaterra, una aventura épica comienza toda vez que Alex y sus amigos tendrán que contener a una villana medieval de nombre Morgana, quien está empecinada en destruir el mundo.",
+      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
       "genres": [
         "Acción",
         "Aventura",
-        "Fantasía",
-        "Familia"
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jmbgxBd86MshzQQvv5laKvOKoMm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nVgw29GHy4D97IugJBDII4gRdtF.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
+      "runtime": "148 min",
       "director": [
-        "Joe Cornish"
+        "Jon Watts"
       ],
       "cast": [
-        "Louis Ashbourne Serkis",
-        "Dean Chaumoo",
-        "Tom Taylor",
-        "Rhianna Dorris",
-        "Denise Gough",
-        "Angus Imrie",
-        "Patrick Stewart",
-        "Rebecca Ferguson"
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch",
+        "Jacob Batalon",
+        "Jon Favreau",
+        "Jamie Foxx",
+        "Willem Dafoe",
+        "Alfred Molina"
       ],
-      "rank": 9,
-      "id": "tt6811018",
-      "name": "El niño que pudo ser rey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fe1e9mKeoHf6stqUBBFZ1JKtJET.jpg",
-      "rating": 6.2,
-      "year": 2019,
+      "rank": 6,
+      "id": "tt10872600",
+      "name": "Spider-Man: No Way Home",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+      "rating": 7.947,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -352,12 +245,85 @@
         "André Roussimoff",
         "Fred Savage"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt0093779",
       "name": "La princesa prometida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
-      "rating": 7.71,
+      "rating": 7.7,
       "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zWeN6tQPRYztSyUDeo1FfrXg6Ta.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
+      "runtime": "87 min",
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "George Clooney",
+        "Meryl Streep",
+        "Jason Schwartzman",
+        "Eric Chase Anderson",
+        "Wallace Wolodarsky",
+        "Willem Dafoe",
+        "Michael Gambon",
+        "Robin Hurlstone"
+      ],
+      "rank": 9,
+      "id": "tt0432283",
+      "name": "Fantástico Sr. Fox",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2B2IcoSMpOa64Yw8DDtGzXdS4vl.jpg",
+      "rating": 7.828,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
+      ],
+      "rank": 10,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.6,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +332,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

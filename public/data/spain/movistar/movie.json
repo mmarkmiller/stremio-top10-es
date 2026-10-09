@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt0093437",
       "name": "Jóvenes ocultos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
-      "rating": 7.117,
+      "rating": 7.116,
       "year": 1987,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt1285016",
       "name": "La red social",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.377,
+      "rating": 7.4,
       "year": 2010,
       "days": null,
       "trend": {
@@ -76,69 +76,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Controvertido y célebre flim sobre un clérigo, en la Francia del XVII, acusado de herejía. Basada libremente en hechos reales ocurridos en el convento de Laudun, en Francia, en el que supuestamente unas  monjas Ursulinas fueron poseídas por el diablo en 1634.",
+      "description": "El mundo ha cambiado. El único lugar habitable que le queda a la humanidad se encuentra en las altas montañas, a más de 2500 metros de altura. Por debajo de esos 2500 metros, habitan las criaturas que exterminaron al 95 % de la población humana hace menos de tres años. Para salvar la vida de su hijo pequeño, un padre (Anthony Mackie) se ve obligado a aventurarse bajo 'La Línea' con una científica (Morena Baccarin) a la que desprecia, pero que podría tener la clave para derrotar a los monstruos, y una joven (Maddie Hasson) decidida a mantenerlos con vida el tiempo suficiente para salvar a la raza humana.",
       "genres": [
-        "Drama",
-        "Historia",
-        "Terror"
+        "Acción",
+        "Ciencia ficción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BSsugMxJGCRWD8qxqBPWhH71H3.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wWGesUsp8OdqYuT3N7wZp3omMwV.png",
+      "runtime": "91 min",
       "director": [
-        "Ken Russell"
+        "George Nolfi"
       ],
       "cast": [
-        "Vanessa Redgrave",
-        "Oliver Reed",
-        "Dudley Sutton",
-        "Max Adrian",
-        "Gemma Jones",
-        "Murray Melvin",
-        "Michael Gothard",
-        "Georgina Hale"
+        "Anthony Mackie",
+        "Morena Baccarin",
+        "Maddie Hasson",
+        "Danny Boyd Jr.",
+        "Rachel Nicks",
+        "Shauna Earp",
+        "Tyler Grey",
+        "Drexel Malkoff"
       ],
       "rank": 3,
-      "id": "tt0066993",
-      "name": "Los demonios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJIx17hCWq3CEhc8UzioBngrMJc.jpg",
-      "rating": 7.5,
-      "year": 1971,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 4,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.266,
-      "year": 2025,
+      "id": "tt23558280",
+      "name": "Línea de extinción",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymi9oxpJ9oaiHJtDOSO5J6ssk6Q.jpg",
+      "rating": 6.426,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,12 +134,48 @@
         "Henry Golding",
         "Tom Wu"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt8367814",
       "name": "The Gentlemen: Los señores de la mafia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.657,
+      "rating": 7.7,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
+      ],
+      "rank": 5,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.6,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -217,66 +218,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La historia de uno de los litigios más surrealistas de nuestra historia reciente y un análisis del fenómeno Chiquito y su repercusión social en una España que, en un contexto de crisis, encontró refugio en su universo surrealista.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
-        "Documental"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4snmRbcUjfwDiJN8Qqne5O9on7L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5zfIvDS34u36wUkwnunpgy8iC5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Javier Morales Pérez",
-        "Juan Zavala"
+        "Zach Cregger"
       ],
       "cast": [
-        "Chiquito de la Calzada",
-        "Mar Abad",
-        "Manuel Campo Vidal",
-        "Xosé Castro",
-        "Mario Conde",
-        "Mariola Cubells",
-        "Florentino Fernández",
-        "Ramón García"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 7,
-      "id": "tt43675412",
-      "name": "El otro Chiquito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mhm3BO8kpFn7DLTleIJLAd55xjn.jpg",
-      "rating": 7.25,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
-      "genres": [
-        "Historia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
-      "runtime": "150 min",
-      "director": [
-        "James Vanderbilt"
-      ],
-      "cast": [
-        "Rami Malek",
-        "Russell Crowe",
-        "Michael Shannon",
-        "Leo Woodall",
-        "John Slattery",
-        "Richard E. Grant",
-        "Mark O'Brien",
-        "Colin Hanks"
-      ],
-      "rank": 8,
-      "id": "tt29567915",
-      "name": "Núremberg",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
-      "rating": 7.601,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.265,
       "year": 2025,
       "days": null,
       "trend": {
@@ -286,32 +253,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
+      "description": "John Constantine ha estado en el infierno y ha vuelto. Nació con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios que andan por la tierra bajo un aspecto humano, Constantine se vio empujado al suicido para escapar de la atormentadora claridad de su visión. Pero fracasó. Ahora, marcado por su intento de suicidio, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse el camino a la salvación enviando a los esbirros de Luciffer de vuelta al averno. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que subyace justo bajo el paisaje de la actual ciudad de Los Angeles. Atrapados en una catastrófica serie de acontecimientos sobrenaturales, los dos se encuentran inextricablemente involucrados y tratan de encontrar su propia paz a cualquier precio.",
       "genres": [
-        "Western"
+        "Fantasía",
+        "Acción",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rvRGFevvZK48onX0PYI1eQLbuJd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/68SVakAGEqw6B5MBf7tcI4r6d23.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png",
+      "runtime": "121 min",
       "director": [
-        "Clint Eastwood"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Clint Eastwood",
-        "Gene Hackman",
-        "Morgan Freeman",
-        "Jaimz Woolvett",
-        "Richard Harris",
-        "Saul Rubinek",
-        "Frances Fisher",
-        "Anna Thomson"
+        "Keanu Reeves",
+        "Rachel Weisz",
+        "Shia LaBeouf",
+        "Djimon Hounsou",
+        "Max Baker",
+        "Pruitt Taylor Vince",
+        "Gavin Rossdale",
+        "Tilda Swinton"
       ],
-      "rank": 9,
-      "id": "tt0105695",
-      "name": "Sin perdón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhcVwMko4DbSELZapIQv4mmdPKY.jpg",
-      "rating": 7.913,
-      "year": 1992,
+      "rank": 8,
+      "id": "tt0360486",
+      "name": "Constantine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg",
+      "rating": 7.212,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,34 +289,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "description": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
       "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
+        "Misterio",
+        "Suspense",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k67puWhDpttf1df89EtVUc5banO.png",
+      "runtime": "95 min",
       "director": [
-        "Gil Junger"
+        "Genki Kawamura"
       ],
       "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "二宮和也",
+        "河内大和",
+        "浅沼成",
+        "花瀬琴音",
+        "小松菜奈",
+        "大塚ヒロタ",
+        "中島多羅",
+        "曽田怜央"
+      ],
+      "rank": 9,
+      "id": "tt35222590",
+      "name": "Exit 8",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqlgMvy1d5jIbIE6SPlJq724htT.jpg",
+      "rating": 7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de que un grupo de activistas se apodere de la gala anual de una compañía energética para denunciar su corrupción, su justa causa es secuestrada por un extremista dispuesto a asesinar a las 300 personas presentes en el edificio para transmitir su mensaje anárquico. Una ex soldado convertida en limpiacristales, suspendida 50 pisos en el exterior del rascacielos londinense, es la encargada de intentar salvar a los que están atrapados dentro, incluido su hermano pequeño.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2TtpJq1PbeQ36E5FnHVX4O6hVvu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rX6jL8ES0qEFBVoqDh0cXWLVYRi.png",
+      "runtime": "97 min",
+      "director": [
+        "Martin Campbell"
+      ],
+      "cast": [
+        "Daisy Ridley",
+        "Taz Skylar",
+        "Clive Owen",
+        "Flavia Watson",
+        "Ray Fearon",
+        "Rufus Jones",
+        "Lee Boardman",
+        "Matthew Tuck"
       ],
       "rank": 10,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
-      "year": 1999,
+      "id": "tt27812086",
+      "name": "Cleaner: Rescate vertical",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c01Y0dVtHiG8tvIiYRkpX0wcESA.jpg",
+      "rating": 6.6,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -356,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }

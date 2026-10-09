@@ -2,8 +2,36 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202610082054",
+  "date": "202610092023",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skTxhiqjhfo5nXDDX4VeKT6Zkdf.png",
+      "director": [],
+      "cast": [
+        "Omar Ayuso",
+        "Laia Marull",
+        "Valentina Vidal",
+        "Raúl Arévalo"
+      ],
+      "rank": 1,
+      "id": "tt39216741",
+      "name": "El Castillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iau1TwNnvKsS2L8B3QkbGO6zzJb.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El vídeo viral de un grupo de música pop cristiana compuesto por varias hermanas impacta en la vida de Enric: un hombre atormentado por una infancia marcada por el fanatismo religioso y el yugo de una madre con delirios mesiánicos.",
@@ -23,101 +51,12 @@
         "Amaia Romero",
         "Biel Rossell"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt20096840",
       "name": "La mesías",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
       "rating": 7.5,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 2,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.823,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
-      "director": [],
-      "cast": [
-        "Taylor Kinney",
-        "David Eigenberg",
-        "Christian Stolte",
-        "Miranda Rae Mayo",
-        "Hanako Greensmith",
-        "Jocelyn Hudon",
-        "Brandon Larracuente",
-        "Da'Vinchi"
-      ],
-      "rank": 3,
-      "id": "tt2261391",
-      "name": "Chicago Fire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-      "rating": 8.409,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
-      "director": [],
-      "cast": [
-        "Juno Temple",
-        "Jennifer Jason Leigh",
-        "David Rysdahl",
-        "Joe Keery",
-        "Lamorne Morris",
-        "Richa Shukla Moorjani",
-        "Sam Spruell",
-        "Sienna King"
-      ],
-      "rank": 4,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.3,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -143,11 +82,192 @@
         "Roque Ruiz",
         "Amaia Salamanca"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt29614148",
       "name": "Muertos S.L.",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
-      "rating": 7.343,
+      "rating": 7.3,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
+      "director": [],
+      "cast": [
+        "Taylor Kinney",
+        "David Eigenberg",
+        "Christian Stolte",
+        "Miranda Rae Mayo",
+        "Hanako Greensmith",
+        "Jocelyn Hudon",
+        "Brandon Larracuente",
+        "Da'Vinchi"
+      ],
+      "rank": 4,
+      "id": "tt2261391",
+      "name": "Chicago Fire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "rating": 8.4,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Arca tiene lugar 100 años en el futuro cuando las misiones de colonización planetaria han comenzado como una necesidad para ayudar a asegurar la supervivencia de la raza humana. La primera de estas misiones en una nave espacial conocida como Ark One se encuentra con un evento catastrófico que causa destrucción masiva y pérdida de vidas. Con más de un año antes de llegar a su planeta objetivo, la falta de suministros vitales y la pérdida de liderazgo, la tripulación restante debe convertirse en la mejor versión de sí misma para mantener el rumbo y sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nUEcobWsTpvOh23US0MRZXIU8jt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUN37H8RAKWZSpiaK1J0HD9zMFr.png",
+      "director": [],
+      "cast": [
+        "Christie Burke",
+        "Richard Fleeshman",
+        "Stacey Read",
+        "Ryan Adams",
+        "Pavle Jerinić",
+        "Shalini Peiris",
+        "Tiana Upcheva"
+      ],
+      "rank": 5,
+      "id": "tt17371078",
+      "name": "The Ark",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gJjLi7qTheqjn2UJHOUlGPxcH7t.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/41neXsH222hV2zrsTyw8h7javon.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
+      "director": [],
+      "cast": [
+        "Trey Parker",
+        "Matt Stone",
+        "Mona Marshall",
+        "Jennifer Howell"
+      ],
+      "rank": 6,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "rating": 8.3,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 7,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.825,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "director": [],
+      "cast": [
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
+      ],
+      "rank": 8,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.5,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png",
+      "director": [],
+      "cast": [
+        "Kaitlin Olson",
+        "Daniel Sunjata",
+        "Judy Reyes",
+        "Javicia Leslie",
+        "Deniz Akdeniz",
+        "Amirah J",
+        "Matthew Lamb"
+      ],
+      "rank": 9,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.2,
       "year": 2024,
       "days": null,
       "trend": {
@@ -173,7 +293,7 @@
         "Laurie Kynaston",
         "Jordan Bolger"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt36789130",
       "name": "Creednos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
@@ -184,131 +304,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
-      "director": [],
-      "cast": [
-        "Caitríona Balfe",
-        "Sam Heughan",
-        "Sophie Skelton",
-        "Richard Rankin",
-        "John Bell",
-        "David Berry",
-        "Charles Vandervaart",
-        "Izzy Meikle-Small"
-      ],
-      "rank": 7,
-      "id": "tt3006802",
-      "name": "Outlander",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
-      "rating": 8.199,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png",
-      "director": [],
-      "cast": [
-        "Iain Armitage",
-        "Zoe Perry",
-        "Lance Barber",
-        "Montana Jordan",
-        "Raegan Revord",
-        "Annie Potts",
-        "Emily Osment",
-        "Jim Parsons"
-      ],
-      "rank": 8,
-      "id": "tt6226232",
-      "name": "El joven Sheldon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
-      "rating": 8,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie Wells tiene hipertimesia, es decir, puede recordarlo todo hasta el último detalle. Todo, salvo las claves que ayudarían a resolver el misterioso asesinato de su hermana. Así, Carrie utilizará su don para ayudar a resolver crímenes mientras intenta desbloquear los recuerdos que harán avanzar el caso de su hermana.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wyzcC1X3UOmkKVw1BuDaOKc2pTW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/j1Omd5YE9oeg7mMA67X2JEgg3N6.png",
-      "director": [],
-      "cast": [
-        "Poppy Montgomery",
-        "Dylan Walsh",
-        "James Hiroyuki Liao",
-        "E.J. Bonilla",
-        "La La Anthony"
-      ],
-      "rank": 9,
-      "id": "tt1842530",
-      "name": "Imborrable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y4WjnhdLj0Sg9PycTK6lk9qcznf.jpg",
-      "rating": 7.2,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando el agente especial del FBI Bill Goodman (Nick Gehlfuss), que sigue las reglas, es asignado a un grupo de trabajo clandestino de la CIA y el FBI, se ve obligado a colaborar con el reservado y pícaro oficial de la CIA, Colin Glass (Tom Ellis). Juntos realizarán operaciones encubiertas en Nueva York, destapando complots internacionales, células terroristas y secretos geopolíticos. En la CIA, Bill aprenderá sobre la marcha las reglas de este turbio mundo mientras Colin lo guía a lo más profundo de los juegos de espionaje donde solo una cosa está clara: su trabajo mantiene a Estados Unidos a salvo, incluso si nadie sabe jamás lo que hicieron en la sombra.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aygKfV5mOCA400S5gzebSIA4BVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/enUFBYILCUcrvtEg6EJXu37V0vR.png",
-      "director": [],
-      "cast": [
-        "Tom Ellis",
-        "Nick Gehlfuss",
-        "Natalee Linez",
-        "Necar Zadegan"
-      ],
-      "rank": 10,
-      "id": "tt35515227",
-      "name": "CIA",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-      "rating": 8.541,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-08T17:12:51.103Z"
+  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
 }
