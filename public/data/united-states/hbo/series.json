@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.307,
+      "rating": 8.304,
       "year": 2026,
       "days": null,
       "trend": {
@@ -65,6 +65,35 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
+      ],
+      "rank": 3,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
       "genres": [
         "Comedia"
@@ -81,7 +110,7 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
@@ -95,51 +124,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "description": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
       "genres": [
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
       "director": [],
       "cast": [
-        "Montana Jordan",
-        "Emily Osment"
-      ],
-      "rank": 4,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.01,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
-      "director": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
+        "Jérôme Niel",
+        "Yoann Gasiorowski",
+        "Magalie Lépine-Blondeau",
+        "Marie Oppert",
+        "Léo Chalié",
+        "Véronique Ruggia Saura",
+        "Guslagie Malanda",
+        "Salif Cissé"
       ],
       "rank": 5,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
-      "rating": 7.8,
+      "id": "tt40407840",
+      "name": "Paolo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EGhg689jbAO865qWs8AznalyWl.jpg",
+      "rating": 4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -170,7 +175,7 @@
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.735,
+      "rating": 8.7,
       "year": 2025,
       "days": null,
       "trend": {
@@ -211,6 +216,35 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "director": [],
+      "cast": [
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
+      ],
+      "rank": 8,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
       "genres": [
         "Sci-Fi & Fantasy",
@@ -230,42 +264,12 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.4,
+      "rating": 8.38,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-      "genres": [
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-      "director": [],
-      "cast": [
-        "Jérôme Niel",
-        "Yoann Gasiorowski",
-        "Magalie Lépine-Blondeau",
-        "Marie Oppert",
-        "Léo Chalié",
-        "Véronique Ruggia Saura",
-        "Guslagie Malanda",
-        "Salif Cissé"
-      ],
-      "rank": 9,
-      "id": "tt40407840",
-      "name": "Paolo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4EGhg689jbAO865qWs8AznalyWl.jpg",
-      "rating": 4,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,7 +297,7 @@
       "id": "tt0108778",
       "name": "Friends",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "rating": 8.407,
+      "rating": 8.4,
       "year": 1994,
       "days": null,
       "trend": {
@@ -303,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

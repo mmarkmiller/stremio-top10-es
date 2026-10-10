@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt36150957",
       "name": "Oasis: Don't Look Back in Anger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.5,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -69,44 +69,8 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.298,
+      "rating": 8.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
-      "runtime": "148 min",
-      "director": [
-        "Jon Watts"
-      ],
-      "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Benedict Cumberbatch",
-        "Jacob Batalon",
-        "Jon Favreau",
-        "Jamie Foxx",
-        "Willem Dafoe",
-        "Alfred Molina"
-      ],
-      "rank": 3,
-      "id": "tt10872600",
-      "name": "Spider-Man: No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
-      "rating": 7.947,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -137,82 +101,10 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
-      ],
-      "rank": 5,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "runtime": "99 min",
-      "director": [
-        "Kate Dolan"
-      ],
-      "cast": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Sydney Blackburn",
-        "Isabelle Bonfrer"
-      ],
-      "rank": 6,
-      "id": "tt32654916",
-      "name": "Soulm8te",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
       "rating": 7.5,
       "year": 2026,
       "days": null,
@@ -245,11 +137,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 7,
+      "rank": 4,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.815,
+      "rating": 6.813,
       "year": 1998,
       "days": null,
       "trend": {
@@ -280,11 +172,11 @@
         "Lucy Liu",
         "Tracie Thoms"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt33612209",
       "name": "El diablo viste de Prada 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7,
+      "rating": 7.044,
       "year": 2026,
       "days": null,
       "trend": {
@@ -294,34 +186,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino.",
+      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
       "genres": [
-        "Misterio",
-        "Suspense",
-        "Crimen"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qB9wshRySHgN2MibLOlsW6YalqD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qDMNNs4osLyHzCSGT1IcY2dwitl.png",
-      "runtime": "104 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
+      "runtime": "194 min",
       "director": [
-        "Kenneth Branagh"
+        "James Cameron"
       ],
       "cast": [
-        "Kenneth Branagh",
-        "Kyle Allen",
-        "Camille Cottin",
-        "Jamie Dornan",
-        "Tina Fey",
-        "Jude Hill",
-        "Ali Khan",
-        "Emma Laird"
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates",
+        "Frances Fisher",
+        "Gloria Stuart",
+        "Bill Paxton",
+        "Bernard Hill"
       ],
-      "rank": 9,
-      "id": "tt22687790",
-      "name": "Misterio en Venecia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
-      "rating": 6.563,
-      "year": 2023,
+      "rank": 6,
+      "id": "tt0120338",
+      "name": "Titanic",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
+      "rating": 7.9,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -330,34 +221,140 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
       "genres": [
-        "Aventura",
         "Fantasía",
-        "Acción"
+        "Animación",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
-      "runtime": "179 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
+      "runtime": "75 min",
       "director": [
-        "Peter Jackson"
+        "Henry Selick"
       ],
       "cast": [
-        "Elijah Wood",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "Sean Astin",
-        "Ian Holm",
-        "Liv Tyler",
-        "Christopher Lee",
-        "Sean Bean"
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 7,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.847,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "runtime": "99 min",
+      "director": [
+        "Kate Dolan"
+      ],
+      "cast": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Sydney Blackburn",
+        "Isabelle Bonfrer"
+      ],
+      "rank": 8,
+      "id": "tt32654916",
+      "name": "Soulm8te",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
+      "rating": 7.495,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
+      "runtime": "96 min",
+      "director": [
+        "Kenny Ortega"
+      ],
+      "cast": [
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Tobias Jelinek",
+        "Larry Bagby"
+      ],
+      "rank": 9,
+      "id": "tt0107120",
+      "name": "El retorno de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
+      "rating": 7.039,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
+      "runtime": "128 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston"
       ],
       "rank": 10,
-      "id": "tt0120737",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "rating": 8.4,
-      "year": 2001,
+      "id": "tt0097165",
+      "name": "El club de los poetas muertos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "rating": 8.295,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

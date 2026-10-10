@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.076,
       "year": 2011,
       "days": null,
       "trend": {
@@ -57,39 +57,7 @@
       "id": "tt36303968",
       "name": "Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.408,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
-      "director": [],
-      "cast": [
-        "Malina Weissman",
-        "Malachi Barton",
-        "Jordan Leftwich",
-        "Ora Duplass",
-        "Louis Thresher",
-        "Tiffani Thiessen",
-        "Devon Sawa"
-      ],
-      "rank": 3,
-      "id": "tt36064406",
-      "name": "Coven Academy: El hechizo de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-      "rating": 7.222,
+      "rating": 7.412,
       "year": 2026,
       "days": null,
       "trend": {
@@ -112,11 +80,11 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
+      "rating": 8.6,
       "year": 2005,
       "days": null,
       "trend": {
@@ -145,12 +113,44 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.752,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png",
+      "director": [],
+      "cast": [
+        "Kaitlin Olson",
+        "Daniel Sunjata",
+        "Judy Reyes",
+        "Javicia Leslie",
+        "Deniz Akdeniz",
+        "Amirah J",
+        "Matthew Lamb"
+      ],
+      "rank": 5,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.25,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -177,8 +177,72 @@
       "id": "tt33049767",
       "name": "Adults",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.401,
+      "rating": 6.418,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
+      "director": [],
+      "cast": [
+        "Malina Weissman",
+        "Malachi Barton",
+        "Jordan Leftwich",
+        "Ora Duplass",
+        "Louis Thresher",
+        "Tiffani Thiessen",
+        "Devon Sawa"
+      ],
+      "rank": 7,
+      "id": "tt36064406",
+      "name": "Coven Academy: El hechizo de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+      "rating": 7.321,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.153,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,7 +270,7 @@
         "Maddie Hasson",
         "Angel Parker"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt16030542",
       "name": "El nuevo empleado",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
@@ -220,86 +284,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "description": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los episodios son usualmente \"sacados de los titulares\" o basados libremente en verdaderos asesinatos que han recibido la atención de los medios.",
       "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/em2Jzx5QyBTVI7gKipCoE0kG4ot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
-      "director": [],
-      "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "Sarah Chalke",
-        "Ava Bunn"
-      ],
-      "rank": 8,
-      "id": "tt40197357",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-      "rating": 7.7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
-      "director": [],
-      "cast": [
-        "Josh Radnor",
-        "Neil Patrick Harris",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "rank": 9,
-      "id": "tt0460649",
-      "name": "Cómo conocí a vuestra madre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.116,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
+        "Crimen",
         "Drama",
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
       ],
       "rank": 10,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.2,
-      "year": 2022,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+      "rating": 7.956,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

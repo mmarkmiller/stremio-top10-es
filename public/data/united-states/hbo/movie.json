@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.01,
+      "rating": 7.009,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.2,
+      "rating": 7.255,
       "year": 2025,
       "days": null,
       "trend": {
@@ -172,7 +172,7 @@
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.815,
+      "rating": 6.813,
       "year": 1998,
       "days": null,
       "trend": {
@@ -209,8 +209,43 @@
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6SToEuWU2BCI1PRnMdpnzF5FaSW.jpg",
-      "rating": 7.9,
+      "rating": 7.941,
       "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 7,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.265,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,12 +276,46 @@
         "David Corenswet",
         "Kadiff Kirwan"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt8814476",
       "name": "Supergirl",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
       "rating": 6.7,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/OyrL7LifPjrj7eDm5FtF8qPH8R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/36ISV2Gj1JwwJwy6REviGiAVEKT.png",
+      "runtime": "91 min",
+      "director": [
+        "Wes Craven"
+      ],
+      "cast": [
+        "Heather Langenkamp",
+        "Johnny Depp",
+        "Robert Englund",
+        "Amanda Wyss",
+        "Jsu Garcia",
+        "John Saxon",
+        "Ronee Blakley",
+        "Charles Fleischer"
+      ],
+      "rank": 9,
+      "id": "tt0087800",
+      "name": "Pesadilla en Elm Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+      "rating": 7.356,
+      "year": 1984,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,7 +346,7 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
@@ -288,79 +357,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
-      "director": [
-        "Kristoffer Borgli"
-      ],
-      "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
-      ],
-      "rank": 9,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 10,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

@@ -2,37 +2,71 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
+        "Ciencia ficción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
       "director": [
-        "Sam Hargrave"
+        "Steven Spielberg"
       ],
       "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Sam Richardson",
-        "Arturo Castro",
-        "Teyonah Parris",
-        "Corey Stoll",
-        "Bill Camp",
-        "گلشیفته فراهانی"
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
       ],
       "rank": 1,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.295,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.447,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "rank": 2,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "rating": 7.133,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,11 +98,11 @@
         "Sarah Sherman",
         "Patrick Fischler"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt35298123",
       "name": "Adolescencia, sexo y muerte en campamento Miasma",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.229,
+      "rating": 6.198,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,11 +134,47 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.01,
+      "rating": 7.009,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
+      "runtime": "127 min",
+      "director": [
+        "Sam Hargrave"
+      ],
+      "cast": [
+        "John Cena",
+        "Jessica Biel",
+        "Sam Richardson",
+        "Arturo Castro",
+        "Teyonah Parris",
+        "Corey Stoll",
+        "Bill Camp",
+        "گلشیفته فراهانی"
+      ],
+      "rank": 5,
+      "id": "tt28498219",
+      "name": "Matchbox: La película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "rating": 7.643,
       "year": 2026,
       "days": null,
       "trend": {
@@ -135,80 +205,12 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.2,
+      "rating": 8.179,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una camionera dura entrena a su mejor amiga femenina para competir en el Campeonato Nacional de Lucha Libre de Brazo Femenino.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m2y1YIukPM5Shvb6VxbUejgcScX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6ROWhHP49cG14sE0l9xfwA6EKTK.png",
-      "runtime": "91 min",
-      "director": [
-        "Maureen Bharoocha"
-      ],
-      "cast": [
-        "Betsy Sodaro",
-        "Mary Holland",
-        "Olivia Stambouliah",
-        "Eugene Cordero",
-        "Aparna Nancherla",
-        "Dawn Luebbe",
-        "Ron Funches",
-        "Ahmed Bharoocha"
-      ],
-      "rank": 5,
-      "id": "tt9572534",
-      "name": "Brazo de oro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
-      "rating": 5.4,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
-      "runtime": "120 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Jesse Eisenberg",
-        "Andrew Garfield",
-        "Armie Hammer",
-        "Justin Timberlake",
-        "Rooney Mara",
-        "Max Minghella",
-        "Brenda Song",
-        "Josh Pence"
-      ],
-      "rank": 6,
-      "id": "tt1285016",
-      "name": "La red social",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.4,
-      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,7 +244,7 @@
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.2,
+      "rating": 7.255,
       "year": 2025,
       "days": null,
       "trend": {
@@ -252,68 +254,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "description": "Una camionera dura entrena a su mejor amiga femenina para competir en el Campeonato Nacional de Lucha Libre de Brazo Femenino.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 8,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.34,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6Io0gvfEVpMQsB46yXOKCpSJOoJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
+      "background": "https://image.tmdb.org/t/p/w1280/m2y1YIukPM5Shvb6VxbUejgcScX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6ROWhHP49cG14sE0l9xfwA6EKTK.png",
       "runtime": "91 min",
       "director": [
-        "John Carpenter"
+        "Maureen Bharoocha"
       ],
       "cast": [
-        "Donald Pleasence",
-        "Jamie Lee Curtis",
-        "Nancy Kyes",
-        "P. J. Soles",
-        "Charles Cyphers",
-        "Kyle Richards",
-        "Brian Andrews",
-        "John Michael Graham"
+        "Betsy Sodaro",
+        "Mary Holland",
+        "Olivia Stambouliah",
+        "Eugene Cordero",
+        "Aparna Nancherla",
+        "Dawn Luebbe",
+        "Ron Funches",
+        "Ahmed Bharoocha"
       ],
-      "rank": 9,
-      "id": "tt0077651",
-      "name": "La noche de Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.6,
-      "year": 1978,
+      "rank": 8,
+      "id": "tt9572534",
+      "name": "Brazo de oro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
+      "rating": 5.4,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -344,12 +310,46 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.633,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
+      "runtime": "120 min",
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Armie Hammer",
+        "Justin Timberlake",
+        "Rooney Mara",
+        "Max Minghella",
+        "Brenda Song",
+        "Josh Pence"
+      ],
+      "rank": 10,
+      "id": "tt1285016",
+      "name": "La red social",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
+      "rating": 7.377,
+      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

@@ -2,14 +2,14 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
       "genres": [
-        "Misterio",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "rating": 7,
+      "rating": 7.386,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,37 +56,8 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.137,
+      "rating": 8,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
-      "director": [],
-      "cast": [
-        "Maura Tierney",
-        "David Ajala",
-        "Tony Goldwyn",
-        "Hugh Dancy",
-        "Odelya Halevi"
-      ],
-      "rank": 3,
-      "id": "tt0098844",
-      "name": "Ley y orden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.3,
-      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -110,7 +81,7 @@
         "Cree",
         "Annie Potts"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
@@ -142,11 +113,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.874,
+      "rating": 7.9,
       "year": 2024,
       "days": null,
       "trend": {
@@ -174,68 +145,12 @@
         "Gary Cole",
         "Michael Weatherly"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0364845",
       "name": "Navy: Investigación criminal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.61,
+      "rating": 7.612,
       "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0giXYYfrLbztULkjZWfDkUXwWp.png",
-      "director": [],
-      "cast": [
-        "Rossif Sutherland",
-        "Kristin Kreuk",
-        "Aaron Douglas",
-        "Savonna Spracklin",
-        "Bethany Brown"
-      ],
-      "rank": 8,
-      "id": "tt12408718",
-      "name": "Murder in a Small Town",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
-      "rating": 6.8,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
-      "director": [],
-      "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
-      ],
-      "rank": 9,
-      "id": "tt26748321",
-      "name": "Doc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-      "rating": 7.351,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -262,12 +177,92 @@
         "Bradley Whitford",
         "Allison Janney"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.605,
+      "rating": 7.606,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
+      "director": [],
+      "cast": [
+        "Maura Tierney",
+        "David Ajala",
+        "Tony Goldwyn",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "rank": 7,
+      "id": "tt0098844",
+      "name": "Ley y orden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "rating": 7.285,
+      "year": 1990,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wHmC9sQD9IscphywxCCmbyIxr5y.png",
+      "director": [],
+      "cast": [],
+      "rank": 8,
+      "id": "tt32499579",
+      "name": "El hotel embrujado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7SWQKKMULwbBTx5oi4K0UyO575y.jpg",
+      "rating": 8.2,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "director": [],
+      "cast": [
+        "Molly Parker",
+        "Omar Metwally",
+        "Amirah Vann",
+        "Jon-Michael Ecker",
+        "Felicity Huffman"
+      ],
+      "rank": 9,
+      "id": "tt26748321",
+      "name": "Doc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "rating": 7.385,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,5 +271,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
+      "runtime": "123 min",
+      "director": [
+        "Dylan Southern",
+        "Will Lovelace"
+      ],
+      "cast": [
+        "Liam Gallagher",
+        "Noel Gallagher",
+        "Paul Arthurs",
+        "Gem Archer",
+        "Andy Bell",
+        "Joey Waronker",
+        "Christian Madden",
+        "Anaïs Gallagher"
+      ],
+      "rank": 1,
+      "id": "tt36150957",
+      "name": "Oasis: Don't Look Back in Anger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -29,83 +65,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.298,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
-      "runtime": "108 min",
-      "director": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
-      ],
-      "cast": [
-        "Samara Weaving",
-        "Kathryn Newton",
-        "Sarah Michelle Gellar",
-        "Shawn Hatosy",
-        "Nestor Carbonell",
-        "David Cronenberg",
-        "Elijah Wood",
-        "Kevin Durand"
-      ],
-      "rank": 2,
-      "id": "tt33978029",
-      "name": "Noche de bodas 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 3,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,12 +101,84 @@
         "Tobias Jelinek",
         "Larry Bagby"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0107120",
       "name": "El retorno de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.038,
+      "rating": 7.039,
       "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
+      "runtime": "108 min",
+      "director": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ],
+      "cast": [
+        "Samara Weaving",
+        "Kathryn Newton",
+        "Sarah Michelle Gellar",
+        "Shawn Hatosy",
+        "Nestor Carbonell",
+        "David Cronenberg",
+        "Elijah Wood",
+        "Kevin Durand"
+      ],
+      "rank": 4,
+      "id": "tt33978029",
+      "name": "Noche de bodas 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "rating": 7.537,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 5,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -173,7 +209,7 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
@@ -209,7 +245,7 @@
         "Willem Dafoe",
         "Alfred Molina"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt10872600",
       "name": "Spider-Man: No Way Home",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
@@ -245,11 +281,11 @@
         "André Roussimoff",
         "Fred Savage"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0093779",
       "name": "La princesa prometida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
-      "rating": 7.7,
+      "rating": 7.71,
       "year": 1987,
       "days": null,
       "trend": {
@@ -259,71 +295,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
       "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia",
-        "Familia"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zWeN6tQPRYztSyUDeo1FfrXg6Ta.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
-      "runtime": "87 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
       "director": [
-        "Wes Anderson"
+        "Colin Higgins"
       ],
       "cast": [
-        "George Clooney",
-        "Meryl Streep",
-        "Jason Schwartzman",
-        "Eric Chase Anderson",
-        "Wallace Wolodarsky",
-        "Willem Dafoe",
-        "Michael Gambon",
-        "Robin Hurlstone"
-      ],
-      "rank": 9,
-      "id": "tt0432283",
-      "name": "Fantástico Sr. Fox",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2B2IcoSMpOa64Yw8DDtGzXdS4vl.jpg",
-      "rating": 7.828,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
       ],
       "rank": 10,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
-      "year": 1999,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -332,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

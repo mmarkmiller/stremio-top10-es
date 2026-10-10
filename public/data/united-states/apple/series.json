@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.362,
+      "rating": 8.361,
       "year": 2020,
       "days": null,
       "trend": {
@@ -60,8 +60,39 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.044,
+      "rating": 8.042,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 3,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.796,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,44 +120,11 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
       "rating": 8.231,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
-      "director": [],
-      "cast": [
-        "Patrick Brammall",
-        "Brendan Cowell",
-        "Maxine Peake",
-        "Daniel Henshall",
-        "Jessica Wren",
-        "Zahra Newman",
-        "James Saunders",
-        "Taylor Ferguson"
-      ],
-      "rank": 4,
-      "id": "tt6037988",
-      "name": "Causa abierta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 7.648,
       "year": 2026,
       "days": null,
       "trend": {
@@ -157,7 +155,7 @@
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.005,
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -167,29 +165,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
       "director": [],
       "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
+        "Patrick Brammall",
+        "Chloe Jean Lourdes",
+        "Brendan Cowell",
+        "Maxine Peake",
+        "Daniel Henshall",
+        "Jessica Wren",
+        "Zahra Newman",
+        "James Saunders"
       ],
       "rank": 6,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.8,
-      "year": 2024,
+      "id": "tt6037988",
+      "name": "Causa abierta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "rating": 7.615,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,7 +251,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.225,
+      "rating": 8.221,
       "year": 2023,
       "days": null,
       "trend": {
@@ -261,27 +261,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Vive la escalofriante historia del caso poltergeist más famoso del mundo a través de las grabaciones de audio originales hechas dentro de la casa mientras sucedían los hechos.",
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
       "genres": [
-        "Documental"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fTD5udVc8zo9chXh0KrH86lOtmZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cqSksbxVbM3pHRRFCTP3P86L6q8.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
       "director": [],
       "cast": [
-        "Olivia Booth-Ford",
-        "Christos Lawton",
-        "Daniel Lee",
-        "Paula Benson",
-        "Charlotte Miller",
-        "Anthony Ilott"
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
       ],
       "rank": 9,
-      "id": "tt21377088",
-      "name": "El poltergeist de Enfield",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PW4qAXDgJ6DyOfNxN4dL5kvBI6.jpg",
-      "rating": 6.3,
-      "year": 2023,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.924,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,28 +288,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "description": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qlQdtKyyjkq3kv5hHZeEcVrttvh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
       "director": [],
       "cast": [
-        "Owen Wilson",
-        "Peter Dager",
-        "Lilli Kay",
-        "Mariana Treviño",
-        "Marc Maron",
-        "Rhea Seehorn"
+        "Anya Taylor-Joy",
+        "Annette Bening",
+        "Clifton Collins Jr.",
+        "Aunjanue Ellis-Taylor",
+        "Timothy Olyphant"
       ],
       "rank": 10,
-      "id": "tt31710249",
-      "name": "Sticks: Cracks del golf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
+      "id": "tt34866681",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
       "rating": 7.3,
-      "year": 2025,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

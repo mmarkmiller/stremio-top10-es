@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "rank": 1,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "rating": 7.133,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
@@ -28,47 +63,12 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.557,
+      "rating": 6.6,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wb0zGf45fvWUV1UsLz5HN05zmzD.png",
-      "runtime": "90 min",
-      "director": [
-        "David F. Sandberg"
-      ],
-      "cast": [
-        "Teresa Palmer",
-        "Maria Bello",
-        "Gabriel Bateman",
-        "Alexander DiPersia",
-        "Alicia Vela-Bailey",
-        "Billy Burke",
-        "Andi Osho",
-        "Maria Russell"
-      ],
-      "rank": 2,
-      "id": "tt4786282",
-      "name": "Nunca apagues la luz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
-      "rating": 6.382,
-      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -103,7 +103,7 @@
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
-      "rating": 6.412,
+      "rating": 6.413,
       "year": 2024,
       "days": null,
       "trend": {
@@ -138,8 +138,77 @@
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.1,
+      "rating": 7.091,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wb0zGf45fvWUV1UsLz5HN05zmzD.png",
+      "runtime": "90 min",
+      "director": [
+        "David F. Sandberg"
+      ],
+      "cast": [
+        "Teresa Palmer",
+        "Maria Bello",
+        "Gabriel Bateman",
+        "Alexander DiPersia",
+        "Alicia Vela-Bailey",
+        "Billy Burke",
+        "Andi Osho",
+        "Maria Russell"
+      ],
+      "rank": 5,
+      "id": "tt4786282",
+      "name": "Nunca apagues la luz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
+      "rating": 6.4,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
+      "director": [
+        "Anne Sewitsky"
+      ],
+      "cast": [
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
+      ],
+      "rank": 6,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.3,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,116 +239,12 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.866,
+      "rating": 6.868,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hank Palmer, un importante abogado, regresa a su hogar tras la muerte de su madre. Se entera entonces de que su padre, que es el juez del pueblo y de quien está distanciado, es sospechoso de haber cometido un crimen. Su decisión de investigar el caso lo lleva poco a poco a restablecer con los suyos una relación que estaba rota.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9W02KZYKLoINpqpJ2yv8ATxR1AK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Xx7XzstHq8JMRei4uyt7tETrjx.png",
-      "runtime": "141 min",
-      "director": [
-        "David Dobkin"
-      ],
-      "cast": [
-        "Robert Downey Jr.",
-        "Robert Duvall",
-        "Vera Farmiga",
-        "Vincent D'Onofrio",
-        "Jeremy Strong",
-        "Dax Shepard",
-        "Billy Bob Thornton",
-        "Leighton Meester"
-      ],
-      "rank": 6,
-      "id": "tt1872194",
-      "name": "El juez",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jx7hoRR16VKitQLaDQc55YvmJ2D.jpg",
-      "rating": 7.329,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 7,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.815,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hOVWmdszhzbCDLxYwfoHfP27BoK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tzzqZlLDplHmK6C7sHn88Sj5891.png",
-      "runtime": "73 min",
-      "director": [
-        "Ben Leonberg"
-      ],
-      "cast": [
-        "Indy",
-        "Shane Jensen",
-        "Arielle Friedman",
-        "Larry Fessenden",
-        "Stuart Rudin",
-        "Anya Krawcheck",
-        "Hunter Goetz",
-        "Max"
-      ],
-      "rank": 8,
-      "id": "tt35521922",
-      "name": "Good Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
-      "rating": 6.6,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,7 +274,7 @@
         "Casey Affleck",
         "Rami Malek"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt15398776",
       "name": "Oppenheimer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
@@ -323,32 +288,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
       "genres": [
-        "Terror"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sCBkhFkuqSzo4YXU2elqrg4brkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
+      "runtime": "146 min",
       "director": [
-        "Paco Plaza"
+        "Stanley Kubrick"
       ],
       "cast": [
-        "Sandra Escacena",
-        "Bruna González",
-        "Claudia Placer",
-        "Iván Chavero",
-        "Ana Torrent",
-        "Consuelo Trujillo",
-        "Ángela Fabián",
-        "Carla Campra"
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "Philip Stone",
+        "Joe Turkel",
+        "Anne Jackson"
+      ],
+      "rank": 9,
+      "id": "tt0081505",
+      "name": "El resplandor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+      "rating": 8.199,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Marte, año 2176. Debido a la superpoblación de la Tierra, el Planeta Rojo se ha convertido en una zona habitada, pero sigue siendo un lugar peligroso. Para colmo, durante una exploración se descubre que una civilización marciana que ha permanecido dormida mucho tiempo, ahora está despierta. En tal circunstancia, un pequeño grupo de policías es enviado a una lejana población minera con la misión de escoltar a un peligroso criminal.",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/anSbunnEMI0TSmizqUSRACoe18l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zZslelfdvxCPjuc4QF9EGxwspW6.png",
+      "runtime": "89 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Natasha Henstridge",
+        "Ice Cube",
+        "Jason Statham",
+        "Clea DuVall",
+        "Pam Grier",
+        "Joanna Cassidy",
+        "Richard Cetrone",
+        "Rosemary Forsyth"
       ],
       "rank": 10,
-      "id": "tt5862312",
-      "name": "Verónica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
-      "rating": 6.2,
-      "year": 2017,
+      "id": "tt0228333",
+      "name": "Fantasmas de Marte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cYxBSKEpjfFzvZWkNabgBkMCC5i.jpg",
+      "rating": 5.16,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

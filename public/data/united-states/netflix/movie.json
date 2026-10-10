@@ -2,70 +2,37 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
       "genres": [
-        "Terror"
+        "Suspense",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
-      "runtime": "83 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
       "director": [
-        "Tobe Hooper"
+        "Ben Affleck"
       ],
       "cast": [
-        "Marilyn Burns",
-        "Allen Danziger",
-        "Paul A. Partain",
-        "William Vail",
-        "Teri McMinn",
-        "Edwin Neal",
-        "Jim Siedow",
-        "Gunnar Hansen"
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
       ],
       "rank": 1,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.286,
-      "year": 1974,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
-      "director": [
-        "Sean S. Cunningham"
-      ],
-      "cast": [
-        "Adrienne King",
-        "Kevin Bacon",
-        "Jeannine Taylor",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson",
-        "Betsy Palmer",
-        "Peter Brouwer"
-      ],
-      "rank": 2,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.4,
-      "year": 1980,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "rating": 7.133,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -96,11 +63,186 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.557,
+      "rating": 6.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Kevin Bacon",
+        "Jeannine Taylor",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson",
+        "Betsy Palmer",
+        "Peter Brouwer"
+      ],
+      "rank": 3,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.4,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
+      "runtime": "83 min",
+      "director": [
+        "Tobe Hooper"
+      ],
+      "cast": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen"
+      ],
+      "rank": 4,
+      "id": "tt0072271",
+      "name": "La matanza de Texas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
+      "rating": 7.3,
+      "year": 1974,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "genres": [
+        "Terror",
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/67GiqvLsOVFQf5a7545T3RhAa6N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wIC9JBX6hGDK4bjMmLlegO6jYvv.png",
+      "runtime": "97 min",
+      "director": [
+        "Josh Ruben"
+      ],
+      "cast": [
+        "Olivia Holt",
+        "Mason Gooding",
+        "Michaela Watkins",
+        "Devon Sawa",
+        "Jordana Brewster",
+        "Gigi Zumbado",
+        "Yoson An",
+        "Alexander Walker"
+      ],
+      "rank": 5,
+      "id": "tt32558992",
+      "name": "El asesino con ojos de corazón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6v0LlIAW903yLbsoTw6DMUAaQeq.jpg",
+      "rating": 6.2,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 6,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.602,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
+      "runtime": "100 min",
+      "director": [
+        "Eric Appel"
+      ],
+      "cast": [
+        "Nate Bargatze",
+        "Mandy Moore",
+        "Stella Grace Fitzgerald",
+        "Birdie Borria",
+        "Charlotte Ann Tucker",
+        "Colin Jost",
+        "Will Forte",
+        "Martin Herlihy"
+      ],
+      "rank": 7,
+      "id": "tt34459219",
+      "name": "Cambio de roles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
+      "rating": 7.082,
       "year": 2026,
       "days": null,
       "trend": {
@@ -132,12 +274,48 @@
         "Babs Olusanmokun",
         "Hero Fiennes Tiffin"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt5177120",
       "name": "El ministerio de la Guerra Sucia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
       "rating": 6.993,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
+      "director": [
+        "James Ashcroft"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "rank": 9,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.868,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,7 +346,7 @@
         "Peter Anthony Tambakis",
         "Jeffrey Zubernis"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
@@ -179,151 +357,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 7,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1xtNFKfTr0d5IqZ0i77E90cYYTP.png",
-      "runtime": "109 min",
-      "director": [
-        "Nia DaCosta"
-      ],
-      "cast": [
-        "Ralph Fiennes",
-        "Alfie Williams",
-        "Jack O'Connell",
-        "Erin Kellyman",
-        "Chi Lewis-Parry",
-        "Connor Newall",
-        "Maura Bird",
-        "Ghazi Al Ruffai"
-      ],
-      "rank": 8,
-      "id": "tt32141377",
-      "name": "28 años después: El templo de los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
-      "rating": 7.09,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
-      "runtime": "100 min",
-      "director": [
-        "Eric Appel"
-      ],
-      "cast": [
-        "Nate Bargatze",
-        "Mandy Moore",
-        "Stella Grace Fitzgerald",
-        "Birdie Borria",
-        "Charlotte Ann Tucker",
-        "Colin Jost",
-        "Will Forte",
-        "Martin Herlihy"
-      ],
-      "rank": 9,
-      "id": "tt34459219",
-      "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
-      "rating": 7.082,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
-      "runtime": "123 min",
-      "director": [
-        "Richard Curtis"
-      ],
-      "cast": [
-        "Domhnall Gleeson",
-        "Rachel McAdams",
-        "Bill Nighy",
-        "Tom Hollander",
-        "Margot Robbie",
-        "Lydia Wilson",
-        "Lindsay Duncan",
-        "Richard Cordery"
-      ],
-      "rank": 10,
-      "id": "tt2194499",
-      "name": "Una cuestión de tiempo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.901,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }

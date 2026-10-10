@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610092023",
+  "date": "202610101937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -58,7 +58,7 @@
       "id": "tt36064406",
       "name": "Coven Academy: El hechizo de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-      "rating": 7.222,
+      "rating": 7.321,
       "year": 2026,
       "days": null,
       "trend": {
@@ -90,7 +90,7 @@
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.2,
+      "rating": 8.153,
       "year": 2022,
       "days": null,
       "trend": {
@@ -100,110 +100,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
       "genres": [
         "Animación",
-        "Comedia"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
       "director": [],
       "cast": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Hank Azaria",
-        "Harry Shearer"
+        "松本梨香",
+        "Ikue Otani",
+        "Daiki Yamashita",
+        "Kenyu Horiuchi"
       ],
       "rank": 4,
-      "id": "tt0096697",
-      "name": "Los Simpson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.023,
-      "year": 1989,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
-      "director": [],
-      "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
-      ],
-      "rank": 5,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4ukEniH29brbhbrpVGG88VvxfmU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ksR6kHWuUeWmotW0gC40x9p5LkH.png",
-      "director": [],
-      "cast": [],
-      "rank": 6,
-      "id": "tt1408430",
-      "name": "30 for 30",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
-      "rating": 7.5,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png",
-      "director": [],
-      "cast": [
-        "Angela Bassett",
-        "Jennifer Love Hewitt",
-        "Oliver Stark",
-        "Aisha Hinds",
-        "Kenneth Choi",
-        "Ryan Guzman",
-        "Corinne Massiah",
-        "Elijah M. Cooper"
-      ],
-      "rank": 7,
-      "id": "tt7235466",
-      "name": "9-1-1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.2,
-      "year": 2018,
+      "id": "tt0168366",
+      "name": "Pokémon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
+      "rating": 8,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -229,7 +146,7 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
@@ -243,26 +160,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
       "genres": [
-        "Comedia",
-        "Misterio",
-        "Crimen"
+        "Reality",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qsVIaAvXxHXVVsU3WHs43H9eesX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
       "director": [],
       "cast": [
-        "Steve Martin",
-        "Martin Short",
-        "Selena Gómez"
+        "Alfonso Ribeiro",
+        "Julianne Hough",
+        "Derek Hough",
+        "Carrie Ann Inaba",
+        "Bruno Tonioli"
       ],
-      "rank": 9,
-      "id": "tt11691774",
-      "name": "Solo asesinatos en el edificio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
-      "rating": 8.4,
-      "year": 2021,
+      "rank": 6,
+      "id": "tt0463398",
+      "name": "Dancing with the Stars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "rating": 6.2,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -271,28 +188,110 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
+      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
       "genres": [
+        "Animación",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
       "director": [],
       "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "John C. McGinley",
-        "Eliza Coupe",
-        "Kerry Bishé",
-        "Michael Mosley",
-        "Dave Franco"
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer"
+      ],
+      "rank": 7,
+      "id": "tt0096697",
+      "name": "Los Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "rating": 8.024,
+      "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4ukEniH29brbhbrpVGG88VvxfmU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ksR6kHWuUeWmotW0gC40x9p5LkH.png",
+      "director": [],
+      "cast": [],
+      "rank": 8,
+      "id": "tt1408430",
+      "name": "30 for 30",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
+      "rating": 7.5,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q9L1VXNMcSnfAUTTzGQR5pDUewK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9mc72Fo2nXSb4gP5ngrrVDHcuJH.png",
+      "director": [],
+      "cast": [
+        "Jon Bernthal",
+        "Ben Barnes",
+        "Amber Rose Revah",
+        "Josh Stewart",
+        "Jason R. Moore",
+        "Floriana Lima",
+        "Giorgia Whigham"
+      ],
+      "rank": 9,
+      "id": "tt5675620",
+      "name": "Marvel - The Punisher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+      "rating": 8.163,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png",
+      "director": [],
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
       ],
       "rank": 10,
-      "id": "tt0285403",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "rating": 8.2,
-      "year": 2001,
+      "id": "tt12324366",
+      "name": "Percy Jackson y los dioses del Olimpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "rating": 7.25,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -301,5 +300,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-09T17:12:46.854Z"
+  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
 }
