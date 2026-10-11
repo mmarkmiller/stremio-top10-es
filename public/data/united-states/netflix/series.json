@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
@@ -11,7 +11,7 @@
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bmhmL2GrQvw4rfKQZHh2pxGWulZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
       "director": [],
       "cast": [
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "rating": 7.386,
+      "rating": 7.355,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "rating": 7.966,
       "year": 2026,
       "days": null,
       "trend": {
@@ -79,13 +79,16 @@
         "Abigail Spencer",
         "Josh Segarra",
         "Cree",
-        "Annie Potts"
+        "Annie Potts",
+        "Stephen Spinella",
+        "Jason Veasey",
+        "Eliza Coupe"
       ],
       "rank": 3,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.2,
+      "rating": 7.167,
       "year": 2026,
       "days": null,
       "trend": {
@@ -127,38 +130,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
-      "director": [],
-      "cast": [
-        "Sean Murray",
-        "Wilmer Valderrama",
-        "Katrina Law",
-        "Brian Dietzen",
-        "Diona Reasonover",
-        "Gary Cole",
-        "Michael Weatherly"
-      ],
-      "rank": 5,
-      "id": "tt0364845",
-      "name": "Navy: Investigación criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.612,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
       "genres": [
         "Drama",
@@ -177,12 +148,102 @@
         "Bradley Whitford",
         "Allison Janney"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.606,
+      "rating": 7.599,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "director": [],
+      "cast": [
+        "Ella Beatty",
+        "Vicky Krieps",
+        "Sarah Paulson",
+        "Charlie Hunnam",
+        "Rebecca Hall",
+        "Billie Lourd",
+        "Jessica Barden"
+      ],
+      "rank": 6,
+      "id": "tmdb:299939",
+      "name": "Monstruo: La historia de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bode Leone es un joven convicto que busca redención y una reducción de su condena al unirse a un programa de lucha contra incendios forestales para presos en el norte de California. En este programa, Bode y otros internos trabajan codo a codo con bomberos de élite para extinguir incendios masivos e impredecibles en la región. Es una misión de alto riesgo y grandes recompensas.\n\nLa tensión aumenta cuando Bode es asignado al programa en su pequeño pueblo natal, donde alguna vez fue un héroe local hasta que sus problemas comenzaron. Hace cinco años, Bode lo perdió todo y dejó el pueblo con un gran secreto. Ahora ha vuelto, con un historial criminal y la audacia de creer en una segunda oportunidad de redención con Cal Fire.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7nKQH65rtDEsZooDp70JtyShG83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p3ERm7hTttnkOSb57Yq5xOZRlA3.png",
+      "director": [],
+      "cast": [
+        "Max Thieriot",
+        "Kevin Alejandro",
+        "Jordan Calloway",
+        "Jules Latimer",
+        "Olivia Thirlby",
+        "Diane Farr"
+      ],
+      "rank": 7,
+      "id": "tt16098700",
+      "name": "Fire Country",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+      "rating": 8.04,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wHmC9sQD9IscphywxCCmbyIxr5y.png",
+      "director": [],
+      "cast": [
+        "Will Forte",
+        "Eliza Coupe",
+        "Skyler Gisondo",
+        "Natalie Palamides",
+        "Jimmi Simpson"
+      ],
+      "rank": 8,
+      "id": "tt32499579",
+      "name": "El hotel embrujado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7SWQKKMULwbBTx5oi4K0UyO575y.jpg",
+      "rating": 8.147,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,63 +267,12 @@
         "Hugh Dancy",
         "Odelya Halevi"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt0098844",
       "name": "Ley y orden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.285,
+      "rating": 7.284,
       "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wHmC9sQD9IscphywxCCmbyIxr5y.png",
-      "director": [],
-      "cast": [],
-      "rank": 8,
-      "id": "tt32499579",
-      "name": "El hotel embrujado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7SWQKKMULwbBTx5oi4K0UyO575y.jpg",
-      "rating": 8.2,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
-      "director": [],
-      "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
-      ],
-      "rank": 9,
-      "id": "tt26748321",
-      "name": "Doc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-      "rating": 7.385,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -271,5 +281,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

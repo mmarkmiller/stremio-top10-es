@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.009,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,77 +67,8 @@
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.255,
+      "rating": 7.256,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 3,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.34,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida siguen vigentes incluso después de la muerte.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qbiBqbsJwaTGX4EcFwbLYYhbvLV.png",
-      "runtime": "110 min",
-      "director": [
-        "Sébastien Vaniček"
-      ],
-      "cast": [
-        "Souheila Yacoub",
-        "Tandi Wright",
-        "Hunter Doohan",
-        "Luciane Buchanan",
-        "Erroll Shand",
-        "Maude Davey",
-        "George Pullar",
-        "Greta van den Brink"
-      ],
-      "rank": 4,
-      "id": "tt31170389",
-      "name": "Posesión infernal: En llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5BxpImOaOTssydHBGOpvXzszsEg.jpg",
-      "rating": 7.6,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,12 +99,117 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.813,
+      "rating": 6.8,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
+      ],
+      "rank": 4,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.339,
+      "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida siguen vigentes incluso después de la muerte.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qbiBqbsJwaTGX4EcFwbLYYhbvLV.png",
+      "runtime": "110 min",
+      "director": [
+        "Sébastien Vaniček"
+      ],
+      "cast": [
+        "Souheila Yacoub",
+        "Tandi Wright",
+        "Hunter Doohan",
+        "Luciane Buchanan",
+        "Erroll Shand",
+        "Maude Davey",
+        "George Pullar",
+        "Greta van den Brink"
+      ],
+      "rank": 5,
+      "id": "tt31170389",
+      "name": "Posesión infernal: En llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5BxpImOaOTssydHBGOpvXzszsEg.jpg",
+      "rating": 7.626,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
+      "runtime": "108 min",
+      "director": [
+        "Craig Gillespie"
+      ],
+      "cast": [
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts",
+        "Jason Momoa",
+        "David Krumholtz",
+        "Emily Beecham",
+        "David Corenswet",
+        "Kadiff Kirwan"
+      ],
+      "rank": 6,
+      "id": "tt8814476",
+      "name": "Supergirl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+      "rating": 6.653,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,7 +241,7 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6SToEuWU2BCI1PRnMdpnzF5FaSW.jpg",
@@ -240,48 +276,12 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
+      "rating": 7.262,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
-      "runtime": "108 min",
-      "director": [
-        "Craig Gillespie"
-      ],
-      "cast": [
-        "Milly Alcock",
-        "Eve Ridley",
-        "Matthias Schoenaerts",
-        "Jason Momoa",
-        "David Krumholtz",
-        "Emily Beecham",
-        "David Corenswet",
-        "Kadiff Kirwan"
-      ],
-      "rank": 8,
-      "id": "tt8814476",
-      "name": "Supergirl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
-      "rating": 6.7,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

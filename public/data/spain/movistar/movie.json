@@ -2,48 +2,15 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-      "runtime": "106 min",
-      "director": [
-        "Marta Díaz de Lope Díaz"
-      ],
-      "cast": [
-        "Sofía de Iznájar",
-        "Bruna Lucadamo",
-        "Daniel Ibáñez",
-        "Aixa Villagrán",
-        "Elena Irureta",
-        "José Troncoso",
-        "Jordi Sánchez",
-        "Cláudia Gomes"
-      ],
-      "rank": 1,
-      "id": "tt36048393",
-      "name": "Pioneras: solo querían jugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/coXlNNeiySibclnnqzHOuQIqGm.jpg",
-      "rating": 7.833,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/65D7t8wgZFpjOTvIp1HQvHFY0fC.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
       "runtime": "120 min",
       "director": [
@@ -59,11 +26,11 @@
         "Brenda Song",
         "Josh Pence"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt1285016",
       "name": "La red social",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.377,
+      "rating": 7.376,
       "year": 2010,
       "days": null,
       "trend": {
@@ -95,12 +62,80 @@
         "Jami Gertz",
         "Corey Feldman"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0093437",
       "name": "Jóvenes ocultos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
       "rating": 7.118,
       "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 3,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.262,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
+      "runtime": "106 min",
+      "director": [
+        "Marta Díaz de Lope Díaz"
+      ],
+      "cast": [
+        "Sofía de Iznájar",
+        "Bruna Lucadamo",
+        "Daniel Ibáñez",
+        "Aixa Villagrán",
+        "Elena Irureta",
+        "José Troncoso",
+        "Jordi Sánchez",
+        "Cláudia Gomes"
+      ],
+      "rank": 4,
+      "id": "tt36048393",
+      "name": "Pioneras: solo querían jugar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/coXlNNeiySibclnnqzHOuQIqGm.jpg",
+      "rating": 7.833,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -131,7 +166,7 @@
         "Henry Golding",
         "Tom Wu"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt8367814",
       "name": "The Gentlemen: Los señores de la mafia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
@@ -167,7 +202,7 @@
         "Tyler Grey",
         "Drexel Malkoff"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt23558280",
       "name": "Línea de extinción",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymi9oxpJ9oaiHJtDOSO5J6ssk6Q.jpg",
@@ -181,33 +216,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
       "director": [
-        "Stanley Kubrick"
+        "John Carpenter"
       ],
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
       ],
-      "rank": 6,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.199,
-      "year": 1980,
+      "rank": 7,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.074,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -216,34 +252,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos obstáculos mientras lucha contra criminales y policías corruptos. En el camino conoce a Navin, un periodista en busca de su esposa desaparecida. Ambos despliegan sus habilidades de combate mientras aprenden las virtudes de la confianza mutua.",
+      "description": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
+        "Historia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-      "runtime": "113 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
+      "runtime": "150 min",
       "director": [
-        "谷垣健治"
+        "James Vanderbilt"
       ],
       "cast": [
-        "谢苗",
-        "Joe Taslim",
-        "Yang Enyou",
-        "Yayan Ruhian",
-        "ฉันทธนิสา ตัง",
-        "Brian Le",
-        "岩永ジョーイ",
-        "สหจักร บุญธนกิจ"
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon",
+        "Leo Woodall",
+        "John Slattery",
+        "Richard E. Grant",
+        "Mark O'Brien",
+        "Colin Hanks"
       ],
-      "rank": 7,
-      "id": "tt33311069",
-      "name": "The Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "rating": 8.2,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt29567915",
+      "name": "Núremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
+      "rating": 7.6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sjGW5aPNJx5bYSYFxGJbdeWwVtb.png",
+      "runtime": "112 min",
+      "director": [
+        "Alauda Ruiz de Azúa"
+      ],
+      "cast": [
+        "Blanca Soroa",
+        "Patricia López Arnaiz",
+        "Miguel Garcés",
+        "Juan Minujín",
+        "Mabel Rivera",
+        "Nagore Aranburu",
+        "Irina Robledo Espinosa",
+        "Nora Careaga Iglesias"
+      ],
+      "rank": 9,
+      "id": "tt35513027",
+      "name": "Los domingos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+      "rating": 6.859,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -273,7 +342,7 @@
         "Irrfan Khan",
         "Ankur Vikal"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt1010048",
       "name": "Slumdog Millionaire",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ub7iEniSi23Ms3RcF551Sozb1MH.jpg",
@@ -284,78 +353,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.",
-      "genres": [
-        "Drama",
-        "Bélica",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hZNpAbwQE1HayPhYenDw69yMa8g.png",
-      "runtime": "125 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Lubna Azabal",
-        "Mélissa Désormeaux-Poulin",
-        "Maxim Gaudette",
-        "Rémy Girard",
-        "Allen Altman",
-        "Abdelghafour Elaaziz",
-        "Dominique Briand",
-        "Frédéric Paquet"
-      ],
-      "rank": 9,
-      "id": "tt1255953",
-      "name": "Incendios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rA40sUH6bHD5pAJ1jOcJFZPhlOe.jpg",
-      "rating": 8.1,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sjGW5aPNJx5bYSYFxGJbdeWwVtb.png",
-      "runtime": "112 min",
-      "director": [
-        "Alauda Ruiz de Azúa"
-      ],
-      "cast": [
-        "Blanca Soroa",
-        "Patricia López Arnaiz",
-        "Miguel Garcés",
-        "Juan Minujín",
-        "Mabel Rivera",
-        "Nagore Aranburu",
-        "Irina Robledo Espinosa",
-        "Nora Careaga Iglesias"
-      ],
-      "rank": 10,
-      "id": "tt35513027",
-      "name": "Los domingos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
-      "rating": 6.859,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

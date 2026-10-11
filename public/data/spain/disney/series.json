@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.076,
+      "rating": 8.1,
       "year": 2011,
       "days": null,
       "trend": {
@@ -57,35 +57,8 @@
       "id": "tt36303968",
       "name": "Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.412,
+      "rating": 7.416,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 3,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -113,7 +86,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -127,58 +100,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png",
-      "director": [],
-      "cast": [
-        "Kaitlin Olson",
-        "Daniel Sunjata",
-        "Judy Reyes",
-        "Javicia Leslie",
-        "Deniz Akdeniz",
-        "Amirah J",
-        "Matthew Lamb"
-      ],
-      "rank": 5,
-      "id": "tt22091076",
-      "name": "High Potential",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-      "rating": 8.25,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
-      "rank": 6,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.418,
-      "year": 2025,
+      "rank": 4,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,30 +127,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+      "description": "En una serena comunidad habitada por algunas de las personas más prominentes del mundo, la tranquilidad estalla cuando se produce un espeluznante asesinato y se desencadena una investigación de alto riesgo. Xavier Collins, jefe del Servicio Secreto de la Casa Blanca, es rápidamente investigado por la muerte del presidente, al que descubre junto a su cama.",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
       "director": [],
       "cast": [
-        "Malina Weissman",
-        "Malachi Barton",
-        "Jordan Leftwich",
-        "Ora Duplass",
-        "Louis Thresher",
-        "Tiffani Thiessen",
-        "Devon Sawa"
+        "Sterling K. Brown",
+        "Julianne Nicholson",
+        "Sarah Shahi",
+        "Nicole Brydon Bloom",
+        "Krys Marshall",
+        "Enuka Okuma",
+        "Aliyah Mastin",
+        "Percy Daggs IV"
       ],
-      "rank": 7,
-      "id": "tt36064406",
-      "name": "Coven Academy: El hechizo de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-      "rating": 7.321,
-      "year": 2026,
+      "rank": 5,
+      "id": "tt27444205",
+      "name": "Paradise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
+      "rating": 7.562,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -237,11 +177,11 @@
         "Liza Colón-Zayas",
         "Edwin Lee Gibson"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.153,
+      "rating": 8.2,
       "year": 2022,
       "days": null,
       "trend": {
@@ -251,31 +191,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "description": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwnSCVbVd5yHb14Toe787CX0k8C.png",
+      "director": [],
+      "cast": [
+        "Milo Ventimiglia",
+        "Mandy Moore",
+        "Sterling K. Brown",
+        "Chrissy Metz",
+        "Justin Hartley",
+        "Susan Kelechi Watson",
+        "Chris Sullivan",
+        "Jon Huertas"
+      ],
+      "rank": 7,
+      "id": "tt5555260",
+      "name": "This Is Us",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+      "rating": 8.2,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
       "genres": [
         "Drama",
-        "Crimen",
+        "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/jXB3OoWPkojsOP2O2OoLCeAIDRS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png",
       "director": [],
       "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
+        "Elisabeth Moss",
+        "Yvonne Strahovski",
+        "Samira Wiley"
       ],
-      "rank": 9,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.5,
-      "year": 2022,
+      "rank": 8,
+      "id": "tt5834204",
+      "name": "El cuento de la criada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "rating": 8.1,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -284,30 +250,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los episodios son usualmente \"sacados de los titulares\" o basados libremente en verdaderos asesinatos que han recibido la atención de los medios.",
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
       "director": [],
       "cast": [
-        "Mariska Hargitay",
-        "Ice-T",
-        "Kelli Giddish",
-        "Peter Scanavino",
-        "Aimé Donna Kelly",
-        "Kevin Kane",
-        "Corey Cott"
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 9,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.4,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "director": [],
+      "cast": [
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 10,
-      "id": "tt0203259",
-      "name": "Ley y orden: Unidad de Víctimas Especiales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
-      "rating": 7.956,
-      "year": 1999,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.1,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

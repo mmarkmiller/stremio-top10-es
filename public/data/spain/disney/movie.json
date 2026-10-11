@@ -2,38 +2,37 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
       "genres": [
-        "Documental",
-        "Música"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
+      "runtime": "194 min",
       "director": [
-        "Dylan Southern",
-        "Will Lovelace"
+        "James Cameron"
       ],
       "cast": [
-        "Liam Gallagher",
-        "Noel Gallagher",
-        "Paul Arthurs",
-        "Gem Archer",
-        "Andy Bell",
-        "Joey Waronker",
-        "Christian Madden",
-        "Anaïs Gallagher"
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates",
+        "Frances Fisher",
+        "Gloria Stuart",
+        "Bill Paxton",
+        "Bernard Hill"
       ],
       "rank": 1,
-      "id": "tt36150957",
-      "name": "Oasis: Don't Look Back in Anger",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.6,
-      "year": 2026,
+      "id": "tt0120338",
+      "name": "Titanic",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
+      "rating": 7.901,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -69,7 +68,43 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.3,
+      "rating": 8.291,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
+      "runtime": "123 min",
+      "director": [
+        "Dylan Southern",
+        "Will Lovelace"
+      ],
+      "cast": [
+        "Liam Gallagher",
+        "Noel Gallagher",
+        "Paul Arthurs",
+        "Gem Archer",
+        "Andy Bell",
+        "Joey Waronker",
+        "Christian Madden",
+        "Anaïs Gallagher"
+      ],
+      "rank": 3,
+      "id": "tt36150957",
+      "name": "Oasis: Don't Look Back in Anger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,7 +136,7 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
@@ -137,12 +172,86 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.813,
+      "rating": 6.8,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/egEloyD9ziPa38PovEqApz7qWvg.png",
+      "runtime": "145 min",
+      "director": [
+        "Wes Ball"
+      ],
+      "cast": [
+        "Owen Teague",
+        "Freya Allan",
+        "Kevin Durand",
+        "Peter Macon",
+        "William H. Macy",
+        "Eka Darville",
+        "Travis Jeffery",
+        "Lydia Peckham"
+      ],
+      "rank": 6,
+      "id": "tt11389872",
+      "name": "El reino del planeta de los simios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+      "rating": 7,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "genres": [
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jcyz89Ues6pi1QoDzhFN4YlXkqq.png",
+      "runtime": "144 min",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "غسان مسعود",
+        "Liam Neeson",
+        "Brendan Gleeson",
+        "Marton Csokas"
+      ],
+      "rank": 7,
+      "id": "tt0320661",
+      "name": "El reino de los cielos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
+      "rating": 7.097,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,155 +281,12 @@
         "Lucy Liu",
         "Tracie Thoms"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt33612209",
       "name": "El diablo viste de Prada 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.044,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
-      "runtime": "194 min",
-      "director": [
-        "James Cameron"
-      ],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Kate Winslet",
-        "Billy Zane",
-        "Kathy Bates",
-        "Frances Fisher",
-        "Gloria Stuart",
-        "Bill Paxton",
-        "Bernard Hill"
-      ],
-      "rank": 6,
-      "id": "tt0120338",
-      "name": "Titanic",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
-      "rating": 7.9,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
-      "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
-      "runtime": "75 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 7,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.847,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "runtime": "99 min",
-      "director": [
-        "Kate Dolan"
-      ],
-      "cast": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Sydney Blackburn",
-        "Isabelle Bonfrer"
-      ],
-      "rank": 8,
-      "id": "tt32654916",
-      "name": "Soulm8te",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
-      "rating": 7.495,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
-      "director": [
-        "Kenny Ortega"
-      ],
-      "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
-      ],
-      "rank": 9,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
       "rating": 7.039,
-      "year": 1993,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,7 +319,7 @@
       "id": "tt0097165",
       "name": "El club de los poetas muertos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
+      "rating": 8.294,
       "year": 1989,
       "days": null,
       "trend": {
@@ -363,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.009,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.892,
+      "rating": 6.896,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,7 +104,7 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.626,
+      "rating": 7.636,
       "year": 2026,
       "days": null,
       "trend": {
@@ -174,7 +174,7 @@
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.82,
+      "rating": 7.818,
       "year": 2023,
       "days": null,
       "trend": {
@@ -184,68 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Stanley Kubrick"
+        "Zach Cregger"
       ],
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 6,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.199,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "genres": [
-        "Aventura",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/omeA5Y581lHVTSDkvqDIzDytVNR.png",
-      "runtime": "152 min",
-      "director": [
-        "Chris Columbus"
-      ],
-      "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
-      ],
-      "rank": 7,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.904,
-      "year": 2001,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.262,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,47 +241,12 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.813,
+      "rating": 6.8,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
-      "genres": [
-        "Comedia",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/biufz1fGU048kps3J0FXfkmwvoI.png",
-      "runtime": "105 min",
-      "director": [
-        "John Patton Ford"
-      ],
-      "cast": [
-        "Glen Powell",
-        "Margaret Qualley",
-        "Jessica Henwick",
-        "Bill Camp",
-        "Zach Woods",
-        "Topher Grace",
-        "Ed Harris",
-        "Raff Law"
-      ],
-      "rank": 9,
-      "id": "tt4357198",
-      "name": "Jugada maestra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
-      "rating": 6.93,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -347,12 +277,47 @@
         "David Corenswet",
         "Kadiff Kirwan"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt8814476",
       "name": "Supergirl",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
-      "rating": 6.7,
+      "rating": 6.653,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "genres": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/omeA5Y581lHVTSDkvqDIzDytVNR.png",
+      "runtime": "152 min",
+      "director": [
+        "Chris Columbus"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
+      ],
+      "rank": 10,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.904,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +326,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }

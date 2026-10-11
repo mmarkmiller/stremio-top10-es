@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610101937",
+  "date": "202610111947",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.24,
+      "rating": 7.238,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,7 +104,7 @@
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.108,
+      "rating": 7.109,
       "year": 2026,
       "days": null,
       "trend": {
@@ -114,33 +114,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Suspense",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
       "director": [
-        "Claire Scanlon"
+        "Jan Komasa"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
       ],
       "rank": 4,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.017,
-      "year": 2026,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ivuxh5CskKOHcjgCmjZRBvxGwBL.jpg",
+      "rating": 6.9,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante una feroz tormenta en las remotas Tierras Altas de Escocia, dos hermanos criminales en fuga buscan refugio en una aislada granja. Tomando a la familia residente como rehenes, pronto descubren que la casa guarda oscuros secretos y que la matriarca de la familia es una mujer formidable que hará lo que sea necesario para proteger a los suyos. Lo que comienza como una invasión se convierte en un juego mortal de supervivencia y revelaciones inesperadas.",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x6kUyz5oiEBcW1NxVxVhYYwKZg7.png",
+      "runtime": "93 min",
+      "director": [
+        "Matthias Hoene"
+      ],
+      "cast": [
+        "Joely Richardson",
+        "Sadie Soverall",
+        "Neil Linpow",
+        "Harry Cadby",
+        "Roger Ajogbe",
+        "Euan Bennet",
+        "Cameron Jack",
+        "Sharon Young"
+      ],
+      "rank": 5,
+      "id": "tt19858164",
+      "name": "El frío en los huesos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
+      "rating": 6.6,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +207,7 @@
         "Kim Sun-young",
         "김지안"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt27802490",
       "name": "Exhuma",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
@@ -205,11 +241,11 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.82,
+      "rating": 7.818,
       "year": 2023,
       "days": null,
       "trend": {
@@ -219,137 +255,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
-      ],
-      "rank": 7,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
-      "director": [
-        "Jan Komasa"
-      ],
-      "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
-      ],
-      "rank": 8,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ivuxh5CskKOHcjgCmjZRBvxGwBL.jpg",
-      "rating": 6.922,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hipocondríaco por fin es feliz cuando puede contarles a sus amigos que se muere de verdad. Una pareja encuentra de nuevo la chispa del amor gracias a la pérdida de su querido perro disecado. Una profesora de yoga verá perturbada su paz debido a los extraños ruidos que emite su nueva vecina. Un campista se encuentra metido en una vorágine de locura y tensión con el resto de veraneantes, cuando decide no acudir a la cena de bienvenida del verano. Y por último, un obsesivo y metódico relojero que solo puede trabajar escuchando de fondo su programa de radio favorito titulado “Pequeños Calvarios”, se enfrentará a las consecuencias de su última emisión. Estas cinco historias componen un puzzle de manías, taritas y obsesiones varias que hacen que no podamos vivir en paz nuestro día a día. ¿O todo lo contrario?",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9HAK7bJKVt0LOTo8UEOilFeVaJO.jpg",
-      "runtime": "92 min",
-      "director": [
-        "Javier Polo Gandía"
-      ],
-      "cast": [
-        "Arturo Valls",
-        "Andrea Duro",
-        "Rubén Bernal",
-        "Vito Sanz",
-        "Raúl Navarro",
-        "Marta Belenguer",
-        "Berta Vázquez",
-        "Lorena López"
-      ],
-      "rank": 9,
-      "id": "tt28750449",
-      "name": "Pequeños calvarios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yXiIBb01spSYjx5acZzBmaNuU66.jpg",
-      "rating": 10,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+      "description": "Una pareja con problemas en su relación se muda al campo, donde descubren una cueva con una fuerza sobrenatural. Al beber agua de la cueva, comienzan a experimentar transformaciones físicas y emocionales que reflejan su codependencia.",
       "genres": [
         "Terror",
-        "Comedia"
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohissVznHBVPNOPrN7hi0tZwZkg.png",
+      "runtime": "102 min",
       "director": [
-        "Osgood Perkins"
+        "Michael Shanks"
       ],
       "cast": [
-        "Theo James",
-        "Tatiana Maslany",
-        "Christian Convery",
-        "Colin O'Brien",
-        "Adam Scott",
-        "Elijah Wood",
-        "Rohan Campbell",
-        "Sarah Levy"
+        "Dave Franco",
+        "Alison Brie",
+        "Damon Herriman",
+        "Mia Morrissey",
+        "Karl Richmond",
+        "Jack Kenny",
+        "Francesca Waters",
+        "Aljin Abella"
+      ],
+      "rank": 8,
+      "id": "tt31184028",
+      "name": "Together",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pp2ho64ah9W9jCCIHavXUCuqISr.jpg",
+      "rating": 6.902,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
+      "director": [
+        "Claire Scanlon"
+      ],
+      "cast": [
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
+      ],
+      "rank": 9,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.03,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
       ],
       "rank": 10,
-      "id": "tt27714946",
-      "name": "The Monkey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
-      "rating": 5.989,
-      "year": 2025,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.339,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-10T17:09:36.641Z"
+  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
 }
