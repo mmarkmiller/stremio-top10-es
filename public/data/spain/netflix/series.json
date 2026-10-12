@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -26,8 +26,8 @@
       "rank": 1,
       "id": "tt35934755",
       "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "rating": 7.355,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.282,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.966,
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -88,7 +88,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.872,
       "year": 2024,
       "days": null,
       "trend": {
@@ -120,7 +120,7 @@
       "id": "tt36832679",
       "name": "El problema final",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "rating": 7,
+      "rating": 7.108,
       "year": 2026,
       "days": null,
       "trend": {
@@ -162,37 +162,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
-      "director": [],
-      "cast": [
-        "Lola Rodríguez",
-        "Isabel Torres",
-        "Daniela Santiago",
-        "Jedet",
-        "Paca la Piraña",
-        "Israel Elejalde",
-        "Sophia Lamar",
-        "Mariona Terés"
-      ],
-      "rank": 6,
-      "id": "tt10383046",
-      "name": "Veneno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
-      "rating": 8.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
       "genres": [
         "Drama",
@@ -210,12 +179,44 @@
         "Billie Lourd",
         "Jessica Barden"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tmdb:299939",
       "name": "Monstruo: La historia de Lizzie Borden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7,
+      "rating": 7.011,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un \"patito feo\" se transforma en una hermosa consorte médica. Chu Jinghong, una estudiante de medicina, entró accidentalmente en un mundo diferente y se convirtió en una princesa desafortunada. Para volver al mundo moderno, debe acumular suficientes créditos curando a los enfermos. Sin que ella lo sepa, el frío Jefe de los Eunucos y el invencible Lord Zhan la están esperando...",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vOEDJiaKt15awc44B3UzZaXfdEL.jpg",
+      "director": [
+        "Wen Hongyi"
+      ],
+      "cast": [
+        "June Wu",
+        "陳欣予",
+        "甘望星",
+        "Wu Rilige",
+        "李景泽",
+        "梁咏妮",
+        "黄盼盼",
+        "龙馨悦"
+      ],
+      "rank": 7,
+      "id": "tmdb:222114",
+      "name": "Pequeña Doctora Loca",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OmiHBvVymSpWr4kGjBXfm5QZ9B.jpg",
+      "rating": 6.5,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -247,7 +248,7 @@
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.752,
+      "rating": 8.8,
       "year": 1999,
       "days": null,
       "trend": {
@@ -257,25 +258,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
       ],
       "rank": 9,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
+      "id": "tt10383046",
+      "name": "Veneno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "rating": 8.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -284,27 +289,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los orígenes, la trayecoria y la música de Raphael inspiran esta íntima serie biográfica sobre su extraordinaria carrera de 60 años de éxitos internacionales.",
+      "description": "Paquita, una de las mejores representantes de actores de España en los 90, se ve buscando nuevas estrellas desesperadamente, después de perder a su mayor cliente.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3lL9whF2DZRM6by9OSDzj7n80ww.png",
+      "background": "https://image.tmdb.org/t/p/w1280/r7eGdrN6Zt7YjhQl2UEOfBk0xgP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jDBpKlBcgv0R6lel7ZzUzt82xET.png",
       "director": [],
       "cast": [
-        "Javier Morgade",
-        "Álvaro González",
-        "Carlos Santos",
-        "Francesco Carril",
-        "Natalia Varela",
-        "Pepa Aniorte"
+        "Brays Efe",
+        "Belén Cuesta",
+        "Lidia San José",
+        "Yolanda Ramos",
+        "Anna Castillo",
+        "Belinda Washington",
+        "Terelu Campos"
       ],
       "rank": 10,
-      "id": "tt37540577",
-      "name": "Aquel",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4w9Lk9T6Sd8e7ILwdoxMBC6RU5d.jpg",
-      "rating": 5.5,
-      "year": 2026,
+      "id": "tt5866074",
+      "name": "Paquita Salas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gp2LneVGFlMxoU7N4uUc0OmnKHB.jpg",
+      "rating": 7,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T09:13:01.462Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -60,8 +60,39 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
+      "rating": 8.049,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
+      "director": [],
+      "cast": [
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
+      ],
+      "rank": 3,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.009,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,43 +119,12 @@
         "Alexandria Riley",
         "Reed Birney"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.2,
+      "rating": 8.219,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 4,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -164,39 +164,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
-      "director": [],
-      "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
-      ],
-      "rank": 6,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.392,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
       "genres": [
         "Crimen",
@@ -216,71 +183,11 @@
         "Zahra Newman",
         "James Saunders"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt6037988",
       "name": "Causa abierta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 7.67,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
-      "director": [],
-      "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
-      ],
-      "rank": 8,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.92,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
-      "director": [],
-      "cast": [
-        "Pearce Quigley",
-        "Michael Palin",
-        "Lauren Patel",
-        "Mackenzie Crook",
-        "Shola Adewusi",
-        "Paul Kaye",
-        "Jon Pointing",
-        "Sophie Willan"
-      ],
-      "rank": 9,
-      "id": "tt38504111",
-      "name": "Pequeños profetas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.231,
+      "rating": 7.632,
       "year": 2026,
       "days": null,
       "trend": {
@@ -307,7 +214,7 @@
         "Noah Carganilla",
         "Highdee Kuan"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
@@ -318,8 +225,99 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "director": [],
+      "cast": [
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
+      ],
+      "rank": 8,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.919,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
+      ],
+      "rank": 9,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.394,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El caos se cierne sobre una pareja de abogados felizmente casados cuando un famoso asesino de su pasado sale de la cárcel.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png",
+      "director": [],
+      "cast": [
+        "Amy Adams",
+        "Javier Bardem",
+        "Patrick Wilson",
+        "Joe Anders",
+        "Lily Collias",
+        "Malia Pyles",
+        "CCH Pounder"
+      ],
+      "rank": 10,
+      "id": "tt34675596",
+      "name": "Cape Fear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T09:13:01.462Z"
 }

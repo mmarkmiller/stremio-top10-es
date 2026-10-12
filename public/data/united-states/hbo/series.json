@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.3,
+      "rating": 8.294,
       "year": 2026,
       "days": null,
       "trend": {
@@ -55,7 +55,7 @@
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-      "rating": 7.9,
+      "rating": 7.923,
       "year": 2026,
       "days": null,
       "trend": {
@@ -95,35 +95,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
-      ],
-      "rank": 4,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
       "genres": [
         "Comedia",
@@ -139,7 +110,7 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
@@ -170,12 +141,41 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.736,
+      "rating": 8.737,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
+      ],
+      "rank": 6,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8.018,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -215,30 +215,24 @@
     },
     {
       "artworkVersion": 4,
-      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
+      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Talk",
+        "Comedia",
+        "News"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
+      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
       "director": [],
       "cast": [
-        "Dominic West",
-        "Lance Reddick",
-        "Sonja Sohn",
-        "Wendell Pierce",
-        "Michael Kenneth Williams",
-        "Deirdre Lovejoy",
-        "Andre Royo",
-        "John Doman"
+        "John Oliver"
       ],
       "rank": 8,
-      "id": "tt0306414",
-      "name": "Bajo escucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
-      "rating": 8.6,
-      "year": 2002,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.8,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -247,30 +241,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
       "genres": [
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Comedia"
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
       "director": [],
       "cast": [
-        "Claudia Salas",
-        "Ana Torrent",
-        "Maribel Verdú",
-        "Carmen Maura",
-        "María León",
-        "Cecilia Suárez",
-        "Ana Mena",
-        "Clara Sans"
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
       ],
       "rank": 9,
-      "id": "tt32327588",
-      "name": "Furia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3BRuXcdVQz0x0yuQSDf5BjklcRF.jpg",
-      "rating": 6.5,
-      "year": 2025,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.4,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,5 +305,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
 }

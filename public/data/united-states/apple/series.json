@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -60,39 +60,8 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
+      "rating": 8.049,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
-      "director": [],
-      "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
-      ],
-      "rank": 3,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.8,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -118,12 +87,43 @@
         "Kingston Rumi Southwick",
         "Stephen Root"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8,
+      "rating": 8.009,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 4,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.8,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -155,7 +155,7 @@
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.231,
+      "rating": 8.17,
       "year": 2026,
       "days": null,
       "trend": {
@@ -165,28 +165,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
       "director": [],
       "cast": [
-        "Matthew McConaughey",
-        "Woody Harrelson",
-        "Natalie Martinez",
-        "Brittany Ishibashi",
-        "Nolan Almeida",
-        "Ella Grace Helton",
-        "Noah Carganilla",
-        "Highdee Kuan"
+        "Patrick Brammall",
+        "Chloe Jean Lourdes",
+        "Brendan Cowell",
+        "Maxine Peake",
+        "Daniel Henshall",
+        "Jessica Wren",
+        "Zahra Newman",
+        "James Saunders"
       ],
       "rank": 6,
-      "id": "tt6773088",
-      "name": "Brothers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 8.2,
+      "id": "tt6037988",
+      "name": "Causa abierta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "rating": 7.632,
       "year": 2026,
       "days": null,
       "trend": {
@@ -218,7 +220,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.2,
+      "rating": 8.219,
       "year": 2023,
       "days": null,
       "trend": {
@@ -228,31 +230,56 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
+      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
       "director": [],
       "cast": [
-        "Patrick Brammall",
-        "Chloe Jean Lourdes",
-        "Brendan Cowell",
-        "Maxine Peake",
-        "Daniel Henshall",
-        "Jessica Wren",
-        "Zahra Newman",
-        "James Saunders"
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Natalie Martinez",
+        "Brittany Ishibashi",
+        "Nolan Almeida",
+        "Ella Grace Helton",
+        "Noah Carganilla",
+        "Highdee Kuan"
       ],
       "rank": 8,
-      "id": "tt6037988",
-      "name": "Causa abierta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 7.67,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "rating": 8.2,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "director": [],
+      "cast": [
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
+      ],
+      "rank": 9,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.919,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,39 +303,12 @@
         "Aunjanue Ellis-Taylor",
         "Timothy Olyphant"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt34866681",
       "name": "Lucky",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
-      "rating": 7.3,
+      "rating": 7.302,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
-      "director": [],
-      "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
-      ],
-      "rank": 10,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.92,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T09:13:01.462Z"
 }

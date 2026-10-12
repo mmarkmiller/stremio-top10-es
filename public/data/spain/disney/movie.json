@@ -2,37 +2,38 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
       "genres": [
-        "Drama",
-        "Romance"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
-      "runtime": "194 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
       "director": [
-        "James Cameron"
+        "Jon Favreau"
       ],
       "cast": [
-        "Leonardo DiCaprio",
-        "Kate Winslet",
-        "Billy Zane",
-        "Kathy Bates",
-        "Frances Fisher",
-        "Gloria Stuart",
-        "Bill Paxton",
-        "Bernard Hill"
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
       ],
       "rank": 1,
-      "id": "tt0120338",
-      "name": "Titanic",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
-      "rating": 7.901,
-      "year": 1997,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.456,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -68,7 +69,7 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.291,
+      "rating": 8.284,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,70 +79,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
       "genres": [
-        "Documental",
-        "Música"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png",
+      "runtime": "194 min",
       "director": [
-        "Dylan Southern",
-        "Will Lovelace"
+        "James Cameron"
       ],
       "cast": [
-        "Liam Gallagher",
-        "Noel Gallagher",
-        "Paul Arthurs",
-        "Gem Archer",
-        "Andy Bell",
-        "Joey Waronker",
-        "Christian Madden",
-        "Anaïs Gallagher"
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates",
+        "Frances Fisher",
+        "Gloria Stuart",
+        "Bill Paxton",
+        "Bernard Hill"
       ],
       "rank": 3,
-      "id": "tt36150957",
-      "name": "Oasis: Don't Look Back in Anger",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 4,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
-      "year": 2026,
+      "id": "tt0120338",
+      "name": "Titanic",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
+      "rating": 7.901,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,11 +136,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
+      "rating": 6.815,
       "year": 1998,
       "days": null,
       "trend": {
@@ -186,34 +150,141 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual.",
+      "description": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Acción"
+        "Documental",
+        "Música"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/egEloyD9ziPa38PovEqApz7qWvg.png",
-      "runtime": "145 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
+      "runtime": "123 min",
       "director": [
-        "Wes Ball"
+        "Dylan Southern",
+        "Will Lovelace"
       ],
       "cast": [
-        "Owen Teague",
-        "Freya Allan",
-        "Kevin Durand",
-        "Peter Macon",
-        "William H. Macy",
-        "Eka Darville",
-        "Travis Jeffery",
-        "Lydia Peckham"
+        "Liam Gallagher",
+        "Noel Gallagher",
+        "Paul Arthurs",
+        "Gem Archer",
+        "Andy Bell",
+        "Joey Waronker",
+        "Christian Madden",
+        "Anaïs Gallagher"
+      ],
+      "rank": 5,
+      "id": "tt36150957",
+      "name": "Oasis: Don't Look Back in Anger",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "rating": 7.517,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
+      "runtime": "119 min",
+      "director": [
+        "David Frankel"
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt",
+        "Stanley Tucci",
+        "Kenneth Branagh",
+        "Justin Theroux",
+        "Lucy Liu",
+        "Tracie Thoms"
       ],
       "rank": 6,
-      "id": "tt11389872",
-      "name": "El reino del planeta de los simios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-      "rating": 7,
-      "year": 2024,
+      "id": "tt33612209",
+      "name": "El diablo viste de Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "rating": 7.041,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
+      "runtime": "179 min",
+      "director": [
+        "Peter Jackson"
+      ],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler",
+        "Christopher Lee",
+        "Sean Bean"
+      ],
+      "rank": 7,
+      "id": "tt0120737",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "rating": 8.447,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un explorador espacial queda atrapado en Marte, luego de ser abandonado por los miembros de su tripulación, quienes pensaron que había muerto a consecuencia de una tormenta. Casi sin recursos y con solo su ingenio, intentará sobrevivir mientras la NASA, por un lado, y los miembros de su tripulación, por su propia cuenta, intentan rescatarlo.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Kma7LQt59u3x5rKkGTAQP26Y0z.png",
+      "runtime": "142 min",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Jessica Chastain",
+        "Kristen Wiig",
+        "Jeff Daniels",
+        "Michael Peña",
+        "Sean Bean",
+        "Kate Mara",
+        "Sebastian Stan"
+      ],
+      "rank": 8,
+      "id": "tt3659388",
+      "name": "Marte (The Martian)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBRK1izFxIH3Nh6vax4ssOHSHVd.jpg",
+      "rating": 7.7,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -246,7 +317,7 @@
         "Brendan Gleeson",
         "Marton Csokas"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0320661",
       "name": "El reino de los cielos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
@@ -260,67 +331,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Fantasía",
+        "Animación",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
-      "runtime": "119 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
+      "runtime": "75 min",
       "director": [
-        "David Frankel"
+        "Henry Selick"
       ],
       "cast": [
-        "Anne Hathaway",
-        "Meryl Streep",
-        "Emily Blunt",
-        "Stanley Tucci",
-        "Kenneth Branagh",
-        "Justin Theroux",
-        "Lucy Liu",
-        "Tracie Thoms"
-      ],
-      "rank": 8,
-      "id": "tt33612209",
-      "name": "El diablo viste de Prada 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.039,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
       ],
       "rank": 10,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.294,
-      "year": 1989,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.848,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -329,5 +367,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T01:13:51.791Z"
 }

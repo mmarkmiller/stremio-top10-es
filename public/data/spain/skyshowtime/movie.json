@@ -2,41 +2,253 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "description": "Después de una serie de tragedias, incluida la muerte de su suegro, Robert y su esposa Maia abandonan su hogar en Londres para regresar a la casa de su infancia. Pero cuando Robert descubre un viejo retrato en el ático de un hombre que es su viva imagen, se mete en una madriguera de conejo para descubrir la identidad de este misterioso doppelganger conocido solo como el visitante. No pasa mucho tiempo hasta que se da cuenta: a donde va el visitante, la muerte lo sigue.",
       "genres": [
-        "Drama",
-        "Romance"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7pKcnJHGHEJQteBpEXbuNklf79.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/anOSFUoG99qdynHLeOnL1DSaquk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ouiwSqB9n5zZ3EGDIlUtAEKIjeN.png",
+      "runtime": "89 min",
       "director": [
-        "Chloé Zhao"
+        "Justin P. Lange"
       ],
       "cast": [
-        "Jessie Buckley",
-        "Paul Mescal",
-        "Emily Watson",
-        "Joe Alwyn",
-        "Jacobi Jupe",
-        "Noah Jupe",
-        "Olivia Lynes",
-        "Justine Mitchell"
+        "Finn Jones",
+        "Jessica McNamee",
+        "Donna Biscoe",
+        "Thomas Francis Murphy",
+        "Dane Rhodes",
+        "Shanna Forrestall",
+        "Susan McPhail",
+        "Sue Rock"
       ],
       "rank": 1,
-      "id": "tt14905854",
-      "name": "Hamnet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.7,
-      "year": 2025,
-      "days": null,
+      "id": "tt15558152",
+      "name": "El Visitante (The Visitor)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5ckk0dggJYpGhuoZ18VylEXVu1P.jpg",
+      "rating": 5.106,
+      "year": 2022,
+      "days": 4,
       "trend": {
         "dir": "same",
-        "delta": null
+        "delta": 0
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Johnny Worricker (Bill Nighy) es un veterano agente del MI5. Su jefe y mejor amigo Benedict Baron (Michael Gambon) muere repentinamente, dejando tras de sí un archivo inexplicable, que amenaza la estabilidad de la organización. Mientras tanto, un encuentro aparentemente casual con la llamativa vecina de al lado de Johnny y activista político Nancy Pierpan (Rachel Weisz), parece demasiado bueno para ser verdad. Johnny se ve obligado a salir de su trabajo, y luego de su identidad para descubrir la verdad. Situada en Londres y Cambridge, de ocho páginas es una película de espías contemporáneos de la BBC, que aborda cuestiones de inteligencia y los dilemas morales propios de este nuevo siglo.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/no4tk4mE24iXfa4Q5vKXocDzftZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lUbJQOBOzMIkeWmpVQknb96Or2Q.png",
+      "runtime": "98 min",
+      "director": [
+        "David Hare"
+      ],
+      "cast": [
+        "Bill Nighy",
+        "Rachel Weisz",
+        "Ralph Fiennes",
+        "Michael Gambon",
+        "Felicity Jones",
+        "Tom Hughes",
+        "Judy Davis",
+        "Rakhee Thakrar"
+      ],
+      "rank": 2,
+      "id": "tt1797469",
+      "name": "Entre líneas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/19Fgq1k6AVHvrR15asdLdt1omKB.jpg",
+      "rating": 6.6,
+      "year": 2011,
+      "days": 10,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
+      "runtime": "92 min",
+      "director": [
+        "Ilya Naishuller"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen",
+        "Christopher Lloyd",
+        "Michael Ironside",
+        "Colin Salmon",
+        "RZA",
+        "Billy MacLellan"
+      ],
+      "rank": 3,
+      "id": "tt7888964",
+      "name": "Nadie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "rating": 7.859,
+      "year": 2021,
+      "days": 40,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Secuela de \"Blanco humano\" (1993). Un antiguo luchador de artes marciales mixtas (MMA) caído en desgracia es obligado a participar en una terrible variación del juego del gato y el ratón en mitad de la selva de Tailandia, cuando un grupo de mercenarios cazadores de hombres, organizan partidas de caza para adinerados en donde la pieza a conseguir es un trofeo mayor: un hombre.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jMLvLxu1nc26mRoJg5Hka0NJcNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7HOiYdhZlZF6zCSFduuxR2pB56G.png",
+      "runtime": "104 min",
+      "director": [
+        "Roel Reiné"
+      ],
+      "cast": [
+        "Scott Adkins",
+        "Rhona Mitra",
+        "Robert Knepper",
+        "Temuera Morrison",
+        "Byron Gibson",
+        "Ann Truong",
+        "Adam Saunders",
+        "Sean Keenan"
+      ],
+      "rank": 4,
+      "id": "tt5241578",
+      "name": "Blanco humano 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg",
+      "rating": 6.303,
+      "year": 2016,
+      "days": 10,
+      "trend": {
+        "dir": "same",
+        "delta": 0
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Comedia romántica que narra la historia de una mujer que, cansada de no encontrar al hombre de sus sueños, decide tener un niño acudiendo a una clínica de inseminación artificial... para conocer al hombre de sus sueños justo el mismo día. Tras salir con varios hombres sin que el amor se consolidara, Zoe (Jennifer Lopez) ha decidido que no está dispuesta a seguir esperando a que aparezca su pareja perfecta. Empeñada en convertirse en madre, trama un plan y pide una cita médica, decidiendo hacerlo en solitario. Ese mismo día, Zoe se encuentra con Stan (Alex O'Loughlin), un candidato con muchas posibilidades. Zoe protege la incipiente relación escondiendo los primeros signos de su embarazo, dando lugar a situaciones que Stan no sabe cómo interpretar. Cuando Zoe, nerviosa, revela la razón de su extraño comportamiento, Stan reflexiona sobre su inusual futuro, decidiendo que desea formar parte de él...",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7qCmWIOAb7HiV3ODJo61GuaIDae.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8n0cClLwc0TgDY61wrNXQtZ4Qvp.png",
+      "runtime": "104 min",
+      "director": [
+        "Alan Poul"
+      ],
+      "cast": [
+        "Jennifer Lopez",
+        "Alex O'Loughlin",
+        "Michaela Watkins",
+        "Eric Christian Olsen",
+        "Anthony Anderson",
+        "Noureen DeWulf",
+        "Melissa McCarthy",
+        "Tom Bosley"
+      ],
+      "rank": 5,
+      "id": "tt1212436",
+      "name": "El plan B",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bIySUJMGwmGLJZJ25Qu2c8CvGxU.jpg",
+      "rating": 6.125,
+      "year": 2010,
+      "days": 7,
+      "trend": {
+        "dir": "up",
+        "delta": 1
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "genres": [
+        "Terror",
+        "Aventura",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xRI3CPwl9BXlk8qkwiY8QTtASQg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png",
+      "runtime": "131 min",
+      "director": [
+        "Stephen Sommers"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Kate Beckinsale",
+        "Richard Roxburgh",
+        "Josie Maran",
+        "David Wenham",
+        "Shuler Hensley",
+        "Elena Anaya",
+        "Kevin J. O'Connor"
+      ],
+      "rank": 6,
+      "id": "tt0338526",
+      "name": "Van Helsing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "rating": 6.433,
+      "year": 2004,
+      "days": 30,
+      "trend": {
+        "dir": "down",
+        "delta": 1
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ev0PWpXvWWoWsg69hOcXjZs2Ayn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xSfU0bsDvoDsTAENYYKlI6UgDFn.png",
+      "runtime": "115 min",
+      "director": [
+        "Parker Finn"
+      ],
+      "cast": [
+        "Sosie Bacon",
+        "Kyle Gallner",
+        "Jessie T. Usher",
+        "Robin Weigert",
+        "Caitlin Stasey",
+        "Kal Penn",
+        "Rob Morgan",
+        "Gillian Zinser"
+      ],
+      "rank": 7,
+      "id": "tt15474916",
+      "name": "Smile",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+      "rating": 6.669,
+      "year": 2022,
+      "days": 10,
+      "trend": {
+        "dir": "same",
+        "delta": 0
       }
     },
     {
@@ -63,269 +275,92 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 2,
+      "rank": 8,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.074,
+      "rating": 8.1,
       "year": 1982,
-      "days": null,
+      "days": 2,
       "trend": {
-        "dir": "same",
+        "dir": "new",
         "delta": null
       }
     },
     {
       "artworkVersion": 4,
-      "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yGau2y7CWTRZi07oAO5XxSJdUzx.png",
-      "runtime": "118 min",
-      "director": [
-        "Yorgos Lánthimos"
-      ],
-      "cast": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
-      ],
-      "rank": 3,
-      "id": "tt12300742",
-      "name": "Bugonia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.295,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
-      "runtime": "123 min",
-      "director": [
-        "Richard Curtis"
-      ],
-      "cast": [
-        "Domhnall Gleeson",
-        "Rachel McAdams",
-        "Bill Nighy",
-        "Tom Hollander",
-        "Margot Robbie",
-        "Lydia Wilson",
-        "Lindsay Duncan",
-        "Richard Cordery"
-      ],
-      "rank": 4,
-      "id": "tt2194499",
-      "name": "Una cuestión de tiempo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.9,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
-      "genres": [
-        "Crimen",
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
-      "runtime": "111 min",
-      "director": [
-        "Wes Craven"
-      ],
-      "cast": [
-        "Neve Campbell",
-        "Skeet Ulrich",
-        "Rose McGowan",
-        "Matthew Lillard",
-        "David Arquette",
-        "Courteney Cox",
-        "Jamie Kennedy",
-        "Drew Barrymore"
-      ],
-      "rank": 5,
-      "id": "tt0117571",
-      "name": "Scream. Vigila quién llama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
-      "rating": 7.437,
-      "year": 1996,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
-      "runtime": "92 min",
-      "director": [
-        "Ilya Naishuller"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Aleksey Serebryakov",
-        "Connie Nielsen",
-        "Christopher Lloyd",
-        "Michael Ironside",
-        "Colin Salmon",
-        "RZA",
-        "Billy MacLellan"
-      ],
-      "rank": 7,
-      "id": "tt7888964",
-      "name": "Nadie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "rating": 7.858,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png",
-      "runtime": "89 min",
-      "director": [
-        "Timo Tjahjanto"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Connie Nielsen",
-        "John Ortiz",
-        "Colin Hanks",
-        "RZA",
-        "Colin Salmon",
-        "Christopher Lloyd",
-        "Sharon Stone"
-      ],
-      "rank": 8,
-      "id": "tt28996126",
-      "name": "Nadie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
-      "rating": 6.908,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar...",
+      "description": "Los habitantes de una pequeña y pacífica ciudad se ven alterados por la llegada de un extraño personaje y por sus no menos extraños acompañantes, quienes están decididos a encontrar, sea como sea, un amuleto que controla el equilibrio entre el bien y el mal. Cada cien años las fuerzas del mal desafían a las del bien y éste es el año.",
       "genres": [
         "Comedia",
+        "Acción",
         "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l2Yvmy5xkCNuz8ZFGbKgimzHIbH.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qZ7FgN21pCAiY1PfHPDRqqrHUDj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zuPLm3BgjtbE0IAItqUzeCJ4kW0.png",
+      "runtime": "82 min",
       "director": [
-        "Barry Sonnenfeld"
+        "Fred Dekker"
       ],
       "cast": [
-        "Raúl Juliá",
-        "Anjelica Huston",
-        "Christopher Lloyd",
-        "Dan Hedaya",
-        "Elizabeth Wilson",
-        "Judith Malina",
-        "Carel Struycken",
-        "Dana Ivey"
+        "André Gower",
+        "Robby Kiger",
+        "Stephen Macht",
+        "Duncan Regehr",
+        "Tom Noonan",
+        "Brent Chalem",
+        "Ryan Lambert",
+        "Ashley Bank"
       ],
       "rank": 9,
-      "id": "tt0101272",
-      "name": "La familia Addams",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
-      "rating": 7.083,
-      "year": 1991,
-      "days": null,
+      "id": "tt0093560",
+      "name": "Una pandilla alucinante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zSU1WuADhf12DKpMso4tbEmbF9x.jpg",
+      "rating": 6.7,
+      "year": 1987,
+      "days": 2,
       "trend": {
         "dir": "same",
-        "delta": null
+        "delta": 0
       }
     },
     {
       "artworkVersion": 4,
-      "description": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+      "description": "Después de abandonar su trabajo de enfermera en una clínica, Caroline (Hudson) es contratada para cuidar de un anciano que ha sufrido una embolia, aunque la esposa de éste (Rowlands) la acoge con bastante recelo. El matrimonio vive en una siniestra mansión sureña en las afueras de Nueva Orleáns, en el delta del Mississippi (Louisiana). Intrigada por las extrañas costumbres de la enigmática pareja, Caroline decide explorar la casa. Armada con una llave maestra, empieza a abrir todas las puertas hasta que descubre un desván secreto que contiene un terrible secreto.",
       "genres": [
-        "Fantasía",
-        "Aventura",
-        "Romance"
+        "Drama",
+        "Terror",
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/cDSiBj4VHQK761WA1IblOKus9eC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nHKBY4eEUQJF2AhRZCnGinkww19.png",
+      "runtime": "104 min",
       "director": [
-        "Jon M. Chu"
+        "Iain Softley"
       ],
       "cast": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Jonathan Bailey",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Kate Hudson",
+        "Gena Rowlands",
+        "Peter Sarsgaard",
+        "John Hurt",
+        "Joy Bryant",
+        "Marion Zinser",
+        "Maxine Barnett",
+        "Fahnlohnee R. Harris"
       ],
       "rank": 10,
-      "id": "tt19847976",
-      "name": "Wicked Parte II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
+      "id": "tt0397101",
+      "name": "La llave del mal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oAjpyj08T5RizLVsxEYoyqtk0Ec.jpg",
       "rating": 6.6,
-      "year": 2025,
-      "days": null,
+      "year": 2005,
+      "days": 1,
       "trend": {
-        "dir": "same",
+        "dir": "new",
         "delta": null
       }
     }
   ],
-  "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingSource": "flixpatrol",
+  "rankingUpdatedAt": ""
 }

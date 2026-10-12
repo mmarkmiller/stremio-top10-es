@@ -2,44 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
-      "director": [
-        "Ben Wheatley"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
-      ],
-      "rank": 1,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.238,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -64,11 +28,47 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
+      "rating": 8.634,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
+      "runtime": "91 min",
+      "director": [
+        "Ben Wheatley"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
+      ],
+      "rank": 2,
+      "id": "tt31195136",
+      "name": "Normal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "rating": 7.254,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,8 +104,43 @@
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.109,
+      "rating": 7.11,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jamal Malik es un adolescente pobre de Bombay que, por un motivo desconocido, está concursando en la versión hindú del programa \"¿Quién quiere ser millonario?\". A punto de conseguir los 20 millones de rupias como premio mayor del concurso, el joven es interrogado por la policía, bajo la sospecha de estar haciendo trampas. Pero para cada una de las preguntas, Jamal tiene una respuesta...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/213lPPkawMHXsKkN0BJySCyU9YW.png",
+      "runtime": "123 min",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal",
+        "अनिल कपूर",
+        "Mahesh Manjrekar",
+        "Saurabh Shukla",
+        "Irrfan Khan",
+        "Ankur Vikal"
+      ],
+      "rank": 4,
+      "id": "tt1010048",
+      "name": "Slumdog Millionaire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ub7iEniSi23Ms3RcF551Sozb1MH.jpg",
+      "rating": 7.727,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,10 +170,10 @@
         "Mckenna Grace",
         "Madeline Brewer"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt12583926",
       "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ivuxh5CskKOHcjgCmjZRBvxGwBL.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
       "rating": 6.9,
       "year": 2025,
       "days": null,
@@ -171,48 +206,12 @@
         "Cameron Jack",
         "Sharon Young"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt19858164",
       "name": "El frío en los huesos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
-      "rating": 6.6,
+      "rating": 6.599,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
-      "genres": [
-        "Misterio",
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aINel9503ompOlGKn4sIVMg09Un.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nEWLYsH8q1iVL9wNxnpWMhxrymL.png",
-      "runtime": "134 min",
-      "director": [
-        "장재현"
-      ],
-      "cast": [
-        "Choi Min-sik",
-        "Kim Go-eun",
-        "Yoo Hai-jin",
-        "이도현",
-        "김재철",
-        "전진기",
-        "Kim Sun-young",
-        "김지안"
-      ],
-      "rank": 6,
-      "id": "tt27802490",
-      "name": "Exhuma",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
-      "rating": 7.7,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +244,7 @@
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.818,
+      "rating": 7.8,
       "year": 2023,
       "days": null,
       "trend": {
@@ -290,32 +289,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Comedia",
+        "Familia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
       "director": [
-        "Claire Scanlon"
+        "Kyle Balda"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
       ],
       "rank": 9,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.03,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -325,33 +325,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
       "genres": [
-        "Terror",
+        "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
       "director": [
-        "Brian De Palma"
+        "Paul Feig"
       ],
       "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
       ],
       "rank": 10,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.339,
-      "year": 1976,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.257,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T01:13:51.791Z"
 }

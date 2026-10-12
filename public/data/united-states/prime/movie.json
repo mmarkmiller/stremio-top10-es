@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,7 +66,7 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
+      "rating": 8.634,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,43 +101,8 @@
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.339,
+      "rating": 7.338,
       "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
-      "director": [
-        "Claire Scanlon"
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 4,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.03,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,12 +133,117 @@
         "Chris O'Dowd",
         "Regina Hall"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt32565993",
       "name": "Las ovejas detectives",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.92,
+      "rating": 7.9,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
+      "runtime": "90 min",
+      "director": [
+        "Clive Barker"
+      ],
+      "cast": [
+        "Andrew Robinson",
+        "Clare Higgins",
+        "Ashley Laurence",
+        "Oliver Smith",
+        "Sean Chapman",
+        "Robert Hines",
+        "Doug Bradley",
+        "Nicholas Vince"
+      ],
+      "rank": 6,
+      "id": "tt0093177",
+      "name": "Hellraiser",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
+      "rating": 6.892,
+      "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
+      "director": [
+        "Claire Scanlon"
+      ],
+      "cast": [
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
+      ],
+      "rank": 7,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.056,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 8,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.263,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -204,47 +274,12 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.074,
+      "rating": 8.1,
       "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 7,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.262,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,47 +310,12 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.297,
+      "rating": 7.296,
       "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
-      "genres": [
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oqzW9RFVgRpnCUmWzc2baPYdhXR.png",
-      "runtime": "112 min",
-      "director": [
-        "Ruben Fleischer"
-      ],
-      "cast": [
-        "Jesse Eisenberg",
-        "Dominic Sessa",
-        "Ariana Greenblatt",
-        "Justice Smith",
-        "Rosamund Pike",
-        "Woody Harrelson",
-        "Dave Franco",
-        "Isla Fisher"
-      ],
-      "rank": 10,
-      "id": "tt4712810",
-      "name": "Ahora me ves 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
-      "rating": 6.4,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T01:13:51.791Z"
 }

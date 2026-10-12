@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,9 +30,45 @@
       "rank": 1,
       "id": "tt31049299",
       "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-      "rating": 7.401,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 7.409,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
+      "runtime": "108 min",
+      "director": [
+        "Jonathan Glazer"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade",
+        "Andrew Gorman",
+        "Joe Szula"
+      ],
+      "rank": 2,
+      "id": "tt1441395",
+      "name": "Under the Skin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
+      "rating": 6.1,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,11 +99,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.574,
+      "rating": 6.558,
       "year": 2026,
       "days": null,
       "trend": {
@@ -97,12 +133,84 @@
         "Betsy Palmer",
         "Peter Brouwer"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
       "rating": 6.4,
       "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 5,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 6,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.956,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -131,11 +239,11 @@
         "Jim Siedow",
         "Gunnar Hansen"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt0072271",
       "name": "La matanza de Texas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.3,
+      "rating": 7.286,
       "year": 1974,
       "days": null,
       "trend": {
@@ -167,48 +275,12 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.875,
+      "rating": 6.872,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 7,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -239,7 +311,7 @@
         "Babs Olusanmokun",
         "Hero Fiennes Tiffin"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt5177120",
       "name": "El ministerio de la Guerra Sucia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
@@ -250,80 +322,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/epSWEPJhJKjNsfM6kFMQonx9nqM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rW5xHIAd4x0M8oezFzQo3wVvlhd.png",
-      "runtime": "104 min",
-      "director": [
-        "Guy Maddin",
-        "Galen Johnson",
-        "Evan Johnson"
-      ],
-      "cast": [
-        "Cate Blanchett",
-        "Roy Dupuis",
-        "Nikki Amuka-Bird",
-        "Charles Dance",
-        "Takehiro Hira",
-        "Denis Ménochet",
-        "Rolando Ravello",
-        "Zlatko Burić"
-      ],
-      "rank": 9,
-      "id": "tt30841606",
-      "name": "Malas lenguas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a7Ijn4fEnYjGl45OoyxBOnFy7Hc.jpg",
-      "rating": 4.793,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
-      "runtime": "100 min",
-      "director": [
-        "Eric Appel"
-      ],
-      "cast": [
-        "Nate Bargatze",
-        "Mandy Moore",
-        "Stella Grace Fitzgerald",
-        "Birdie Borria",
-        "Charlotte Ann Tucker",
-        "Colin Jost",
-        "Will Forte",
-        "Martin Herlihy"
-      ],
-      "rank": 10,
-      "id": "tt34459219",
-      "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
-      "rating": 7.082,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T01:13:51.791Z"
 }

@@ -2,8 +2,41 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
+      "director": [],
+      "cast": [
+        "Summer H. Howell",
+        "Samantha Sloyan",
+        "Siena Agudong",
+        "Alison Thornton",
+        "Joel Oulette",
+        "Josie Totah",
+        "Arthur Conti",
+        "Thalia Dudek"
+      ],
+      "rank": 1,
+      "id": "tt11540908",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
@@ -24,7 +57,7 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
@@ -55,44 +88,11 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt35934755",
       "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "rating": 7.355,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
-      "director": [],
-      "cast": [
-        "Summer H. Howell",
-        "Samantha Sloyan",
-        "Siena Agudong",
-        "Alison Thornton",
-        "Joel Oulette",
-        "Josie Totah",
-        "Arthur Conti",
-        "Thalia Dudek"
-      ],
-      "rank": 3,
-      "id": "tt11540908",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.3,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.282,
       "year": 2026,
       "days": null,
       "trend": {
@@ -120,7 +120,7 @@
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
-      "rating": null,
+      "rating": 10,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,7 +149,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.966,
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -209,7 +209,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.3,
+      "rating": 8.294,
       "year": 2026,
       "days": null,
       "trend": {
@@ -241,7 +241,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.872,
       "year": 2024,
       "days": null,
       "trend": {
@@ -283,30 +283,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
       "director": [],
       "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
+        "Masako Nozawa",
+        "Ryo Horikawa",
+        "Naoko Watanabe",
+        "Unsho Ishizuka",
+        "Koichi Yamadera"
       ],
       "rank": 10,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
-      "year": 2022,
+      "id": "tt39395275",
+      "name": "Dragon Ball Super: Beerus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "rating": 9.788,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
 }

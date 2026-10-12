@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.3,
+      "rating": 8.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -71,38 +71,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
-      "director": [],
-      "cast": [
-        "Maria Sten",
-        "Greyston Holt",
-        "Adeline Rudolph",
-        "Matthew Del Negro",
-        "Damon Herriman",
-        "Jasper Jones",
-        "Emily Mitchell"
-      ],
-      "rank": 3,
-      "id": "tt33539520",
-      "name": "Neagley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.083,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "genres": [
         "Action & Adventure",
@@ -119,7 +87,7 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
@@ -133,24 +101,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "Cuatro siglos después de la fundación de la República (509 a.C.), Roma es la ciudad más poderosa del mundo, una metrópoli cosmopolita de un millón de personas, el epicentro de un imperio en expansión. La República se basó en la separación de poderes y creó los mecanismos necesarios para evitar que un solo hombre acumulara demasiado poder. Sin embargo, con el paso del tiempo, la corrupción, el lujo y los excesos fueron carcomiendo esos principios.\n\nLa serie es una historia sobre la vida tanto de romanos ilustres como ordinarios, situada en los últimos días de la República Romana.",
       "genres": [
-        "Comedia"
+        "Action & Adventure",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/sKd5lu75thuyl8Qbuln684HpM86.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tjoOEClbGpAHnlXnQLSh64HIpHl.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Kevin McKidd",
+        "Ray Stevenson",
+        "Ciarán Hinds",
+        "James Purefoy",
+        "Polly Walker",
+        "Lindsay Duncan",
+        "Tobias Menzies",
+        "Max Pirkis"
       ],
-      "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
+      "rank": 4,
+      "id": "tt0384766",
+      "name": "Roma",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pfe8tcOhjseH2OBz2NKk9HQ4WdK.jpg",
+      "rating": 8.235,
       "year": 2005,
       "days": null,
       "trend": {
@@ -172,11 +145,11 @@
       "cast": [
         "Elizabeth Tabish"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt5622316",
       "name": "The Chosen (Los elegidos)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.8,
+      "rating": 8.831,
       "year": 2019,
       "days": null,
       "trend": {
@@ -186,30 +159,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "description": "La protagonista, Fleabag, es una mujer de clase media que tiene una  situación familiar complicada y un trabajo con el que no puede mantener  su estilo de vida. Ella es propietaria de un café con el que apenas gana  dinero y su novio es un hombre que llena su vacío existencial con  encuentros sexuales sin sentido con todo tipo de mujeres, cada cual peor que la anterior. Y eso es solo una pequeña parte de su vida y  situaciones cotidianas con las que Fleabag debe lidiar.  Fleabag  es un ejemplo de una vida que ha ido mal y debe adaptarse a nuevas  situaciones, cosa que consigue hacer gracias a su personalidad.",
       "genres": [
-        "Western",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ddkbWeVyqvLyJa3QdNRalj8kMQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Tq9X4JF4U5wM75TrewcEAnIz7q.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
+        "Phoebe Waller-Bridge",
+        "Sian Clifford",
+        "Andrew Scott"
       ],
-      "rank": 7,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.275,
-      "year": 2018,
+      "rank": 6,
+      "id": "tt5687612",
+      "name": "Fleabag",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
+      "rating": 8.273,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -236,11 +204,11 @@
         "תומר קאפון",
         "Karen Fukuhara"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt1190634",
       "name": "The Boys",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
-      "rating": 8.425,
+      "rating": 8.4,
       "year": 2019,
       "days": null,
       "trend": {
@@ -250,30 +218,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/29JYJokZaZJg7SWXnw7FsnTntew.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lj3PdYj3gZQfPVRL2XJpcYsqvG1.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
       "director": [],
       "cast": [
-        "Michael Cudlitz",
-        "Rick Gomez",
-        "Scott Grimes",
-        "Damian Lewis",
-        "Ron Livingston",
-        "James Madio",
-        "Neal McDonough",
-        "Donnie Wahlberg"
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
       ],
-      "rank": 9,
-      "id": "tt0185906",
-      "name": "Hermanos de sangre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
-      "rating": 8.608,
-      "year": 2001,
+      "rank": 8,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.687,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -282,31 +251,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Chuck Bartowski es un joven informático que trabaja en una tienda de electrónica y lleva una vida bastante normal y algo frustrante.\n\nTodo cambia cuando recibe un correo cifrado de un antiguo amigo que descarga en su cerebro una enorme base de datos secreta del gobierno.\n\nA partir de ese momento, Chuck se convierte sin quererlo en un activo clave de inteligencia y es protegido —y vigilado— por dos agentes: uno de la CIA y otro de la NSA.\n\nMientras intenta ayudar en misiones de espionaje usando la información que tiene en la cabeza, también trata de mantener su vida cotidiana sin levantar sospechas.",
+      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
       "genres": [
-        "Action & Adventure",
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Misterio",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oTgG5TO3aDbaXO62q1O5vskKJfP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xnruy7CqlnmbwTCUheNcwzfOsSs.png",
+      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
       "director": [],
       "cast": [
-        "Zachary Levi",
-        "Yvonne Strahovski",
-        "Adam Baldwin",
-        "Joshua Gomez",
-        "Sarah Lancaster",
-        "Vik Sahay",
-        "Scott Krinsky",
-        "Mark Christopher Lawrence"
+        "Maria Sten",
+        "Greyston Holt",
+        "Adeline Rudolph",
+        "Matthew Del Negro",
+        "Damon Herriman",
+        "Jasper Jones",
+        "Emily Mitchell"
+      ],
+      "rank": 9,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "rating": 8.077,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 10,
-      "id": "tt0934814",
-      "name": "Chuck",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/81foDoKoJvQZ67OlqgVqAVnVYmD.jpg",
-      "rating": 7.7,
-      "year": 2007,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.583,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +310,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
 }

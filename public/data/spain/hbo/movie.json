@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610111947",
+  "date": "202610122238",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7,
+      "rating": 7.01,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.896,
+      "rating": 6.898,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,44 +104,8 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.636,
+      "rating": 7.632,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sam y su hermano mayor Michael son los típicos jóvenes americanos con intereses normales. Pero nada más instalarse en la tranquila ciudad de Santa Carla, California, las cosas misteriosamente empiezan a cambiar. La personalidad de Michael se transforma. Y a su madre no le gustaría ver en lo que se está convirtiendo.",
-      "genres": [
-        "Terror",
-        "Comedia",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iiO2aaYRYAZ4WhsRXQlZ4IHGetP.png",
-      "runtime": "97 min",
-      "director": [
-        "Joel Schumacher"
-      ],
-      "cast": [
-        "Jason Patric",
-        "Corey Haim",
-        "Dianne Wiest",
-        "Barnard Hughes",
-        "Edward Herrmann",
-        "Kiefer Sutherland",
-        "Jami Gertz",
-        "Corey Feldman"
-      ],
-      "rank": 4,
-      "id": "tt0093437",
-      "name": "Jóvenes ocultos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
-      "rating": 7.118,
-      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +134,11 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.818,
+      "rating": 7.8,
       "year": 2023,
       "days": null,
       "trend": {
@@ -205,12 +169,48 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.262,
+      "rating": 7.263,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sam y su hermano mayor Michael son los típicos jóvenes americanos con intereses normales. Pero nada más instalarse en la tranquila ciudad de Santa Carla, California, las cosas misteriosamente empiezan a cambiar. La personalidad de Michael se transforma. Y a su madre no le gustaría ver en lo que se está convirtiendo.",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iiO2aaYRYAZ4WhsRXQlZ4IHGetP.png",
+      "runtime": "97 min",
+      "director": [
+        "Joel Schumacher"
+      ],
+      "cast": [
+        "Jason Patric",
+        "Corey Haim",
+        "Dianne Wiest",
+        "Barnard Hughes",
+        "Edward Herrmann",
+        "Kiefer Sutherland",
+        "Jami Gertz",
+        "Corey Feldman"
+      ],
+      "rank": 6,
+      "id": "tt0093437",
+      "name": "Jóvenes ocultos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
+      "rating": 7.1,
+      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,8 +245,43 @@
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
+      "rating": 6.815,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "genres": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
+      "runtime": "152 min",
+      "director": [
+        "Chris Columbus"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
+      ],
+      "rank": 9,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.904,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,47 +312,12 @@
         "David Corenswet",
         "Kadiff Kirwan"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt8814476",
       "name": "Supergirl",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
-      "rating": 6.653,
+      "rating": 6.657,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "genres": [
-        "Aventura",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/omeA5Y581lHVTSDkvqDIzDytVNR.png",
-      "runtime": "152 min",
-      "director": [
-        "Chris Columbus"
-      ],
-      "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
-      ],
-      "rank": 10,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.904,
-      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +326,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-11T17:16:38.573Z"
+  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
 }
