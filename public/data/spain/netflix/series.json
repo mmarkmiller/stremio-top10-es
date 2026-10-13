@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.282,
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "rating": 8.051,
       "year": 2026,
       "days": null,
       "trend": {
@@ -88,7 +88,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.872,
+      "rating": 7.875,
       "year": 2024,
       "days": null,
       "trend": {
@@ -152,8 +152,39 @@
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.122,
+      "rating": 8.1,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
+      "director": [],
+      "cast": [
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
+      ],
+      "rank": 6,
+      "id": "tt10383046",
+      "name": "Veneno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "rating": 8.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -179,12 +210,44 @@
         "Billie Lourd",
         "Jessica Barden"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tmdb:299939",
       "name": "Monstruo: La historia de Lizzie Borden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.011,
+      "rating": 7.03,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png",
+      "director": [],
+      "cast": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn",
+        "RJ Mitte",
+        "Dean Norris",
+        "Betsy Brandt",
+        "Bob Odenkirk",
+        "Jonathan Banks"
+      ],
+      "rank": 8,
+      "id": "tt0903747",
+      "name": "Breaking Bad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "rating": 8.955,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -211,7 +274,7 @@
         "黄盼盼",
         "龙馨悦"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tmdb:222114",
       "name": "Pequeña Doctora Loca",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OmiHBvVymSpWr4kGjBXfm5QZ9B.jpg",
@@ -244,73 +307,12 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.752,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
-      "director": [],
-      "cast": [
-        "Lola Rodríguez",
-        "Isabel Torres",
-        "Daniela Santiago",
-        "Jedet",
-        "Paca la Piraña",
-        "Israel Elejalde",
-        "Sophia Lamar",
-        "Mariona Terés"
-      ],
-      "rank": 9,
-      "id": "tt10383046",
-      "name": "Veneno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
-      "rating": 8.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Paquita, una de las mejores representantes de actores de España en los 90, se ve buscando nuevas estrellas desesperadamente, después de perder a su mayor cliente.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/r7eGdrN6Zt7YjhQl2UEOfBk0xgP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jDBpKlBcgv0R6lel7ZzUzt82xET.png",
-      "director": [],
-      "cast": [
-        "Brays Efe",
-        "Belén Cuesta",
-        "Lidia San José",
-        "Yolanda Ramos",
-        "Anna Castillo",
-        "Belinda Washington",
-        "Terelu Campos"
-      ],
-      "rank": 10,
-      "id": "tt5866074",
-      "name": "Paquita Salas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gp2LneVGFlMxoU7N4uUc0OmnKHB.jpg",
-      "rating": 7,
-      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",

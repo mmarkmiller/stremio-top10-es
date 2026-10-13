@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -104,43 +104,8 @@
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.11,
+      "rating": 7.115,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jamal Malik es un adolescente pobre de Bombay que, por un motivo desconocido, está concursando en la versión hindú del programa \"¿Quién quiere ser millonario?\". A punto de conseguir los 20 millones de rupias como premio mayor del concurso, el joven es interrogado por la policía, bajo la sospecha de estar haciendo trampas. Pero para cada una de las preguntas, Jamal tiene una respuesta...",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/213lPPkawMHXsKkN0BJySCyU9YW.png",
-      "runtime": "123 min",
-      "director": [
-        "Danny Boyle"
-      ],
-      "cast": [
-        "Dev Patel",
-        "Freida Pinto",
-        "Madhur Mittal",
-        "अनिल कपूर",
-        "Mahesh Manjrekar",
-        "Saurabh Shukla",
-        "Irrfan Khan",
-        "Ankur Vikal"
-      ],
-      "rank": 4,
-      "id": "tt1010048",
-      "name": "Slumdog Millionaire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ub7iEniSi23Ms3RcF551Sozb1MH.jpg",
-      "rating": 7.727,
-      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +135,11 @@
         "Mckenna Grace",
         "Madeline Brewer"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt12583926",
       "name": "Aniversario",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.9,
+      "rating": 6.928,
       "year": 2025,
       "days": null,
       "trend": {
@@ -206,7 +171,7 @@
         "Cameron Jack",
         "Sharon Young"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt19858164",
       "name": "El frío en los huesos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg",
@@ -240,11 +205,11 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
+      "rating": 7.82,
       "year": 2023,
       "days": null,
       "trend": {
@@ -275,11 +240,11 @@
         "Francesca Waters",
         "Aljin Abella"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt31184028",
       "name": "Together",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pp2ho64ah9W9jCCIHavXUCuqISr.jpg",
-      "rating": 6.902,
+      "rating": 6.9,
       "year": 2025,
       "days": null,
       "trend": {
@@ -311,7 +276,7 @@
         "Chris O'Dowd",
         "Regina Hall"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt32565993",
       "name": "Las ovejas detectives",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
@@ -346,12 +311,48 @@
         "Elizabeth Perkins",
         "Amanda Joy Erickson"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.257,
+      "rating": 7.255,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
+      "runtime": "110 min",
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell",
+        "Henry Golding",
+        "Tom Wu"
+      ],
+      "rank": 10,
+      "id": "tt8367814",
+      "name": "The Gentlemen: Los señores de la mafia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
+      "rating": 7.7,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",

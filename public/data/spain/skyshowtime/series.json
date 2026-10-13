@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,12 +28,100 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.5,
+      "rating": 8.507,
       "year": 2025,
-      "days": 158,
+      "days": null,
       "trend": {
         "dir": "same",
-        "delta": 0
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "director": [],
+      "cast": [
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable",
+        "Jill Wagner",
+        "LaMonica Garrett",
+        "James Jordan",
+        "Genesis Rodriguez",
+        "Michael Kelly"
+      ],
+      "rank": 2,
+      "id": "tt13111078",
+      "name": "Operaciones Especiales: Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "rating": 8.262,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
+      "director": [],
+      "cast": [
+        "Kyle MacLachlan"
+      ],
+      "rank": 3,
+      "id": "tt0098936",
+      "name": "Twin Peaks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "rating": 8.336,
+      "year": 1990,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
+      "director": [],
+      "cast": [
+        "Jean Smart",
+        "Hannah Einbinder",
+        "Carl Clemons-Hopkins",
+        "Paul W. Downs",
+        "Megan Stalter",
+        "Mark Indelicato",
+        "Rose Abdoo"
+      ],
+      "rank": 4,
+      "id": "tt11815682",
+      "name": "Hacks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "rating": 7.5,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
       }
     },
     {
@@ -57,273 +145,173 @@
         "Mo Brings Plenty",
         "Gil Birmingham"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt36849871",
       "name": "Marshals: Una historia de Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.9,
+      "rating": 7.944,
       "year": 2026,
-      "days": 118,
+      "days": null,
       "trend": {
         "dir": "same",
-        "delta": 0
+        "delta": null
       }
     },
     {
       "artworkVersion": 4,
-      "description": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
       "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
+      ],
+      "rank": 6,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.3,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en una América distópica gobernada por un partido político totalitario, la serie sigue a varios personajes aparentemente sin relación que viven en una ciudad pequeña. Atarlos a todos juntos es un salvador misterioso que está impecablemente equipado para todo lo que la noche les arroja. A medida que el reloj se detiene con sus destinos pendientes, cada personaje se ve obligado a contar sus pasados ​​a medida que descubren qué tan lejos llegarán para sobrevivir a la noche.",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rFGtqUOIXP9CudLaSzK9iFZB7lK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gzfLBOqaBeuHpen4KT1FtsWpMiS.png",
+      "director": [],
+      "cast": [
+        "Paola Nuñez",
+        "Max Martini",
+        "Derek Luke",
+        "Joel Allen",
+        "Lindsey Pearlman"
+      ],
+      "rank": 7,
+      "id": "tt6110648",
+      "name": "La purga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6gg2mGqCp2V8FQNZnA9M8tKn6FA.jpg",
+      "rating": 6.904,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 8,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.583,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Malotru, un agente de la Inteligencia Francesa, encubierto en Siria durante 6 años, es llamado de vuelta a casa. Se enfrentará a la dificultad de olvidar su identidad encubierta, la desaparición de un colega en Argelia, y el entrenamiento de una joven chica.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOvVP88lVgUK9GiVdbo96xbefbQ.png",
+      "director": [],
+      "cast": [
+        "Mathieu Kassovitz",
+        "Sara Giraudeau",
+        "Stefan Crepon",
+        "Zineb Triki",
+        "Florence Loiret Caille",
+        "Jonathan Zaccaï",
+        "Олексій Горбунов",
+        "Mathieu Amalric"
+      ],
+      "rank": 9,
+      "id": "tt4063800",
+      "name": "Oficina de infiltrados",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
+      "rating": 8.2,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando el jefe de una organización criminal, Finn Wallace es asesinado, el repentino vacío de poder que crea su muerte amenaza la frágil paz entre la intrincada red de pandillas que operan en las calles de la ciudad. Ahora le corresponde al afligido, volátil e impulsivo Sean Wallace restablecer el control y encontrar a los responsables de matar a su padre.",
+      "genres": [
+        "Action & Adventure",
         "Drama",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4MFO1GLwwCWJp16kMsHmE7P4na2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/dcj9fyx9wMU7HazAAxSAZ65s3Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m6bPFRegqJhO0MNvQUHvYWffLGt.png",
       "director": [],
       "cast": [
-        "Shannon Gisela",
-        "Brittany Adebumola",
-        "Dylan Jackson",
-        "Alberto Guerra",
-        "Cary Elwes",
-        "Maurice Compte",
-        "Gerardo Celasco",
-        "Marta Milans"
-      ],
-      "rank": 3,
-      "id": "tt33253070",
-      "name": "MIA",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": 38,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "director": [],
-      "cast": [
-        "Zoe Saldaña",
-        "Laysla De Oliveira",
-        "Dave Annable",
-        "Jill Wagner",
-        "LaMonica Garrett",
-        "James Jordan",
-        "Genesis Rodriguez",
-        "Michael Kelly"
-      ],
-      "rank": 4,
-      "id": "tt13111078",
-      "name": "Operaciones Especiales: Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.261,
-      "year": 2023,
-      "days": 70,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un agujero gigantesco, de origen inexplicable, destruye Los Ángeles y separa a una familia en dos mundos distintos: la madre y el hijo quedan atrapados en una tierra salvaje, mientras que, en la superficie, el padre y la hija intentan rescatarlos.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tJsyfZ39RnSMtX4oOKNHcOX0uZ9.png",
-      "director": [],
-      "cast": [
-        "Eoin Macken",
-        "Chiké Okonkwo",
-        "Zyra Gorecki",
-        "Rohan Mirchandaney",
-        "Lily Santiago",
-        "Josh McKenzie",
-        "Jon Seda"
-      ],
-      "rank": 5,
-      "id": "tt11640018",
-      "name": "La Brea",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jyHK7qFX2HvaAULSAO7aztdanyr.jpg",
-      "rating": 7.4,
-      "year": 2021,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
-      "director": [],
-      "cast": [
-        "Mariska Hargitay",
-        "Ice-T",
-        "Kelli Giddish",
-        "Peter Scanavino",
-        "Aimé Donna Kelly",
-        "Kevin Kane",
-        "Corey Cott"
-      ],
-      "rank": 6,
-      "id": "tt0203259",
-      "name": "Ley y orden: Unidad de Víctimas Especiales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
-      "rating": 7.958,
-      "year": 1999,
-      "days": 18,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Eleanor (Kristen Bell) es una mujer de Phoenix que, tras ser atropellada por un camión que transportaba productos para la disfunción eréctil, despierta para descubrir que ha llegado al más allá. Su mentor, Michael (Ted Danson), le informa de que ahora se encuentra en El Lugar Bueno, “The Good Place”, por su comportamiento adecuado en su vida anterior. Pero... la han confundido con otra persona: ella era puro egoísmo en vida. Eleanor se plantea decir la verdad, hasta que descubre lo que le depara El Lugar Malo, el sitio a donde debería haber ido en realidad, así que decide ganarse un puesto en El Lugar Bueno tratando de aprender a ser buena persona, cosa muy complicada siendo como es.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/64BUMjqFnfs3qKKQtwOHPIz224f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dVZZJRJVeMyl4DDzdfqnu7KI6lX.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Ted Danson",
-        "William Jackson Harper",
-        "Jameela Jamil",
-        "Manny Jacinto",
-        "D'Arcy Carden"
-      ],
-      "rank": 7,
-      "id": "tt4955642",
-      "name": "The Good Place",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
-      "rating": 8,
-      "year": 2016,
-      "days": 15,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Continuacion de Śleboda - La antropóloga Anka investiga un asesinato que presenta sorprendentes similitudes con los crímenes del asesino en serie Norman Pionek, y busca la verdad junto al intrépido periodista Sebastian y el agente de policía Jedrek.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cAwsnhfrTZXbtLMGQAwB6EksQoR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/u55LL0vxIfi3wrluj1WyscTlRnU.png",
-      "director": [],
-      "cast": [
-        "Maria Dębska",
-        "Maciej Musiał",
-        "Piotr Adamczyk",
-        "Paulina Gałązka",
-        "Weronika Książkiewicz-Nathaniel",
-        "Piotr Rogucki",
-        "Mateusz Rozwadowski",
-        "Łukasz Simlat"
-      ],
-      "rank": 8,
-      "id": "tt38792282",
-      "name": "Lazos Mortales Pionek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1xrpxSsmD6fvxfcj0GzVstBA07V.jpg",
-      "rating": 6.429,
-      "year": 2026,
-      "days": 25,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Claudia, una abogada de origen mestizo, viaja a la embrujada plantación de Connaught, en Jamaica, para defenderse de una reclamación de herencia. El descubrimiento de oscuros secretos históricos entrelazados con injusticias actuales intensifica su pesadilla.",
-      "genres": [
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rG2dLnqy03ktjpFaW3ojHuHUHD1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a0s8PHWgAZEcmGSLtRk1xt2T7X4.png",
-      "director": [],
-      "cast": [
-        "Jonny Lee Miller",
-        "Gugu Mbatha-Raw",
-        "Bel Powley",
-        "Sheldon Shepherd",
-        "Nadean Rawlins",
-        "Sean Gilder",
-        "Oluniké Adeliyi",
-        "Richard Dillane"
-      ],
-      "rank": 9,
-      "id": "tt34883857",
-      "name": "Possession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qVvUs2KFhT3h36dvcVRtzaicl7n.jpg",
-      "rating": 5.9,
-      "year": 2026,
-      "days": 16,
-      "trend": {
-        "dir": "same",
-        "delta": 0
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un mundo sin pobreza, guerra o enfermedad, los humanos reciben drogas que alteran la mente; el sexo libre y el consumismo desenfrenado están a la orden del día; y las personas ya no se reproducen sino que están genéticamente modificadas en \"criaderos\". Los que no se conforman se ven obligados a \"reservas\", hasta que uno de estos \"salvajes\" desafíe el sistema, amenazando todo el orden social.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rMSyjnX3rJtw2aCm1q9ktNjhAjo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k34xau50rR7LVJON53zzmiIBcgp.png",
-      "director": [],
-      "cast": [
-        "Alden Ehrenreich",
-        "Jessica Brown Findlay",
-        "Harry Lloyd",
-        "Kylie Bunbury",
-        "Hannah John-Kamen",
-        "Sen Mitsuji",
-        "Joseph Morgan",
-        "Nina Sosanya"
+        "Ṣọpẹ́ Dìrísù",
+        "Michelle Fairley",
+        "Orli Shuka",
+        "Lucian Msamati",
+        "Jasmine Armando",
+        "Narges Rashidi",
+        "Brian Vernel",
+        "Pippa Bennett-Warner"
       ],
       "rank": 10,
-      "id": "tt9814116",
-      "name": "Un mundo feliz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg",
-      "rating": 6.6,
+      "id": "tt7661390",
+      "name": "Gangs of London",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFTVdpzjwhp6A5hRJPhmK1KQI52.jpg",
+      "rating": 7.803,
       "year": 2020,
-      "days": 18,
+      "days": null,
       "trend": {
         "dir": "same",
-        "delta": 0
+        "delta": null
       }
     }
   ],
-  "rankingSource": "flixpatrol",
-  "rankingUpdatedAt": ""
+  "rankingSource": "justwatch",
+  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -33,7 +33,7 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.284,
+      "rating": 8.286,
       "year": 2026,
       "days": null,
       "trend": {
@@ -69,7 +69,7 @@
       "id": "tt0107120",
       "name": "El retorno de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.041,
+      "rating": 7.042,
       "year": 1993,
       "days": null,
       "trend": {
@@ -105,7 +105,7 @@
       "id": "tt36150957",
       "name": "Oasis: Don't Look Back in Anger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.517,
+      "rating": 7.468,
       "year": 2026,
       "days": null,
       "trend": {
@@ -177,7 +177,7 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.456,
+      "rating": 7.46,
       "year": 2026,
       "days": null,
       "trend": {
@@ -247,7 +247,7 @@
       "id": "tt0080319",
       "name": "Cómo eliminar a su jefe",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
+      "rating": 6.996,
       "year": 1980,
       "days": null,
       "trend": {
@@ -293,43 +293,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En esta frenética comedia, seguimos los pasos de Marnie que, junto a sus hermanos y su abuela, se mudan a Halloweentown, un lugar donde criaturas sobrenaturales conviven en armonía. Con la llegada de su 13 cumpleaños, Marnie descubre que, como su abuela, es una bruja. Marnie tendrá que ayudar a su madre y a su abuela para evitar que las fuerzas oscuras acaben con Halloweentown.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Película de TV"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dOaF7zNAHYsSaAp8PXrUt4qfm8k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xKpr64DKPWE18CjdzIGVBNlqg4N.png",
-      "runtime": "84 min",
-      "director": [
-        "Duwayne Dunham"
-      ],
-      "cast": [
-        "Debbie Reynolds",
-        "Judith Hoag",
-        "Kimberly J. Brown",
-        "Joey Zimmerman",
-        "Phillip Van Dyke",
-        "Emily Roeske",
-        "Robin Thomas",
-        "Shannon Day"
-      ],
-      "rank": 9,
-      "id": "tt0173886",
-      "name": "Halloweentown: ¡Qué familia la mía!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
-      "rating": 6.8,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
       "genres": [
         "Aventura",
@@ -353,12 +316,48 @@
         "Michael Gambon",
         "Robin Hurlstone"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0432283",
       "name": "Fantástico Sr. Fox",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2B2IcoSMpOa64Yw8DDtGzXdS4vl.jpg",
       "rating": 7.828,
       "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de buscar fortuna durante cinco años, Westley retorna a su tierra para casarse con su amada, la bella Buttercup, a la que había jurado amor eterno. Sin embargo, para recuperarla habrá de enfrentarse a Vizzini y sus esbirros. Una vez derrotados éstos, tendrá que superar el peor de los obstáculos: el príncipe Humperdinck pretende desposar a la desdichada Buttercup, pese a que ella no lo ama, ya que sigue enamorada de Westley.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png",
+      "runtime": "98 min",
+      "director": [
+        "Rob Reiner"
+      ],
+      "cast": [
+        "Cary Elwes",
+        "Robin Wright",
+        "Mandy Patinkin",
+        "Chris Sarandon",
+        "Christopher Guest",
+        "Wallace Shawn",
+        "André Roussimoff",
+        "Fred Savage"
+      ],
+      "rank": 10,
+      "id": "tt0093779",
+      "name": "La princesa prometida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
+      "rating": 7.71,
+      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",

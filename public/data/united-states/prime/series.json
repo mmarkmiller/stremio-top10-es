@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,8 @@
       "rank": 1,
       "id": "tt11540908",
       "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "rating": 8.4,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.475,
       "year": 2026,
       "days": null,
       "trend": {
@@ -72,38 +72,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Saturday Night Live es un show televisivo nocturno estadounidense, emitido en vivo, que revolucionó la televisión en los años 70 con su combinación de sketches, comedia, variedad, actores, músicos, e invitados especiales. Ha sido una cantera generadora de talentos muy fuerte de varios guinistas, actores, escritores, productores y cantantes. Creado por Lorne Michaels y desarrollado por Dick Ebersol, el programa fue estrenado por la cadena de televisión NBC. Durante más de 30 años, el programa ha presentado personajes locos, situaciones humorísticamente extrañas, parodias de los presidentes y políticos de turno, sarcásticas burlas a celebridades contemporáneas de la música y del cine, y shows musicales en vivo. Su reparto se compone de miembros repertorios, también conocidos como The Not Ready for Prime-Time Players (el nombre del reparto original del programa, que viene a significar «La Compañía No Apta para las Horas de Máxima Audiencia»), y nuevos miembros quienes se conocen como The Featured Players («La Compañía Destacada»).",
-      "genres": [
-        "Comedia",
-        "News"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yYaxXMbobcB7PIM6XljZZk2x4FQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4KQ5l62J6hgOXYGFd0hrWDh4TBb.png",
-      "director": [],
-      "cast": [
-        "Michael Che",
-        "Mikey Day",
-        "Andrew Dismukes",
-        "Marcello Hernández",
-        "James Austin Johnson",
-        "Colin Jost",
-        "Ashley Padilla",
-        "Sarah Sherman"
-      ],
-      "rank": 3,
-      "id": "tt0072562",
-      "name": "Saturday Night Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "rating": 6.888,
-      "year": 1975,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
       "genres": [
         "Drama",
@@ -122,12 +90,42 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.077,
+      "rating": 8.069,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
+      "director": [],
+      "cast": [
+        "Elijah Wood",
+        "Collin Dean",
+        "Melanie Lynskey"
+      ],
+      "rank": 4,
+      "id": "tt3718778",
+      "name": "Más allá del jardín",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "rating": 8.563,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -156,7 +154,7 @@
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.134,
+      "rating": 8.135,
       "year": 2022,
       "days": null,
       "trend": {
@@ -166,28 +164,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
       "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
+      "background": "https://image.tmdb.org/t/p/w1280/alIVzxTmVVgy9iUzaawy5T1jZLJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bZQSvSKobw1YVKzVKBG6coe9Am4.png",
       "director": [],
       "cast": [
-        "Elijah Wood",
-        "Collin Dean",
-        "Melanie Lynskey"
+        "Olivia Colman",
+        "Julian Barratt",
+        "Sophia Di Martino",
+        "Daniel Rigby",
+        "Will Sharpe"
       ],
       "rank": 6,
-      "id": "tt3718778",
-      "name": "Más allá del jardín",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.563,
-      "year": 2014,
+      "id": "tt5619658",
+      "name": "Flowers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7w6t1Rj49awAOfdepo1nkCw3xGC.jpg",
+      "rating": 7.4,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -196,28 +192,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La serie esta ambientada en un futuro próximo en el que Rusia por  encargo de la Union Europea inicia una invasión contra Noruega país que  ha paralizado la producción de crudo y gas a causa de la crisis del  cambio climático ante la falta de recursos Con esta acción la  Administración Rusa pretende asegurarse el acceso a la explotación  petrolífera y gasística de la región.",
+      "description": "Saturday Night Live es un show televisivo nocturno estadounidense, emitido en vivo, que revolucionó la televisión en los años 70 con su combinación de sketches, comedia, variedad, actores, músicos, e invitados especiales. Ha sido una cantera generadora de talentos muy fuerte de varios guinistas, actores, escritores, productores y cantantes. Creado por Lorne Michaels y desarrollado por Dick Ebersol, el programa fue estrenado por la cadena de televisión NBC. Durante más de 30 años, el programa ha presentado personajes locos, situaciones humorísticamente extrañas, parodias de los presidentes y políticos de turno, sarcásticas burlas a celebridades contemporáneas de la música y del cine, y shows musicales en vivo. Su reparto se compone de miembros repertorios, también conocidos como The Not Ready for Prime-Time Players (el nombre del reparto original del programa, que viene a significar «La Compañía No Apta para las Horas de Máxima Audiencia»), y nuevos miembros quienes se conocen como The Featured Players («La Compañía Destacada»).",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Comedia",
+        "News"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/u2ioBfgx8Le1qgMYujRi4s5jiqk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f2yheH3XfVVYaY0HloESBp37DbS.png",
-      "director": [
-        "Camilla Strøm Henriksen"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yYaxXMbobcB7PIM6XljZZk2x4FQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4KQ5l62J6hgOXYGFd0hrWDh4TBb.png",
+      "director": [],
       "cast": [
-        "Henrik Mestad",
-        "Eldar Skar",
-        "Ingeborga Dapkūnaitė",
-        "Selome Emnetu"
+        "Michael Che",
+        "Mikey Day",
+        "Andrew Dismukes",
+        "Marcello Hernández",
+        "James Austin Johnson",
+        "Colin Jost",
+        "Ashley Padilla",
+        "Sarah Sherman"
       ],
       "rank": 7,
-      "id": "tt4192998",
-      "name": "Occupied",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m3456areBpd37FdDIfLHJoelI3F.jpg",
-      "rating": 7.1,
-      "year": 2015,
+      "id": "tt0072562",
+      "name": "Saturday Night Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+      "rating": 6.888,
+      "year": 1975,
       "days": null,
       "trend": {
         "dir": "same",
@@ -257,6 +255,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
+      "director": [],
+      "cast": [
+        "Jared Padalecki",
+        "Jensen Ackles",
+        "Misha Collins"
+      ],
+      "rank": 9,
+      "id": "tt0460681",
+      "name": "Sobrenatural",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "rating": 8.3,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
       "genres": [
         "Comedia",
@@ -275,42 +301,12 @@
         "Liza Weil",
         "Sean Gunn"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt0238784",
       "name": "Las chicas Gilmore",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
       "rating": 7.876,
       "year": 2000,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
-      "director": [],
-      "cast": [
-        "Jason Beghe",
-        "Marina Squerciati",
-        "Patrick John Flueger",
-        "Benjamin Levy Aguilar",
-        "Arienne Mandi",
-        "Amy Morton"
-      ],
-      "rank": 10,
-      "id": "tt2805096",
-      "name": "Chicago P.D.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
-      "rating": 8.4,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.362,
+      "rating": 8.4,
       "year": 2020,
       "days": null,
       "trend": {
@@ -60,39 +60,8 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.049,
+      "rating": 8,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 3,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.009,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -119,12 +88,43 @@
         "Alexandria Riley",
         "Reed Birney"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "rating": 8.219,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
+      "director": [],
+      "cast": [
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
+      ],
+      "rank": 4,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.007,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,7 +187,7 @@
       "id": "tt6037988",
       "name": "Causa abierta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "rating": 7.632,
+      "rating": 7.639,
       "year": 2026,
       "days": null,
       "trend": {
@@ -201,7 +201,7 @@
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
       "director": [],
       "cast": [
@@ -218,7 +218,7 @@
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 8.2,
+      "rating": 8.154,
       "year": 2026,
       "days": null,
       "trend": {
@@ -245,41 +245,8 @@
       "id": "tt22202452",
       "name": "Pluribus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.919,
+      "rating": 7.916,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
-      "director": [],
-      "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
-      ],
-      "rank": 9,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.394,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -305,7 +272,7 @@
         "Malia Pyles",
         "CCH Pounder"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt34675596",
       "name": "Cape Fear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
@@ -316,8 +283,35 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de un largo paréntesis en su amistad, unos viejos amigos con una conexión platónica vuelven a encontrarse en la mediana edad. Su amistad se vuelve más obsesiva y desestabiliza sus vidas de una manera muy divertida.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGdPxmapf3g86IWbZHfOH7fFiOD.png",
+      "director": [],
+      "cast": [
+        "Rose Byrne",
+        "Seth Rogen",
+        "Luke Macfarlane",
+        "Carla Gallo"
+      ],
+      "rank": 10,
+      "id": "tt13366604",
+      "name": "Platónico",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mUYqyjhcmE8vVJkwY0VTwfXev8v.jpg",
+      "rating": 6.9,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T09:13:01.462Z"
+  "rankingUpdatedAt": "2026-10-13T17:16:06.863Z"
 }

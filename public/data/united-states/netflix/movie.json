@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.409,
+      "rating": 7.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt1441395",
       "name": "Under the Skin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
-      "rating": 6.1,
+      "rating": 6.141,
       "year": 2014,
       "days": null,
       "trend": {
@@ -103,7 +103,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.558,
+      "rating": 6.565,
       "year": 2026,
       "days": null,
       "trend": {
@@ -147,42 +147,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 5,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
       "genres": [
         "Misterio",
@@ -205,12 +169,48 @@
         "Peter Anthony Tambakis",
         "Jeffrey Zubernis"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
       "rating": 7.956,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 6,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.602,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,7 +279,7 @@
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.872,
+      "rating": 6.867,
       "year": 2026,
       "days": null,
       "trend": {
@@ -315,7 +315,7 @@
       "id": "tt5177120",
       "name": "El ministerio de la Guerra Sucia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
-      "rating": 7,
+      "rating": 6.991,
       "year": 2024,
       "days": null,
       "trend": {

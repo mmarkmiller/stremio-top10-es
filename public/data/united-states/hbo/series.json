@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.294,
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -85,7 +85,7 @@
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.521,
+      "rating": 7.5,
       "year": 2021,
       "days": null,
       "trend": {
@@ -114,7 +114,7 @@
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
-      "rating": 7.8,
+      "rating": 7.727,
       "year": 2026,
       "days": null,
       "trend": {
@@ -184,37 +184,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
-      "director": [],
-      "cast": [
-        "Jon Hamm",
-        "Elisabeth Moss",
-        "Vincent Kartheiser",
-        "January Jones",
-        "Christina Hendricks",
-        "Aaron Staton",
-        "Rich Sommer",
-        "Kiernan Shipka"
-      ],
-      "rank": 7,
-      "id": "tt0804503",
-      "name": "Mad Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "rating": 8.1,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
       "genres": [
         "Talk",
@@ -227,11 +196,11 @@
       "cast": [
         "John Oliver"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.8,
+      "rating": 7.752,
       "year": 2014,
       "days": null,
       "trend": {
@@ -260,7 +229,7 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
@@ -274,29 +243,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
       "director": [],
       "cast": [
-        "Jodie Foster",
-        "Kali Reis",
-        "Fiona Shaw",
-        "Finn Bennett",
-        "Isabella Star LaBlanc",
-        "John Hawkes",
-        "Grace Pitts"
+        "Jon Hamm",
+        "Elisabeth Moss",
+        "Vincent Kartheiser",
+        "January Jones",
+        "Christina Hendricks",
+        "Aaron Staton",
+        "Rich Sommer",
+        "Kiernan Shipka"
+      ],
+      "rank": 9,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "rating": 8.127,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
+      "director": [],
+      "cast": [
+        "Claudia Salas",
+        "Ana Torrent",
+        "Maribel Verdú",
+        "Carmen Maura",
+        "María León",
+        "Cecilia Suárez",
+        "Ana Mena",
+        "Clara Sans"
       ],
       "rank": 10,
-      "id": "tt2356777",
-      "name": "True Detective",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
-      "rating": 8.292,
-      "year": 2014,
+      "id": "tt32327588",
+      "name": "Furia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+      "rating": 6.5,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",

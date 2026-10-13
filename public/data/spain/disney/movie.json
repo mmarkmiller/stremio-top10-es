@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,44 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.456,
+      "rating": 7.46,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6X3lVeDeOcEKiadSHP2XT80ZtI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 2,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.8,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -65,11 +101,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.284,
+      "rating": 8.286,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,48 +136,12 @@
         "Bill Paxton",
         "Bernard Hill"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0120338",
       "name": "Titanic",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
-      "rating": 7.901,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2tltWMvvTqscFtdujTXDsRFTqKQ.jpg",
+      "rating": 7.9,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g3Fb6TmkycmMPrSsLVPC7QxYzXf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 4,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.815,
-      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -176,7 +176,7 @@
       "id": "tt36150957",
       "name": "Oasis: Don't Look Back in Anger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.517,
+      "rating": 7.468,
       "year": 2026,
       "days": null,
       "trend": {
@@ -211,44 +211,8 @@
       "id": "tt33612209",
       "name": "El diablo viste de Prada 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.041,
+      "rating": 7.038,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "genres": [
-        "Aventura",
-        "Fantasía",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
-      "runtime": "179 min",
-      "director": [
-        "Peter Jackson"
-      ],
-      "cast": [
-        "Elijah Wood",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "Sean Astin",
-        "Ian Holm",
-        "Liv Tyler",
-        "Christopher Lee",
-        "Sean Bean"
-      ],
-      "rank": 7,
-      "id": "tt0120737",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "rating": 8.447,
-      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,11 +243,11 @@
         "Kate Mara",
         "Sebastian Stan"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt3659388",
       "name": "Marte (The Martian)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBRK1izFxIH3Nh6vax4ssOHSHVd.jpg",
-      "rating": 7.7,
+      "rating": 7.709,
       "year": 2015,
       "days": null,
       "trend": {
@@ -317,7 +281,7 @@
         "Brendan Gleeson",
         "Marton Csokas"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0320661",
       "name": "El reino de los cielos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
@@ -353,12 +317,48 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
       "rating": 7.848,
       "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "runtime": "99 min",
+      "director": [
+        "Kate Dolan"
+      ],
+      "cast": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Sydney Blackburn",
+        "Isabelle Bonfrer"
+      ],
+      "rank": 10,
+      "id": "tt32654916",
+      "name": "Soulm8te",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
+      "rating": 7.478,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",

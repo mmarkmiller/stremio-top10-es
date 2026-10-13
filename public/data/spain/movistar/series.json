@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
     {
       "artworkVersion": 4,
@@ -65,24 +65,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
       "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
       "director": [],
       "cast": [
-        "Elizabeth Tabish"
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
       ],
       "rank": 3,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.831,
-      "year": 2019,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.5,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -122,6 +129,32 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 5,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.831,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
       "genres": [
         "Comedia",
@@ -136,12 +169,42 @@
         "Mona Marshall",
         "Jennifer Howell"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "rating": 8.332,
       "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "\"The Serpent Queen\" cuenta la historia de Catalina de Médici que, contra todo pronóstico, se convirtió en una de las gobernantes más poderosas y longevas de la historia de Francia. La historia de Catalina se desarrolla a través de flashbacks mientras defiende sus acciones e imparte las lecciones que ha enseñado a su nueva sirvienta, Rahima.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o1n5b8AI7UWeJ8yxFzunf9in5OB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aYzUtWNsqKhWEsrNGMogdBeVEJP.png",
+      "director": [],
+      "cast": [
+        "Samantha Morton",
+        "Amrita Acharya",
+        "Barry Atsma",
+        "Enzo Cilenti",
+        "Nicholas Burns",
+        "Danny Kirrane",
+        "Bill Milner"
+      ],
+      "rank": 7,
+      "id": "tt14022350",
+      "name": "La reina serpiente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qrpIpzbwoAZJTegfKSTlmz15jbf.jpg",
+      "rating": 7.4,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,45 +230,12 @@
         "Sam Retford",
         "Rory Alexander"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt18332852",
       "name": "Outlander: Sangre de mi sangre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
-      "rating": 8.7,
+      "rating": 8.667,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
-      "director": [],
-      "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
-      ],
-      "rank": 7,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.5,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -232,7 +262,7 @@
         "Sam Spruell",
         "Sienna King"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt2802850",
       "name": "Fargo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
@@ -246,60 +276,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+      "description": "La brillante y frágil detective Amy Silva (Suranne Jones) es enviada al submarino HMS Vigil para investigar la misteriosa muerte de uno de sus tripulantes. Cuando la escotilla se cierra encima de su cabeza, la realidad que encuentra es muy distinta a lo esperado. Dentro del submarino el secretismo, las jerarquías y el claustrofóbico escenario complican la investigación, y la tripulación se muestra reacia a colaborar. Mientras tanto, en tierra, su compañera y confidente Kirsten Longacre (Rose Leslie) hace sus propias indagaciones. El caso pronto trasciende las paredes del submarino y desvela una conspiración que amenaza el corazón mismo de la seguridad nacional británica.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iW8O8j5yHjxg6ECCGh2u38Lm08E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/43h6x3MsxR6P14htcY3Hyj8cNUn.png",
       "director": [],
       "cast": [
-        "Caitríona Balfe",
-        "Sam Heughan",
-        "Sophie Skelton",
-        "Richard Rankin",
-        "John Bell",
-        "David Berry",
-        "Charles Vandervaart",
-        "Izzy Meikle-Small"
-      ],
-      "rank": 9,
-      "id": "tt3006802",
-      "name": "Outlander",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
-      "rating": 8.2,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png",
-      "director": [],
-      "cast": [
-        "Steven Weber",
-        "Jessy Schram",
-        "Luke Mitchell",
-        "Sarah Ramos",
-        "Darren Barnet",
-        "S. Epatha Merkerson",
-        "Oliver Platt"
+        "Suranne Jones",
+        "Rose Leslie",
+        "Gary Lewis",
+        "თორნიკე გოგრიჭიანი"
       ],
       "rank": 10,
-      "id": "tt4655480",
-      "name": "Chicago Med",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s55mHZ5q68IUtRsQdy2oC3nPpG7.jpg",
-      "rating": 8.3,
-      "year": 2015,
+      "id": "tt11846996",
+      "name": "Vigil: Conspiración nuclear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7v2D9l9QmU02pXP7R2udu1uYN2y.jpg",
+      "rating": 7.2,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",

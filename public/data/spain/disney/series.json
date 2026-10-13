@@ -2,36 +2,8 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610122238",
+  "date": "202610132052",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
-      "director": [],
-      "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
-      ],
-      "rank": 1,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
-      "rating": 7.423,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
@@ -53,12 +25,40 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "rating": 8.1,
       "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "director": [],
+      "cast": [
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
+      ],
+      "rank": 2,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vehimd6qdCdLaGZbhuqUErw4Bp3.jpg",
+      "rating": 7.423,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -90,7 +90,7 @@
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.752,
       "year": 1999,
       "days": null,
       "trend": {
@@ -129,6 +129,39 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "director": [],
+      "cast": [
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
+      ],
+      "rank": 5,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.5,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
         "Drama",
@@ -147,39 +180,12 @@
         "Liza Colón-Zayas",
         "Edwin Lee Gibson"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
       "rating": 8.154,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 6,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.583,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -216,31 +222,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 8,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.5,
-      "year": 2022,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.583,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -249,57 +249,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "description": "Drama de época cuyos protagonistas son un matrimonio de espías del KGB que, en los años 80, viven cerca de Washington DC y se hacen pasar por estadounidenses. Phillip y Elizabeth Jennings tienen dos hijos que no saben nada sobre la verdadera identidad de sus padres. Tendrán que afrontar situaciones muy difícles debido al recrudecimiento de la Guerra Fría durante la presidencia de Ronald Reagan. Otro problema no menor es la creciente afinidad que siente Phillip por el modo de vida americano.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jXB3OoWPkojsOP2O2OoLCeAIDRS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png",
-      "director": [],
-      "cast": [
-        "Elisabeth Moss",
-        "Yvonne Strahovski",
-        "Samira Wiley"
-      ],
-      "rank": 9,
-      "id": "tt5834204",
-      "name": "El cuento de la criada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
-      "rating": 8.1,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tLwEXm2nG64Tce00d59rPNI8ePh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x2sqYIeYaVMdI1mjl64MgI0vN1o.png",
       "director": [],
       "cast": [
-        "Jon Hamm",
-        "Elisabeth Moss",
-        "Vincent Kartheiser",
-        "January Jones",
-        "Christina Hendricks",
-        "Aaron Staton",
-        "Rich Sommer",
-        "Kiernan Shipka"
+        "Keri Russell",
+        "Matthew Rhys",
+        "Holly Taylor",
+        "Keidrich Sellati",
+        "Noah Emmerich",
+        "Costa Ronin",
+        "Margo Martindale"
+      ],
+      "rank": 9,
+      "id": "tt2149175",
+      "name": "The Americans",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "rating": 7.896,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "director": [],
+      "cast": [
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 10,
-      "id": "tt0804503",
-      "name": "Mad Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "rating": 8.1,
-      "year": 2007,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.114,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
+  "rankingUpdatedAt": "2026-10-13T17:16:06.863Z"
 }
