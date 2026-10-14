@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.3,
+      "rating": 7.234,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,39 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.051,
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+      "director": [],
+      "cast": [
+        "Friederike Becht",
+        "Hans Löw",
+        "Alexander Schubert",
+        "Katja Ponickau",
+        "Naila Schuberth",
+        "Josephine Thiesen",
+        "Matthias Brandt",
+        "Anna Schudt"
+      ],
+      "rank": 3,
+      "id": "tt36470958",
+      "name": "La trampa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -84,11 +116,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.875,
+      "rating": 7.874,
       "year": 2024,
       "days": null,
       "trend": {
@@ -116,12 +148,105 @@
         "José Condessa",
         "Pepón Nieto"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt36832679",
       "name": "El problema final",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
       "rating": 7.108,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "director": [],
+      "cast": [
+        "Ella Beatty",
+        "Vicky Krieps",
+        "Sarah Paulson",
+        "Charlie Hunnam",
+        "Rebecca Hall",
+        "Billie Lourd",
+        "Jessica Barden"
+      ],
+      "rank": 6,
+      "id": "tmdb:299939",
+      "name": "Monstruo: La historia de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "rating": 7.032,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
+      "director": [],
+      "cast": [
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
+      ],
+      "rank": 7,
+      "id": "tt10383046",
+      "name": "Veneno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "rating": 8.4,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (California Bureau of Investigation), usando su altamente desarrollada capacidad de observación, que anteriormente usaba para \"leer\" mentes.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f4LBhra2bVZQlb9rg6qlgp4WqAu.png",
+      "director": [],
+      "cast": [
+        "Simon Baker",
+        "Robin Tunney",
+        "Tim Kang",
+        "Rockmond Dunbar",
+        "Joe Adler",
+        "Josie Loren"
+      ],
+      "rank": 8,
+      "id": "tt1196946",
+      "name": "El mentalista",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+      "rating": 8.418,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,138 +273,12 @@
         "Rebecca Wisocky",
         "Devan Chandler Long"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
       "rating": 8.1,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
-      "director": [],
-      "cast": [
-        "Lola Rodríguez",
-        "Isabel Torres",
-        "Daniela Santiago",
-        "Jedet",
-        "Paca la Piraña",
-        "Israel Elejalde",
-        "Sophia Lamar",
-        "Mariona Terés"
-      ],
-      "rank": 6,
-      "id": "tt10383046",
-      "name": "Veneno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
-      "rating": 8.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
-      "director": [],
-      "cast": [
-        "Ella Beatty",
-        "Vicky Krieps",
-        "Sarah Paulson",
-        "Charlie Hunnam",
-        "Rebecca Hall",
-        "Billie Lourd",
-        "Jessica Barden"
-      ],
-      "rank": 7,
-      "id": "tmdb:299939",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.03,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png",
-      "director": [],
-      "cast": [
-        "Bryan Cranston",
-        "Aaron Paul",
-        "Anna Gunn",
-        "RJ Mitte",
-        "Dean Norris",
-        "Betsy Brandt",
-        "Bob Odenkirk",
-        "Jonathan Banks"
-      ],
-      "rank": 8,
-      "id": "tt0903747",
-      "name": "Breaking Bad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "rating": 8.955,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un \"patito feo\" se transforma en una hermosa consorte médica. Chu Jinghong, una estudiante de medicina, entró accidentalmente en un mundo diferente y se convirtió en una princesa desafortunada. Para volver al mundo moderno, debe acumular suficientes créditos curando a los enfermos. Sin que ella lo sepa, el frío Jefe de los Eunucos y el invencible Lord Zhan la están esperando...",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vOEDJiaKt15awc44B3UzZaXfdEL.jpg",
-      "director": [
-        "Wen Hongyi"
-      ],
-      "cast": [
-        "June Wu",
-        "陳欣予",
-        "甘望星",
-        "Wu Rilige",
-        "李景泽",
-        "梁咏妮",
-        "黄盼盼",
-        "龙馨悦"
-      ],
-      "rank": 9,
-      "id": "tmdb:222114",
-      "name": "Pequeña Doctora Loca",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OmiHBvVymSpWr4kGjBXfm5QZ9B.jpg",
-      "rating": 6.5,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T09:13:01.462Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,6 +40,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 2,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.263,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
       "genres": [
         "Acción",
@@ -62,11 +97,11 @@
         "Henry Golding",
         "Tom Wu"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt8367814",
       "name": "The Gentlemen: Los señores de la mafia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.7,
+      "rating": 7.658,
       "year": 2020,
       "days": null,
       "trend": {
@@ -76,68 +111,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Historia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
+      "runtime": "150 min",
       "director": [
-        "Zach Cregger"
+        "James Vanderbilt"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 3,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jamal Malik es un adolescente pobre de Bombay que, por un motivo desconocido, está concursando en la versión hindú del programa \"¿Quién quiere ser millonario?\". A punto de conseguir los 20 millones de rupias como premio mayor del concurso, el joven es interrogado por la policía, bajo la sospecha de estar haciendo trampas. Pero para cada una de las preguntas, Jamal tiene una respuesta...",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/213lPPkawMHXsKkN0BJySCyU9YW.png",
-      "runtime": "123 min",
-      "director": [
-        "Danny Boyle"
-      ],
-      "cast": [
-        "Dev Patel",
-        "Freida Pinto",
-        "Madhur Mittal",
-        "अनिल कपूर",
-        "Mahesh Manjrekar",
-        "Saurabh Shukla",
-        "Irrfan Khan",
-        "Ankur Vikal"
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon",
+        "Leo Woodall",
+        "John Slattery",
+        "Richard E. Grant",
+        "Mark O'Brien",
+        "Colin Hanks"
       ],
       "rank": 4,
-      "id": "tt1010048",
-      "name": "Slumdog Millionaire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ub7iEniSi23Ms3RcF551Sozb1MH.jpg",
-      "rating": 7.727,
-      "year": 2008,
+      "id": "tt29567915",
+      "name": "Núremberg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
+      "rating": 7.597,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,6 +182,42 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1P4vCGTvJc13VxejbRLbHA1dT6f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bXzN0Q7hYOjwT5rQZGYhSmda4k7.png",
+      "runtime": "147 min",
+      "director": [
+        "David Lynch"
+      ],
+      "cast": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster",
+        "Dan Hedaya",
+        "Angelo Badalamenti"
+      ],
+      "rank": 6,
+      "id": "tt0166924",
+      "name": "Mulholland Drive",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
+      "rating": 7.8,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
       "genres": [
         "Acción",
@@ -203,11 +239,11 @@
         "Sarah Niles",
         "Will Merrick"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt16311594",
       "name": "F1 la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.828,
+      "rating": 7.825,
       "year": 2025,
       "days": null,
       "trend": {
@@ -217,71 +253,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mundo ha cambiado. El único lugar habitable que le queda a la humanidad se encuentra en las altas montañas, a más de 2500 metros de altura. Por debajo de esos 2500 metros, habitan las criaturas que exterminaron al 95 % de la población humana hace menos de tres años. Para salvar la vida de su hijo pequeño, un padre (Anthony Mackie) se ve obligado a aventurarse bajo 'La Línea' con una científica (Morena Baccarin) a la que desprecia, pero que podría tener la clave para derrotar a los monstruos, y una joven (Maddie Hasson) decidida a mantenerlos con vida el tiempo suficiente para salvar a la raza humana.",
+      "description": "Un ex revolucionario, tras años apartado de la lucha, se ve obligado a volver a la acción para enfrentar a viejos enemigos en un ambiente cargado de tensión política, racismo y violencia militar... Adaptación modernizada de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
       "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Suspense"
+        "Suspense",
+        "Crimen",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wWGesUsp8OdqYuT3N7wZp3omMwV.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qHtncEb6Zv9TXr40D2nn4xoy3ZI.png",
+      "runtime": "162 min",
       "director": [
-        "George Nolfi"
+        "Paul Thomas Anderson"
       ],
       "cast": [
-        "Anthony Mackie",
-        "Morena Baccarin",
-        "Maddie Hasson",
-        "Danny Boyd Jr.",
-        "Rachel Nicks",
-        "Shauna Earp",
-        "Tyler Grey",
-        "Drexel Malkoff"
-      ],
-      "rank": 7,
-      "id": "tt23558280",
-      "name": "Línea de extinción",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymi9oxpJ9oaiHJtDOSO5J6ssk6Q.jpg",
-      "rating": 6.429,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras un experimento militar fallido, el oficial Joe Bawers y la prostituta Rita despiertan quinientos años adelante en el futuro, en un mundo distópico en el que la selección natural ha favorecido a los más idiotas, debido a que se reproducen más. Esto ha resultado en una humanidad estúpida e ignorante, de modo que Joe descubre que es el hombre más inteligente del planeta. Pronto se convierte en un cercano consejero del Presidente de los Estados Unidos, el excéntrico Camacho.",
-      "genres": [
-        "Comedia",
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6OZXhno1DJrMmvMo5jRDUjWUbQZ.png",
-      "runtime": "85 min",
-      "director": [
-        "Mike Judge"
-      ],
-      "cast": [
-        "Luke Wilson",
-        "Maya Rudolph",
-        "Dax Shepard",
-        "Terry Crews",
-        "Anthony 'Citric' Campos",
-        "David Herman",
-        "Sonny Castillo",
-        "Kevin McAfee"
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
       ],
       "rank": 8,
-      "id": "tt0387808",
-      "name": "Idiocracia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8iO3iSWhlIqd0mCtW7iTJaThled.jpg",
-      "rating": 6.389,
-      "year": 2006,
+      "id": "tt30144839",
+      "name": "Una batalla tras otra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+      "rating": 7.334,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,34 +289,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sam y su hermano mayor Michael son los típicos jóvenes americanos con intereses normales. Pero nada más instalarse en la tranquila ciudad de Santa Carla, California, las cosas misteriosamente empiezan a cambiar. La personalidad de Michael se transforma. Y a su madre no le gustaría ver en lo que se está convirtiendo.",
+      "description": "Salamanca, España, 1936. En los primeros días de la rebelión militar que causó el estallido de la guerra civil española (1936-39), el escritor Miguel de Unamuno apoya el levantamiento con la esperanza de que termine el caos político imperante. Pero cuando el enfrentamiento se vuelve sangriento, Unamuno comienza a cuestionar su posición inicial.",
       "genres": [
-        "Terror",
-        "Comedia",
-        "Suspense"
+        "Drama",
+        "Historia",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iiO2aaYRYAZ4WhsRXQlZ4IHGetP.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tsihdadFxcOiI2NdTxmMmwnfrG3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IRhPq7cZ0ZGDJdYRqalhBQIuDF.png",
+      "runtime": "108 min",
       "director": [
-        "Joel Schumacher"
+        "Alejandro Amenábar"
       ],
       "cast": [
-        "Jason Patric",
-        "Corey Haim",
-        "Dianne Wiest",
-        "Barnard Hughes",
-        "Edward Herrmann",
-        "Kiefer Sutherland",
-        "Jami Gertz",
-        "Corey Feldman"
+        "Karra Elejalde",
+        "Eduard Fernández",
+        "Santi Prego",
+        "Nathalie Poza",
+        "Luis Bermejo",
+        "Tito Valverde",
+        "Patricia López Arnaiz",
+        "Inma Cuevas"
       ],
       "rank": 9,
-      "id": "tt0093437",
-      "name": "Jóvenes ocultos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
-      "rating": 7.1,
-      "year": 1987,
+      "id": "tt7818580",
+      "name": "Mientras dure la guerra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
+      "rating": 7.053,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,34 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos obstáculos mientras lucha contra criminales y policías corruptos. En el camino conoce a Navin, un periodista en busca de su esposa desaparecida. Ambos despliegan sus habilidades de combate mientras aprenden las virtudes de la confianza mutua.",
+      "description": "Controvertido y célebre flim sobre un clérigo, en la Francia del XVII, acusado de herejía. Basada libremente en hechos reales ocurridos en el convento de Laudun, en Francia, en el que supuestamente unas  monjas Ursulinas fueron poseídas por el diablo en 1634.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
+        "Drama",
+        "Historia",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-      "runtime": "113 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BSsugMxJGCRWD8qxqBPWhH71H3.png",
+      "runtime": "103 min",
       "director": [
-        "谷垣健治"
+        "Ken Russell"
       ],
       "cast": [
-        "谢苗",
-        "Joe Taslim",
-        "Yang Enyou",
-        "Yayan Ruhian",
-        "ฉันทธนิสา ตัง",
-        "Brian Le",
-        "岩永ジョーイ",
-        "สหจักร บุญธนกิจ"
+        "Vanessa Redgrave",
+        "Oliver Reed",
+        "Dudley Sutton",
+        "Max Adrian",
+        "Gemma Jones",
+        "Murray Melvin",
+        "Michael Gothard",
+        "Georgina Hale"
       ],
       "rank": 10,
-      "id": "tt33311069",
-      "name": "The Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "rating": 8.213,
-      "year": 2026,
+      "id": "tt0066993",
+      "name": "Los demonios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJIx17hCWq3CEhc8UzioBngrMJc.jpg",
+      "rating": 7.5,
+      "year": 1971,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T13:15:49.354Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }

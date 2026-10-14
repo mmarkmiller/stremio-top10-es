@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt28498219",
       "name": "Matchbox: La película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.964,
+      "rating": 7.908,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.922,
+      "rating": 7.924,
       "year": 2026,
       "days": null,
       "trend": {
@@ -141,7 +141,7 @@
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
-      "rating": 7.524,
+      "rating": 7.531,
       "year": 1966,
       "days": null,
       "trend": {
@@ -221,77 +221,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
-      ],
-      "rank": 7,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.205,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el año 2035, los robots son unos dispositivos que usamos todos los días y en quienes confiamos, excepto un detective paranoico, investigando lo que solo él cree que es un crimen perpetrado por un robot. El caso lo lleva a descubrir algo aún peor que amenaza la raza humana.",
-      "genres": [
-        "Acción",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xE6kNnCyS7zjPNDWvqJMM8OrEbV.png",
-      "runtime": "115 min",
-      "director": [
-        "Alex Proyas"
-      ],
-      "cast": [
-        "Will Smith",
-        "Bridget Moynahan",
-        "Alan Tudyk",
-        "James Cromwell",
-        "Bruce Greenwood",
-        "Adrian Ricard",
-        "Chi McBride",
-        "Jerry Wasserman"
-      ],
-      "rank": 8,
-      "id": "tt0343818",
-      "name": "Yo, robot",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u0tUxQQxrbKX3GIfsCYeHrrYPzV.jpg",
-      "rating": 6.975,
-      "year": 2004,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
       "genres": [
         "Romance",
@@ -314,11 +243,11 @@
         "Betty Buckley",
         "Darryl Scheelar"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt24950660",
       "name": "Eternity",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
-      "rating": 7.114,
+      "rating": 7.1,
       "year": 2025,
       "days": null,
       "trend": {
@@ -328,33 +257,88 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En 1943, mientras los hombres estaban en la guerra, el béisbol estuvo a punto de desaparecer. Se formó entonces una liga femenina que intentaba captar la atención del público. Dottie y Mae formaban parte de uno de esos equipos femeninos que debían demostrar que eran capaces de competir y luchar como hombres. Lo peor era que tenían que soportar a Jimmy, un sarcástico y alcohólico entrenador.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rPg6y546Qs3dUk14rijhYjRrr7H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pum8o7kK0asEWT8aFbAss3AlqSA.png",
-      "runtime": "128 min",
+      "genres": [],
+      "runtime": "15 min",
       "director": [
-        "Penny Marshall"
+        "Florencia García Viera"
+      ],
+      "cast": [],
+      "rank": 8,
+      "id": "tmdb:1455755",
+      "name": "Lobos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7y2QqVCWJlmkSeqSQkEtfiV1Gwd.jpg",
+      "rating": null,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
+      "runtime": "107 min",
+      "director": [
+        "Ben Stiller"
       ],
       "cast": [
-        "Tom Hanks",
-        "Geena Davis",
-        "Lori Petty",
-        "Madonna",
-        "Rosie O'Donnell",
-        "Megan Cavanagh",
-        "Tracy Reiner",
-        "Bitty Schram"
+        "Ben Stiller",
+        "Robert Downey Jr.",
+        "Jack Black",
+        "Jay Baruchel",
+        "Brandon T. Jackson",
+        "Brandon Soo Hoo",
+        "Matthew McConaughey",
+        "Tom Cruise"
+      ],
+      "rank": 9,
+      "id": "tt0942385",
+      "name": "Tropic Thunder, ¡una guerra muy perra!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
+      "rating": 6.731,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bblKpucB0XbyQBmfXsaRN985Rgh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzZJYeihmerQOJrBmi6PH6KqGMx.png",
+      "runtime": "110 min",
+      "director": [
+        "Fisher Stevens"
+      ],
+      "cast": [
+        "Justin Timberlake",
+        "Ryder Allen",
+        "Juno Temple",
+        "Alisha Wainwright",
+        "June Squibb",
+        "Dean Winters",
+        "Wynn Everett",
+        "Jesse C. Boyd"
       ],
       "rank": 10,
-      "id": "tt0104694",
-      "name": "Ellas dan el golpe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qHVHUVhE7RqjtecoSAnqYukiIos.jpg",
-      "rating": 7.21,
-      "year": 1992,
+      "id": "tt6857376",
+      "name": "Palmer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "rating": 8.113,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +347,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }

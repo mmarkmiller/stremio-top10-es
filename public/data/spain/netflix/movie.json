@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.4,
+      "rating": 7.274,
       "year": 2026,
       "days": null,
       "trend": {
@@ -102,7 +102,7 @@
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.091,
+      "rating": 7.089,
       "year": 2024,
       "days": null,
       "trend": {
@@ -148,42 +148,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wEuiG5gakvzTthDVz0X5gfEz7T1.png",
-      "runtime": "126 min",
-      "director": [
-        "J.C. Chandor"
-      ],
-      "cast": [
-        "Aaron Taylor-Johnson",
-        "Ariana DeBose",
-        "Fred Hechinger",
-        "Alessandro Nivola",
-        "Christopher Abbott",
-        "Russell Crowe",
-        "Юрий Колокольников",
-        "Levi Miller"
-      ],
-      "rank": 5,
-      "id": "tt8790086",
-      "name": "Kraven the Hunter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
-      "rating": 6.414,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "genres": [
         "Crimen",
@@ -206,11 +170,11 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.867,
+      "rating": 6.856,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,103 +184,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "A un poderoso millonario, enfermo de cáncer, le ofrecen la posibilidad de someterse a un procedimiento médico radical para transferir su conciencia al cuerpo de un hombre más joven. Al principio la operación va bien y el hombre disfruta de su renovada juventud, pero todo se complica cuando empieza a descubrir los detalles en torno a la procedencia de su nuevo cuerpo.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kwPNyQuxp2O6aeNKDjt7wv9lre0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kb2FCIItxda4ObsX3PeVqwq5nRf.png",
-      "runtime": "116 min",
-      "director": [
-        "Tarsem Singh"
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Ben Kingsley",
-        "Natalie Martinez",
-        "Matthew Goode",
-        "Michelle Dockery",
-        "Melora Hardin",
-        "Victor Garber",
-        "Sam Page"
-      ],
-      "rank": 7,
-      "id": "tt2140379",
-      "name": "Eternal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rCM6HSTYnYTwGOUVUx8UeKuxeFN.jpg",
-      "rating": 6.428,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-      "genres": [
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Arcieqe7zMGk07ZyauOwV00XDtO.png",
-      "runtime": "116 min",
-      "director": [
-        "Dhruv Tripathi"
-      ],
-      "cast": [
-        "Parineeti Chopra",
-        "Deven Bhojani",
-        "Adil Hussain",
-        "Shekhar Suman",
-        "Amol Palekar",
-        "Nassar",
-        "गीता अग्रवाल शर्मा",
-        "Saswata Chatterjee"
-      ],
-      "rank": 8,
-      "id": "tt47657999",
-      "name": "En directo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4MQDsOft2xkNxTpOHvULBwKFbbn.jpg",
-      "rating": 8.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "description": "Ariadna descubre que su abuelo busca desde hace tiempo los restos de su padre, desaparecido en la Guerra Civil. Decidida a ayudarlo, viaja a Burgos, donde están exhumando una fosa común en la que podría estar enterrado. Durante su estancia allí, conocerá la historia de Antoni Benaiges, un joven maestro de Tarragona que antes de la guerra fue profesor de su abuelo. Mediante un innovador método pedagógico Antoni inspiró a sus alumnos y les hizo una promesa: llevarlos a ver el mar.",
       "genres": [
         "Drama",
         "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/d5bEPTpOf3OEBcPFM5zbWeoayjA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/efZJn6ODs5LCgbgVWnJ399Y83no.png",
+      "runtime": "105 min",
       "director": [
-        "Christopher Nolan"
+        "Patricia Font"
       ],
       "cast": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Matt Damon",
-        "Robert Downey Jr.",
-        "Florence Pugh",
-        "Josh Hartnett",
-        "Casey Affleck",
-        "Rami Malek"
+        "Enric Auquer",
+        "Laia Costa",
+        "Luisa Gavasa",
+        "Ramon Agirre",
+        "Milo Taboada",
+        "Alba Guilera",
+        "Eduardo Ferrés",
+        "Alicia G. Reyero"
       ],
-      "rank": 9,
-      "id": "tt15398776",
-      "name": "Oppenheimer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
-      "rating": 8.022,
+      "rank": 6,
+      "id": "tt11887316",
+      "name": "El maestro que prometió el mar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ue59lTGTYzyv6I1lBYlFuHtYy6n.jpg",
+      "rating": 7.7,
       "year": 2023,
       "days": null,
       "trend": {
@@ -326,32 +219,140 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wEuiG5gakvzTthDVz0X5gfEz7T1.png",
+      "runtime": "126 min",
+      "director": [
+        "J.C. Chandor"
+      ],
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Ariana DeBose",
+        "Fred Hechinger",
+        "Alessandro Nivola",
+        "Christopher Abbott",
+        "Russell Crowe",
+        "Юрий Колокольников",
+        "Levi Miller"
+      ],
+      "rank": 7,
+      "id": "tt8790086",
+      "name": "Kraven the Hunter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
+      "rating": 6.414,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Marte, año 2176. Debido a la superpoblación de la Tierra, el Planeta Rojo se ha convertido en una zona habitada, pero sigue siendo un lugar peligroso. Para colmo, durante una exploración se descubre que una civilización marciana que ha permanecido dormida mucho tiempo, ahora está despierta. En tal circunstancia, un pequeño grupo de policías es enviado a una lejana población minera con la misión de escoltar a un peligroso criminal.",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/anSbunnEMI0TSmizqUSRACoe18l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zZslelfdvxCPjuc4QF9EGxwspW6.png",
+      "runtime": "89 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Natasha Henstridge",
+        "Ice Cube",
+        "Jason Statham",
+        "Clea DuVall",
+        "Pam Grier",
+        "Joanna Cassidy",
+        "Richard Cetrone",
+        "Rosemary Forsyth"
+      ],
+      "rank": 8,
+      "id": "tt0228333",
+      "name": "Fantasmas de Marte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cYxBSKEpjfFzvZWkNabgBkMCC5i.jpg",
+      "rating": 5.163,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "César es un atractivo y apuesto joven que ha heredado una gran fortuna de sus padres. Vive en una espléndida casa de su propiedad en la que organiza lujosas fiestas. Cuando una noche su amigo Pelayo le presenta a la hermosa Sofía, Nuria, que fue amante de César, se muere de celos y, al día siguiente, yendo en coche con César, intenta suicidarse. Cuando éste se despierta en el hospital, su rostro se encuentra horriblemente desfigurado.",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oQFUfNkSA1TlslJ1LonRh09x2Hw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ttfFI5aV8YYDgZS5pqzuuNPUHl0.png",
+      "runtime": "117 min",
+      "director": [
+        "Alejandro Amenábar"
+      ],
+      "cast": [
+        "Eduardo Noriega",
+        "Penélope Cruz",
+        "Chete Lera",
+        "Fele Martínez",
+        "Najwa Nimri",
+        "Gérard Barray",
+        "Jorge de Juan",
+        "Miguel Palenzuela"
+      ],
+      "rank": 9,
+      "id": "tt0125659",
+      "name": "Abre los ojos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzfbGuRYlE0bB0WdzrCnxFSWwWo.jpg",
+      "rating": 7.461,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
       "director": [
-        "Anne Sewitsky"
+        "Gus Van Sant"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
       "rank": 10,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.3,
-      "year": 2015,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.166,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T01:13:51.791Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }

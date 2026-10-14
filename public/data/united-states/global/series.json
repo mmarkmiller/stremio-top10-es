@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.475,
+      "rating": 8.479,
       "year": 2026,
       "days": null,
       "trend": {
@@ -60,7 +60,39 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.3,
+      "rating": 7.234,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Ben Crompton"
+      ],
+      "rank": 3,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "rating": 9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -85,76 +117,12 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.051,
+      "rating": 8,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un abogado luchador se enfrenta a un poderoso gigante tecnológico en una batalla legal de alto riesgo, navegando por el despiadado mundo de Silicon Valley mientras lucha por la justicia y los derechos de los más desfavorecidos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
-      "director": [
-        "Robert King",
-        "Michelle King"
-      ],
-      "cast": [
-        "Mike Colter",
-        "Rachel Keller",
-        "Ella Stiller",
-        "Nik Dodani",
-        "Busy Philipps",
-        "Renée Elise Goldsberry"
-      ],
-      "rank": 4,
-      "id": "tt33270224",
-      "name": "Cupertino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/70AhJpOqU2oKyQF2paJA764CSje.jpg",
-      "rating": 5.462,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 5,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.4,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,12 +149,76 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
       "rating": 8,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
+      ],
+      "rank": 6,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.362,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+      "director": [],
+      "cast": [
+        "Friederike Becht",
+        "Hans Löw",
+        "Alexander Schubert",
+        "Katja Ponickau",
+        "Naila Schuberth",
+        "Josephine Thiesen",
+        "Matthias Brandt",
+        "Anna Schudt"
+      ],
+      "rank": 7,
+      "id": "tt36470958",
+      "name": "La trampa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
+      "rating": 7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -209,40 +241,12 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.3,
+      "rating": 8.276,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uVnGusAwehV4WdxgKwFg0UJql1R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png",
-      "director": [],
-      "cast": [
-        "Justin Hartley",
-        "Fiona Rene",
-        "Chris Lee",
-        "Cassady McClincy-Zhang"
-      ],
-      "rank": 8,
-      "id": "tt13875494",
-      "name": "Tracker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
-      "rating": 7.6,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -273,7 +277,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.507,
+      "rating": 8.502,
       "year": 2025,
       "days": null,
       "trend": {
@@ -283,28 +287,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "description": "Un abogado luchador se enfrenta a un poderoso gigante tecnológico en una batalla legal de alto riesgo, navegando por el despiadado mundo de Silicon Valley mientras lucha por la justicia y los derechos de los más desfavorecidos.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Familia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
+      "director": [
+        "Robert King",
+        "Michelle King"
+      ],
       "cast": [
-        "Saheli Khan",
-        "Aishwarya 'Aishu' Devan",
-        "Major Curda",
-        "Akshay Khanna",
-        "Sakina Jaffrey"
+        "Mike Colter",
+        "Rachel Keller",
+        "Ella Stiller",
+        "Nik Dodani",
+        "Busy Philipps",
+        "Renée Elise Goldsberry"
       ],
       "rank": 10,
-      "id": "tt35854736",
-      "name": "Avatar: Los Siete Refugios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-      "rating": 8.7,
+      "id": "tt33270224",
+      "name": "Cupertino",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+      "rating": 5.462,
       "year": 2026,
       "days": null,
       "trend": {
@@ -314,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }

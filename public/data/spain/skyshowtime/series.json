@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610132052",
+  "date": "202610141948",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.507,
+      "rating": 8.502,
       "year": 2025,
       "days": null,
       "trend": {
@@ -60,7 +60,7 @@
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.262,
+      "rating": 8.263,
       "year": 2023,
       "days": null,
       "trend": {
@@ -95,29 +95,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "description": "Ambientada en una América distópica gobernada por un partido político totalitario, la serie sigue a varios personajes aparentemente sin relación que viven en una ciudad pequeña. Atarlos a todos juntos es un salvador misterioso que está impecablemente equipado para todo lo que la noche les arroja. A medida que el reloj se detiene con sus destinos pendientes, cada personaje se ve obligado a contar sus pasados ​​a medida que descubren qué tan lejos llegarán para sobrevivir a la noche.",
       "genres": [
-        "Comedia",
+        "Misterio",
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rFGtqUOIXP9CudLaSzK9iFZB7lK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gzfLBOqaBeuHpen4KT1FtsWpMiS.png",
       "director": [],
       "cast": [
-        "Jean Smart",
-        "Hannah Einbinder",
-        "Carl Clemons-Hopkins",
-        "Paul W. Downs",
-        "Megan Stalter",
-        "Mark Indelicato",
-        "Rose Abdoo"
+        "Paola Nuñez",
+        "Max Martini",
+        "Derek Luke",
+        "Joel Allen",
+        "Lindsey Pearlman"
       ],
       "rank": 4,
-      "id": "tt11815682",
-      "name": "Hacks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-      "rating": 7.5,
-      "year": 2021,
+      "id": "tt6110648",
+      "name": "La purga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6gg2mGqCp2V8FQNZnA9M8tKn6FA.jpg",
+      "rating": 6.904,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 5,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -145,12 +171,43 @@
         "Mo Brings Plenty",
         "Gil Birmingham"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt36849871",
       "name": "Marshals: Una historia de Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.944,
+      "rating": 7.955,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
+      "director": [],
+      "cast": [
+        "Jean Smart",
+        "Hannah Einbinder",
+        "Carl Clemons-Hopkins",
+        "Paul W. Downs",
+        "Megan Stalter",
+        "Mark Indelicato",
+        "Rose Abdoo"
+      ],
+      "rank": 7,
+      "id": "tt11815682",
+      "name": "Hacks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "rating": 7.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -177,11 +234,11 @@
         "Ryan Bingham",
         "Finn Little"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.3,
+      "rating": 8.276,
       "year": 2018,
       "days": null,
       "trend": {
@@ -191,86 +248,24 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ambientada en una América distópica gobernada por un partido político totalitario, la serie sigue a varios personajes aparentemente sin relación que viven en una ciudad pequeña. Atarlos a todos juntos es un salvador misterioso que está impecablemente equipado para todo lo que la noche les arroja. A medida que el reloj se detiene con sus destinos pendientes, cada personaje se ve obligado a contar sus pasados ​​a medida que descubren qué tan lejos llegarán para sobrevivir a la noche.",
-      "genres": [
-        "Misterio",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rFGtqUOIXP9CudLaSzK9iFZB7lK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gzfLBOqaBeuHpen4KT1FtsWpMiS.png",
-      "director": [],
-      "cast": [
-        "Paola Nuñez",
-        "Max Martini",
-        "Derek Luke",
-        "Joel Allen",
-        "Lindsey Pearlman"
-      ],
-      "rank": 7,
-      "id": "tt6110648",
-      "name": "La purga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6gg2mGqCp2V8FQNZnA9M8tKn6FA.jpg",
-      "rating": 6.904,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 8,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.583,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Malotru, un agente de la Inteligencia Francesa, encubierto en Siria durante 6 años, es llamado de vuelta a casa. Se enfrentará a la dificultad de olvidar su identidad encubierta, la desaparición de un colega en Argelia, y el entrenamiento de una joven chica.",
+      "description": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
       "genres": [
         "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOvVP88lVgUK9GiVdbo96xbefbQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png",
       "director": [],
       "cast": [
-        "Mathieu Kassovitz",
-        "Sara Giraudeau",
-        "Stefan Crepon",
-        "Zineb Triki",
-        "Florence Loiret Caille",
-        "Jonathan Zaccaï",
-        "Олексій Горбунов",
-        "Mathieu Amalric"
+        "Rami Malek",
+        "Christian Slater",
+        "Carly Chaikin"
       ],
       "rank": 9,
-      "id": "tt4063800",
-      "name": "Oficina de infiltrados",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m8lLVY9MPB2uj7UwY5l32UsDyGr.jpg",
-      "rating": 8.2,
+      "id": "tt4158110",
+      "name": "Mr. Robot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "rating": 8.273,
       "year": 2015,
       "days": null,
       "trend": {
@@ -280,31 +275,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando el jefe de una organización criminal, Finn Wallace es asesinado, el repentino vacío de poder que crea su muerte amenaza la frágil paz entre la intrincada red de pandillas que operan en las calles de la ciudad. Ahora le corresponde al afligido, volátil e impulsivo Sean Wallace restablecer el control y encontrar a los responsables de matar a su padre.",
+      "description": "Marissa Irvine llega para recoger a su pequeño hijo Milo de su primera cita de juegos, pero la mujer que le abre la puerta no es una madre que ella reconozca. No tiene a Milo y nunca ha oído hablar de él... A medida que la peor pesadilla de todo padre comienza a revelarse, nuevas preguntas conducen a profundos secretos, revelando grietas en el mundo aparentemente perfecto de Irvine hasta que todo queda hecho añicos.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
+        "Misterio",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dcj9fyx9wMU7HazAAxSAZ65s3Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m6bPFRegqJhO0MNvQUHvYWffLGt.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vIUWZNvdWUyZrJwSMahgweXiZU9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zLIzAXq3bsIMduGbBCVAJRaniwd.png",
       "director": [],
       "cast": [
-        "Ṣọpẹ́ Dìrísù",
-        "Michelle Fairley",
-        "Orli Shuka",
-        "Lucian Msamati",
-        "Jasmine Armando",
-        "Narges Rashidi",
-        "Brian Vernel",
-        "Pippa Bennett-Warner"
+        "Sarah Snook",
+        "Jake Lacy",
+        "Sophia Lillis",
+        "Michael Peña",
+        "Dakota Fanning",
+        "Abby Elliott",
+        "Jay Ellis",
+        "Duke McCloud"
       ],
       "rank": 10,
-      "id": "tt7661390",
-      "name": "Gangs of London",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mFTVdpzjwhp6A5hRJPhmK1KQI52.jpg",
-      "rating": 7.803,
-      "year": 2020,
+      "id": "tt31314751",
+      "name": "Su peor pesadilla",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kxDzi564wDHCIse4GiJZrh0usqa.jpg",
+      "rating": 8.046,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-12T05:13:39.245Z"
+  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
 }
