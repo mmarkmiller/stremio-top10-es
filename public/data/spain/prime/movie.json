@@ -2,38 +2,72 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Ben Wheatley"
+        "Rachel Morrison"
       ],
       "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
+        "Margaret Qualley",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Gabriel Basso",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
       "rank": 1,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.3,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+      "rating": 6.146,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en la vida de los inseparables hermanos Von Erich, que hicieron historia en el competitivo mundo de la lucha libre profesional a principios de la década de los 80. A través de la tragedia y el triunfo, bajo la sombra de su dominante padre y entrenador, los hermanos buscan la inmortalidad en el escenario más importante del deporte.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wv0Kaa3x9lz84Nh42Ql0nIyrXO.png",
+      "runtime": "130 min",
+      "director": [
+        "Sean Durkin"
+      ],
+      "cast": [
+        "Zac Efron",
+        "Jeremy Allen White",
+        "Harris Dickinson",
+        "Stanley Simons",
+        "Holt McCallany",
+        "Maura Tierney",
+        "Lily James",
+        "Grady Wilson"
+      ],
+      "rank": 2,
+      "id": "tt21064584",
+      "name": "El clan de hierro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
+      "rating": 7.5,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,12 +97,48 @@
         "Mckenna Grace",
         "Madeline Brewer"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt12583926",
       "name": "Aniversario",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.928,
+      "rating": 6.944,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
+      "runtime": "91 min",
+      "director": [
+        "Ben Wheatley"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
+      ],
+      "rank": 4,
+      "id": "tt31195136",
+      "name": "Normal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "rating": 7.255,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,11 +169,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -113,29 +183,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Qué elegirías: ¿ser un poco rico ahora, o esperar diez años y ser inmensamente rico? ¿Podrías esperar este tiempo? ¿Por qué? Y lo más importante, ¿podrías llegar a un acuerdo con tu compañero de vida? Los protagonistas tendrán que elegir entre la posibilidad de optar a 100.000 euros en el momento actual o conseguir un millón de euros cuando pasen diez años... Adaptación de la obra de Jordi Vallejo.",
+      "description": "Un hombre (McConaughey) se presenta en la oficina de Wesley Doyle (Powers Boothe), el agente del FBI encargado de la búsqueda del famoso asesino de Texas conocido como \"La Mano de Dios\", y asegura que conoce la identidad del escurridizo asesino en serie: se trata de su hermano Adam, quien, después de cometer aquellos crímenes, se suicidó. Al mismo tiempo, intenta explicarle a Doyle las razones que impulsaron a su hermano a matar. (FILMAFFINITY)",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/QdwnUl8CUmFfuQiVdFpPkOzndo.jpg",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e77hDUKl10EbqaIFyFuG8zBxWy0.png",
+      "runtime": "99 min",
       "director": [
-        "Dani de la Orden"
+        "Bill Paxton"
       ],
       "cast": [
-        "Alberto San Juan",
-        "Miren Ibarguren",
-        "Blanca Suárez",
-        "Carlos Santos",
-        "Antonio Resines",
-        "Luna Fulgencio"
+        "Bill Paxton",
+        "Matthew McConaughey",
+        "Powers Boothe",
+        "Matt O'Leary",
+        "Jeremy Sumpter",
+        "Levi Kreis",
+        "Missy Crider",
+        "Luke Askew"
       ],
-      "rank": 4,
-      "id": "tt15502648",
-      "name": "El test",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r5DbPQNmPJYYJC0nv6di13Y2dB3.jpg",
-      "rating": 6.1,
-      "year": 2022,
+      "rank": 6,
+      "id": "tt0264616",
+      "name": "Escalofrío",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bVe4Y0lrGjW6VqZDW44f3c80S0u.jpg",
+      "rating": 6.951,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato, tortura, violación y mutilación son solo el comienzo. Ya pasó la era de la civilidad y el orden. Solo queda 'The Sadness'.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sNHtqdtGmfkktvXevzxqcbldr7N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uumtWoY25K7V6fSIRb8Zjx6zeKh.png",
+      "runtime": "100 min",
+      "director": [
+        "Rob Jabbaz"
+      ],
+      "cast": [
+        "朱軒洋",
+        "雷嘉汭",
+        "王自強",
+        "陳映如",
+        "藍葦華",
+        "邱彥翔",
+        "黃略耕",
+        "蔡昌憲"
+      ],
+      "rank": 7,
+      "id": "tt13872248",
+      "name": "The Sadness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qjzXjEPkpGxM6rxBlpsgmCRt56n.jpg",
+      "rating": 6.851,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Precuela de \"Cube\". Rains se despierta en un laberinto de habitaciones perfectamente cúbicas. Lleva un extraño uniforme gris y un código de barras tatuado en su mano. No recuerda nada, ni su nombre. Pronto encontrará otros prisioneros del laberinto que están en su misma situación. A medida que se van desplazando por los cubos, irán muriendo uno a uno en las trampas que irán encontrando. Rains tiene un admirador secreto. Se trata de Wynn y forma parte del grupo de observadores cuyo trabajo es controlar al grupo de prisioneros. Se siente atraido por ella e intentará hacer alguna cosa para ayudarla. En el universo del cubo, nadie está a salvo. Los observadores son observados y los prisioneros huyen en busca de una salida que no saben donde les llevará.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8GDEN5jjFuNzl84YssrehZHs6Mq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zH0txviSGsCzX2dglsi4W2ggGi3.png",
+      "runtime": "97 min",
+      "director": [
+        "Ernie Barbarash"
+      ],
+      "cast": [
+        "Zachary Bennett",
+        "David Huband",
+        "Stephanie Moore",
+        "Martin Roach",
+        "Terri Hawkes",
+        "Richard McMillan",
+        "Mike 'Nug' Nahrgang",
+        "Tony Munch"
+      ],
+      "rank": 8,
+      "id": "tt0377713",
+      "name": "Cube Zero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3t7ofvNlNhRkbAspiUe4ZdNcGA.jpg",
+      "rating": 5.653,
+      "year": 2004,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,116 +312,12 @@
         "Tom Taylor",
         "Georgia Goodman"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.114,
+      "rating": 7.1,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 6,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.34,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Londres, Inglaterra, durante la Segunda Guerra Mundial. Tras vivir una trágica experiencia vital, la joven Violette Szabo se une al Ejecutivo de Operaciones Especiales y cruza las líneas enemigas alemanas como agente secreto para ayudar a un grupo de la Resistencia francesa.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6C8JT07pChGqHnwDDKN2LUvHkgV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wiHCaYxxPet7JapaCgvs7jNjego.png",
-      "runtime": "119 min",
-      "director": [
-        "Lewis Gilbert"
-      ],
-      "cast": [
-        "Virginia McKenna",
-        "Paul Scofield",
-        "Jack Warner",
-        "Denise Grey",
-        "Maurice Ronet",
-        "Alain Saury",
-        "Avice Landone",
-        "Anne Leon"
-      ],
-      "rank": 7,
-      "id": "tt0051454",
-      "name": "Agente secreto SZ",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o4OROnuWkA7wEXVygppFvZ3opob.jpg",
-      "rating": 6,
-      "year": 1958,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 8,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.82,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,47 +348,12 @@
         "Henry Golding",
         "Tom Wu"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt8367814",
       "name": "The Gentlemen: Los señores de la mafia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.658,
+      "rating": 7.7,
       "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
-      "director": [
-        "Claire Scanlon"
-      ],
-      "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
-      ],
-      "rank": 10,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.032,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }

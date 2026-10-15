@@ -2,8 +2,37 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+      "director": [],
+      "cast": [
+        "Linda Cardellini",
+        "William Catlett",
+        "Devin Kessler",
+        "Cameron Scoggins",
+        "Gwendolyn Sundstrom"
+      ],
+      "rank": 1,
+      "id": "tt23148340",
+      "name": "Crystal Lake",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 6.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
@@ -20,11 +49,11 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.276,
+      "rating": 8.256,
       "year": 2026,
       "days": null,
       "trend": {
@@ -52,7 +81,7 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
@@ -66,63 +95,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
+      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
       "genres": [
-        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
       "director": [],
       "cast": [
-        "James Gandolfini",
-        "Edie Falco",
-        "Jamie-Lynn Sigler",
-        "Robert Iler",
-        "Lorraine Bracco",
-        "Michael Imperioli",
-        "Steven Van Zandt",
-        "Tony Sirico"
-      ],
-      "rank": 3,
-      "id": "tt0141842",
-      "name": "Los Soprano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
-      "rating": 8.677,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
-      "director": [],
-      "cast": [
-        "Harold Perrineau",
-        "Catalina Sandino Moreno",
-        "Ricky He",
-        "David Alpay",
-        "Chloe Van Landschoot",
-        "Hannah Cheramy",
-        "Pegah Ghafoori",
-        "Simon Webster"
+        "Alan Cumming",
+        "David Morrissey",
+        "Elizabeth Berrington",
+        "Pooky Quesnel",
+        "Iz Hesketh",
+        "Paul Rhys",
+        "Jackson Connor",
+        "Joseph William Evans"
       ],
       "rank": 4,
-      "id": "tt9813792",
-      "name": "From",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
-      "year": 2022,
+      "id": "tt35768911",
+      "name": "De puntillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
+      "rating": 6.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -154,7 +149,7 @@
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.4,
+      "rating": 8.381,
       "year": 2022,
       "days": null,
       "trend": {
@@ -164,60 +159,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 6,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (California Bureau of Investigation), usando su altamente desarrollada capacidad de observación, que anteriormente usaba para \"leer\" mentes.",
+      "description": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
       "genres": [
         "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f4LBhra2bVZQlb9rg6qlgp4WqAu.png",
+      "background": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
       "director": [],
       "cast": [
-        "Simon Baker",
-        "Robin Tunney",
-        "Tim Kang",
-        "Rockmond Dunbar",
-        "Joe Adler",
-        "Josie Loren"
+        "James Gandolfini",
+        "Edie Falco",
+        "Jamie-Lynn Sigler",
+        "Robert Iler",
+        "Lorraine Bracco",
+        "Michael Imperioli",
+        "Steven Van Zandt",
+        "Tony Sirico"
       ],
-      "rank": 7,
-      "id": "tt1196946",
-      "name": "El mentalista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
-      "rating": 8.418,
-      "year": 2008,
+      "rank": 6,
+      "id": "tt0141842",
+      "name": "Los Soprano",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
+      "rating": 8.677,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -243,45 +208,12 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
       "rating": 8.7,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4kTINu9mv2YV1PqFqPGG1FZMnhi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
-      "director": [],
-      "cast": [
-        "Peter Dinklage",
-        "Kit Harington",
-        "Nikolaj Coster-Waldau",
-        "Lena Headey",
-        "Emilia Clarke",
-        "Liam Cunningham",
-        "Maisie Williams",
-        "Isaac Hempstead Wright"
-      ],
-      "rank": 9,
-      "id": "tt0944947",
-      "name": "Juego de tronos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
-      "rating": 8.474,
-      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,12 +241,77 @@
         "T'Nia Miller",
         "Lydia West"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt8694364",
       "name": "Years and Years",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofTCqVKLqyt1dPIs1ghnOkOQTxT.jpg",
-      "rating": 7.5,
+      "rating": 7.537,
       "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+      "director": [],
+      "cast": [
+        "Harold Perrineau",
+        "Catalina Sandino Moreno",
+        "Ricky He",
+        "David Alpay",
+        "Chloe Van Landschoot",
+        "Hannah Cheramy",
+        "Pegah Ghafoori",
+        "Simon Webster"
+      ],
+      "rank": 9,
+      "id": "tt9813792",
+      "name": "From",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
+      "rating": 8.488,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
+      "director": [],
+      "cast": [
+        "Dominic West",
+        "Lance Reddick",
+        "Sonja Sohn",
+        "Wendell Pierce",
+        "Michael Kenneth Williams",
+        "Deirdre Lovejoy",
+        "Andre Royo",
+        "John Doman"
+      ],
+      "rank": 10,
+      "id": "tt0306414",
+      "name": "Bajo escucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "rating": 8.638,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }

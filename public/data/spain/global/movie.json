@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Gabriel Basso",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 1,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+      "rating": 6.146,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
@@ -27,12 +62,82 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.274,
+      "rating": 7.221,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en la vida de los inseparables hermanos Von Erich, que hicieron historia en el competitivo mundo de la lucha libre profesional a principios de la década de los 80. A través de la tragedia y el triunfo, bajo la sombra de su dominante padre y entrenador, los hermanos buscan la inmortalidad en el escenario más importante del deporte.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wv0Kaa3x9lz84Nh42Ql0nIyrXO.png",
+      "runtime": "130 min",
+      "director": [
+        "Sean Durkin"
+      ],
+      "cast": [
+        "Zac Efron",
+        "Jeremy Allen White",
+        "Harris Dickinson",
+        "Stanley Simons",
+        "Holt McCallany",
+        "Maura Tierney",
+        "Lily James",
+        "Grady Wilson"
+      ],
+      "rank": 3,
+      "id": "tt21064584",
+      "name": "El clan de hierro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
+      "rating": 7.5,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
+      "director": [
+        "Jan Komasa"
+      ],
+      "cast": [
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
+      ],
+      "rank": 4,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
+      "rating": 6.944,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,82 +168,11 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
-      "director": [
-        "Jan Komasa"
-      ],
-      "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
-      ],
-      "rank": 3,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.928,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
-      "director": [
-        "Kristoffer Borgli"
-      ],
-      "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
-      ],
-      "rank": 4,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.898,
+      "rating": 7.255,
       "year": 2026,
       "days": null,
       "trend": {
@@ -170,12 +204,46 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.006,
+      "rating": 7.005,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
+      "director": [
+        "Anne Sewitsky"
+      ],
+      "cast": [
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
+      ],
+      "rank": 7,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.3,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,11 +274,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,104 +288,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "genres": [
+        "Romance",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2BNKxbq4muNcwTjSDNCYnvr1dM8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
       "director": [
-        "David Fincher"
+        "Kristoffer Borgli"
       ],
       "cast": [
-        "Jesse Eisenberg",
-        "Andrew Garfield",
-        "Armie Hammer",
-        "Justin Timberlake",
-        "Rooney Mara",
-        "Max Minghella",
-        "Brenda Song",
-        "Josh Pence"
-      ],
-      "rank": 7,
-      "id": "tt1285016",
-      "name": "La red social",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
-      "rating": 7.377,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Henry Lee Lucas tuvo una infancia muy desgraciada y acabó en la cárcel por acuchillar a su madre. Una vez en libertad, se convierte en un asesino que escoge a sus víctimas al azar y cada vez utiliza un método distinto con el fin de no ser descubierto. Otis, un tipo que conoció en prisión, es su cómplice. Un día llega Becky, la hermana de Otis, y se queda a vivir con ellos. Pronto entre ella y Henry surge un sentimiento mutuo de atracción. Una noche, Otis y Henry salen de juerga y matan a dos prostitutas en un callejón. Desde entonces, la sed de sangre que se apodera de ellos no conoce límites.",
-      "genres": [
-        "Crimen",
-        "Terror",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7JIpib3tBn9fshaL9XXQtOnw4v.png",
-      "runtime": "83 min",
-      "director": [
-        "John McNaughton"
-      ],
-      "cast": [
-        "Michael Rooker",
-        "Tracy Arnold",
-        "Tom Towles",
-        "Mary Demas",
-        "Anne Bartoletti",
-        "Elizabeth Kaden",
-        "Ted Kaden",
-        "Denise Sullivan"
-      ],
-      "rank": 8,
-      "id": "tt0099763",
-      "name": "Henry: Retrato de un asesino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXJiwFs8za8OgC8wfcXUgI6PY1N.jpg",
-      "rating": 6.712,
-      "year": 1986,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En otoño de 1967 Ron Jones, un profesor de historia de un instituto de Palo Alto en California, no tuvo respuesta para la pregunta de uno de sus alumnos: ¿Cómo es posible que el pueblo alemán alegue ignorancia respecto a la masacre del pueblo judío? En ese momento Jones decidió hacer un experimento con sus alumnos: implantó un régimen de extrema disciplina militar en el aula, restringiéndoles las libertades. Ante el asombro del profesor, los alumnos se entusiamaron hasta tal punto que a los pocos días empezaron a espiarse unos a otros y a acosar a los que no querían unirse al grupo. Al quinto día Ron Jones se vio obligado a acabar con el experimento antes de que las cosas llegaran demasiado lejos. El director alemán Dennis Gansel (Napola) ha trasladado esta experiencia a nuestros días y a su tierra natal: Alemania. Esta vez es el profesor quien hace la pregunta a sus alumnos: ¿Creéis que es imposible que otra dictadura vuelva a implantarse en Alemania? Y comienza el experimento…",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/59ZtjU5FfggxT6fgr1rm0a2JVaM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pS4JLVTQ01V4Gu4xuGYVzsJXZ7v.png",
-      "runtime": "107 min",
-      "director": [
-        "Dennis Gansel"
-      ],
-      "cast": [
-        "Jürgen Vogel",
-        "Frederick Lau",
-        "Max Riemelt",
-        "Jennifer Ulrich",
-        "Christiane Paul",
-        "Elyas M'Barek",
-        "Cristina do Rego",
-        "Jacob Matschenz"
+        "Zendaya",
+        "Robert Pattinson",
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
       ],
       "rank": 9,
-      "id": "tt1063669",
-      "name": "La ola",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n6fN0aVbLEurQSobUUlj4EViYZD.jpg",
-      "rating": 7.486,
-      "year": 2008,
+      "id": "tt33071426",
+      "name": "El drama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": 6.897,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,34 +324,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "description": "Un hombre (McConaughey) se presenta en la oficina de Wesley Doyle (Powers Boothe), el agente del FBI encargado de la búsqueda del famoso asesino de Texas conocido como \"La Mano de Dios\", y asegura que conoce la identidad del escurridizo asesino en serie: se trata de su hermano Adam, quien, después de cometer aquellos crímenes, se suicidó. Al mismo tiempo, intenta explicarle a Doyle las razones que impulsaron a su hermano a matar. (FILMAFFINITY)",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
+        "Drama",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e77hDUKl10EbqaIFyFuG8zBxWy0.png",
+      "runtime": "99 min",
       "director": [
-        "Sam Hargrave"
+        "Bill Paxton"
       ],
       "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
+        "Bill Paxton",
+        "Matthew McConaughey",
+        "Powers Boothe",
+        "Matt O'Leary",
+        "Jeremy Sumpter",
+        "Levi Kreis",
+        "Missy Crider",
+        "Luke Askew"
       ],
       "rank": 10,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.908,
-      "year": 2026,
+      "id": "tt0264616",
+      "name": "Escalofrío",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bVe4Y0lrGjW6VqZDW44f3c80S0u.jpg",
+      "rating": 6.951,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }

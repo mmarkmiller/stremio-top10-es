@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,42 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.274,
+      "rating": 7.221,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
+      "director": [
+        "Anne Sewitsky"
+      ],
+      "cast": [
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
+      ],
+      "rank": 2,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.3,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,11 +97,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.565,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -98,7 +132,7 @@
         "Georgina Haig",
         "Josh Quong Tart"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
@@ -112,34 +146,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
       "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6X3lVeDeOcEKiadSHP2XT80ZtI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
+      "runtime": "181 min",
       "director": [
-        "Griffin Dunne"
+        "Christopher Nolan"
       ],
       "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Florence Pugh",
+        "Josh Hartnett",
+        "Casey Affleck",
+        "Rami Malek"
       ],
-      "rank": 4,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
-      "year": 1998,
+      "rank": 5,
+      "id": "tt15398776",
+      "name": "Oppenheimer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "rating": 8.023,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +203,11 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.856,
+      "rating": 6.852,
       "year": 2026,
       "days": null,
       "trend": {
@@ -184,33 +217,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ariadna descubre que su abuelo busca desde hace tiempo los restos de su padre, desaparecido en la Guerra Civil. Decidida a ayudarlo, viaja a Burgos, donde están exhumando una fosa común en la que podría estar enterrado. Durante su estancia allí, conocerá la historia de Antoni Benaiges, un joven maestro de Tarragona que antes de la guerra fue profesor de su abuelo. Mediante un innovador método pedagógico Antoni inspiró a sus alumnos y les hizo una promesa: llevarlos a ver el mar.",
+      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
       "genres": [
         "Drama",
-        "Historia"
+        "Ciencia ficción",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d5bEPTpOf3OEBcPFM5zbWeoayjA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/efZJn6ODs5LCgbgVWnJ399Y83no.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
+      "runtime": "116 min",
       "director": [
-        "Patricia Font"
+        "Denis Villeneuve"
       ],
       "cast": [
-        "Enric Auquer",
-        "Laia Costa",
-        "Luisa Gavasa",
-        "Ramon Agirre",
-        "Milo Taboada",
-        "Alba Guilera",
-        "Eduardo Ferrés",
-        "Alicia G. Reyero"
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
       ],
-      "rank": 6,
-      "id": "tt11887316",
-      "name": "El maestro que prometió el mar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ue59lTGTYzyv6I1lBYlFuHtYy6n.jpg",
-      "rating": 7.7,
-      "year": 2023,
+      "rank": 7,
+      "id": "tt2543164",
+      "name": "La llegada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "rating": 7.636,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6X3lVeDeOcEKiadSHP2XT80ZtI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 8,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.824,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,11 +311,11 @@
         "Юрий Колокольников",
         "Levi Miller"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
-      "rating": 6.414,
+      "rating": 6.4,
       "year": 2024,
       "days": null,
       "trend": {
@@ -255,104 +325,37 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Marte, año 2176. Debido a la superpoblación de la Tierra, el Planeta Rojo se ha convertido en una zona habitada, pero sigue siendo un lugar peligroso. Para colmo, durante una exploración se descubre que una civilización marciana que ha permanecido dormida mucho tiempo, ahora está despierta. En tal circunstancia, un pequeño grupo de policías es enviado a una lejana población minera con la misión de escoltar a un peligroso criminal.",
+      "description": "Con el fin de conquistar a la bella ejecutiva Amber Evans, Johnny, un timador de poca monta que sobrevive en la calle junto con su hermano pequeño, entra a trabajar en su empresa, la Dynasty Club. Pronto se da cuenta de que con su sueldo nunca logrará ganársela y para conseguir más pelas decide usar las tarjetas de crédito de la empresa.",
       "genres": [
         "Acción",
-        "Terror",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/anSbunnEMI0TSmizqUSRACoe18l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zZslelfdvxCPjuc4QF9EGxwspW6.png",
-      "runtime": "89 min",
-      "director": [
-        "John Carpenter"
-      ],
-      "cast": [
-        "Natasha Henstridge",
-        "Ice Cube",
-        "Jason Statham",
-        "Clea DuVall",
-        "Pam Grier",
-        "Joanna Cassidy",
-        "Richard Cetrone",
-        "Rosemary Forsyth"
-      ],
-      "rank": 8,
-      "id": "tt0228333",
-      "name": "Fantasmas de Marte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cYxBSKEpjfFzvZWkNabgBkMCC5i.jpg",
-      "rating": 5.163,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "César es un atractivo y apuesto joven que ha heredado una gran fortuna de sus padres. Vive en una espléndida casa de su propiedad en la que organiza lujosas fiestas. Cuando una noche su amigo Pelayo le presenta a la hermosa Sofía, Nuria, que fue amante de César, se muere de celos y, al día siguiente, yendo en coche con César, intenta suicidarse. Cuando éste se despierta en el hospital, su rostro se encuentra horriblemente desfigurado.",
-      "genres": [
-        "Drama",
+        "Comedia",
+        "Crimen",
+        "Romance",
         "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oQFUfNkSA1TlslJ1LonRh09x2Hw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ttfFI5aV8YYDgZS5pqzuuNPUHl0.png",
-      "runtime": "117 min",
-      "director": [
-        "Alejandro Amenábar"
-      ],
-      "cast": [
-        "Eduardo Noriega",
-        "Penélope Cruz",
-        "Chete Lera",
-        "Fele Martínez",
-        "Najwa Nimri",
-        "Gérard Barray",
-        "Jorge de Juan",
-        "Miguel Palenzuela"
-      ],
-      "rank": 9,
-      "id": "tt0125659",
-      "name": "Abre los ojos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzfbGuRYlE0bB0WdzrCnxFSWwWo.jpg",
-      "rating": 7.461,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6IcUnLvekFlt1fSRNY5YFpnwGiK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yr1BAISfFZ88MgyDY4V61qmivis.png",
+      "runtime": "97 min",
       "director": [
-        "Gus Van Sant"
+        "Peter MacDonald"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Damon Wayans",
+        "Stacey Dash",
+        "Joe Santos",
+        "John Diehl",
+        "Harry Lennix",
+        "Marlon Wayans",
+        "Mark Beltzman",
+        "Quincy Wong"
       ],
       "rank": 10,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.166,
-      "year": 1997,
+      "id": "tt0104897",
+      "name": "Más pelas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLbKMopp46m5i3hukmFkQdCzfDR.jpg",
+      "rating": 5.596,
+      "year": 1992,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }

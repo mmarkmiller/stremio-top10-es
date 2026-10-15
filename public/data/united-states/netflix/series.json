@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.234,
+      "rating": 7.217,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "rating": 8.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -88,7 +88,7 @@
       "id": "tt36470958",
       "name": "La trampa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
-      "rating": 7,
+      "rating": 6.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -98,27 +98,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "War & Politics"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
       "director": [],
       "cast": [
-        "Maura Tierney",
-        "David Ajala",
-        "Tony Goldwyn",
-        "Hugh Dancy",
-        "Odelya Halevi"
+        "Keri Russell",
+        "Rufus Sewell",
+        "David Gyasi",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney"
       ],
       "rank": 4,
-      "id": "tt0098844",
-      "name": "Ley y orden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.286,
-      "year": 1990,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.6,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -149,7 +152,7 @@
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.2,
+      "rating": 7.097,
       "year": 2026,
       "days": null,
       "trend": {
@@ -159,30 +162,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
       "director": [],
       "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "David Gyasi",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney"
+        "Maura Tierney",
+        "David Ajala",
+        "Tony Goldwyn",
+        "Hugh Dancy",
+        "Odelya Halevi"
       ],
       "rank": 6,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.598,
-      "year": 2023,
+      "id": "tt0098844",
+      "name": "Ley y orden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "rating": 7.3,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -191,30 +191,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
       "genres": [
+        "Crimen",
         "Drama",
-        "Crimen"
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
       "director": [],
       "cast": [
-        "Bryan Cranston",
-        "Aaron Paul",
-        "Anna Gunn",
-        "RJ Mitte",
-        "Dean Norris",
-        "Betsy Brandt",
-        "Bob Odenkirk",
-        "Jonathan Banks"
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
       ],
       "rank": 7,
-      "id": "tt0903747",
-      "name": "Breaking Bad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "rating": 8.955,
-      "year": 2008,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.613,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -223,31 +223,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Wayne, un joven rebelde de 16 años, pone rumbo en una pequeña moto hacia Florida para recuperar el Pontiac Trans-Am que robaron a su padre antes de morir. Hace el viaje con su nueva crush Del, una adolescente con quien congenia a la perfección ya que tienen la misma forma de resolver problemas: a base de palizas y bateos limpios.",
+      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
       "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5LTKU79rIPu8ivXJhR6rSyj6t8w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bqBZuf2vb2pkNZre2PzTe0ms36F.png",
+      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
       "director": [],
       "cast": [
-        "Mark McKenna",
-        "Ciara Bravo",
-        "Dean Winters",
-        "Stephen Kearin",
-        "James Earl",
-        "Jamie Champagne",
-        "Jon Champagne",
-        "Francesco Antonio"
+        "Molly Parker",
+        "Omar Metwally",
+        "Amirah Vann",
+        "Jon-Michael Ecker",
+        "Felicity Huffman"
       ],
       "rank": 8,
-      "id": "tt7765404",
-      "name": "Wayne",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z8E1ZKTDhz477wjkT9ttIRmiVOc.jpg",
-      "rating": 8.2,
-      "year": 2019,
+      "id": "tt26748321",
+      "name": "Doc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "rating": 7.4,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -288,26 +283,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+      "description": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "background": "https://image.tmdb.org/t/p/w1280/t9gfV0eM9nWqJ4vMey4CSYFiqmZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
       "director": [],
       "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
+        "Melanie Lynskey",
+        "Tawny Cypress",
+        "Sophie Nélisse",
+        "Jasmin Savoy Brown",
+        "Sophie Thatcher",
+        "Sammi Hanratty",
+        "Warren Kole",
+        "Christina Ricci"
       ],
       "rank": 10,
-      "id": "tt26748321",
-      "name": "Doc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "id": "tt11041332",
+      "name": "Yellowjackets",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
       "rating": 7.4,
-      "year": 2025,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }

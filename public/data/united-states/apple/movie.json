@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610141948",
+  "date": "202610151932",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt28498219",
       "name": "Matchbox: La película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.908,
+      "rating": 7.886,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,44 +68,8 @@
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.924,
+      "rating": 7.923,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 3,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.956,
-      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -137,7 +101,7 @@
         "Glenn Mendelson",
         "Ann Altieri"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
@@ -171,12 +135,84 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.166,
+      "rating": 8.2,
       "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 5,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.956,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
+      "runtime": "107 min",
+      "director": [
+        "Ben Stiller"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert Downey Jr.",
+        "Jack Black",
+        "Jay Baruchel",
+        "Brandon T. Jackson",
+        "Brandon Soo Hoo",
+        "Matthew McConaughey",
+        "Tom Cruise"
+      ],
+      "rank": 6,
+      "id": "tt0942385",
+      "name": "Tropic Thunder, ¡una guerra muy perra!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
+      "rating": 6.731,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,11 +243,11 @@
         "Luke Mably",
         "Stuart McQuarrie"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0289043",
       "name": "28 días después",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.245,
+      "rating": 7.2,
       "year": 2002,
       "days": null,
       "trend": {
@@ -243,7 +279,7 @@
         "Betty Buckley",
         "Darryl Scheelar"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt24950660",
       "name": "Eternity",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
@@ -263,48 +299,12 @@
         "Florencia García Viera"
       ],
       "cast": [],
-      "rank": 8,
+      "rank": 9,
       "id": "tmdb:1455755",
       "name": "Lobos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7y2QqVCWJlmkSeqSQkEtfiV1Gwd.jpg",
       "rating": null,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
-      "runtime": "107 min",
-      "director": [
-        "Ben Stiller"
-      ],
-      "cast": [
-        "Ben Stiller",
-        "Robert Downey Jr.",
-        "Jack Black",
-        "Jay Baruchel",
-        "Brandon T. Jackson",
-        "Brandon Soo Hoo",
-        "Matthew McConaughey",
-        "Tom Cruise"
-      ],
-      "rank": 9,
-      "id": "tt0942385",
-      "name": "Tropic Thunder, ¡una guerra muy perra!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
-      "rating": 6.731,
-      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -337,7 +337,7 @@
       "id": "tt6857376",
       "name": "Palmer",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-      "rating": 8.113,
+      "rating": 8.115,
       "year": 2021,
       "days": null,
       "trend": {
@@ -347,5 +347,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-14T17:09:01.728Z"
+  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
 }
