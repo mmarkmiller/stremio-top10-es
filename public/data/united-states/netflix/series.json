@@ -2,8 +2,40 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "David Gyasi",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney"
+      ],
+      "rank": 1,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
@@ -23,11 +55,11 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.217,
+      "rating": 7.257,
       "year": 2026,
       "days": null,
       "trend": {
@@ -52,12 +84,42 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.1,
+      "rating": 8.039,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
+      "director": [],
+      "cast": [
+        "Maura Tierney",
+        "David Ajala",
+        "James Badge Dale",
+        "Tony Goldwyn",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "rank": 4,
+      "id": "tt0098844",
+      "name": "Ley y orden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "rating": 7.3,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -84,44 +146,12 @@
         "Matthias Brandt",
         "Anna Schudt"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt36470958",
       "name": "La trampa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
-      "rating": 6.5,
+      "rating": 6.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "David Gyasi",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney"
-      ],
-      "rank": 4,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.6,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,101 +178,12 @@
         "Jason Veasey",
         "Eliza Coupe"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
       "rating": 7.097,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png",
-      "director": [],
-      "cast": [
-        "Maura Tierney",
-        "David Ajala",
-        "Tony Goldwyn",
-        "Hugh Dancy",
-        "Odelya Halevi"
-      ],
-      "rank": 6,
-      "id": "tt0098844",
-      "name": "Ley y orden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "rating": 7.3,
-      "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
-      "director": [],
-      "cast": [
-        "Sean Murray",
-        "Wilmer Valderrama",
-        "Katrina Law",
-        "Brian Dietzen",
-        "Diona Reasonover",
-        "Gary Cole",
-        "Michael Weatherly"
-      ],
-      "rank": 7,
-      "id": "tt0364845",
-      "name": "Navy: Investigación criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.613,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
-      "director": [],
-      "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
-      ],
-      "rank": 8,
-      "id": "tt26748321",
-      "name": "Doc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-      "rating": 7.4,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -269,12 +210,44 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.874,
+      "rating": 7.873,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "director": [],
+      "cast": [
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
+      ],
+      "rank": 8,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.6,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -301,7 +274,7 @@
         "Warren Kole",
         "Christina Ricci"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt11041332",
       "name": "Yellowjackets",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
@@ -312,8 +285,39 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
+      "director": [],
+      "cast": [
+        "Ellen Pompeo",
+        "Chandra Wilson",
+        "James Pickens Jr.",
+        "Caterina Scorsone",
+        "Camilla Luddington",
+        "Jason George",
+        "Chris Carmack",
+        "Anthony Hill"
+      ],
+      "rank": 10,
+      "id": "tt0413573",
+      "name": "Anatomía de Grey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "rating": 8.2,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

@@ -2,8 +2,69 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
+      "director": [],
+      "cast": [
+        "Linda Cardellini",
+        "William Catlett",
+        "Gwendolyn Sundstrom",
+        "Cameron Scoggins",
+        "Devin Kessler"
+      ],
+      "rank": 1,
+      "id": "tt23148340",
+      "name": "Crystal Lake",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOO3zuZkryqna5bzHSwNJjjNnpb.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "David Gyasi",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney"
+      ],
+      "rank": 2,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
@@ -24,11 +85,11 @@
         "Diane Morgan",
         "Ben Crompton"
       ],
-      "rank": 1,
+      "rank": 3,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 9.1,
+      "rating": 9.034,
       "year": 2026,
       "days": null,
       "trend": {
@@ -57,11 +118,11 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.441,
+      "rating": 8.418,
       "year": 2026,
       "days": null,
       "trend": {
@@ -88,12 +149,37 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.217,
+      "rating": 7.257,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sonyBptmsZNhHnCXPJZCZBHo85S.png",
+      "director": [],
+      "cast": [
+        "Ethan Hawke"
+      ],
+      "rank": 6,
+      "id": "tt31289994",
+      "name": "Verdades ocultas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+      "rating": 6.743,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,68 +206,12 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.052,
+      "rating": 8,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
-      "director": [],
-      "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
-      ],
-      "rank": 5,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.509,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sonyBptmsZNhHnCXPJZCZBHo85S.png",
-      "director": [],
-      "cast": [
-        "Ethan Hawke"
-      ],
-      "rank": 6,
-      "id": "tt31289994",
-      "name": "Verdades ocultas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
-      "rating": 6.7,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,11 +235,11 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.1,
+      "rating": 8.039,
       "year": 2026,
       "days": null,
       "trend": {
@@ -219,94 +249,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+      "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
       "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/41neXsH222hV2zrsTyw8h7javon.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
+      "director": [],
+      "cast": [
+        "Trey Parker",
+        "Matt Stone",
+        "Mona Marshall",
+        "Jennifer Howell"
+      ],
+      "rank": 9,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "rating": 8.329,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
+      "genres": [
+        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
       "director": [],
       "cast": [
-        "Friederike Becht",
-        "Hans Löw",
-        "Alexander Schubert",
-        "Katja Ponickau",
-        "Naila Schuberth",
-        "Josephine Thiesen",
-        "Matthias Brandt",
-        "Anna Schudt"
-      ],
-      "rank": 8,
-      "id": "tt36470958",
-      "name": "La trampa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 9,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.363,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "David Gyasi",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney"
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
       ],
       "rank": 10,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.6,
-      "year": 2023,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+      "rating": 7.959,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

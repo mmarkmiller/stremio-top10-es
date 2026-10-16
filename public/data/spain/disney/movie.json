@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -33,7 +33,43 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.286,
+      "rating": 8.288,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "runtime": "99 min",
+      "director": [
+        "Kate Dolan"
+      ],
+      "cast": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Sydney Blackburn",
+        "Isabelle Bonfrer"
+      ],
+      "rank": 2,
+      "id": "tt32654916",
+      "name": "Soulm8te",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
+      "rating": 7.474,
       "year": 2026,
       "days": null,
       "trend": {
@@ -65,84 +101,12 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.824,
+      "rating": 6.827,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuWeqrZWgYM21G0SimOzzgM71HG.png",
-      "runtime": "155 min",
-      "director": [
-        "Haruo Sotozaki"
-      ],
-      "cast": [
-        "Natsuki Hanae",
-        "Takahiro Sakurai",
-        "Akira Ishida",
-        "Hiro Shimono",
-        "Yoshimasa Hosoya",
-        "Saori Hayami",
-        "Mamoru Miyano",
-        "Reina Ueda"
-      ],
-      "rank": 3,
-      "id": "tt32820897",
-      "name": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lYnhd124Fi3vVYlh6qmItxpGZXd.jpg",
-      "rating": 8.8,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
-      "genres": [
-        "Aventura",
-        "Familia",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iENpLLnQw6J35cejyGATK6EJRW9.png",
-      "runtime": "143 min",
-      "director": [
-        "Andrew Adamson"
-      ],
-      "cast": [
-        "Georgie Henley",
-        "Skandar Keynes",
-        "William Moseley",
-        "Anna Popplewell",
-        "Tilda Swinton",
-        "Liam Neeson",
-        "James McAvoy",
-        "Jim Broadbent"
-      ],
-      "rank": 4,
-      "id": "tt0363771",
-      "name": "Las crónicas de Narnia: El león, la bruja y el armario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5WNqb7C6EX5r752mKjnfzxGvWui.jpg",
-      "rating": 7.144,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -173,11 +137,11 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.456,
+      "rating": 7.458,
       "year": 2026,
       "days": null,
       "trend": {
@@ -187,34 +151,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "description": "Las investigaciones del climatólogo Jack Hall indican que el calentamiento global podría desencadenar un repentino y catastrófico cambio climático de la Tierra. Hall advierte a los dirigentes políticos de la necesidad de adoptar inmediatamente medidas para evitarlo, pero sus advertencias llegan demasiado tarde: una serie de anómalos fenómenos climáticos empiezan a producirse en distintas partes del globo. El calentamiento global ha puesto el planeta al borde de una nueva era glacial. Mientras Jack advierte a la Casa Blanca del inminente cambio climático, su hijo Sam y sus amigos se encuentran atrapados en Nueva York, a donde han ido para participar en un concurso académico entre institutos.",
       "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
+        "Ciencia ficción",
+        "Suspense",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fXJhA3pjLMDkHPgZ2GVhRDXA5M3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v5e58g6wIGoZRkhlkjlTvj11EHA.png",
+      "runtime": "124 min",
       "director": [
-        "Gil Junger"
+        "Roland Emmerich"
       ],
       "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Dennis Quaid",
+        "Jake Gyllenhaal",
+        "Ian Holm",
+        "Emmy Rossum",
+        "Sela Ward",
+        "Dash Mihok",
+        "Kenneth Welsh",
+        "Jay O. Sanders"
+      ],
+      "rank": 5,
+      "id": "tt0319262",
+      "name": "El día de mañana",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4IUWfr4AokGlVSWNRAat0DfbgZ.jpg",
+      "rating": 6.568,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+      "genres": [
+        "Ciencia ficción",
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gsVC7HMf4VR2XFOyqjTSklY2Tms.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/63xFGsznEPcmWY4aVVlaqoCTBtu.png",
+      "runtime": "141 min",
+      "director": [
+        "Yorgos Lánthimos"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Mark Ruffalo",
+        "Willem Dafoe",
+        "Ramy Youssef",
+        "Christopher Abbott",
+        "Suzy Bemba",
+        "Jerrod Carmichael",
+        "Kathryn Hunter"
       ],
       "rank": 6,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
-      "year": 1999,
+      "id": "tt14230458",
+      "name": "Pobres criaturas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9OYMVcP2zyw0zpWOTuxlDo2MsMw.jpg",
+      "rating": 7.625,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
+      "runtime": "115 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell",
+        "Abbie Cornish",
+        "Lucas Hedges",
+        "Željko Ivanek",
+        "Caleb Landry Jones",
+        "Clarke Peters"
+      ],
+      "rank": 7,
+      "id": "tt5027774",
+      "name": "Tres anuncios en las afueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
+      "rating": 8.051,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +280,7 @@
         "Max Pirkis",
         "Max Benitz"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0311113",
       "name": "Master and commander: Al otro lado del mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
@@ -259,34 +294,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un explorador espacial queda atrapado en Marte, luego de ser abandonado por los miembros de su tripulación, quienes pensaron que había muerto a consecuencia de una tormenta. Casi sin recursos y con solo su ingenio, intentará sobrevivir mientras la NASA, por un lado, y los miembros de su tripulación, por su propia cuenta, intentan rescatarlo.",
+      "description": "Ambientada en el Tokio actual, sigue a un actor estadounidense que lucha por encontrar un propósito en la vida hasta que consigue un trabajo inusual: trabajar para una agencia japonesa de \"familias de alquiler\", interpretando papeles de suplente para desconocidos. A medida que se sumerge en el mundo de sus clientes, comienza a establecer vínculos genuinos que difuminan las líneas entre la actuación y la realidad. Al enfrentarse a las complejidades morales de su trabajo, redescubre el propósito, la pertenencia y la tranquila belleza de las relaciones humanas.",
       "genres": [
-        "Ciencia ficción",
-        "Drama",
-        "Aventura"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Kma7LQt59u3x5rKkGTAQP26Y0z.png",
-      "runtime": "142 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r2cRzSTZBv76ZcH2h3gqReVqtgt.png",
+      "runtime": "110 min",
       "director": [
-        "Ridley Scott"
+        "Hikari"
       ],
       "cast": [
-        "Matt Damon",
-        "Jessica Chastain",
-        "Kristen Wiig",
-        "Jeff Daniels",
-        "Michael Peña",
-        "Sean Bean",
-        "Kate Mara",
-        "Sebastian Stan"
+        "Brendan Fraser",
+        "Takehiro Hira",
+        "Mari Yamamoto",
+        "Shannon Mahina Gorman",
+        "柄本明",
+        "Paolo Andrea Di Pietro",
+        "尾関伸嗣",
+        "キンタカオ"
       ],
-      "rank": 8,
-      "id": "tt3659388",
-      "name": "Marte (The Martian)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBRK1izFxIH3Nh6vax4ssOHSHVd.jpg",
-      "rating": 7.709,
-      "year": 2015,
+      "rank": 9,
+      "id": "tt14142060",
+      "name": "Rental Family (Familia de alquiler)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tqNMl8WfOFSfxFgznVOH5Ekm84P.jpg",
+      "rating": 7.684,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -295,33 +329,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ángela, licenciada en ciencias de la información, prepara su tesis sobre la violencia audiovisual. Su director, Figueroa, se compromete a buscarle películas, mientras que un amigo, Chema, la invita a su casa a una sesión de cine gore y pornográfico. Figueroa descubre en la videoteca de la Facultad unas galerías con cientos de videocintas. Poco después muere en extrañas circunstancias. Ángela descubre el cadáver y se da cuenta de que ha sufrido un infarto mientras veía una cinta de vídeo. Ángela se hace con la cinta y hace un terrible descubrimiento: se trata de una snuff movie, una película ilegal en la que se filma al asesinato real de gente inocente. La joven comienza a sospechar que en la Facultad existe una red de tráfico de este tipo de películas. Pero, ¿quién es el responsable de ella?",
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Comedia",
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vqSnB2T6qgU3in8scPkAYqV7kBR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bM8wGx5wbVK2czYKeJG9dKks84w.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
       "director": [
-        "Alejandro Amenábar"
+        "Gil Junger"
       ],
       "cast": [
-        "Ana Torrent",
-        "Fele Martínez",
-        "Eduardo Noriega",
-        "Xabier Elorriaga",
-        "Miguel Picazo",
-        "Nieves Herranz",
-        "Rosa Campillo",
-        "Paco Hernández"
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
       ],
-      "rank": 9,
-      "id": "tt0117883",
-      "name": "Tesis",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lqIQE6VfShKU07cUX2J7OE6Y9aX.jpg",
-      "rating": 7.488,
-      "year": 1996,
+      "rank": 10,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.6,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -330,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

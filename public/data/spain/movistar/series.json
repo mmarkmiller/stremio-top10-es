@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,8 +24,42 @@
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
-      "rating": 10,
+      "rating": 9,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Taylor, un agorafóbico y solitario creador de pasatiempos bajo el seudónimo de Ludwig, ve interrumpida su rutina cuando su cuñada Lucy le pide urgentemente que viaje a Cambridge. Su hermano gemelo, James, un inspector de policía, ha desaparecido misteriosamente. Lucy necesita que John se haga pasar por James para investigar en la comisaría y encontrar pistas sobre su paradero. A pesar de su miedo y reticencia, John acepta el desafío, enfrentándose a la posibilidad de ser descubierto mientras sigue las pistas dejadas por su hermano. Lo que iba a ser una suplantación ocasional se prolonga y John tiene que resolver los casos policiales que se van presentando.",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cJRdCeaRPektyE8rTX6uwMakHPu.png",
+      "director": [],
+      "cast": [
+        "David Mitchell",
+        "Anna Maxwell Martin",
+        "Dipo Ola",
+        "Ben Ashenden",
+        "Rumi Sutton",
+        "Dorothy Atkinson",
+        "Dylan Hughes",
+        "Ralph Ineson"
+      ],
+      "rank": 2,
+      "id": "tt27846061",
+      "name": "Ludwig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
+      "rating": 7.9,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -48,39 +82,12 @@
         "Dominic Mafham",
         "Steven Miller"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11846996",
       "name": "Vigil: Conspiración nuclear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7v2D9l9QmU02pXP7R2udu1uYN2y.jpg",
       "rating": 7.2,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Bárbara, Maca y Elena fueron juntas al colegio y 20 años después siguen siendo amigas, más o menos. Bárbara es una bomba de relojería: vive frustrada por su trabajo y está enganchada a las benzodiacepinas. Maca, con la que comparte piso, intenta salir adelante como actriz, aunque es camarera. Y Elena está embarazada tras casarse con un señor de 60 años que dirige hoteles. La crisis personal de Bárbara hará que todo explote.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3ZcmydUfxugUvJzXq4QmPtghPmB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lCQC7It7L1pWl0115hUb5DVztXh.png",
-      "director": [],
-      "cast": [
-        "Anna Castillo",
-        "Macarena García",
-        "Laura Weissmahr",
-        "Sofía Otero"
-      ],
-      "rank": 3,
-      "id": "tt37050740",
-      "name": "Se tiene que morir mucha gente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMo4RmoVJN1dW9KUPPVuCMrP8Tp.jpg",
-      "rating": 7.136,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,71 +127,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mickey Fox investiga actividades criminales y patrulla las calles de la pequeña ciudad de Edgewater mientras lidia con su padre ex-convicto y un misterioso incidente que involucra a su caprichosa hija.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXm6nUvztPNFjXTbEZNOe3x096Y.png",
-      "director": [],
-      "cast": [
-        "Morena Baccarin",
-        "Matt Lauria",
-        "W. Earl Brown",
-        "Christopher Gorham",
-        "Michele Weaver",
-        "Amanda Arcuri",
-        "Ian Quinlan"
-      ],
-      "rank": 5,
-      "id": "tt32268630",
-      "name": "Sheriff Country",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-      "rating": 7.4,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Taylor, un agorafóbico y solitario creador de pasatiempos bajo el seudónimo de Ludwig, ve interrumpida su rutina cuando su cuñada Lucy le pide urgentemente que viaje a Cambridge. Su hermano gemelo, James, un inspector de policía, ha desaparecido misteriosamente. Lucy necesita que John se haga pasar por James para investigar en la comisaría y encontrar pistas sobre su paradero. A pesar de su miedo y reticencia, John acepta el desafío, enfrentándose a la posibilidad de ser descubierto mientras sigue las pistas dejadas por su hermano. Lo que iba a ser una suplantación ocasional se prolonga y John tiene que resolver los casos policiales que se van presentando.",
-      "genres": [
-        "Misterio",
-        "Crimen",
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cJRdCeaRPektyE8rTX6uwMakHPu.png",
-      "director": [],
-      "cast": [
-        "David Mitchell",
-        "Anna Maxwell Martin",
-        "Dipo Ola",
-        "Ben Ashenden",
-        "Rumi Sutton",
-        "Dorothy Atkinson",
-        "Dylan Hughes",
-        "Ralph Ineson"
-      ],
-      "rank": 6,
-      "id": "tt27846061",
-      "name": "Ludwig",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
-      "rating": 7.9,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
       "genres": [
         "Comedia",
@@ -199,7 +141,7 @@
         "Mona Marshall",
         "Jennifer Howell"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
@@ -213,29 +155,24 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras la muerte del dueño de la funeraria Torregrosa, su ambicioso pupilo se prepara para hacerse cargo del negocio pero acaba a las órdenes de una viuda sin experiencia.",
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
       "genres": [
-        "Comedia"
+        "Action & Adventure",
+        "Familia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/w0WT4opEOeldCegD2eAYSspVieg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
       "director": [],
       "cast": [
-        "Carlos Areces",
-        "Gerald B. Fillmore",
-        "Aitziber Garmendia",
-        "Ascen López",
-        "Diego Martín",
-        "Salva Reina",
-        "Roque Ruiz",
-        "Amaia Salamanca"
+        "Elizabeth Tabish"
       ],
-      "rank": 8,
-      "id": "tt29614148",
-      "name": "Muertos S.L.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
-      "rating": 7.3,
-      "year": 2024,
+      "rank": 6,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.834,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -261,7 +198,7 @@
         "Brandon Larracuente",
         "Da'Vinchi"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt2261391",
       "name": "Chicago Fire",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
@@ -275,24 +212,92 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "description": "Balaban Aga es un soldado turco que resulta gravemente herido durante el segundo asedio de Viena en 1683. Tras ser traicionado por quien él considera su hermano, Marco, es condenado a muerte. Pero logra escapar y es curado por Gloria, una joven del pintoresco pueblo italiano de Moena, un idílico lugar en los Alpes que está a punto de ser sometido por su nuevo señor, el mismísimo Marco. A medida que se recupera, Balaban, al que apodan 'El Turco', se convierte en protector del pueblo. Con la ayuda de un pequeño grupo de fieles amigos jenízaros, liderará la resistencia y deberá enfrentarse a su peor enemigo para salvar a los que más ama.",
       "genres": [
         "Action & Adventure",
-        "Familia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mIYq8g2yqiK0RxoNmoLx0VopHgX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ymCuEklWZCcU0QcqKZPjuAKQpNh.png",
+      "director": [
+        "Uluç Bayraktar"
+      ],
+      "cast": [
+        "Can Yaman",
+        "Greta Ferro",
+        "Will Kemp",
+        "Magnus Samuelsson",
+        "Slavko Sobin",
+        "Haluk Piyes",
+        "Madalena Aragão",
+        "David Streames"
+      ],
+      "rank": 8,
+      "id": "tt19079130",
+      "name": "El Turco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oJ7DyCIxyVQ0GlCmk7oAGSQgnr9.jpg",
+      "rating": 7.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
       "director": [],
       "cast": [
-        "Elizabeth Tabish"
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
+      ],
+      "rank": 9,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.5,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bárbara, Maca y Elena fueron juntas al colegio y 20 años después siguen siendo amigas, más o menos. Bárbara es una bomba de relojería: vive frustrada por su trabajo y está enganchada a las benzodiacepinas. Maca, con la que comparte piso, intenta salir adelante como actriz, aunque es camarera. Y Elena está embarazada tras casarse con un señor de 60 años que dirige hoteles. La crisis personal de Bárbara hará que todo explote.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3ZcmydUfxugUvJzXq4QmPtghPmB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lCQC7It7L1pWl0115hUb5DVztXh.png",
+      "director": [],
+      "cast": [
+        "Anna Castillo",
+        "Macarena García",
+        "Laura Weissmahr",
+        "Sofía Otero"
       ],
       "rank": 10,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.833,
-      "year": 2019,
+      "id": "tt37050740",
+      "name": "Se tiene que morir mucha gente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMo4RmoVJN1dW9KUPPVuCMrP8Tp.jpg",
+      "rating": 7.136,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -301,5 +306,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

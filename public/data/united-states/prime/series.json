@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.441,
+      "rating": 8.418,
       "year": 2026,
       "days": null,
       "trend": {
@@ -60,7 +60,7 @@
       "id": "tt10691770",
       "name": "Helluva Boss",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.509,
+      "rating": 7.53,
       "year": 2020,
       "days": null,
       "trend": {
@@ -125,8 +125,40 @@
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.1,
+      "rating": 8.08,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/htcPjCXMPkRsepkD4Lofap7Y5W6.png",
+      "director": [],
+      "cast": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "Madison Iseman",
+        "P.J. Byrne",
+        "Dan Fogler",
+        "Wade Briggs",
+        "Robyn Cara",
+        "John Slattery"
+      ],
+      "rank": 5,
+      "id": "tt6151526",
+      "name": "Legítima defensa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+      "rating": 7.7,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -151,7 +183,7 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
@@ -181,11 +213,11 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.133,
+      "rating": 8.132,
       "year": 2022,
       "days": null,
       "trend": {
@@ -195,58 +227,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
       "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/htcPjCXMPkRsepkD4Lofap7Y5W6.png",
-      "director": [],
-      "cast": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "Madison Iseman",
-        "P.J. Byrne",
-        "Dan Fogler",
-        "Wade Briggs",
-        "Robyn Cara",
-        "John Slattery"
-      ],
-      "rank": 7,
-      "id": "tt6151526",
-      "name": "Legítima defensa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.7,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La repentina muerte de su marido pone patas arriba la vida de Leigh Shaw (Elizabeth Olsen). A medida que comienza a investigar sobre él, descubre que hay muchos aspectos aspectos que desconocía... y que no eran, para nada, como se había imaginado mientras aún vivía.",
-      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sM3ebgixucDwuFDd0edxyhiPy7V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ozCtci2PcSZ1wwjbh3A7qoaZI2n.png",
+      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
       "director": [],
       "cast": [
-        "Elizabeth Olsen",
-        "Janet McTeer",
-        "Jovan Adepo",
-        "Mamoudou Athie",
-        "Kelly Marie Tran"
+        "Jason Beghe",
+        "Marina Squerciati",
+        "Patrick John Flueger",
+        "Benjamin Levy Aguilar",
+        "Arienne Mandi",
+        "Amy Morton"
       ],
       "rank": 8,
-      "id": "tt8000638",
-      "name": "Sorry for Your Loss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eUtM5shJF0CZn3MhEMmdSxyHJ0W.jpg",
-      "rating": 6.9,
-      "year": 2018,
+      "id": "tt2805096",
+      "name": "Chicago P.D.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "rating": 8.422,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,47 +257,57 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [],
-      "director": [],
-      "cast": [],
-      "rank": 9,
-      "id": "tmdb:304843",
-      "name": "Blue Paw Print",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g5DXDnZeDexPsieU5jEMGruUwLO.jpg",
-      "rating": null,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "description": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vNnLAKmoczRlNarxyGrrw0KSOeX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mhbXXIcwfpJglV7ReMmAihfEotU.png",
       "director": [],
       "cast": [
-        "Lauren Graham",
-        "Alexis Bledel",
-        "Scott Patterson",
-        "Melissa McCarthy",
-        "Keiko Agena",
-        "Yanic Truesdale",
-        "Liza Weil",
-        "Sean Gunn"
+        "Stephen Amell",
+        "David Ramsey",
+        "Rick Gonzalez",
+        "Juliana Harkavy",
+        "Katherine McNamara",
+        "Ben Lewis",
+        "Joseph David-Jones",
+        "Katie Cassidy"
+      ],
+      "rank": 9,
+      "id": "tt2193021",
+      "name": "Arrow",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+      "rating": 6.835,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
       ],
       "rank": 10,
-      "id": "tt0238784",
-      "name": "Las chicas Gilmore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "rating": 7.875,
-      "year": 2000,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.834,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -304,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

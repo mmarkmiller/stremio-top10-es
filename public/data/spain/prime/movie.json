@@ -2,43 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Gabriel Basso",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 1,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
-      "rating": 6.146,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Basada en la vida de los inseparables hermanos Von Erich, que hicieron historia en el competitivo mundo de la lucha libre profesional a principios de la década de los 80. A través de la tragedia y el triunfo, bajo la sombra de su dominante padre y entrenador, los hermanos buscan la inmortalidad en el escenario más importante del deporte.",
@@ -62,7 +27,7 @@
         "Lily James",
         "Grady Wilson"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt21064584",
       "name": "El clan de hierro",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
@@ -76,33 +41,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Suspense",
+        "Romance",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Jan Komasa"
+        "Rachel Morrison"
       ],
       "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
+        "Margaret Qualley",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Gabriel Basso",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
-      "rank": 3,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.944,
-      "year": 2025,
+      "rank": 2,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
+      "rating": 6.524,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -133,11 +98,45 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.255,
+      "rating": 7.26,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/RmZPgvkmAZVTyPsl44fiOUfcmA.png",
+      "runtime": "110 min",
+      "director": [
+        "David Marqués"
+      ],
+      "cast": [
+        "Quim Gutiérrez",
+        "Antonio Resines",
+        "Megan Montaner",
+        "Marta González de Vega",
+        "Daniel Fez",
+        "Giovani Florido",
+        "Raquel Cortés",
+        "Juan Fernández"
+      ],
+      "rank": 4,
+      "id": "tt41801352",
+      "name": "Haciendo amigos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
+      "rating": 6.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -183,6 +182,112 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
+      "director": [
+        "Jan Komasa"
+      ],
+      "cast": [
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
+      ],
+      "rank": 6,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
+      "rating": 6.944,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
+      "runtime": "109 min",
+      "director": [
+        "Thomas Vincent"
+      ],
+      "cast": [
+        "Stanley Tucci",
+        "Simona Tabasco",
+        "Victor Belmondo",
+        "Eliott Margueron",
+        "Bruno Bilotta",
+        "Barbara Lo Gaglio",
+        "Etienne Guillou-Kervern",
+        "Srbo Markovic"
+      ],
+      "rank": 7,
+      "id": "tt38672588",
+      "name": "Masterplan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El periodista deportivo Raoul Duke y su abogado el doctor Gonzo van a Las Vegas para hacer un reportaje sobre una carrera de motos. Su descapotable rojo está equipado con todo tipo de fármacos estimulantes y un arsenal de hierbas dopantes. Esto les permitirá hacer un alucinado viaje, físico y mental, por la decadente América de los setenta.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5onx5RLp6bDu0AhbA4nmbwPzbPW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yE0DkgD2C61T8YPkxCeDrIRXSyC.png",
+      "runtime": "118 min",
+      "director": [
+        "Terry Gilliam"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Benicio del Toro",
+        "Tobey Maguire",
+        "Michael Lee Gogin",
+        "Larry Cedar",
+        "Brian Le Baron",
+        "Katherine Helmond",
+        "Michael Warwick"
+      ],
+      "rank": 8,
+      "id": "tt0120669",
+      "name": "Miedo y asco en Las Vegas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yYoH7nCw1UXdpqZDXPoL8IsUK2y.jpg",
+      "rating": 7.199,
+      "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un hombre (McConaughey) se presenta en la oficina de Wesley Doyle (Powers Boothe), el agente del FBI encargado de la búsqueda del famoso asesino de Texas conocido como \"La Mano de Dios\", y asegura que conoce la identidad del escurridizo asesino en serie: se trata de su hermano Adam, quien, después de cometer aquellos crímenes, se suicidó. Al mismo tiempo, intenta explicarle a Doyle las razones que impulsaron a su hermano a matar. (FILMAFFINITY)",
       "genres": [
         "Drama",
@@ -205,7 +310,7 @@
         "Missy Crider",
         "Luke Askew"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt0264616",
       "name": "Escalofrío",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bVe4Y0lrGjW6VqZDW44f3c80S0u.jpg",
@@ -219,141 +324,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato, tortura, violación y mutilación son solo el comienzo. Ya pasó la era de la civilidad y el orden. Solo queda 'The Sadness'.",
+      "description": "Un científico descubre en Skull Island un ejemplar muy extraño de mono rata al que acompaña una terrible maldición, según los nativos. El ejemplar es trasladado a Nueva Zelanda para su estudio. Por otra parte, Lionel es un joven que vive con su insoportable madre, que no aprueba la relación que acaba de comenzar con Paquita, la hija del tendero. Cuando los dos enamorados realizan una visita al zoológico, ella les vigila en secreto, y será mordida por el animal encontrado en la isla. Poco a poco, la madre de Lionel se va convirtiendo en una especie de zombie, sedienta de carne, y que convierte en zombie a todo el que ataca.",
       "genres": [
         "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sNHtqdtGmfkktvXevzxqcbldr7N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uumtWoY25K7V6fSIRb8Zjx6zeKh.png",
-      "runtime": "100 min",
-      "director": [
-        "Rob Jabbaz"
-      ],
-      "cast": [
-        "朱軒洋",
-        "雷嘉汭",
-        "王自強",
-        "陳映如",
-        "藍葦華",
-        "邱彥翔",
-        "黃略耕",
-        "蔡昌憲"
-      ],
-      "rank": 7,
-      "id": "tt13872248",
-      "name": "The Sadness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qjzXjEPkpGxM6rxBlpsgmCRt56n.jpg",
-      "rating": 6.851,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Precuela de \"Cube\". Rains se despierta en un laberinto de habitaciones perfectamente cúbicas. Lleva un extraño uniforme gris y un código de barras tatuado en su mano. No recuerda nada, ni su nombre. Pronto encontrará otros prisioneros del laberinto que están en su misma situación. A medida que se van desplazando por los cubos, irán muriendo uno a uno en las trampas que irán encontrando. Rains tiene un admirador secreto. Se trata de Wynn y forma parte del grupo de observadores cuyo trabajo es controlar al grupo de prisioneros. Se siente atraido por ella e intentará hacer alguna cosa para ayudarla. En el universo del cubo, nadie está a salvo. Los observadores son observados y los prisioneros huyen en busca de una salida que no saben donde les llevará.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8GDEN5jjFuNzl84YssrehZHs6Mq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zH0txviSGsCzX2dglsi4W2ggGi3.png",
-      "runtime": "97 min",
-      "director": [
-        "Ernie Barbarash"
-      ],
-      "cast": [
-        "Zachary Bennett",
-        "David Huband",
-        "Stephanie Moore",
-        "Martin Roach",
-        "Terri Hawkes",
-        "Richard McMillan",
-        "Mike 'Nug' Nahrgang",
-        "Tony Munch"
-      ],
-      "rank": 8,
-      "id": "tt0377713",
-      "name": "Cube Zero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3t7ofvNlNhRkbAspiUe4ZdNcGA.jpg",
-      "rating": 5.653,
-      "year": 2004,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
-      "runtime": "134 min",
+      "background": "https://image.tmdb.org/t/p/w1280/g7Y2lG5r9gD7CFijd0P9ZynF3C7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wcbfbBzC78o54W5kcwXHCKNy7B.png",
+      "runtime": "97 min",
       "director": [
-        "Gore Verbinski"
+        "Peter Jackson"
       ],
       "cast": [
-        "Sam Rockwell",
-        "Juno Temple",
-        "Haley Lu Richardson",
-        "Michael Peña",
-        "Zazie Beetz",
-        "Asim Chaudhry",
-        "Tom Taylor",
-        "Georgia Goodman"
-      ],
-      "rank": 9,
-      "id": "tt1341338",
-      "name": "Buena suerte, pásalo bien, no mueras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
+        "Timothy Balme",
+        "Diana Peñalver",
+        "Elizabeth Moody",
+        "Ian Watkin",
+        "Brenda Kendall",
+        "Stuart Devenie",
+        "Jed Brophy",
+        "Elizabeth Brimilcombe"
       ],
       "rank": 10,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.7,
-      "year": 2020,
+      "id": "tt0103873",
+      "name": "Braindead: tu madre se ha comido a mi perro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wQzk8FqofDXlQbAUoxQHN7xifi8.jpg",
+      "rating": 7.394,
+      "year": 1992,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

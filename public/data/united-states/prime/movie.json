@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,12 +40,48 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
+      "runtime": "115 min",
+      "director": [
+        "Sidney J. Furie"
+      ],
+      "cast": [
+        "Barbara Hershey",
+        "Ron Silver",
+        "David Labiosa",
+        "George Coe",
+        "Margaret Blye",
+        "Jacqueline Brookes",
+        "Richard Brestoff",
+        "Michael Alldredge"
+      ],
+      "rank": 2,
+      "id": "tt0082334",
+      "name": "El Ente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
+      "rating": 6.9,
+      "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
         "Romance",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
       "runtime": "109 min",
       "director": [
@@ -61,11 +97,11 @@
         "Corey Johnson",
         "Michael Shelford"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt34384900",
       "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
-      "rating": 6.146,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
+      "rating": 6.524,
       "year": 2026,
       "days": null,
       "trend": {
@@ -75,33 +111,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "description": "Un delincuente de 19 años, Tommy, es secuestrado y obligado a un proceso de rehabilitación por una pareja disfuncional, Chris y Kathryn, que intentan convertirlo en un «buen chico». Tommy debe encontrar la forma de escapar.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Suspense",
+        "Drama",
+        "Misterio",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hJkcr6Gm0d1HZ0mI9C2PLJRREyf.png",
+      "runtime": "110 min",
       "director": [
-        "Brian De Palma"
+        "Jan Komasa"
       ],
       "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
+        "Anson Boon",
+        "Stephen Graham",
+        "Andrea Riseborough",
+        "Kit Rakusen",
+        "Monika Frajczyk",
+        "Savannah Steyn",
+        "Mila Jankowska",
+        "Callum Booth-Ford"
       ],
-      "rank": 3,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.342,
-      "year": 1976,
+      "rank": 4,
+      "id": "tt34381258",
+      "name": "Un buen chico",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gVlWxg034R84VBgtDvlzONyt96J.jpg",
+      "rating": 7.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,7 +170,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -146,102 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [
-        "Romance",
-        "Drama",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/axa5Xj124VTDoeOzOsQAlSEkdEP.jpg",
-      "runtime": "120 min",
-      "director": [
-        "James L. Edwards"
-      ],
-      "cast": [
-        "Shianne Daye",
-        "James L. Edwards",
-        "Drew Fortier",
-        "Rick Jermain",
-        "Kaylee Williams",
-        "Sasha Graham",
-        "Tim Novotny",
-        "Scooter McCrae"
-      ],
-      "rank": 5,
-      "id": "tt7453138",
-      "name": "Her Name Was Christa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/87PYkUm7Oi85BuyzCQG7iv3t0f7.jpg",
-      "rating": 5.2,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hace tiempo que un asesinato dejó huérfanos a dos niños. Las autoridades culparon al hermano, pero la hermana creció creyendo que el verdadero culpable había sido un antiguo espejo maldito. Ahora, completamente rehabilitado y con veinte años cumplidos, el hermano está listo para empezar de nuevo, pero la hermana está decidida a demostrar que fue el espejo lo que destrozó a su familia.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jSoqcWTufaYXmXCUQDb36eGQXFw.png",
-      "runtime": "105 min",
-      "director": [
-        "Mike Flanagan"
-      ],
-      "cast": [
-        "Karen Gillan",
-        "Brenton Thwaites",
-        "Katee Sackhoff",
-        "Rory Cochrane",
-        "Annalise Basso",
-        "Garrett Ryan",
-        "James Lafferty",
-        "Miguel Sandoval"
-      ],
-      "rank": 6,
-      "id": "tt2388715",
-      "name": "Oculus: el espejo del mal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg",
-      "rating": 6.497,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
       "genres": [
         "Terror",
-        "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
-      "runtime": "115 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
       "director": [
-        "Sidney J. Furie"
+        "Brian De Palma"
       ],
       "cast": [
-        "Barbara Hershey",
-        "Ron Silver",
-        "David Labiosa",
-        "George Coe",
-        "Margaret Blye",
-        "Jacqueline Brookes",
-        "Richard Brestoff",
-        "Michael Alldredge"
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
       ],
-      "rank": 7,
-      "id": "tt0082334",
-      "name": "El Ente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
-      "rating": 6.9,
-      "year": 1982,
+      "rank": 6,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.342,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -250,66 +219,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "description": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
       "runtime": "109 min",
       "director": [
-        "John Carpenter"
+        "Thomas Vincent"
       ],
       "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
+        "Stanley Tucci",
+        "Simona Tabasco",
+        "Victor Belmondo",
+        "Eliott Margueron",
+        "Bruno Bilotta",
+        "Barbara Lo Gaglio",
+        "Etienne Guillou-Kervern",
+        "Srbo Markovic"
       ],
-      "rank": 8,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.1,
-      "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una boda celebrada en Tailandia, las mejores amigas Emma y Lani se apuntan a una excursión para dar de comer a los tiburones, que acaba siendo mortal cuando un agresivo tiburón tigre deja su barco inutilizado. Abandonadas a su suerte en una zona de cría de una bahía remota, el pánico se convierte en violencia a medida que los instintos de supervivencia toman el control. Sin posibilidad de rescate y con el tiempo agotándose, la salvación está a la vista, pero la bahía que las separa pertenece a los tiburones.",
-      "genres": [
-        "Suspense",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6MvfxIfOiUKlfx6w2ZsW0G25sHH.png",
-      "runtime": "87 min",
-      "director": [
-        "Phil Volken"
-      ],
-      "cast": [
-        "Francesca Eastwood",
-        "Dani Oliveros",
-        "Alexander Wraith",
-        "Ta'imua",
-        "Calan Scherer",
-        "Destiny Benner"
-      ],
-      "rank": 9,
-      "id": "tt30217600",
-      "name": "The Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-      "rating": 5.7,
+      "rank": 7,
+      "id": "tt38672588",
+      "name": "Masterplan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -319,33 +254,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "description": "Shadowlaw, sindicato del crimen organizado que trafica con drogas y armas por todo el mundo, se está consolidando como una amenaza mundial para todos los gobiernos democráticos de la tierra, alcanzando unos niveles de terrorismo internacional cada vez más preocupantes para la estabilidad mundial. Una investigación de la Interpol, liderada por Chun-Li y Guile, tiende como objetivo desvelar la base paramilitar desde donde se organizan los atentados terroristas de Shadowlaw, para posteriormente eliminarla bajo un ataque sorpresa. Para llevar a cabo la misión cuenta con Ryu, uno de los mejores luchadores de artes marciales del mundo. Por desgracia, su mejor amigo, Ken, ha sido capturado por Shadowlaw y convertido en un poderoso y fiel servidor... Adaptación libre del videojuego \"Street Fighter II\".",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Animación",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/46HeRbztMTv4yfGfFzch0vciYZ7.png",
+      "runtime": "98 min",
       "director": [
-        "Clive Barker"
+        "杉井ギサブロー"
       ],
       "cast": [
-        "Andrew Robinson",
-        "Clare Higgins",
-        "Ashley Laurence",
-        "Oliver Smith",
-        "Sean Chapman",
-        "Robert Hines",
-        "Doug Bradley",
-        "Nicholas Vince"
+        "清水宏次朗",
+        "羽賀研二",
+        "藤谷美紀",
+        "Masane Tsukayama",
+        "日下武史",
+        "Kaneto Shiozawa",
+        "笹岡繁蔵",
+        "Jouji Nakata"
+      ],
+      "rank": 8,
+      "id": "tt0114563",
+      "name": "Street Fighter II: La película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
+      "rating": 7.1,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 9,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.264,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La exhibición de un diamante de incalculable valor en el Museo de Brooklyn despierta la codicia de John Archibald Dortmunder, un ladrón que acaba de salir de la cárcel. Con la ayuda de su cuñado y de Allan, un viejo colega, da el golpe, pero con tan mala suerte que Allan es atrapado y se traga la joya.",
+      "genres": [
+        "Crimen",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wMnsxRVGNluiOL89O4B5oDWU5I7.png",
+      "runtime": "105 min",
+      "director": [
+        "Peter Yates"
+      ],
+      "cast": [
+        "Robert Redford",
+        "George Segal",
+        "Ron Leibman",
+        "Paul Sand",
+        "Moses Gunn",
+        "William Redfield",
+        "Topo Swope",
+        "Charlotte Rae"
       ],
       "rank": 10,
-      "id": "tt0093177",
-      "name": "Hellraiser",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
-      "rating": 6.889,
-      "year": 1987,
+      "id": "tt0068718",
+      "name": "Un diamante al rojo vivo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sU0I0m3gC0C5Mv0Wuk1TdegFuGb.jpg",
+      "rating": 6.5,
+      "year": 1972,
       "days": null,
       "trend": {
         "dir": "same",
@@ -354,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -67,7 +67,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.005,
+      "rating": 7.006,
       "year": 2026,
       "days": null,
       "trend": {
@@ -103,8 +103,42 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.897,
+      "rating": 6.899,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
+      ],
+      "rank": 4,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.402,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,11 +169,11 @@
         "Nissan Sakira",
         "Gil Cohen"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.631,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,33 +183,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "123 min",
       "director": [
-        "Zach Cregger"
+        "Wim Wenders"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
       ],
-      "rank": 5,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.263,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.8,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,11 +239,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.824,
+      "rating": 6.827,
       "year": 1998,
       "days": null,
       "trend": {
@@ -220,70 +253,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Aventura"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1sh2S5J7bTPu6LuOgS9gamkGs2J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhtoeOdgCKXPcHLtKQF7OREQOJu.png",
-      "runtime": "148 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "George Miller"
+        "Zach Cregger"
       ],
       "cast": [
-        "Anya Taylor-Joy",
-        "Chris Hemsworth",
-        "Tom Burke",
-        "Alyla Browne",
-        "George Shevtsov",
-        "Lachy Hulme",
-        "John Howard",
-        "Angus Sampson"
-      ],
-      "rank": 7,
-      "id": "tt12037194",
-      "name": "Furiosa: De la saga Mad Max",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
-      "rating": 7.44,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
-      "runtime": "108 min",
-      "director": [
-        "Craig Gillespie"
-      ],
-      "cast": [
-        "Milly Alcock",
-        "Eve Ridley",
-        "Matthias Schoenaerts",
-        "Jason Momoa",
-        "David Krumholtz",
-        "Emily Beecham",
-        "David Corenswet",
-        "Kadiff Kirwan"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 8,
-      "id": "tt8814476",
-      "name": "Supergirl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
-      "rating": 6.7,
-      "year": 2026,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.264,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -292,33 +288,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+      "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
       "genres": [
         "Drama",
         "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/liVDJBzSplrboMCykKydhaaR215.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q5KC8p96coi6ng3kZRlStek4Js2.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png",
+      "runtime": "106 min",
       "director": [
-        "Jorge Alonso"
+        "Celine Song"
       ],
       "cast": [
-        "Margarida Corceiro",
-        "Maxi Iglesias",
-        "Natalia Rodríguez",
-        "Sebastián Zurita",
-        "Adriana Hormigos",
-        "Javier Tolosa",
-        "Alan Miranda",
-        "Joan Pedrola"
+        "Greta Lee",
+        "태오",
+        "John Magaro",
+        "문승아",
+        "임승민",
+        "윤지혜",
+        "최원영",
+        "안민영"
       ],
       "rank": 10,
-      "id": "tt37284855",
-      "name": "Todo lo que nunca fuimos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg",
-      "rating": 8.2,
-      "year": 2026,
+      "id": "tt13238346",
+      "name": "Vidas pasadas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "rating": 7.696,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

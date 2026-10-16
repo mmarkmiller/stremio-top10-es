@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.221,
+      "rating": 7.182,
       "year": 2026,
       "days": null,
       "trend": {
@@ -41,32 +41,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
       "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
+      "runtime": "101 min",
       "director": [
-        "Anne Sewitsky"
+        "Josephine Bornebusch"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Gustaf Skarsgård",
+        "Aliette Opheim",
+        "Filip Berg",
+        "Josephine Bornebusch",
+        "Jonas Karlsson",
+        "Johan Rheborg",
+        "Henrik Dorsin",
+        "Christopher Wagelin"
       ],
       "rank": 2,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.3,
-      "year": 2015,
+      "id": "tt37070354",
+      "name": "La tormenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "rating": 7.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -101,8 +102,42 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.6,
+      "rating": 6.576,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre viudo se muda a su nuevo hogar aparentemente perfecto con su hija y su nueva mujer. A medida que se enteran de los mortales secretos de su nueva casa, es posible que se conviertan en el nuevo capítulo de su terrorífica historia.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/abYksHVv56UF1HKJpc4DNHGaWuX.jpg",
+      "runtime": "88 min",
+      "director": [
+        "Phil Claydon"
+      ],
+      "cast": [
+        "Michael Vartan",
+        "Erin Moriarty",
+        "Nadine Velazquez",
+        "Ronnie Gene Blevins",
+        "JoBeth Williams",
+        "Blake Jenner",
+        "Dorian Kingi",
+        "Misty Upham"
+      ],
+      "rank": 4,
+      "id": "tt3612320",
+      "name": "En el interior",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1XEs9iyeAmbLPwIPS05FvF3LPZ5.jpg",
+      "rating": 5.4,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,11 +167,11 @@
         "Georgina Haig",
         "Josh Quong Tart"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt14966898",
       "name": "El último late night",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.089,
+      "rating": 7.088,
       "year": 2024,
       "days": null,
       "trend": {
@@ -146,105 +181,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "description": "Secuela del film de culto \"El resplandor\" (1980) dirigido por Stanley Kubrick y también basado en una famosa novela de Stephen King. La historia transcurre algunos años después de los acontecimientos de \"The Shining\", y sigue a Danny Torrance (Ewan McGregor), traumatizado y con problemas de ira y alcoholismo que hacen eco de los problemas de su padre Jack, que cuando sus habilidades psíquicas resurgen, se contacta con una niña de nombre Abra Stone, a quien debe rescatar de un grupo de viajeros que se alimentan de los niños que poseen el don de \"el resplandor\".",
       "genres": [
-        "Drama",
-        "Historia"
+        "Terror",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s6CZc3ZbYYfFIkkxYJTq5VGtsij.png",
+      "runtime": "151 min",
       "director": [
-        "Christopher Nolan"
+        "Mike Flanagan"
       ],
       "cast": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Matt Damon",
-        "Robert Downey Jr.",
-        "Florence Pugh",
-        "Josh Hartnett",
-        "Casey Affleck",
-        "Rami Malek"
-      ],
-      "rank": 5,
-      "id": "tt15398776",
-      "name": "Oppenheimer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
-      "rating": 8.023,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
-      "director": [
-        "James Ashcroft"
-      ],
-      "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
+        "Ewan McGregor",
+        "Rebecca Ferguson",
+        "Kyliegh Curran",
+        "Cliff Curtis",
+        "Zahn McClarnon",
+        "Emily Alyn Lind",
+        "Selena Anduze",
+        "Robert Longstreet"
       ],
       "rank": 6,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.852,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
-      "runtime": "116 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker",
-        "Michael Stuhlbarg",
-        "Mark O'Brien",
-        "Tzi Ma",
-        "Abigail Pniowsky",
-        "Julia Scarlett Dan"
-      ],
-      "rank": 7,
-      "id": "tt2543164",
-      "name": "La llegada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
-      "rating": 7.636,
-      "year": 2016,
+      "id": "tt5606664",
+      "name": "Doctor Sueño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gucnaxqpzEDycFmPwwqjiwvemA.jpg",
+      "rating": 7.149,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,12 +238,83 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.824,
+      "rating": 6.827,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
+      "director": [
+        "James Ashcroft"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "rank": 8,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.856,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 9,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,51 +345,12 @@
         "Юрий Колокольников",
         "Levi Miller"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt8790086",
       "name": "Kraven the Hunter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
-      "rating": 6.4,
+      "rating": 6.414,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Con el fin de conquistar a la bella ejecutiva Amber Evans, Johnny, un timador de poca monta que sobrevive en la calle junto con su hermano pequeño, entra a trabajar en su empresa, la Dynasty Club. Pronto se da cuenta de que con su sueldo nunca logrará ganársela y para conseguir más pelas decide usar las tarjetas de crédito de la empresa.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen",
-        "Romance",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6IcUnLvekFlt1fSRNY5YFpnwGiK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yr1BAISfFZ88MgyDY4V61qmivis.png",
-      "runtime": "97 min",
-      "director": [
-        "Peter MacDonald"
-      ],
-      "cast": [
-        "Damon Wayans",
-        "Stacey Dash",
-        "Joe Santos",
-        "John Diehl",
-        "Harry Lennix",
-        "Marlon Wayans",
-        "Mark Beltzman",
-        "Quincy Wong"
-      ],
-      "rank": 10,
-      "id": "tt0104897",
-      "name": "Más pelas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tLbKMopp46m5i3hukmFkQdCzfDR.jpg",
-      "rating": 5.596,
-      "year": 1992,
       "days": null,
       "trend": {
         "dir": "same",
@@ -364,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

@@ -2,8 +2,81 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
+      "runtime": "101 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman",
+        "Robert Bailey Jr.",
+        "Ian McShane"
+      ],
+      "rank": 1,
+      "id": "tt0327597",
+      "name": "Los mundos de Coraline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6SToEuWU2BCI1PRnMdpnzF5FaSW.jpg",
+      "rating": 7.944,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 2027: el ser humano está al borde de la extinción: los hombres han perdido la capacidad de procrear y se ignora por qué razon todas las mujeres del planeta se han vuelto estériles. Al mismo tiempo, el mundo se estremece cuando muere un muchacho de 18 años, la persona más joven de la Tierra. Se vive, pues, una situación de caos galopante. En tales circunstancias, Theo (Clive Owen), un desilusionado ex-activista radical de Londres convertido en burócrata, es contratado por Julian (Julianne Moore) para que proteja a una mujer que puede tener el secreto de la salvación de la humanidad, la persona más valiosa de la Tierra...",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/www52jvhbB0ppe9s0zxbf9EYox.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xDCVx7xZpkYaPnZIWVhSHyqcRqK.png",
+      "runtime": "109 min",
+      "director": [
+        "Alfonso Cuarón"
+      ],
+      "cast": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris",
+        "Charlie Hunnam",
+        "Danny Huston"
+      ],
+      "rank": 2,
+      "id": "tt0206634",
+      "name": "Hijos de los hombres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jxVLES5eTLuJgeYs0ywCLZbbQW1.jpg",
+      "rating": 7.617,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Controvertido y célebre flim sobre un clérigo, en la Francia del XVII, acusado de herejía. Basada libremente en hechos reales ocurridos en el convento de Laudun, en Francia, en el que supuestamente unas  monjas Ursulinas fueron poseídas por el diablo en 1634.",
@@ -28,11 +101,11 @@
         "Michael Gothard",
         "Georgina Hale"
       ],
-      "rank": 1,
+      "rank": 3,
       "id": "tt0066993",
       "name": "Los demonios",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJIx17hCWq3CEhc8UzioBngrMJc.jpg",
-      "rating": 7.46,
+      "rating": 7.5,
       "year": 1971,
       "days": null,
       "trend": {
@@ -42,66 +115,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
+      "description": "Recrea la historia real del secuestro de 1977 que convirtió a Tony Kiritsis, un aspirante a empresario de Indianápolis, en un excéntrico héroe popular proscrito.",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen"
+        "Crimen",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wKyoToryM2QubRDoHOAVQlRqof5.png",
+      "runtime": "104 min",
       "director": [
-        "Guy Ritchie"
+        "Gus Van Sant"
       ],
       "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
+        "Bill Skarsgård",
+        "Dacre Montgomery",
+        "Cary Elwes",
+        "Myha'la",
+        "Kelly Lynch",
+        "John Robinson",
+        "Vinh Nguyen",
+        "Mark Helms"
       ],
-      "rank": 2,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.7,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-      "runtime": "106 min",
-      "director": [
-        "Marta Díaz de Lope Díaz"
-      ],
-      "cast": [
-        "Daniel Ibáñez",
-        "Aixa Villagrán",
-        "Sofía de Iznájar",
-        "Bruna Lucadamo",
-        "Nora Otxoteko",
-        "Leire Aguiar",
-        "Lorea Carballo",
-        "Miriam Rubio"
-      ],
-      "rank": 3,
-      "id": "tt36048393",
-      "name": "Pioneras: solo querían jugar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/coXlNNeiySibclnnqzHOuQIqGm.jpg",
-      "rating": 7.25,
+      "rank": 4,
+      "id": "tt15181326",
+      "name": "Prime Crime: A True Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/19JQnXT21OtH24fBgexkDFVFEoS.jpg",
+      "rating": 6.51,
       "year": 2026,
       "days": null,
       "trend": {
@@ -111,35 +151,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras un experimento militar fallido, el oficial Joe Bawers y la prostituta Rita despiertan quinientos años adelante en el futuro, en un mundo distópico en el que la selección natural ha favorecido a los más idiotas, debido a que se reproducen más. Esto ha resultado en una humanidad estúpida e ignorante, de modo que Joe descubre que es el hombre más inteligente del planeta. Pronto se convierte en un cercano consejero del Presidente de los Estados Unidos, el excéntrico Camacho.",
+      "description": "Kubo es un joven desaliñado y bondadoso que se gana la vida humildemente y cuida de su madre en una apacible aldea costera. Tiene una tranquila existencia hasta que un espíritu del pasado vuelve para llevar a cabo una vieja venganza. De repente, rodeado por dioses y monstruos, Kubo verá que su supervivencia pasa por encontrar la armadura mágica de su caído padre, el más grande samurai que el mundo ha conocido. Llenándose de coraje, Kubo se embarca en una emocionante odisea enfrentándose a su historia familiar, navegando entre los elementos y luchando valientemente por la Tierra y las estrellas.",
       "genres": [
-        "Comedia",
-        "Ciencia ficción",
+        "Animación",
         "Aventura",
-        "Suspense"
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6OZXhno1DJrMmvMo5jRDUjWUbQZ.png",
-      "runtime": "85 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2nGKhDksmoDdkllXm5D5gy2urCg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/frdebhj3FvHxvz2qeSUD4uevok7.png",
+      "runtime": "101 min",
       "director": [
-        "Mike Judge"
+        "Travis Knight"
       ],
       "cast": [
-        "Luke Wilson",
-        "Maya Rudolph",
-        "Dax Shepard",
-        "Terry Crews",
-        "Anthony 'Citric' Campos",
-        "David Herman",
-        "Sonny Castillo",
-        "Kevin McAfee"
+        "Art Parkinson",
+        "Charlize Theron",
+        "Matthew McConaughey",
+        "Brenda Vaccaro",
+        "Ralph Fiennes",
+        "Rooney Mara",
+        "George Takei",
+        "Cary-Hiroyuki Tagawa"
       ],
-      "rank": 4,
-      "id": "tt0387808",
-      "name": "Idiocracia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8iO3iSWhlIqd0mCtW7iTJaThled.jpg",
-      "rating": 6.388,
-      "year": 2006,
+      "rank": 5,
+      "id": "tt4302938",
+      "name": "Kubo y las dos cuerdas mágicas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9L5BomkYAHwiRaVNp14WibZhHs.jpg",
+      "rating": 7.6,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,33 +187,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Un trabajador encuentra ocasionalmente unas gafas que permiten ver a las personas en su aspecto auténtico, así descubrirá que importantes personajes de la política y social son en realidad extraterrestres. Durante su particular cruzada podrá observar como esta raza alienígena ha llenado el mundo de mensajes subliminales que pretenden convertir a los humanos en una especie esclava.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Ciencia ficción",
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/924JAkvCuwrsyxqNAn9nxdfhz6S.png",
+      "runtime": "93 min",
       "director": [
-        "Zach Cregger"
+        "John Carpenter"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Roddy Piper",
+        "Keith David",
+        "Meg Foster",
+        "George Buck Flower",
+        "Peter Jason",
+        "Raymond St. Jacques",
+        "Jason Robards III",
+        "John Lawrence"
       ],
-      "rank": 5,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.263,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt0096256",
+      "name": "Están vivos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/KI0X2vFzWOaMF32TnW6zIpronv.jpg",
+      "rating": 7.311,
+      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,11 +245,11 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.297,
+      "rating": 7.3,
       "year": 2018,
       "days": null,
       "trend": {
@@ -219,92 +259,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Antiguos soldados de la guerra del Vietnam han creado una poderosa red de tráfico de droga. Dos policias reciben el encargo de esclarecer un asesinato en el que esa peligrosa organización se halla implicada.",
+      "description": "Secuela del film de culto \"El resplandor\" (1980) dirigido por Stanley Kubrick y también basado en una famosa novela de Stephen King. La historia transcurre algunos años después de los acontecimientos de \"The Shining\", y sigue a Danny Torrance (Ewan McGregor), traumatizado y con problemas de ira y alcoholismo que hacen eco de los problemas de su padre Jack, que cuando sus habilidades psíquicas resurgen, se contacta con una niña de nombre Abra Stone, a quien debe rescatar de un grupo de viajeros que se alimentan de los niños que poseen el don de \"el resplandor\".",
       "genres": [
-        "Acción",
-        "Suspense",
-        "Crimen"
+        "Terror",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4nqvuQI3Hb1kT5zCJ83pV8FaRSm.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s6CZc3ZbYYfFIkkxYJTq5VGtsij.png",
+      "runtime": "151 min",
       "director": [
-        "Richard Donner"
+        "Mike Flanagan"
       ],
       "cast": [
-        "Mel Gibson",
-        "Danny Glover",
-        "Gary Busey",
-        "Mitchell Ryan",
-        "Tom Atkins",
-        "Darlene Love",
-        "Traci Wolfe",
-        "Jackie Swanson"
-      ],
-      "rank": 7,
-      "id": "tt0093409",
-      "name": "Arma letal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg",
-      "rating": 7.3,
-      "year": 1987,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Bea y Ben se conocen y parecen la pareja perfecta, pero tras una increíble primera cita sucede algo que enfría su fuerte atracción, hasta que meses después ambos se encuentran inesperadamente en una boda en Australia. Obligados a verse, y a pesar de su rechazo mutuo, por conveniencia para ambos deciden fingir que son una pareja.",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9UsBrIdyxa3JUxwAKPHBLlEjrM.png",
-      "runtime": "103 min",
-      "director": [
-        "Will Gluck"
-      ],
-      "cast": [
-        "Sydney Sweeney",
-        "Glen Powell",
-        "Mia Artemis",
-        "Nat Buchanan",
-        "GaTa",
-        "Alexandra Shipp",
-        "Hadley Robinson",
-        "Dermot Mulroney"
+        "Ewan McGregor",
+        "Rebecca Ferguson",
+        "Kyliegh Curran",
+        "Cliff Curtis",
+        "Zahn McClarnon",
+        "Emily Alyn Lind",
+        "Selena Anduze",
+        "Robert Longstreet"
       ],
       "rank": 8,
-      "id": "tt26047818",
-      "name": "Cualquiera menos tú",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6dkuwwLJJmpzb6n5pbok1DMN7WV.jpg",
-      "rating": 6.746,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un documental que analiza el neoimperialismo basado en aranceles, presiones y amenazas de anexión con el que Estados Unidos busca superar económicamente a China. Revela a las personas y las ideas detrás de una estrategia que podría suponer el fin del orden liberal internacional, con medidas que afectan a más de 180 países y territorios de todo el mundo.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/k712nZb7iqVB6UdzLIsLA0emIyF.jpg",
-      "director": [
-        "Hugo Van Offel"
-      ],
-      "cast": [],
-      "rank": 9,
-      "id": "tmdb:1720882",
-      "name": "EEUU: la nueva economía mundial",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZsM6U3vVcUoLZd69iMFbWeM1fB.jpg",
-      "rating": 7.5,
-      "year": 2026,
+      "id": "tt5606664",
+      "name": "Doctor Sueño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gucnaxqpzEDycFmPwwqjiwvemA.jpg",
+      "rating": 7.149,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -333,7 +314,7 @@
         "Fantin Ravat",
         "Laurent Delbecque"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt2752200",
       "name": "Joven y bonita",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ga9B2AdWbB1YUwrSJHLwlA9l2Kx.jpg",
@@ -344,8 +325,46 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7GPemb4DkuxlicKiQP5V5f2Wwtg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Au8kowXvtfaNAwQDNGa8Ggt4mow.png",
+      "runtime": "92 min",
+      "director": [
+        "Sam Fell",
+        "Chris Butler"
+      ],
+      "cast": [
+        "Kodi Smit-McPhee",
+        "Tucker Albrizzi",
+        "Anna Kendrick",
+        "Casey Affleck",
+        "Christopher Mintz-Plasse",
+        "Leslie Mann",
+        "Jeff Garlin",
+        "Elaine Stritch"
+      ],
+      "rank": 10,
+      "id": "tt1623288",
+      "name": "El alucinante mundo de Norman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
+      "rating": 7.1,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

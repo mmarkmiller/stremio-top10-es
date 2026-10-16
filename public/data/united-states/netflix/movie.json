@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,42 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.221,
+      "rating": 7.182,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
+      "runtime": "101 min",
+      "director": [
+        "Josephine Bornebusch"
+      ],
+      "cast": [
+        "Gustaf Skarsgård",
+        "Aliette Opheim",
+        "Filip Berg",
+        "Josephine Bornebusch",
+        "Jonas Karlsson",
+        "Johan Rheborg",
+        "Henrik Dorsin",
+        "Christopher Wagelin"
+      ],
+      "rank": 2,
+      "id": "tt37070354",
+      "name": "La tormenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "rating": 7.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -52,16 +87,16 @@
         "Sean S. Cunningham"
       ],
       "cast": [
-        "Betsy Palmer",
         "Adrienne King",
         "Jeannine Taylor",
         "Robbi Morgan",
         "Kevin Bacon",
+        "Betsy Palmer",
         "Harry Crosby",
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
@@ -95,11 +130,11 @@
         "James Lafferty",
         "Miguel Sandoval"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt2388715",
       "name": "Oculus: el espejo del mal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg",
-      "rating": 6.497,
+      "rating": 6.498,
       "year": 2014,
       "days": null,
       "trend": {
@@ -109,71 +144,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cain (Duhamel), se despierta en un hospital mexicano sin tener memoria. Después de conocer a Anna (Cornish), descubre quién es, pero pronto se encuentra luchando por su vida cuando varias facciones de cárteles en guerra lo atacan, cada una buscando algo que ha robado. Cain busca a su compañero de trabajo y mentor, el agente de la DEA McCoy (Nolte), en busca de respuestas.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mjV9gpXO2R2SOYI4ChJZiu6F1OE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/biwbEArBvuLAYAIkW6sOfsDsDZu.png",
-      "runtime": "81 min",
-      "director": [
-        "Sam Macaroni"
-      ],
-      "cast": [
-        "Josh Duhamel",
-        "Abbie Cornish",
-        "Omar Chaparro",
-        "Nick Nolte",
-        "Lou Ferrigno Jr.",
-        "Bárbara de Regil",
-        "Robert Dobson",
-        "Pedro Lopez"
-      ],
-      "rank": 4,
-      "id": "tt8363392",
-      "name": "Blackout",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dr6FkcDnTKyZJNO9W1IJoRk1OQH.jpg",
-      "rating": 5.06,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Stacey, una joven que vive en una urbanización de los suburbios con sus padres y su hermana Emma, verá cómo su vida cambia por completo cuando un virus letal comienza a extenderse por el vecindario en una ciudad que se declara en cuarentena.",
-      "genres": [
-        "Drama",
+        "Ciencia ficción",
         "Terror",
-        "Ciencia ficción"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/smxlrWGByIzvdraNHYSmG36w1G9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mx4leHmkn5BSipQzwMZ6aX2caQI.png",
-      "runtime": "86 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "Henry Joost",
-        "Ariel Schulman"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Sofia Black-D'Elia",
-        "Lio Tipton",
-        "Travis Tope",
-        "mgk",
-        "Michael Kelly",
-        "John Cothran",
-        "Stoney Westmoreland",
-        "Linzie Gray"
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
       ],
       "rank": 5,
-      "id": "tt2597892",
-      "name": "Viral",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4XLUXRn0Du0xGPUitSuTTT9a8lF.jpg",
-      "rating": 5.8,
-      "year": 2016,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.6,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -208,7 +206,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.6,
+      "rating": 6.576,
       "year": 2026,
       "days": null,
       "trend": {
@@ -218,34 +216,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "Un padre y su hijo planean acabar con la vida de su madre para quedarse con el dinero de su seguro de vida. Para ello, contratan los servicios de 'Killer Joe' Cooper (McConaughey), policía y asesino a sueldo.",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
+        "Crimen",
+        "Suspense",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mpiwGcxp30sHxTOJ1jw3Dd1QgPZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMxDY928k5o71pmw4Br8w30Mc2U.png",
+      "runtime": "103 min",
       "director": [
-        "Takashi Yamazaki"
+        "William Friedkin"
       ],
       "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
+        "Matthew McConaughey",
+        "Emile Hirsch",
+        "Juno Temple",
+        "Thomas Haden Church",
+        "Gina Gershon",
+        "Marc Macaulay",
+        "Gralen Bryant Banks",
+        "Carol Sutton"
       ],
       "rank": 7,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.603,
-      "year": 2023,
+      "id": "tt1726669",
+      "name": "Killer Joe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/roArqa3Ml2IQVgnKZ28sxnQv4oI.jpg",
+      "rating": 6.5,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -278,7 +276,7 @@
       "id": "tt0072271",
       "name": "La matanza de Texas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.286,
+      "rating": 7.287,
       "year": 1974,
       "days": null,
       "trend": {
@@ -288,34 +286,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
+      "description": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Bélica"
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1xtNFKfTr0d5IqZ0i77E90cYYTP.png",
+      "runtime": "109 min",
       "director": [
-        "Guy Ritchie"
+        "Nia DaCosta"
       ],
       "cast": [
-        "Henry Cavill",
-        "Eiza González",
-        "Alan Ritchson",
-        "Henry Golding",
-        "Cary Elwes",
-        "Alex Pettyfer",
-        "Babs Olusanmokun",
-        "Hero Fiennes Tiffin"
+        "Ralph Fiennes",
+        "Alfie Williams",
+        "Jack O'Connell",
+        "Erin Kellyman",
+        "Chi Lewis-Parry",
+        "Connor Newall",
+        "Maura Bird",
+        "Ghazi Al Ruffai"
       ],
       "rank": 9,
-      "id": "tt5177120",
-      "name": "El ministerio de la Guerra Sucia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
-      "rating": 6.99,
-      "year": 2024,
+      "id": "tt32141377",
+      "name": "28 años después: El templo de los huesos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
+      "rating": 7.1,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,34 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
       "genres": [
-        "Terror",
-        "Comedia"
+        "Misterio",
+        "Suspense",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5zwhybC4AO34V6MhWjNlulwjlXW.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
       "director": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
+        "M. Night Shyamalan"
       ],
       "cast": [
-        "Samara Weaving",
-        "Adam Brody",
-        "Mark O'Brien",
-        "Henry Czerny",
-        "Andie MacDowell",
-        "Melanie Scrofano",
-        "Kristian Bruun",
-        "Elyse Levesque"
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
       ],
       "rank": 10,
-      "id": "tt7798634",
-      "name": "Noche de bodas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
-      "rating": 7.098,
-      "year": 2019,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.956,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }

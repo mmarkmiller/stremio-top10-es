@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610151932",
+  "date": "202610161907",
   "entries": [
     {
       "artworkVersion": 4,
@@ -12,48 +12,20 @@
         "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+      "logo": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
       "director": [],
       "cast": [
         "Linda Cardellini",
         "William Catlett",
-        "Devin Kessler",
+        "Gwendolyn Sundstrom",
         "Cameron Scoggins",
-        "Gwendolyn Sundstrom"
+        "Devin Kessler"
       ],
       "rank": 1,
       "id": "tt23148340",
       "name": "Crystal Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 6.4,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
-      ],
-      "rank": 2,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.256,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mOO3zuZkryqna5bzHSwNJjjNnpb.jpg",
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -81,7 +53,7 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
@@ -95,29 +67,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
       "director": [],
       "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 3,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
       ],
       "rank": 4,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 6.9,
-      "year": 2026,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -149,7 +147,7 @@
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.381,
+      "rating": 8.4,
       "year": 2022,
       "days": null,
       "trend": {
@@ -159,30 +157,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
+      "description": "Cuando el 2% de la población mundial desaparece de forma literal y abrupta, sin explicación alguna, quedando sólo sus ropas en el sitio en el que sus cuerpos de evaporaron, el resto de la población de la Tierra comienza a intentar comprender lo que ha pasado, y sobre todo lo que se supone que deben hacer al respecto. Uno de estas personas es el jefe de la policía de un pequeño suburbio de Nueva York, padre de dos hijos, que trata de mantener cierta apariencia de normalidad.",
       "genres": [
-        "Crimen",
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/2rSmyzAwdzjNUlj4Stor4mcsn6r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8RyKv09VtTOgUBwuLX7irOkC9vi.png",
       "director": [],
       "cast": [
-        "James Gandolfini",
-        "Edie Falco",
-        "Jamie-Lynn Sigler",
-        "Robert Iler",
-        "Lorraine Bracco",
-        "Michael Imperioli",
-        "Steven Van Zandt",
-        "Tony Sirico"
+        "Justin Theroux",
+        "Carrie Coon",
+        "Amy Brenneman",
+        "Christopher Eccleston",
+        "Kevin Carroll",
+        "Chris Zylka",
+        "Jovan Adepo"
       ],
       "rank": 6,
-      "id": "tt0141842",
-      "name": "Los Soprano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
-      "rating": 8.677,
-      "year": 1999,
+      "id": "tt2699128",
+      "name": "The Leftovers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+      "rating": 7.684,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -191,62 +188,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
       "director": [],
       "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
+        "Alan Cumming",
+        "David Morrissey",
+        "Elizabeth Berrington",
+        "Pooky Quesnel",
+        "Iz Hesketh",
+        "Paul Rhys",
+        "Jackson Connor",
+        "Joseph William Evans"
       ],
       "rank": 7,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.7,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra la historia de la familia Lyon a lo largo de quince años clave de la sociedad británica, repletos de convulsos cambios políticos, económicos y tecnológicos.",
-      "genres": [
-        "Drama",
-        "War & Politics",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFb6hGajDj4Qv7GIiidRTxgIFIk.png",
-      "director": [],
-      "cast": [
-        "Emma Thompson",
-        "Anne Reid",
-        "Rory Kinnear",
-        "Jessica Hynes",
-        "Russell Tovey",
-        "Ruth Madeley",
-        "T'Nia Miller",
-        "Lydia West"
-      ],
-      "rank": 8,
-      "id": "tt8694364",
-      "name": "Years and Years",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofTCqVKLqyt1dPIs1ghnOkOQTxT.jpg",
-      "rating": 7.537,
-      "year": 2019,
+      "id": "tt35768911",
+      "name": "De puntillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
+      "rating": 6.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,11 +238,11 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.488,
+      "rating": 8.489,
       "year": 2022,
       "days": null,
       "trend": {
@@ -288,30 +252,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
+      "description": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
       "genres": [
         "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
+      "background": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
       "director": [],
       "cast": [
-        "Dominic West",
-        "Lance Reddick",
-        "Sonja Sohn",
-        "Wendell Pierce",
-        "Michael Kenneth Williams",
-        "Deirdre Lovejoy",
-        "Andre Royo",
-        "John Doman"
+        "James Gandolfini",
+        "Edie Falco",
+        "Jamie-Lynn Sigler",
+        "Robert Iler",
+        "Lorraine Bracco",
+        "Michael Imperioli",
+        "Steven Van Zandt",
+        "Tony Sirico"
+      ],
+      "rank": 9,
+      "id": "tt0141842",
+      "name": "Los Soprano",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
+      "rating": 8.676,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "director": [],
+      "cast": [
+        "Noah Wyle",
+        "Patrick Ball",
+        "Katherine LaNasa",
+        "Supriya Ganesh",
+        "Fiona Dourif",
+        "Taylor Dearden",
+        "Isa Briones",
+        "Gerran Howell"
       ],
       "rank": 10,
-      "id": "tt0306414",
-      "name": "Bajo escucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
-      "rating": 8.638,
-      "year": 2002,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "rating": 8.7,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-15T17:13:15.894Z"
+  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
 }
