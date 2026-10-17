@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
+      "director": [
+        "Michael Sarnoski"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
+      ],
+      "rank": 1,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
@@ -28,11 +64,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.006,
+      "rating": 7.007,
       "year": 2026,
       "days": null,
       "trend": {
@@ -63,11 +99,11 @@
         "Elizabeth Perkins",
         "Amanda Joy Erickson"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.256,
+      "rating": 7.254,
       "year": 2025,
       "days": null,
       "trend": {
@@ -99,11 +135,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.827,
+      "rating": 6.829,
       "year": 1998,
       "days": null,
       "trend": {
@@ -134,11 +170,11 @@
         "Betty Buckley",
         "P. J. Soles"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.342,
+      "rating": 7.3,
       "year": 1976,
       "days": null,
       "trend": {
@@ -148,71 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía",
-        "Terror"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Henry Selick"
+        "Zach Cregger"
       ],
       "cast": [
-        "Dakota Fanning",
-        "Teri Hatcher",
-        "Jennifer Saunders",
-        "Dawn French",
-        "Keith David",
-        "John Hodgman",
-        "Robert Bailey Jr.",
-        "Ian McShane"
-      ],
-      "rank": 5,
-      "id": "tt0327597",
-      "name": "Los mundos de Coraline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6SToEuWU2BCI1PRnMdpnzF5FaSW.jpg",
-      "rating": 7.944,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
-      "director": [
-        "Michael Sarnoski"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 6,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.7,
-      "year": 2026,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.264,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +243,7 @@
       "id": "tt31170389",
       "name": "Posesión infernal: En llamas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5BxpImOaOTssydHBGOpvXzszsEg.jpg",
-      "rating": 7.621,
+      "rating": 7.62,
       "year": 2026,
       "days": null,
       "trend": {
@@ -255,33 +253,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
+      "runtime": "101 min",
       "director": [
-        "Zach Cregger"
+        "Henry Selick"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman",
+        "Robert Bailey Jr.",
+        "Ian McShane"
       ],
       "rank": 8,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
-      "year": 2025,
+      "id": "tt0327597",
+      "name": "Los mundos de Coraline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
+      "rating": 7.9,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,34 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
+      "runtime": "108 min",
       "director": [
-        "Ari Aster"
+        "Craig Gillespie"
       ],
       "cast": [
-        "Toni Collette",
-        "Alex Wolff",
-        "Gabriel Byrne",
-        "Milly Shapiro",
-        "Ann Dowd",
-        "Mallory Bechtel",
-        "Brock McKinney",
-        "Jake Brown"
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts",
+        "Jason Momoa",
+        "David Krumholtz",
+        "Emily Beecham",
+        "David Corenswet",
+        "Kadiff Kirwan"
       ],
       "rank": 10,
-      "id": "tt7784604",
-      "name": "Hereditary",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.3,
-      "year": 2018,
+      "id": "tt8814476",
+      "name": "Supergirl",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+      "rating": 6.652,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

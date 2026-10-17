@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
-      "director": [
-        "Kenny Ortega"
-      ],
-      "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
-      ],
-      "rank": 1,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.042,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -65,11 +29,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.288,
+      "rating": 8.285,
       "year": 2026,
       "days": null,
       "trend": {
@@ -79,69 +43,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
-      ],
-      "rank": 3,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
       "genres": [
         "Fantasía",
-        "Animación",
+        "Comedia",
         "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
-      "runtime": "75 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
+      "runtime": "96 min",
       "director": [
-        "Henry Selick"
+        "Kenny Ortega"
       ],
       "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Tobias Jelinek",
+        "Larry Bagby"
       ],
-      "rank": 4,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.85,
+      "rank": 2,
+      "id": "tt0107120",
+      "name": "El retorno de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
+      "rating": 7.043,
       "year": 1993,
       "days": null,
       "trend": {
@@ -173,48 +101,12 @@
         "Elijah Wood",
         "Kevin Durand"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt33978029",
       "name": "Noche de bodas 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.536,
+      "rating": 7.534,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Principios del siglo XX. A una pequeña ciudad americana llega una misteriosa compañía de cómicos ambulantes, pero dos niños descubrirán el oscuro y peligroso secreto que se oculta tras una fachada de diversión y alegría.",
-      "genres": [
-        "Fantasía",
-        "Misterio",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/28BYjdzw6nJjFMIKjfUu1JA6tNC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ok9EXedBLoYVkXTYENnSezwjssn.png",
-      "runtime": "96 min",
-      "director": [
-        "Jack Clayton"
-      ],
-      "cast": [
-        "Jason Robards",
-        "Jonathan Pryce",
-        "Diane Ladd",
-        "Royal Dano",
-        "Vidal Peterson",
-        "Shawn Carson",
-        "Mary Grace Canfield",
-        "Richard Davalos"
-      ],
-      "rank": 6,
-      "id": "tt0086336",
-      "name": "El Carnaval De Las Tinieblas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rt4YVkJFvlcLLwIuOxMvK0ozN2G.jpg",
-      "rating": 6.511,
-      "year": 1983,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,12 +137,48 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 7,
+      "rank": 4,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.458,
+      "rating": 7.456,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
+      "runtime": "75 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 5,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.8,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -281,11 +209,11 @@
         "Christian Madden",
         "Anaïs Gallagher"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt36150957",
       "name": "Oasis: Don't Look Back in Anger",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "rating": 7.4,
+      "rating": 7.368,
       "year": 2026,
       "days": null,
       "trend": {
@@ -295,34 +223,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "description": "Una celebración de la nueva etapa del grupo y de los fans que la han hecho posible. Incluye imágenes exclusivas del detrás de las cámaras, vídeos de fans de Eyekons y entrevistas íntimas con los miembros.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
+        "Documental",
+        "Música"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
-      "runtime": "148 min",
+      "background": "https://image.tmdb.org/t/p/w1280/q6Iq6wutoM7AqekJ831ycBOqCxp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zaxMqYxggMGjSyez8mfebB9PpVq.png",
+      "runtime": "80 min",
       "director": [
-        "Jon Watts"
+        "Nadia Hallgren"
       ],
       "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Benedict Cumberbatch",
-        "Jacob Batalon",
-        "Jon Favreau",
-        "Jamie Foxx",
-        "Willem Dafoe",
-        "Alfred Molina"
+        "Sophia Laforteza",
+        "Daniela Avanzini",
+        "Lara Raj",
+        "Megan Skiendiel",
+        "정윤채",
+        "Meret Manon",
+        "Sohey Sugihara",
+        "Grant Gilmore"
+      ],
+      "rank": 7,
+      "id": "tt43657324",
+      "name": "KATSEYE: Wild Hearts",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pb7bvzTKA2vzWGZXwkXoQXVx8O3.jpg",
+      "rating": 4.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
+      ],
+      "rank": 8,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.6,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Principios del siglo XX. A una pequeña ciudad americana llega una misteriosa compañía de cómicos ambulantes, pero dos niños descubrirán el oscuro y peligroso secreto que se oculta tras una fachada de diversión y alegría.",
+      "genres": [
+        "Fantasía",
+        "Misterio",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/28BYjdzw6nJjFMIKjfUu1JA6tNC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ok9EXedBLoYVkXTYENnSezwjssn.png",
+      "runtime": "96 min",
+      "director": [
+        "Jack Clayton"
+      ],
+      "cast": [
+        "Jason Robards",
+        "Jonathan Pryce",
+        "Diane Ladd",
+        "Royal Dano",
+        "Vidal Peterson",
+        "Shawn Carson",
+        "Mary Grace Canfield",
+        "Richard Davalos"
       ],
       "rank": 9,
-      "id": "tt10872600",
-      "name": "Spider-Man: No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
-      "rating": 7.947,
-      "year": 2021,
+      "id": "tt0086336",
+      "name": "El Carnaval De Las Tinieblas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rt4YVkJFvlcLLwIuOxMvK0ozN2G.jpg",
+      "rating": 6.511,
+      "year": 1983,
       "days": null,
       "trend": {
         "dir": "same",
@@ -367,5 +366,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

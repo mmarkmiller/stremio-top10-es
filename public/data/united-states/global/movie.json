@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,40 +41,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una camionera dura entrena a su mejor amiga femenina para competir en el Campeonato Nacional de Lucha Libre de Brazo Femenino.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m2y1YIukPM5Shvb6VxbUejgcScX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6ROWhHP49cG14sE0l9xfwA6EKTK.png",
-      "runtime": "91 min",
-      "director": [
-        "Maureen Bharoocha"
-      ],
-      "cast": [
-        "Betsy Sodaro",
-        "Mary Holland",
-        "Olivia Stambouliah",
-        "Eugene Cordero",
-        "Aparna Nancherla",
-        "Dawn Luebbe",
-        "Ron Funches",
-        "Ahmed Bharoocha"
-      ],
-      "rank": 2,
-      "id": "tt9572534",
-      "name": "Brazo de oro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
-      "rating": 5.4,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
       "genres": [
         "Terror",
@@ -96,11 +62,47 @@
         "Brendan Conroy",
         "Ezra Carlisle"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.84,
+      "rating": 6.838,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
+      "director": [
+        "Michael Sarnoski"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
+      ],
+      "rank": 3,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,7 +138,78 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.006,
+      "rating": 7.007,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
+      "director": [
+        "Romain Gavras"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Yung Lean",
+        "Sam Richardson"
+      ],
+      "rank": 5,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.575,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "runtime": "126 min",
+      "director": [
+        "Jennifer Peedom"
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
+      ],
+      "rank": 6,
+      "id": "tt6262770",
+      "name": "Tenzing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -167,46 +240,11 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.177,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
-      "runtime": "109 min",
-      "director": [
-        "Ben Affleck"
-      ],
-      "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
-      ],
-      "rank": 6,
-      "id": "tt31049299",
-      "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.182,
+      "rating": 8.178,
       "year": 2026,
       "days": null,
       "trend": {
@@ -238,12 +276,46 @@
         "Sarah Sherman",
         "Patrick Fischler"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt35298123",
       "name": "Adolescencia, sexo y muerte en campamento Miasma",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.188,
+      "rating": 6.196,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una camionera dura entrena a su mejor amiga femenina para competir en el Campeonato Nacional de Lucha Libre de Brazo Femenino.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m2y1YIukPM5Shvb6VxbUejgcScX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6ROWhHP49cG14sE0l9xfwA6EKTK.png",
+      "runtime": "91 min",
+      "director": [
+        "Maureen Bharoocha"
+      ],
+      "cast": [
+        "Betsy Sodaro",
+        "Mary Holland",
+        "Olivia Stambouliah",
+        "Eugene Cordero",
+        "Aparna Nancherla",
+        "Dawn Luebbe",
+        "Ron Funches",
+        "Ahmed Bharoocha"
+      ],
+      "rank": 9,
+      "id": "tt9572534",
+      "name": "Brazo de oro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
+      "rating": 5.4,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -273,82 +345,11 @@
         "Cecilia Toussaint",
         "Geraldine Hakewill"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt31349844",
       "name": "Entrega al límite",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "rating": 8.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
-      "runtime": "115 min",
-      "director": [
-        "Sidney J. Furie"
-      ],
-      "cast": [
-        "Barbara Hershey",
-        "Ron Silver",
-        "David Labiosa",
-        "George Coe",
-        "Margaret Blye",
-        "Jacqueline Brookes",
-        "Richard Brestoff",
-        "Michael Alldredge"
-      ],
-      "rank": 9,
-      "id": "tt0082334",
-      "name": "El Ente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
-      "rating": 6.9,
-      "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 10,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 6.667,
+      "rating": 8.311,
       "year": 2026,
       "days": null,
       "trend": {
@@ -358,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

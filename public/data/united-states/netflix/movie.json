@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
+      "director": [
+        "Romain Gavras"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Yung Lean",
+        "Sam Richardson"
+      ],
+      "rank": 1,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.575,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
@@ -27,46 +63,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.182,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
-      "runtime": "101 min",
-      "director": [
-        "Josephine Bornebusch"
-      ],
-      "cast": [
-        "Gustaf Skarsgård",
-        "Aliette Opheim",
-        "Filip Berg",
-        "Josephine Bornebusch",
-        "Jonas Karlsson",
-        "Johan Rheborg",
-        "Henrik Dorsin",
-        "Christopher Wagelin"
-      ],
-      "rank": 2,
-      "id": "tt37070354",
-      "name": "La tormenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-      "rating": 7.9,
+      "rating": 7.11,
       "year": 2026,
       "days": null,
       "trend": {
@@ -96,11 +97,11 @@
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.402,
+      "rating": 6.4,
       "year": 1980,
       "days": null,
       "trend": {
@@ -110,209 +111,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hace tiempo que un asesinato dejó huérfanos a dos niños. Las autoridades culparon al hermano, pero la hermana creció creyendo que el verdadero culpable había sido un antiguo espejo maldito. Ahora, completamente rehabilitado y con veinte años cumplidos, el hermano está listo para empezar de nuevo, pero la hermana está decidida a demostrar que fue el espejo lo que destrozó a su familia.",
+      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
       "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jSoqcWTufaYXmXCUQDb36eGQXFw.png",
-      "runtime": "105 min",
-      "director": [
-        "Mike Flanagan"
-      ],
-      "cast": [
-        "Karen Gillan",
-        "Brenton Thwaites",
-        "Katee Sackhoff",
-        "Rory Cochrane",
-        "Annalise Basso",
-        "Garrett Ryan",
-        "James Lafferty",
-        "Miguel Sandoval"
-      ],
-      "rank": 4,
-      "id": "tt2388715",
-      "name": "Oculus: el espejo del mal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg",
-      "rating": 6.498,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 5,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
-      "runtime": "101 min",
-      "director": [
-        "Janus Metz"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
-      ],
-      "rank": 6,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.576,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un padre y su hijo planean acabar con la vida de su madre para quedarse con el dinero de su seguro de vida. Para ello, contratan los servicios de 'Killer Joe' Cooper (McConaughey), policía y asesino a sueldo.",
-      "genres": [
-        "Crimen",
-        "Suspense",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mpiwGcxp30sHxTOJ1jw3Dd1QgPZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMxDY928k5o71pmw4Br8w30Mc2U.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
+      "runtime": "101 min",
       "director": [
-        "William Friedkin"
+        "Josephine Bornebusch"
       ],
       "cast": [
-        "Matthew McConaughey",
-        "Emile Hirsch",
-        "Juno Temple",
-        "Thomas Haden Church",
-        "Gina Gershon",
-        "Marc Macaulay",
-        "Gralen Bryant Banks",
-        "Carol Sutton"
+        "Gustaf Skarsgård",
+        "Aliette Opheim",
+        "Filip Berg",
+        "Josephine Bornebusch",
+        "Jonas Karlsson",
+        "Johan Rheborg",
+        "Henrik Dorsin",
+        "Christopher Wagelin"
       ],
-      "rank": 7,
-      "id": "tt1726669",
-      "name": "Killer Joe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/roArqa3Ml2IQVgnKZ28sxnQv4oI.jpg",
-      "rating": 6.5,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
-      "runtime": "83 min",
-      "director": [
-        "Tobe Hooper"
-      ],
-      "cast": [
-        "Marilyn Burns",
-        "Allen Danziger",
-        "Paul A. Partain",
-        "William Vail",
-        "Teri McMinn",
-        "Edwin Neal",
-        "Jim Siedow",
-        "Gunnar Hansen"
-      ],
-      "rank": 8,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.287,
-      "year": 1974,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1xtNFKfTr0d5IqZ0i77E90cYYTP.png",
-      "runtime": "109 min",
-      "director": [
-        "Nia DaCosta"
-      ],
-      "cast": [
-        "Ralph Fiennes",
-        "Alfie Williams",
-        "Jack O'Connell",
-        "Erin Kellyman",
-        "Chi Lewis-Parry",
-        "Connor Newall",
-        "Maura Bird",
-        "Ghazi Al Ruffai"
-      ],
-      "rank": 9,
-      "id": "tt32141377",
-      "name": "28 años después: El templo de los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
-      "rating": 7.1,
+      "rank": 5,
+      "id": "tt37070354",
+      "name": "La tormenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "rating": 7.559,
       "year": 2026,
       "days": null,
       "trend": {
@@ -344,7 +168,7 @@
         "Peter Anthony Tambakis",
         "Jeffrey Zubernis"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
@@ -355,8 +179,152 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kMRdsjSHifqGZPfHdZIS8YfNMk0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfd1ahFR6bbTE1M91h3o2gUsiYL.png",
+      "runtime": "170 min",
+      "director": [
+        "Michael Mann"
+      ],
+      "cast": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer",
+        "Jon Voight",
+        "Tom Sizemore",
+        "Diane Venora",
+        "Amy Brenneman",
+        "Ashley Judd"
+      ],
+      "rank": 7,
+      "id": "tt0113277",
+      "name": "Heat",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
+      "rating": 7.943,
+      "year": 1995,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 8,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.604,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "runtime": "101 min",
+      "director": [
+        "Janus Metz"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "rank": 9,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.586,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
+      "director": [
+        "James Ashcroft"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "rank": 10,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.861,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

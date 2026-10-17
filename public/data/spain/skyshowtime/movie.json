@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,42 +41,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
-      "runtime": "123 min",
-      "director": [
-        "Richard Curtis"
-      ],
-      "cast": [
-        "Domhnall Gleeson",
-        "Rachel McAdams",
-        "Bill Nighy",
-        "Tom Hollander",
-        "Margot Robbie",
-        "Lydia Wilson",
-        "Lindsay Duncan",
-        "Richard Cordery"
-      ],
-      "rank": 2,
-      "id": "tt2194499",
-      "name": "Una cuestión de tiempo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.9,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
       "genres": [
         "Ciencia ficción",
@@ -99,12 +63,191 @@
         "Marc T. Lewis",
         "Vanessa Eng"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt12300742",
       "name": "Bugonia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.294,
+      "rating": 7.295,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
+      "runtime": "92 min",
+      "director": [
+        "Ilya Naishuller"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen",
+        "Christopher Lloyd",
+        "Michael Ironside",
+        "Colin Salmon",
+        "RZA",
+        "Billy MacLellan"
+      ],
+      "rank": 3,
+      "id": "tt7888964",
+      "name": "Nadie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "rating": 7.858,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
+      "runtime": "123 min",
+      "director": [
+        "Richard Curtis"
+      ],
+      "cast": [
+        "Domhnall Gleeson",
+        "Rachel McAdams",
+        "Bill Nighy",
+        "Tom Hollander",
+        "Margot Robbie",
+        "Lydia Wilson",
+        "Lindsay Duncan",
+        "Richard Cordery"
+      ],
+      "rank": 4,
+      "id": "tt2194499",
+      "name": "Una cuestión de tiempo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
+      "rating": 7.899,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+      "runtime": "111 min",
+      "director": [
+        "Wes Craven"
+      ],
+      "cast": [
+        "Neve Campbell",
+        "Skeet Ulrich",
+        "Rose McGowan",
+        "Matthew Lillard",
+        "David Arquette",
+        "Courteney Cox",
+        "Jamie Kennedy",
+        "Drew Barrymore"
+      ],
+      "rank": 6,
+      "id": "tt0117571",
+      "name": "Scream. Vigila quién llama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "rating": 7.438,
+      "year": 1996,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+      "genres": [
+        "Fantasía",
+        "Familia",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
+      "runtime": "125 min",
+      "director": [
+        "Dean DeBlois"
+      ],
+      "cast": [
+        "Mason Thames",
+        "Nico Parker",
+        "Gerard Butler",
+        "Nick Frost",
+        "Gabriel Howell",
+        "Julian Dennison",
+        "Bronwyn James",
+        "Harry Trevaldwyn"
+      ],
+      "rank": 7,
+      "id": "tt26743210",
+      "name": "Cómo entrenar a tu dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
+      "rating": 7.9,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
+      "runtime": "175 min",
+      "director": [
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Robert Duvall",
+        "Richard S. Castellano",
+        "Diane Keaton",
+        "Talia Shire",
+        "Gianni Russo"
+      ],
+      "rank": 8,
+      "id": "tt0068646",
+      "name": "El padrino",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+      "rating": 8.7,
+      "year": 1972,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,48 +278,12 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 4,
+      "rank": 9,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
       "rating": 8.075,
       "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kaulder es un cazador de brujas que resulta inmortal tras recibir una maldición de la todopoderosa Reina Bruja. En el mundo actual sigue defendiendo a los humanos del mal que traen estos seres sobrenaturales. Belvial, un hechicero muy poderoso, es uno de sus mayores enemigos. Atormentado por la pérdida de su familia, Kaulder es además el último miembro de su casta de cazadores de brujas.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g8DUZrgCfXRJ5CazfZ5X7qCWcvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzVwzsiAO6VYxE3j9TcZmeERgrr.png",
-      "runtime": "106 min",
-      "director": [
-        "Breck Eisner"
-      ],
-      "cast": [
-        "Vin Diesel",
-        "Rose Leslie",
-        "Elijah Wood",
-        "Ólafur Darri Ólafsson",
-        "Julie Engelbrecht",
-        "Michael Caine",
-        "Joseph Gilgun",
-        "Isaach de Bankolé"
-      ],
-      "rank": 5,
-      "id": "tt1618442",
-      "name": "El último cazador de brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg",
-      "rating": 6.026,
-      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,153 +314,11 @@
         "Marissa Bode",
         "Colman Domingo"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt19847976",
       "name": "Wicked Parte II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
-      "rating": 6.579,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png",
-      "runtime": "89 min",
-      "director": [
-        "Timo Tjahjanto"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Connie Nielsen",
-        "John Ortiz",
-        "Colin Hanks",
-        "RZA",
-        "Colin Salmon",
-        "Christopher Lloyd",
-        "Sharon Stone"
-      ],
-      "rank": 7,
-      "id": "tt28996126",
-      "name": "Nadie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
-      "rating": 6.9,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ev0PWpXvWWoWsg69hOcXjZs2Ayn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xSfU0bsDvoDsTAENYYKlI6UgDFn.png",
-      "runtime": "115 min",
-      "director": [
-        "Parker Finn"
-      ],
-      "cast": [
-        "Sosie Bacon",
-        "Kyle Gallner",
-        "Jessie T. Usher",
-        "Robin Weigert",
-        "Caitlin Stasey",
-        "Kal Penn",
-        "Rob Morgan",
-        "Gillian Zinser"
-      ],
-      "rank": 8,
-      "id": "tt15474916",
-      "name": "Smile",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
-      "rating": 6.669,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aSdhD1eDGbWN0sd6IedxFBEY4cc.png",
-      "runtime": "133 min",
-      "director": [
-        "Gareth Edwards"
-      ],
-      "cast": [
-        "Scarlett Johansson",
-        "Mahershala Ali",
-        "Jonathan Bailey",
-        "Rupert Friend",
-        "Manuel García-Rulfo",
-        "Luna Blaise",
-        "David Iacono",
-        "Audrina Miranda"
-      ],
-      "rank": 9,
-      "id": "tt31036941",
-      "name": "Jurassic World: El renacer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
-      "rating": 6.2,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Morgan es una madre joven que intenta evitar que su hija Clara, de 16 años, cometa los mismos errores que ella, que se quedó embarazada y se casó demasiado joven, teniendo que aparcar sus propios sueños. La única persona que trae paz a la tensa relación madre-hija es Chris, su marido y padre de Clara. Pero esa paz se rompe cuando un trágico y extraño accidente trae desgarradoras consecuencias para ellas. Mientras lucha por reconstruir sus vidas, Morgan encuentra consuelo en la última persona que esperaba, mientras Clara se vuelve hacia el único chico que le han prohibido ver.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/amcOpAGkcTEZqmUG1LNM2gYGCam.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iuAEWgaFLuCtSjZAOdaAPQYPEfc.png",
-      "runtime": "116 min",
-      "director": [
-        "Josh Boone"
-      ],
-      "cast": [
-        "Allison Williams",
-        "Mckenna Grace",
-        "Dave Franco",
-        "Mason Thames",
-        "Scott Eastwood",
-        "Willa Fitzgerald",
-        "Clancy Brown",
-        "Sam Morelos"
-      ],
-      "rank": 10,
-      "id": "tt33088452",
-      "name": "A pesar de ti",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg",
-      "rating": 7.083,
+      "rating": 6.6,
       "year": 2025,
       "days": null,
       "trend": {
@@ -363,5 +328,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

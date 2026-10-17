@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,39 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8,
+      "rating": 8.05,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 2,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.807,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -56,11 +87,11 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.361,
+      "rating": 8.362,
       "year": 2020,
       "days": null,
       "trend": {
@@ -70,29 +101,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "Comedia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1dUp6Fp8CSI3t689vZpvNfic3rn.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
       "director": [],
       "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
       ],
-      "rank": 3,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.801,
-      "year": 2024,
+      "rank": 4,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.007,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,42 +151,11 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 5,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.005,
+      "rating": 8.164,
       "year": 2026,
       "days": null,
       "trend": {
@@ -187,7 +187,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.22,
+      "rating": 8.221,
       "year": 2023,
       "days": null,
       "trend": {
@@ -290,28 +290,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "description": "Jimmy trata de asimilar la muerte de su esposa mientras ejerce de padre, amigo y terapeuta. Decide cambiar su forma de ser con la gente y volverse una persona completamente honesta, sin ningún tipo de filtro. ¿Conseguirá que las cosas mejoren o desatará el caos?",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qlQdtKyyjkq3kv5hHZeEcVrttvh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8lWcmMKvIbilcIMaTNTk5nEcYYS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bxcE5bPOibbuG8kTtLaSBQEGUuT.png",
       "director": [],
       "cast": [
-        "Owen Wilson",
-        "Peter Dager",
-        "Lilli Kay",
-        "Mariana Treviño",
-        "Marc Maron",
-        "Rhea Seehorn"
+        "Jason Segel",
+        "Harrison Ford",
+        "Jessica Williams",
+        "Luke Tennie",
+        "Michael Urie",
+        "Lukita Maxwell",
+        "Christa Miller",
+        "Ted McGinley"
       ],
       "rank": 10,
-      "id": "tt31710249",
-      "name": "Sticks: Cracks del golf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
-      "rating": 7.3,
-      "year": 2025,
+      "id": "tt15677150",
+      "name": "Terapia sin filtro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
+      "rating": 7.82,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

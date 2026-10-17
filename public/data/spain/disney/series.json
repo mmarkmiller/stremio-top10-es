@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -13,7 +13,9 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
-      "director": [],
+      "director": [
+        "medo lshl"
+      ],
       "cast": [
         "Paul Bettany",
         "James Spader",
@@ -28,39 +30,8 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 9.034,
+      "rating": 9,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Drama de época cuyos protagonistas son un matrimonio de espías del KGB que, en los años 80, viven cerca de Washington DC y se hacen pasar por estadounidenses. Phillip y Elizabeth Jennings tienen dos hijos que no saben nada sobre la verdadera identidad de sus padres. Tendrán que afrontar situaciones muy difícles debido al recrudecimiento de la Guerra Fría durante la presidencia de Ronald Reagan. Otro problema no menor es la creciente afinidad que siente Phillip por el modo de vida americano.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tLwEXm2nG64Tce00d59rPNI8ePh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x2sqYIeYaVMdI1mjl64MgI0vN1o.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Matthew Rhys",
-        "Holly Taylor",
-        "Keidrich Sellati",
-        "Noah Emmerich",
-        "Costa Ronin",
-        "Margo Martindale"
-      ],
-      "rank": 2,
-      "id": "tt2149175",
-      "name": "The Americans",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
-      "rating": 7.9,
-      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,11 +59,11 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.077,
+      "rating": 8.1,
       "year": 2011,
       "days": null,
       "trend": {
@@ -102,28 +73,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "description": "Drama de época cuyos protagonistas son un matrimonio de espías del KGB que, en los años 80, viven cerca de Washington DC y se hacen pasar por estadounidenses. Phillip y Elizabeth Jennings tienen dos hijos que no saben nada sobre la verdadera identidad de sus padres. Tendrán que afrontar situaciones muy difícles debido al recrudecimiento de la Guerra Fría durante la presidencia de Ronald Reagan. Otro problema no menor es la creciente afinidad que siente Phillip por el modo de vida americano.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tLwEXm2nG64Tce00d59rPNI8ePh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x2sqYIeYaVMdI1mjl64MgI0vN1o.png",
       "director": [],
       "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
+        "Keri Russell",
+        "Matthew Rhys",
+        "Holly Taylor",
+        "Keidrich Sellati",
+        "Noah Emmerich",
+        "Costa Ronin",
+        "Margo Martindale"
       ],
-      "rank": 4,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.78,
-      "year": 2026,
+      "rank": 3,
+      "id": "tt2149175",
+      "name": "The Americans",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "rating": 7.9,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -146,74 +118,12 @@
         "Scoot McNairy",
         "Quincy Tyler Bernstine"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt36303968",
       "name": "Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
       "rating": 7.4,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
-      "director": [],
-      "cast": [
-        "Quinta Brunson",
-        "Tyler James Williams",
-        "Sheryl Lee Ralph",
-        "Lisa Ann Walter",
-        "Chris Perfetti",
-        "Janelle James",
-        "William Stanford Davis"
-      ],
-      "rank": 6,
-      "id": "tt14218830",
-      "name": "Colegio Abbott",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.5,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 7,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.156,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,12 +151,42 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.752,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
+      "director": [],
+      "cast": [
+        "Masako Nozawa",
+        "Ryo Horikawa",
+        "Naoko Watanabe",
+        "Unsho Ishizuka",
+        "Koichi Yamadera"
+      ],
+      "rank": 6,
+      "id": "tt39395275",
+      "name": "Dragon Ball Super: Beerus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "rating": 9.791,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -268,7 +208,7 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
@@ -282,31 +222,93 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
         "Drama",
-        "Crimen",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
       "director": [],
       "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.156,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando el vuelo 815 se estrella en una remota isla tropical, los pasajeros deben enfrentarse a peligros ocultos y misteriosas fuerzas malignas para sobrevivir.",
+      "genres": [
+        "Misterio",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jBhcm0Rm5Uv1UaHt0TTWuRjG5G3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png",
+      "director": [],
+      "cast": [
+        "Matthew Fox",
+        "Evangeline Lilly",
+        "Terry O'Quinn",
+        "Josh Holloway",
+        "Michael Emerson",
+        "Jorge Garcia",
+        "Naveen Andrews",
+        "Jeff Fahey"
+      ],
+      "rank": 9,
+      "id": "tt0411008",
+      "name": "Perdidos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+      "rating": 7.961,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
+      "director": [],
+      "cast": [
+        "Quinta Brunson",
+        "Tyler James Williams",
+        "Sheryl Lee Ralph",
+        "Lisa Ann Walter",
+        "Chris Perfetti",
+        "Janelle James",
+        "William Stanford Davis"
       ],
       "rank": 10,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.5,
-      "year": 2022,
+      "id": "tt14218830",
+      "name": "Colegio Abbott",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
+      "rating": 7.526,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

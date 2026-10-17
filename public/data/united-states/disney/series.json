@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -13,7 +13,9 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
-      "director": [],
+      "director": [
+        "medo lshl"
+      ],
       "cast": [
         "Paul Bettany",
         "James Spader",
@@ -28,7 +30,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 9.034,
+      "rating": 9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,6 +70,37 @@
     },
     {
       "artworkVersion": 4,
+      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
+      "director": [],
+      "cast": [
+        "Ellen Pompeo",
+        "Chandra Wilson",
+        "James Pickens Jr.",
+        "Caterina Scorsone",
+        "Camilla Luddington",
+        "Jason George",
+        "Chris Carmack",
+        "Anthony Hill"
+      ],
+      "rank": 3,
+      "id": "tt0413573",
+      "name": "Anatomía de Grey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "rating": 8.205,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
       "genres": [
         "Drama",
@@ -87,7 +120,7 @@
         "Corinne Massiah",
         "Elijah M. Cooper"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
@@ -101,29 +134,59 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "description": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
       "genres": [
-        "Drama"
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aLeYq4L42atgrJn5fqHI5iRPgCO.png",
       "director": [],
       "cast": [
-        "Ellen Pompeo",
-        "Chandra Wilson",
-        "James Pickens Jr.",
-        "Caterina Scorsone",
-        "Camilla Luddington",
-        "Jason George",
-        "Chris Carmack",
-        "Anthony Hill"
+        "Malina Weissman",
+        "Malachi Barton",
+        "Jordan Leftwich",
+        "Ora Duplass",
+        "Louis Thresher",
+        "Tiffani Thiessen",
+        "Devon Sawa"
       ],
-      "rank": 4,
-      "id": "tt0413573",
-      "name": "Anatomía de Grey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "rating": 8.2,
-      "year": 2005,
+      "rank": 5,
+      "id": "tt36064406",
+      "name": "Coven Academy: El hechizo de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+      "rating": 7.667,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
+      "director": [],
+      "cast": [
+        "松本梨香",
+        "Ikue Otani",
+        "Daiki Yamashita",
+        "Kenyu Horiuchi"
+      ],
+      "rank": 6,
+      "id": "tt0168366",
+      "name": "Pokémon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
+      "rating": 7.989,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,71 +213,12 @@
         "Liza Colón-Zayas",
         "Edwin Lee Gibson"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
       "rating": 8.156,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
-      "director": [],
-      "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
-      ],
-      "rank": 6,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Agatha Harkness reúne un aquelarre de brujas y parte hacia la Senda de las Brujas.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uWObLb6mNieQ4vkGyPkbBjANNFE.png",
-      "director": [],
-      "cast": [
-        "Kathryn Hahn",
-        "Joe Locke",
-        "Sasheer Zamata",
-        "Ali Ahn",
-        "Debra Jo Rupp",
-        "Patti LuPone",
-        "Aubrey Plaza"
-      ],
-      "rank": 7,
-      "id": "tt15571732",
-      "name": "Agatha, ¿quién si no?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
-      "rating": 7.426,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -243,7 +247,7 @@
       "id": "tt0096697",
       "name": "Los Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8,
+      "rating": 8.024,
       "year": 1989,
       "days": null,
       "trend": {
@@ -253,21 +257,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "X-Men '97 vuelve a la icónica época de los años 90, donde los X-Men, un grupo de mutantes que utilizan sus asombrosos poderes para proteger a un mundo que los odia y los teme, se enfrentarán a su mayor desafío y a un nuevo, insospechado y peligroso futuro.",
+      "description": "Agatha Harkness reúne un aquelarre de brujas y parte hacia la Senda de las Brujas.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uWObLb6mNieQ4vkGyPkbBjANNFE.png",
       "director": [],
-      "cast": [],
+      "cast": [
+        "Kathryn Hahn",
+        "Joe Locke",
+        "Sasheer Zamata",
+        "Ali Ahn",
+        "Debra Jo Rupp",
+        "Patti LuPone",
+        "Aubrey Plaza"
+      ],
       "rank": 9,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
-      "rating": 8.702,
+      "id": "tt15571732",
+      "name": "Agatha, ¿quién si no?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+      "rating": 7.426,
       "year": 2024,
       "days": null,
       "trend": {
@@ -277,28 +288,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
       "genres": [
-        "Comedia"
+        "Reality",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
       "director": [],
       "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "John C. McGinley",
-        "Eliza Coupe",
-        "Kerry Bishé",
-        "Michael Mosley",
-        "Dave Franco"
+        "Alfonso Ribeiro",
+        "Julianne Hough",
+        "Derek Hough",
+        "Carrie Ann Inaba",
+        "Bruno Tonioli"
       ],
       "rank": 10,
-      "id": "tt0285403",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "rating": 8.2,
-      "year": 2001,
+      "id": "tt0463398",
+      "name": "Dancing with the Stars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "rating": 6.2,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }

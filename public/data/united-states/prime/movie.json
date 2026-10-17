@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610161907",
+  "date": "202610171801",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,34 +40,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 2,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.633,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
       "genres": [
         "Terror",
         "Misterio",
-        "Suspense"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
-      "runtime": "115 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
+      "runtime": "114 min",
       "director": [
-        "Sidney J. Furie"
+        "Kevin Williamson"
       ],
       "cast": [
-        "Barbara Hershey",
-        "Ron Silver",
-        "David Labiosa",
-        "George Coe",
-        "Margaret Blye",
-        "Jacqueline Brookes",
-        "Richard Brestoff",
-        "Michael Alldredge"
+        "Neve Campbell",
+        "Courteney Cox",
+        "Isabel May",
+        "Jasmin Savoy Brown",
+        "Mason Gooding",
+        "Roger L. Jackson",
+        "Anna Camp",
+        "Joel McHale"
       ],
-      "rank": 2,
-      "id": "tt0082334",
-      "name": "El Ente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
-      "rating": 6.9,
-      "year": 1982,
+      "rank": 3,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "rating": 6.222,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -97,11 +133,11 @@
         "Corey Johnson",
         "Michael Shelford"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt34384900",
       "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
-      "rating": 6.524,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.795,
       "year": 2026,
       "days": null,
       "trend": {
@@ -111,70 +147,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un delincuente de 19 años, Tommy, es secuestrado y obligado a un proceso de rehabilitación por una pareja disfuncional, Chris y Kathryn, que intentan convertirlo en un «buen chico». Tommy debe encontrar la forma de escapar.",
+      "description": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
       "genres": [
-        "Suspense",
-        "Drama",
-        "Misterio",
-        "Terror"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hJkcr6Gm0d1HZ0mI9C2PLJRREyf.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
       "runtime": "110 min",
       "director": [
-        "Jan Komasa"
+        "Thomas Vincent"
       ],
       "cast": [
-        "Anson Boon",
-        "Stephen Graham",
-        "Andrea Riseborough",
-        "Kit Rakusen",
-        "Monika Frajczyk",
-        "Savannah Steyn",
-        "Mila Jankowska",
-        "Callum Booth-Ford"
-      ],
-      "rank": 4,
-      "id": "tt34381258",
-      "name": "Un buen chico",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gVlWxg034R84VBgtDvlzONyt96J.jpg",
-      "rating": 7.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Stanley Tucci",
+        "Simona Tabasco",
+        "Victor Belmondo",
+        "Eliott Margueron",
+        "Bruno Bilotta",
+        "Barbara Lo Gaglio",
+        "Etienne Guillou-Kervern",
+        "Srbo Markovic"
       ],
       "rank": 5,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.635,
+      "id": "tt38672588",
+      "name": "Masterplan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": 6.983,
       "year": 2026,
       "days": null,
       "trend": {
@@ -209,78 +207,8 @@
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.342,
+      "rating": 7.3,
       "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
-      "runtime": "109 min",
-      "director": [
-        "Thomas Vincent"
-      ],
-      "cast": [
-        "Stanley Tucci",
-        "Simona Tabasco",
-        "Victor Belmondo",
-        "Eliott Margueron",
-        "Bruno Bilotta",
-        "Barbara Lo Gaglio",
-        "Etienne Guillou-Kervern",
-        "Srbo Markovic"
-      ],
-      "rank": 7,
-      "id": "tt38672588",
-      "name": "Masterplan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-      "rating": 7.8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Shadowlaw, sindicato del crimen organizado que trafica con drogas y armas por todo el mundo, se está consolidando como una amenaza mundial para todos los gobiernos democráticos de la tierra, alcanzando unos niveles de terrorismo internacional cada vez más preocupantes para la estabilidad mundial. Una investigación de la Interpol, liderada por Chun-Li y Guile, tiende como objetivo desvelar la base paramilitar desde donde se organizan los atentados terroristas de Shadowlaw, para posteriormente eliminarla bajo un ataque sorpresa. Para llevar a cabo la misión cuenta con Ryu, uno de los mejores luchadores de artes marciales del mundo. Por desgracia, su mejor amigo, Ken, ha sido capturado por Shadowlaw y convertido en un poderoso y fiel servidor... Adaptación libre del videojuego \"Street Fighter II\".",
-      "genres": [
-        "Animación",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/46HeRbztMTv4yfGfFzch0vciYZ7.png",
-      "runtime": "98 min",
-      "director": [
-        "杉井ギサブロー"
-      ],
-      "cast": [
-        "清水宏次朗",
-        "羽賀研二",
-        "藤谷美紀",
-        "Masane Tsukayama",
-        "日下武史",
-        "Kaneto Shiozawa",
-        "笹岡繁蔵",
-        "Jouji Nakata"
-      ],
-      "rank": 8,
-      "id": "tt0114563",
-      "name": "Street Fighter II: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
-      "rating": 7.1,
-      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,7 +238,7 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
@@ -324,33 +252,107 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La exhibición de un diamante de incalculable valor en el Museo de Brooklyn despierta la codicia de John Archibald Dortmunder, un ladrón que acaba de salir de la cárcel. Con la ayuda de su cuñado y de Allan, un viejo colega, da el golpe, pero con tan mala suerte que Allan es atrapado y se traga la joya.",
+      "description": "Un delincuente de 19 años, Tommy, es secuestrado y obligado a un proceso de rehabilitación por una pareja disfuncional, Chris y Kathryn, que intentan convertirlo en un «buen chico». Tommy debe encontrar la forma de escapar.",
       "genres": [
-        "Crimen",
-        "Comedia"
+        "Suspense",
+        "Drama",
+        "Misterio",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wMnsxRVGNluiOL89O4B5oDWU5I7.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hJkcr6Gm0d1HZ0mI9C2PLJRREyf.png",
+      "runtime": "110 min",
       "director": [
-        "Peter Yates"
+        "Jan Komasa"
       ],
       "cast": [
-        "Robert Redford",
-        "George Segal",
-        "Ron Leibman",
-        "Paul Sand",
-        "Moses Gunn",
-        "William Redfield",
-        "Topo Swope",
-        "Charlotte Rae"
+        "Anson Boon",
+        "Stephen Graham",
+        "Andrea Riseborough",
+        "Kit Rakusen",
+        "Monika Frajczyk",
+        "Savannah Steyn",
+        "Mila Jankowska",
+        "Callum Booth-Ford"
+      ],
+      "rank": 8,
+      "id": "tt34381258",
+      "name": "Un buen chico",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gVlWxg034R84VBgtDvlzONyt96J.jpg",
+      "rating": 7.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
+      ],
+      "rank": 9,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.075,
+      "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
+      "runtime": "115 min",
+      "director": [
+        "Sidney J. Furie"
+      ],
+      "cast": [
+        "Barbara Hershey",
+        "Ron Silver",
+        "David Labiosa",
+        "George Coe",
+        "Margaret Blye",
+        "Jacqueline Brookes",
+        "Richard Brestoff",
+        "Michael Alldredge"
       ],
       "rank": 10,
-      "id": "tt0068718",
-      "name": "Un diamante al rojo vivo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sU0I0m3gC0C5Mv0Wuk1TdegFuGb.jpg",
-      "rating": 6.5,
-      "year": 1972,
+      "id": "tt0082334",
+      "name": "El Ente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
+      "rating": 6.9,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-16T13:17:19.801Z"
+  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
 }
