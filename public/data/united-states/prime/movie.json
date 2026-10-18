@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,43 +66,7 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
-      "runtime": "114 min",
-      "director": [
-        "Kevin Williamson"
-      ],
-      "cast": [
-        "Neve Campbell",
-        "Courteney Cox",
-        "Isabel May",
-        "Jasmin Savoy Brown",
-        "Mason Gooding",
-        "Roger L. Jackson",
-        "Anna Camp",
-        "Joel McHale"
-      ],
-      "rank": 3,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "rating": 6.222,
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -125,54 +89,19 @@
       ],
       "cast": [
         "Margaret Qualley",
+        "Gabriel Basso",
         "Aaron Pierre",
         "Patrick Schwarzenegger",
-        "Gabriel Basso",
         "Catherine Keener",
         "Tamara Lawrance",
         "Corey Johnson",
         "Michael Shelford"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt34384900",
       "name": "El amor de tu vida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.795,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
-      "runtime": "110 min",
-      "director": [
-        "Thomas Vincent"
-      ],
-      "cast": [
-        "Stanley Tucci",
-        "Simona Tabasco",
-        "Victor Belmondo",
-        "Eliott Margueron",
-        "Bruno Bilotta",
-        "Barbara Lo Gaglio",
-        "Etienne Guillou-Kervern",
-        "Srbo Markovic"
-      ],
-      "rank": 5,
-      "id": "tt38672588",
-      "name": "Masterplan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-      "rating": 6.983,
+      "rating": 6.753,
       "year": 2026,
       "days": null,
       "trend": {
@@ -203,12 +132,84 @@
         "Betty Buckley",
         "P. J. Soles"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
       "rating": 7.3,
       "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
+      "runtime": "114 min",
+      "director": [
+        "Kevin Williamson"
+      ],
+      "cast": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "Isabel May",
+        "Jasmin Savoy Brown",
+        "Mason Gooding",
+        "Roger L. Jackson",
+        "Anna Camp",
+        "Joel McHale"
+      ],
+      "rank": 5,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "rating": 6.227,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
+      ],
+      "rank": 6,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.075,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,7 +243,7 @@
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
+      "rating": 7.263,
       "year": 2025,
       "days": null,
       "trend": {
@@ -252,34 +253,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un delincuente de 19 años, Tommy, es secuestrado y obligado a un proceso de rehabilitación por una pareja disfuncional, Chris y Kathryn, que intentan convertirlo en un «buen chico». Tommy debe encontrar la forma de escapar.",
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
       "genres": [
-        "Suspense",
-        "Drama",
-        "Misterio",
-        "Terror"
+        "Comedia",
+        "Familia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hJkcr6Gm0d1HZ0mI9C2PLJRREyf.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
       "director": [
-        "Jan Komasa"
+        "Kyle Balda"
       ],
       "cast": [
-        "Anson Boon",
-        "Stephen Graham",
-        "Andrea Riseborough",
-        "Kit Rakusen",
-        "Monika Frajczyk",
-        "Savannah Steyn",
-        "Mila Jankowska",
-        "Callum Booth-Ford"
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
       ],
       "rank": 8,
-      "id": "tt34381258",
-      "name": "Un buen chico",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gVlWxg034R84VBgtDvlzONyt96J.jpg",
-      "rating": 7.3,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.919,
       "year": 2026,
       "days": null,
       "trend": {
@@ -289,34 +289,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "description": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png",
+      "runtime": "110 min",
       "director": [
-        "John Carpenter"
+        "Thomas Vincent"
       ],
       "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
+        "Stanley Tucci",
+        "Simona Tabasco",
+        "Victor Belmondo",
+        "Eliott Margueron",
+        "Bruno Bilotta",
+        "Barbara Lo Gaglio",
+        "Etienne Guillou-Kervern",
+        "Srbo Markovic"
       ],
       "rank": 9,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.075,
-      "year": 1982,
+      "id": "tt38672588",
+      "name": "Masterplan",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": 7.267,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,34 +324,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Presuntamente basada en hechos reales, narra el relato de una madre soltera (Barbar Hershey) perseguida y violada por un ser demoniaco que acude a la ayuda de un psiquiatra (Ron Silver), pero él cree que todo está en su cabeza.",
+      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Romance",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l7a6pA9eKB03hCD3uD0TQj2vRdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h4vYHcCqeBMMaZ0asCdzbrmFcGm.png",
-      "runtime": "115 min",
+      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+      "runtime": "110 min",
       "director": [
-        "Sidney J. Furie"
+        "Claire Scanlon"
       ],
       "cast": [
-        "Barbara Hershey",
-        "Ron Silver",
-        "David Labiosa",
-        "George Coe",
-        "Margaret Blye",
-        "Jacqueline Brookes",
-        "Richard Brestoff",
-        "Michael Alldredge"
+        "Lili Reinhart",
+        "Tom Bateman",
+        "Rachel Marsh",
+        "Jaboukie Young-White",
+        "Nicholas Duvernay",
+        "Arty Froushan",
+        "Jeananne Goossen",
+        "Aladeen Tawfeek"
       ],
       "rank": 10,
-      "id": "tt0082334",
-      "name": "El Ente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
-      "rating": 6.9,
-      "year": 1982,
+      "id": "tt22526100",
+      "name": "La hipótesis del amor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "rating": 8.019,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

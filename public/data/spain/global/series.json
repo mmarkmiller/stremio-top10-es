@@ -2,14 +2,14 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
       "genres": [
-        "Misterio",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
@@ -24,36 +24,8 @@
       "rank": 1,
       "id": "tt23148340",
       "name": "Crystal Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
-      "rating": 8.184,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qqZuLcgCGqIk8VSBEoPCIEhQeCx.png",
-      "director": [],
-      "cast": [
-        "Omar Ayuso",
-        "Laia Marull",
-        "Valentina Vidal",
-        "Raúl Arévalo"
-      ],
-      "rank": 2,
-      "id": "tt39216741",
-      "name": "El Castillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
-      "rating": 8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -82,11 +54,42 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.337,
+      "rating": 8.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 3,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.248,
       "year": 2026,
       "days": null,
       "trend": {
@@ -118,8 +121,36 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.5,
+      "rating": 8.52,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qqZuLcgCGqIk8VSBEoPCIEhQeCx.png",
+      "director": [],
+      "cast": [
+        "Omar Ayuso",
+        "Laia Marull",
+        "Valentina Vidal",
+        "Raúl Arévalo"
+      ],
+      "rank": 5,
+      "id": "tt39216741",
+      "name": "El Castillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,42 +179,11 @@
         "Diane Morgan",
         "Ben Crompton"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "rating": 9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 6,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.267,
       "year": 2026,
       "days": null,
       "trend": {
@@ -204,51 +204,19 @@
       "cast": [
         "Keri Russell",
         "Rufus Sewell",
-        "David Gyasi",
         "Ali Ahn",
         "Rory Kinnear",
         "Ato Essandoh",
         "Bradley Whitford",
-        "Allison Janney"
+        "Allison Janney",
+        "Nana Mensah"
       ],
       "rank": 7,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.603,
+      "rating": 7.6,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 8,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.362,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,7 +243,7 @@
         "Bruno Sevilla",
         "Adriana Torrebejano"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt20883126",
       "name": "Reina roja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
@@ -289,30 +257,60 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
       "genres": [
-        "Crimen",
         "Drama",
-        "Misterio"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
       "director": [],
       "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Hoon Lee",
+        "Ciarán Hinds",
+        "Joseph Zada"
+      ],
+      "rank": 9,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
       ],
       "rank": 10,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.05,
-      "year": 2022,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.363,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

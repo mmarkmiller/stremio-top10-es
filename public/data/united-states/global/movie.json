@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.445,
+      "rating": 7.444,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.838,
+      "rating": 6.834,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,33 +76,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "runtime": "109 min",
       "director": [
-        "Michael Sarnoski"
+        "Curry Barker"
       ],
       "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
       ],
       "rank": 3,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.7,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "rating": 8.177,
       "year": 2026,
       "days": null,
       "trend": {
@@ -138,113 +137,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.007,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "genres": [
-        "Aventura",
-        "Comedia",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
-      "director": [
-        "Romain Gavras"
-      ],
-      "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Yung Lean",
-        "Sam Richardson"
-      ],
-      "rank": 5,
-      "id": "tt32268992",
-      "name": "Sacrifice",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.575,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 6,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "runtime": "109 min",
-      "director": [
-        "Curry Barker"
-      ],
-      "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald",
-        "Darin Toonder",
-        "Anthony Pavone"
-      ],
-      "rank": 7,
-      "id": "tt37287335",
-      "name": "Obsession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.178,
+      "rating": 7.01,
       "year": 2026,
       "days": null,
       "trend": {
@@ -276,11 +169,46 @@
         "Sarah Sherman",
         "Patrick Fischler"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt35298123",
       "name": "Adolescencia, sexo y muerte en campamento Miasma",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.196,
+      "rating": 6.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "rank": 6,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -310,12 +238,84 @@
         "Ron Funches",
         "Ahmed Bharoocha"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt9572534",
       "name": "Brazo de oro",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
       "rating": 5.4,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 8,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.635,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
+      "director": [
+        "Romain Gavras"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Sam Richardson",
+        "Zarene Dallas"
+      ],
+      "rank": 9,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.531,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -349,7 +349,7 @@
       "id": "tt31349844",
       "name": "Entrega al límite",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "rating": 8.311,
+      "rating": 8.326,
       "year": 2026,
       "days": null,
       "trend": {
@@ -359,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
@@ -60,7 +60,7 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.563,
+      "rating": 8.6,
       "year": 2014,
       "days": null,
       "trend": {
@@ -91,7 +91,7 @@
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "rating": 8.205,
+      "rating": 8.2,
       "year": 2005,
       "days": null,
       "trend": {
@@ -124,7 +124,7 @@
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.223,
+      "rating": 8.2,
       "year": 2018,
       "days": null,
       "trend": {
@@ -156,7 +156,7 @@
       "id": "tt36064406",
       "name": "Coven Academy: El hechizo de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-      "rating": 7.667,
+      "rating": 7.588,
       "year": 2026,
       "days": null,
       "trend": {
@@ -195,6 +195,36 @@
     },
     {
       "artworkVersion": 4,
+      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+      "director": [],
+      "cast": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer"
+      ],
+      "rank": 7,
+      "id": "tt0096697",
+      "name": "Los Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "rating": 8.024,
+      "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
         "Drama",
@@ -213,7 +243,7 @@
         "Liza Colón-Zayas",
         "Edwin Lee Gibson"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt14452776",
       "name": "The Bear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
@@ -227,28 +257,21 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
       "genres": [
-        "Animación",
-        "Comedia"
+        "Comedia",
+        "Talk"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yRfroDcvczmBqyoM0VpTggBG7kO.jpg",
       "director": [],
       "cast": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Hank Azaria",
-        "Harry Shearer"
+        "Hasan Can Kaya"
       ],
-      "rank": 8,
-      "id": "tt0096697",
-      "name": "Los Simpson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.024,
-      "year": 1989,
+      "rank": 9,
+      "id": "tt13667230",
+      "name": "Konuşanlar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eH7TNhmGtpassN9O7GfZGNY8Czb.jpg",
+      "rating": 6.043,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,40 +297,12 @@
         "Patti LuPone",
         "Aubrey Plaza"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt15571732",
       "name": "Agatha, ¿quién si no?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
-      "rating": 7.426,
+      "rating": 7.421,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
-      "director": [],
-      "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
-      ],
-      "rank": 10,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.2,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

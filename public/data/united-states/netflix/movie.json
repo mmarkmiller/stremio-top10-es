@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "genres": [
-        "Aventura",
-        "Comedia",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
-      "director": [
-        "Romain Gavras"
-      ],
-      "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Yung Lean",
-        "Sam Richardson"
-      ],
-      "rank": 1,
-      "id": "tt32268992",
-      "name": "Sacrifice",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.575,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
@@ -63,11 +27,47 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.11,
+      "rating": 7.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
+      "director": [
+        "Romain Gavras"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Sam Richardson",
+        "Zarene Dallas"
+      ],
+      "rank": 2,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.531,
       "year": 2026,
       "days": null,
       "trend": {
@@ -97,11 +97,11 @@
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.4,
+      "rating": 6.405,
       "year": 1980,
       "days": null,
       "trend": {
@@ -111,141 +111,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
+      "runtime": "83 min",
       "director": [
-        "Josephine Bornebusch"
+        "Tobe Hooper"
       ],
       "cast": [
-        "Gustaf Skarsgård",
-        "Aliette Opheim",
-        "Filip Berg",
-        "Josephine Bornebusch",
-        "Jonas Karlsson",
-        "Johan Rheborg",
-        "Henrik Dorsin",
-        "Christopher Wagelin"
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen"
       ],
       "rank": 5,
-      "id": "tt37070354",
-      "name": "La tormenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-      "rating": 7.559,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 6,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.956,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kMRdsjSHifqGZPfHdZIS8YfNMk0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfd1ahFR6bbTE1M91h3o2gUsiYL.png",
-      "runtime": "170 min",
-      "director": [
-        "Michael Mann"
-      ],
-      "cast": [
-        "Al Pacino",
-        "Robert De Niro",
-        "Val Kilmer",
-        "Jon Voight",
-        "Tom Sizemore",
-        "Diane Venora",
-        "Amy Brenneman",
-        "Ashley Judd"
-      ],
-      "rank": 7,
-      "id": "tt0113277",
-      "name": "Heat",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
-      "rating": 7.943,
-      "year": 1995,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 8,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.604,
-      "year": 2023,
+      "id": "tt0072271",
+      "name": "La matanza de Texas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
+      "rating": 7.289,
+      "year": 1974,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,11 +167,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.586,
+      "rating": 6.585,
       "year": 2026,
       "days": null,
       "trend": {
@@ -290,34 +181,141 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "James Ashcroft"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 7,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.604,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 8,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.956,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
+      "runtime": "100 min",
+      "director": [
+        "Eric Appel"
+      ],
+      "cast": [
+        "Nate Bargatze",
+        "Mandy Moore",
+        "Stella Grace Fitzgerald",
+        "Birdie Borria",
+        "Charlotte Ann Tucker",
+        "Colin Jost",
+        "Will Forte",
+        "Martin Herlihy"
+      ],
+      "rank": 9,
+      "id": "tt34459219",
+      "name": "Cambio de roles",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
+      "rating": 7.035,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
+      "runtime": "130 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie"
       ],
       "rank": 10,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.861,
-      "year": 2026,
+      "id": "tt0482571",
+      "name": "El truco final (El prestigio)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "rating": 8.212,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

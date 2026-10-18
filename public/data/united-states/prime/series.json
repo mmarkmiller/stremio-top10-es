@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,8 +29,40 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.337,
+      "rating": 8.3,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
+      "director": [],
+      "cast": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "Madison Iseman",
+        "P.J. Byrne",
+        "Dan Fogler",
+        "Wade Briggs",
+        "Robyn Cara",
+        "John Slattery"
+      ],
+      "rank": 2,
+      "id": "tt6151526",
+      "name": "Legítima defensa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+      "rating": 7.7,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -58,44 +90,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.079,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
-      "director": [],
-      "cast": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "Madison Iseman",
-        "P.J. Byrne",
-        "Dan Fogler",
-        "Wade Briggs",
-        "Robyn Cara",
-        "John Slattery"
-      ],
-      "rank": 3,
-      "id": "tt6151526",
-      "name": "Legítima defensa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.7,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -124,38 +124,8 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.563,
+      "rating": 8.6,
       "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
-      "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
-      ],
-      "rank": 5,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.132,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,7 +152,7 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
@@ -196,29 +166,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "genres": [
-        "Animación",
-        "Comedia",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
       "director": [],
       "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
       ],
-      "rank": 7,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.53,
-      "year": 2020,
+      "rank": 6,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.131,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +214,7 @@
         "Liza Weil",
         "Sean Gunn"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0238784",
       "name": "Las chicas Gilmore",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
@@ -259,31 +228,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "DS Steve Arnott es transferido a la unidad de policía anti-corrupción después de la muerte del hombre equivocado en un tiroteo durante una operación antiterrorista por otro policía. La nueva unidad, AC12, liderada por Ted Hastings, se ocupa de los casos de corrupción que hay dentro del cuerpo de policía. El inspector jefe Tony Gates, recientemente galardonado con un premio anual, entró en la mira de los agentes de la unidad especial. Poco a poco van descubriendo que la corrupción puede llegar más allá de lo que pensaban.",
+      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
       "genres": [
-        "Crimen",
+        "Animación",
+        "Comedia",
         "Drama",
-        "Misterio"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wZdrBzx55lRWNlNxCNwxYrStZqb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/FQvALaMnYOsdovrM2qbjMQOm9N.png",
+      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
       "director": [],
       "cast": [
-        "Martin Compston",
-        "Vicky McClure",
-        "Adrian Dunbar",
-        "Gregory Piper",
-        "Nigel Boyle",
-        "Kelly Macdonald",
-        "Owen Teale",
-        "Anneika Rose"
+        "Brandon Rogers",
+        "Richard Steven Horvitz",
+        "Vivian Nixon",
+        "Erica Lindbeck",
+        "Bryce Pinkham"
       ],
-      "rank": 9,
-      "id": "tt2303687",
-      "name": "Line of Duty",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
-      "rating": 8.222,
-      "year": 2012,
+      "rank": 8,
+      "id": "tt10691770",
+      "name": "Helluva Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "rating": 7.5,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -292,28 +259,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
+      "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
       "director": [],
       "cast": [
-        "Jason Beghe",
-        "Marina Squerciati",
-        "Patrick John Flueger",
-        "Benjamin Levy Aguilar",
-        "Arienne Mandi",
-        "Amy Morton"
+        "Jared Padalecki",
+        "Jensen Ackles",
+        "Misha Collins"
+      ],
+      "rank": 9,
+      "id": "tt0460681",
+      "name": "Sobrenatural",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "rating": 8.3,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Para salvar a su familia, Perséfone se casa con un duque frío y distante, sin imaginar que despertaría un amor que podría cambiarlos a ambos para siempre.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/x0zAZmhH4Pbo6PctR5WzWoJ7SAV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Ac42oCOOZFCfrprxyq6DHWlJ0Dp.png",
+      "director": [],
+      "cast": [
+        "Ryann Bailey",
+        "Jake Stormoen",
+        "Toby-Alexander Smith",
+        "Catherine Hannay",
+        "Charlotte Hemmings",
+        "Stevie Raine",
+        "Eva Cambers",
+        "Willow Bell"
       ],
       "rank": 10,
-      "id": "tt2805096",
-      "name": "Chicago P.D.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
-      "rating": 8.419,
-      "year": 2014,
+      "id": "tt29666911",
+      "name": "En busca de Perséfone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+      "rating": 8.778,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

@@ -2,42 +2,8 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
-      "runtime": "97 min",
-      "director": [
-        "Hernán Goldfrid"
-      ],
-      "cast": [
-        "Ricardo Darín",
-        "Diego Peretti",
-        "Inés Efrón",
-        "Carlos Santamaría",
-        "Miriam Odorico",
-        "Antonia Bengochea",
-        "Andrea Politti",
-        "Patricia Echegoyen"
-      ],
-      "rank": 1,
-      "id": "tt37027309",
-      "name": "Lo dejamos acá",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
@@ -61,11 +27,45 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.11,
+      "rating": 7.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+      "runtime": "97 min",
+      "director": [
+        "Hernán Goldfrid"
+      ],
+      "cast": [
+        "Ricardo Darín",
+        "Diego Peretti",
+        "Inés Efrón",
+        "Carlos Santamaría",
+        "Miriam Odorico",
+        "Antonia Bengochea",
+        "Andrea Politti",
+        "Patricia Echegoyen"
+      ],
+      "rank": 2,
+      "id": "tt37027309",
+      "name": "Lo dejamos acá",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+      "rating": 7.386,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,75 +101,7 @@
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.586,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
-      "runtime": "97 min",
-      "director": [
-        "Arantxa Echevarría"
-      ],
-      "cast": [
-        "Hugo Silva",
-        "Susi Sánchez",
-        "Dafne Fernández",
-        "Jaime Olías",
-        "Ginés García Millán",
-        "Diego Anido",
-        "Belén Rueda",
-        "Pedro Casablanc"
-      ],
-      "rank": 4,
-      "id": "tt36120484",
-      "name": "Cada día nace un listo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
-      "runtime": "101 min",
-      "director": [
-        "Josephine Bornebusch"
-      ],
-      "cast": [
-        "Gustaf Skarsgård",
-        "Aliette Opheim",
-        "Filip Berg",
-        "Josephine Bornebusch",
-        "Jonas Karlsson",
-        "Johan Rheborg",
-        "Henrik Dorsin",
-        "Christopher Wagelin"
-      ],
-      "rank": 5,
-      "id": "tt37070354",
-      "name": "La tormenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-      "rating": 7.559,
+      "rating": 6.585,
       "year": 2026,
       "days": null,
       "trend": {
@@ -201,11 +133,11 @@
         "Hamish Linklater",
         "Will Brill"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt11561116",
       "name": "Susurran tu nombre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.861,
+      "rating": 6.849,
       "year": 2026,
       "days": null,
       "trend": {
@@ -215,32 +147,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
-        "Drama"
+        "Romance",
+        "Fantasía",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6X3lVeDeOcEKiadSHP2XT80ZtI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
       "director": [
-        "Anne Sewitsky"
+        "Griffin Dunne"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
       ],
-      "rank": 7,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.3,
-      "year": 2015,
+      "rank": 5,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.829,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -249,33 +183,102 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "description": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
       "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
+      "runtime": "97 min",
       "director": [
-        "John Krasinski"
+        "Arantxa Echevarría"
       ],
       "cast": [
+        "Hugo Silva",
+        "Susi Sánchez",
+        "Dafne Fernández",
+        "Jaime Olías",
+        "Ginés García Millán",
+        "Diego Anido",
+        "Belén Rueda",
+        "Pedro Casablanc"
+      ],
+      "rank": 6,
+      "id": "tt36120484",
+      "name": "Cada día nace un listo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
+      "rating": 4.667,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMBkLIzQXh5mtHLPASR9vr6D9Rd.png",
+      "runtime": "181 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Cillian Murphy",
         "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Florence Pugh",
+        "Josh Hartnett",
+        "Casey Affleck",
+        "Rami Malek"
+      ],
+      "rank": 7,
+      "id": "tt15398776",
+      "name": "Oppenheimer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "rating": 8.022,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
+      "director": [
+        "Cameron Cairnes",
+        "Colin Cairnes"
+      ],
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
       ],
       "rank": 8,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.085,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,7 +312,7 @@
       "id": "tt5606664",
       "name": "Doctor Sueño",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gucnaxqpzEDycFmPwwqjiwvemA.jpg",
-      "rating": 7.149,
+      "rating": 7.1,
       "year": 2019,
       "days": null,
       "trend": {
@@ -319,32 +322,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre viudo se muda a su nuevo hogar aparentemente perfecto con su hija y su nueva mujer. A medida que se enteran de los mortales secretos de su nueva casa, es posible que se conviertan en el nuevo capítulo de su terrorífica historia.",
+      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/abYksHVv56UF1HKJpc4DNHGaWuX.jpg",
-      "runtime": "88 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
+      "runtime": "101 min",
       "director": [
-        "Phil Claydon"
+        "Josephine Bornebusch"
       ],
       "cast": [
-        "Michael Vartan",
-        "Erin Moriarty",
-        "Nadine Velazquez",
-        "Ronnie Gene Blevins",
-        "JoBeth Williams",
-        "Blake Jenner",
-        "Dorian Kingi",
-        "Misty Upham"
+        "Gustaf Skarsgård",
+        "Aliette Opheim",
+        "Filip Berg",
+        "Josephine Bornebusch",
+        "Jonas Karlsson",
+        "Johan Rheborg",
+        "Henrik Dorsin",
+        "Christopher Wagelin"
       ],
       "rank": 10,
-      "id": "tt3612320",
-      "name": "En el interior",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1XEs9iyeAmbLPwIPS05FvF3LPZ5.jpg",
-      "rating": 5.445,
-      "year": 2016,
+      "id": "tt37070354",
+      "name": "La tormenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "rating": 6.548,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T13:15:50.149Z"
 }

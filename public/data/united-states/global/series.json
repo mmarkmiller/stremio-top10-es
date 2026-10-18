@@ -2,14 +2,14 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
       "genres": [
-        "Misterio",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
@@ -24,8 +24,8 @@
       "rank": 1,
       "id": "tt23148340",
       "name": "Crystal Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
-      "rating": 8.184,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -58,7 +58,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.337,
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -79,19 +79,50 @@
       "cast": [
         "Keri Russell",
         "Rufus Sewell",
-        "David Gyasi",
         "Ali Ahn",
         "Rory Kinnear",
         "Ato Essandoh",
         "Bradley Whitford",
-        "Allison Janney"
+        "Allison Janney",
+        "Nana Mensah"
       ],
       "rank": 3,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.603,
+      "rating": 7.6,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 4,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.248,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,42 +151,11 @@
         "Diane Morgan",
         "Ben Crompton"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "rating": 9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 5,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.267,
       "year": 2026,
       "days": null,
       "trend": {
@@ -199,7 +199,8 @@
       "artworkVersion": 4,
       "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crimen"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
@@ -226,30 +227,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6tKY8AvGrO5zh2WdaQyQf610Cf8.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
       "director": [],
       "cast": [
-        "Tom Hardy",
-        "Pierce Brosnan",
-        "Paddy Considine",
-        "Joanne Froggatt",
-        "Lara Pulver",
-        "Anson Boon",
-        "Mandeep Dhillon",
-        "Jasmine Jobson"
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "Madison Iseman",
+        "P.J. Byrne",
+        "Dan Fogler",
+        "Wade Briggs",
+        "Robyn Cara",
+        "John Slattery"
       ],
       "rank": 8,
-      "id": "tt31510819",
-      "name": "Tierra de mafiosos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.5,
+      "id": "tt6151526",
+      "name": "Legítima defensa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+      "rating": 7.7,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 9,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,40 +304,12 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.807,
+      "rating": 7.8,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
-      ],
-      "rank": 10,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.237,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }

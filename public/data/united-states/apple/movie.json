@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610171801",
+  "date": "202610181820",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,79 +31,7 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
-      "director": [
-        "Sam Hargrave"
-      ],
-      "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
-      ],
-      "rank": 2,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.848,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
-      "runtime": "111 min",
-      "director": [
-        "Jonathan Goldstein",
-        "John Francis Daley"
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Maria Bakalova",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
-      ],
-      "rank": 3,
-      "id": "tt28014327",
-      "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.9,
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,12 +64,84 @@
         "Glenn Mendelson",
         "Ann Altieri"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
       "rating": 7.533,
       "year": 1966,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
+      "runtime": "127 min",
+      "director": [
+        "Sam Hargrave"
+      ],
+      "cast": [
+        "John Cena",
+        "Jessica Biel",
+        "Arturo Castro",
+        "Sam Richardson",
+        "Teyonah Parris",
+        "Danai Gurira",
+        "گلشیفته فراهانی",
+        "Corey Stoll"
+      ],
+      "rank": 3,
+      "id": "tt28498219",
+      "name": "Matchbox: La película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "rating": 7.829,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+      "runtime": "111 min",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Maria Bakalova",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
+      ],
+      "rank": 4,
+      "id": "tt28014327",
+      "name": "Mayday",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+      "rating": 7.917,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -210,7 +210,7 @@
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.2,
+      "rating": 8.166,
       "year": 1997,
       "days": null,
       "trend": {
@@ -246,44 +246,8 @@
       "id": "tt0289043",
       "name": "28 días después",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.245,
+      "rating": 7.2,
       "year": 2002,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esperando poder distanciarse de la acusación de difamación que pesa sobre él, el periodista Mikael Blomkvist se traslada a una isla remota en el norte de Suecia donde la muerte aún no resuelta de una joven atormenta a su tío cuarenta años después. Alojado en una cabaña de la isla donde el asesino puede estar aún rondando, la investigación de Blomkvist le lleva a dibujar los secretos y mentiras de esta poderosa y rica familia junto a una rara aliada, la tatuada y hacker punki, Lisbeth Salander...",
-      "genres": [
-        "Suspense",
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qYptrlNgv8EeoXECnUb4FbH6HxD.png",
-      "runtime": "158 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Daniel Craig",
-        "Rooney Mara",
-        "Christopher Plummer",
-        "Stellan Skarsgård",
-        "Robin Wright",
-        "Yorick van Wageningen",
-        "Steven Berkoff",
-        "Joely Richardson"
-      ],
-      "rank": 8,
-      "id": "tt1568346",
-      "name": "Millennium: Los hombres que no amaban a las mujeres",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13lnsvTZ6534dupLhVIkr0b83un.jpg",
-      "rating": 7.387,
-      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -314,11 +278,11 @@
         "Matthew McConaughey",
         "Tom Cruise"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0942385",
       "name": "Tropic Thunder, ¡una guerra muy perra!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
-      "rating": 6.731,
+      "rating": 6.73,
       "year": 2008,
       "days": null,
       "trend": {
@@ -349,11 +313,47 @@
         "Sarah Niles",
         "Will Merrick"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt16311594",
       "name": "F1 la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.826,
+      "rating": 7.828,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6x0H4KhOW9j4H3lGk6q1JO0Udl.png",
+      "runtime": "114 min",
+      "director": [
+        "David Freyne"
+      ],
+      "cast": [
+        "Elizabeth Olsen",
+        "Miles Teller",
+        "Callum Turner",
+        "Da'Vine Joy Randolph",
+        "John Early",
+        "Barry Primus",
+        "Betty Buckley",
+        "Darryl Scheelar"
+      ],
+      "rank": 10,
+      "id": "tt24950660",
+      "name": "Eternity",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
+      "rating": 7.12,
       "year": 2025,
       "days": null,
       "trend": {
@@ -363,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-17T13:12:54.136Z"
+  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
 }
