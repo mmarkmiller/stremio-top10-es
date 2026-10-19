@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610181820",
+  "date": "202610192047",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
+      "director": [
+        "Romain Gavras"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Sam Richardson",
+        "Zarene Dallas"
+      ],
+      "rank": 1,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.241,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
@@ -27,47 +63,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "genres": [
-        "Aventura",
-        "Comedia",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
-      "director": [
-        "Romain Gavras"
-      ],
-      "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Sam Richardson",
-        "Zarene Dallas"
-      ],
-      "rank": 2,
-      "id": "tt32268992",
-      "name": "Sacrifice",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.531,
+      "rating": 6.995,
       "year": 2026,
       "days": null,
       "trend": {
@@ -111,6 +111,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Brasil, 1971. Un país en las garras de una dictadura militar. Una madre se ve obligada a reinventarse cuando la vida de su familia se ve destrozada por un acto de violencia arbitraria.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t5XMGJryVcZ0iglPBMB3zU3UUjj.png",
+      "runtime": "137 min",
+      "director": [
+        "Walter Salles"
+      ],
+      "cast": [
+        "Fernanda Torres",
+        "Fernanda Montenegro",
+        "Selton Mello",
+        "Valentina Herszage",
+        "Maria Manoella",
+        "Bárbara Luz",
+        "Gabriela Carneiro da Cunha",
+        "Luiza Kosovski"
+      ],
+      "rank": 4,
+      "id": "tt14961016",
+      "name": "Aún estoy aquí",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
+      "rating": 7.914,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
       "genres": [
         "Terror"
@@ -131,12 +166,48 @@
         "Jim Siedow",
         "Gunnar Hansen"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0072271",
       "name": "La matanza de Texas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.289,
+      "rating": 7.3,
       "year": 1974,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
+      "runtime": "130 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie"
+      ],
+      "rank": 7,
+      "id": "tt0482571",
+      "name": "El truco final (El prestigio)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "rating": 8.212,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,11 +238,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.585,
+      "rating": 6.584,
       "year": 2026,
       "days": null,
       "trend": {
@@ -203,11 +274,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.604,
+      "rating": 7.6,
       "year": 2023,
       "days": null,
       "trend": {
@@ -217,105 +288,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "description": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
       "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eU4uwCFPl89AQ9zyFCtgBC3Ch5U.png",
+      "runtime": "105 min",
       "director": [
-        "M. Night Shyamalan"
+        "Gore Verbinski"
       ],
       "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 8,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.956,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supermamá consigue un lucrativo contrato laboral y cambia los papeles con su marido, que es el sostén de la familia. Él lucha por adaptarse como padre que se queda en casa con sus tres hijas.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jQ89PbSNQ1mcd4YZiaLsiIaflFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yhzDKz6nFFhqZTX31trkOpFNm5V.png",
-      "runtime": "100 min",
-      "director": [
-        "Eric Appel"
-      ],
-      "cast": [
-        "Nate Bargatze",
-        "Mandy Moore",
-        "Stella Grace Fitzgerald",
-        "Birdie Borria",
-        "Charlotte Ann Tucker",
-        "Colin Jost",
-        "Will Forte",
-        "Martin Herlihy"
-      ],
-      "rank": 9,
-      "id": "tt34459219",
-      "name": "Cambio de roles",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fk3hT9buF7V4D9LLrXVHFdaHHDi.jpg",
-      "rating": 7.035,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
-      "runtime": "130 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Christian Bale",
-        "Michael Caine",
-        "Piper Perabo",
-        "Rebecca Hall",
-        "Scarlett Johansson",
-        "Samantha Mahurin",
-        "David Bowie"
+        "Naomi Watts",
+        "Martin Henderson",
+        "David Dorfman",
+        "Brian Cox",
+        "Jane Alexander",
+        "Lindsay Frost",
+        "Amber Tamblyn",
+        "Rachael Bella"
       ],
       "rank": 10,
-      "id": "tt0482571",
-      "name": "El truco final (El prestigio)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
-      "rating": 8.212,
-      "year": 2006,
+      "id": "tt0298130",
+      "name": "The Ring (La señal)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
+      "rating": 6.711,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
+  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
 }

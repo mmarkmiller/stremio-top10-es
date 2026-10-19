@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610181820",
+  "date": "202610192047",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,41 +31,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
-      "runtime": "97 min",
-      "director": [
-        "Hernán Goldfrid"
-      ],
-      "cast": [
-        "Ricardo Darín",
-        "Diego Peretti",
-        "Inés Efrón",
-        "Carlos Santamaría",
-        "Miriam Odorico",
-        "Antonia Bengochea",
-        "Andrea Politti",
-        "Patricia Echegoyen"
-      ],
-      "rank": 2,
-      "id": "tt37027309",
-      "name": "Lo dejamos acá",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-      "rating": 7.386,
+      "rating": 6.995,
       "year": 2026,
       "days": null,
       "trend": {
@@ -97,11 +63,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.585,
+      "rating": 6.584,
       "year": 2026,
       "days": null,
       "trend": {
@@ -111,34 +77,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+      "runtime": "97 min",
       "director": [
-        "James Ashcroft"
+        "Hernán Goldfrid"
       ],
       "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
+        "Ricardo Darín",
+        "Diego Peretti",
+        "Inés Efrón",
+        "Carlos Santamaría",
+        "Miriam Odorico",
+        "Antonia Bengochea",
+        "Andrea Politti",
+        "Patricia Echegoyen"
+      ],
+      "rank": 3,
+      "id": "tt37027309",
+      "name": "Lo dejamos acá",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+      "rating": 7.703,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
+      "director": [
+        "Cameron Cairnes",
+        "Colin Cairnes"
+      ],
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
       ],
       "rank": 4,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.849,
-      "year": 2026,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.086,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -173,7 +172,7 @@
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.829,
+      "rating": 6.824,
       "year": 1998,
       "days": null,
       "trend": {
@@ -183,30 +182,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
       "director": [
-        "Arantxa Echevarría"
+        "James Ashcroft"
       ],
       "cast": [
-        "Hugo Silva",
-        "Susi Sánchez",
-        "Dafne Fernández",
-        "Jaime Olías",
-        "Ginés García Millán",
-        "Diego Anido",
-        "Belén Rueda",
-        "Pedro Casablanc"
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
       ],
       "rank": 6,
-      "id": "tt36120484",
-      "name": "Cada día nace un listo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
-      "rating": 4.667,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.845,
       "year": 2026,
       "days": null,
       "trend": {
@@ -252,33 +254,65 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "description": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
       "genres": [
-        "Terror"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
+      "runtime": "97 min",
       "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
+        "Arantxa Echevarría"
       ],
       "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
+        "Hugo Silva",
+        "Susi Sánchez",
+        "Dafne Fernández",
+        "Jaime Olías",
+        "Ginés García Millán",
+        "Diego Anido",
+        "Belén Rueda",
+        "Pedro Casablanc"
       ],
       "rank": 8,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.085,
-      "year": 2024,
+      "id": "tt36120484",
+      "name": "Cada día nace un listo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
+      "rating": 4.667,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hank Palmer, un importante abogado, regresa a su hogar tras la muerte de su madre. Se entera entonces de que su padre, que es el juez del pueblo y de quien está distanciado, es sospechoso de haber cometido un crimen. Su decisión de investigar el caso lo lleva poco a poco a restablecer con los suyos una relación que estaba rota.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9W02KZYKLoINpqpJ2yv8ATxR1AK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Xx7XzstHq8JMRei4uyt7tETrjx.png",
+      "runtime": "141 min",
+      "director": [
+        "David Dobkin"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Robert Duvall",
+        "Vera Farmiga",
+        "Vincent D'Onofrio",
+        "Jeremy Strong",
+        "Dax Shepard",
+        "Billy Bob Thornton",
+        "Leighton Meester"
+      ],
+      "rank": 9,
+      "id": "tt1872194",
+      "name": "El juez",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jx7hoRR16VKitQLaDQc55YvmJ2D.jpg",
+      "rating": 7.329,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,47 +342,12 @@
         "Selena Anduze",
         "Robert Longstreet"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt5606664",
       "name": "Doctor Sueño",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gucnaxqpzEDycFmPwwqjiwvemA.jpg",
-      "rating": 7.1,
+      "rating": 7.148,
       "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
-      "runtime": "101 min",
-      "director": [
-        "Josephine Bornebusch"
-      ],
-      "cast": [
-        "Gustaf Skarsgård",
-        "Aliette Opheim",
-        "Filip Berg",
-        "Josephine Bornebusch",
-        "Jonas Karlsson",
-        "Johan Rheborg",
-        "Henrik Dorsin",
-        "Christopher Wagelin"
-      ],
-      "rank": 10,
-      "id": "tt37070354",
-      "name": "La tormenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-      "rating": 6.548,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-18T13:15:50.149Z"
+  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
 }

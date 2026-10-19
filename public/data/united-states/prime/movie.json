@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610181820",
+  "date": "202610192047",
   "entries": [
     {
       "artworkVersion": 4,
@@ -101,7 +101,7 @@
       "id": "tt34384900",
       "name": "El amor de tu vida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.753,
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,8 +136,45 @@
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.3,
+      "rating": 7.342,
       "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Años atrás, los hermanos Justin y Aaron lograron escapar de la secta donde se habían criado. Ahora, malviven en un apartamento de Los Ángeles, hasta que un día reciben una cinta de vídeo de aquella secta, y a Aaron le entran las dudas de si deberían volver al campamento del que huyeron.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zX0pEwk0zDnS85Nxl1hI6h6dfFu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lAHawCyq5VNATHhva9GtVYtkgcD.png",
+      "runtime": "111 min",
+      "director": [
+        "Aaron Moorhead",
+        "Justin Benson"
+      ],
+      "cast": [
+        "Aaron Moorhead",
+        "Justin Benson",
+        "Callie Hernandez",
+        "Tate Ellington",
+        "Shane Brady",
+        "Lew Temple",
+        "Kira Powell",
+        "David Lawson Jr."
+      ],
+      "rank": 5,
+      "id": "tt3986820",
+      "name": "El infinito",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKqXzB7JmAceORnJnk1kjaERZpp.jpg",
+      "rating": 6.303,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,11 +205,11 @@
         "Anna Camp",
         "Joel McHale"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt27047903",
       "name": "Scream 7",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "rating": 6.227,
+      "rating": 6.228,
       "year": 2026,
       "days": null,
       "trend": {
@@ -204,7 +241,7 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
@@ -239,48 +276,12 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
       "rating": 7.263,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
-      "director": [
-        "Kyle Balda"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
-      ],
-      "rank": 8,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.919,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -305,16 +306,16 @@
         "Simona Tabasco",
         "Victor Belmondo",
         "Eliott Margueron",
-        "Bruno Bilotta",
         "Barbara Lo Gaglio",
         "Etienne Guillou-Kervern",
-        "Srbo Markovic"
+        "Srbo Markovic",
+        "Julia Messina"
       ],
       "rank": 9,
       "id": "tt38672588",
       "name": "Masterplan",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-      "rating": 7.267,
+      "rating": 7.125,
       "year": 2026,
       "days": null,
       "trend": {
@@ -324,33 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "description": "Una joven, que llega a Reno (Nevada) para divorciarse, conoce a un viejo vaquero y decide quedarse unos días en su cabaña. Poco después él descubre en las montañas una manada de caballos salvajes. Con la colaboración de un vaquero especialista en rodeos, decide capturarlos para vender la carne.",
       "genres": [
+        "Drama",
         "Romance",
-        "Comedia"
+        "Western"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zts98k3uBQ3qEZKQFwBliW2jlpf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e5K6Kb49zkQZEyJGGrwT2VVvqgx.png",
+      "runtime": "124 min",
       "director": [
-        "Claire Scanlon"
+        "John Huston"
       ],
       "cast": [
-        "Lili Reinhart",
-        "Tom Bateman",
-        "Rachel Marsh",
-        "Jaboukie Young-White",
-        "Nicholas Duvernay",
-        "Arty Froushan",
-        "Jeananne Goossen",
-        "Aladeen Tawfeek"
+        "Clark Gable",
+        "Marilyn Monroe",
+        "Montgomery Clift",
+        "Thelma Ritter",
+        "Eli Wallach",
+        "James Barton",
+        "Kevin McCarthy",
+        "Estelle Winwood"
       ],
       "rank": 10,
-      "id": "tt22526100",
-      "name": "La hipótesis del amor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "rating": 8.019,
-      "year": 2026,
+      "id": "tt0055184",
+      "name": "Vidas rebeldes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oktGlLCkFrYDrzrbSo7MxnF1zr.jpg",
+      "rating": 6.954,
+      "year": 1961,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
+  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
 }

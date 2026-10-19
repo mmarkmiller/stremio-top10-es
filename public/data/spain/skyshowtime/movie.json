@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202610181820",
+  "date": "202610192047",
   "entries": [
     {
       "artworkVersion": 4,
@@ -18,8 +18,8 @@
       "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
       "runtime": "98 min",
       "director": [
-        "Michael Jelenic",
-        "Aaron Horvath"
+        "Aaron Horvath",
+        "Michael Jelenic"
       ],
       "cast": [
         "Chris Pratt",
@@ -35,7 +35,7 @@
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.218,
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -70,7 +70,7 @@
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.727,
+      "rating": 7.73,
       "year": 2025,
       "days": null,
       "trend": {
@@ -106,8 +106,42 @@
       "id": "tt12300742",
       "name": "Bugonia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.295,
+      "rating": 7.296,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En 1967, en Los Angeles, una viuda y sus hijas invitan a una siniestra presencia a entrar en su hogar sin darse cuenta de lo peligrosa que es.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6WFqzxW9dNSJThZHUBqqOFNRj3G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVe3AUtJlRa7bHVJCXefoirUSSh.png",
+      "runtime": "98 min",
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Parker Mack",
+        "Annalise Basso",
+        "Elizabeth Reaser",
+        "Lulu Wilson",
+        "Henry Thomas",
+        "Halle Charlton",
+        "Alexis G. Zall",
+        "Doug Jones"
+      ],
+      "rank": 4,
+      "id": "tt4361050",
+      "name": "Ouija: el origen del mal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg",
+      "rating": 6.171,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -138,11 +172,11 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.899,
+      "rating": 7.9,
       "year": 2013,
       "days": null,
       "trend": {
@@ -152,178 +186,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
       "genres": [
-        "Aventura",
-        "Comedia",
-        "Ciencia ficción"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
-      "runtime": "116 min",
+      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
+      "runtime": "87 min",
       "director": [
-        "Robert Zemeckis"
+        "Steve Miner"
       ],
       "cast": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Crispin Glover",
-        "Lea Thompson",
-        "Claudia Wells",
-        "Thomas F. Wilson",
-        "Marc McClure",
-        "Wendie Jo Sperber"
-      ],
-      "rank": 5,
-      "id": "tt0088763",
-      "name": "Regreso al futuro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "rating": 8.331,
-      "year": 1985,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
-      "genres": [
-        "Fantasía",
-        "Aventura",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png",
-      "runtime": "137 min",
-      "director": [
-        "Jon M. Chu"
-      ],
-      "cast": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Jonathan Bailey",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Amy Steel",
+        "John Furey",
+        "Adrienne King",
+        "Kirsten Baker",
+        "Stuart Charno",
+        "Warrington Gillette",
+        "Walt Gorney",
+        "Marta Kober"
       ],
       "rank": 6,
-      "id": "tt19847976",
-      "name": "Wicked Parte II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
-      "rating": 6.6,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
-      "runtime": "175 min",
-      "director": [
-        "Francis Ford Coppola"
-      ],
-      "cast": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan",
-        "Robert Duvall",
-        "Richard S. Castellano",
-        "Diane Keaton",
-        "Talia Shire",
-        "Gianni Russo"
-      ],
-      "rank": 7,
-      "id": "tt0068646",
-      "name": "El padrino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
-      "rating": 8.689,
-      "year": 1972,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-      "genres": [
-        "Fantasía",
-        "Familia",
-        "Acción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
-      "runtime": "125 min",
-      "director": [
-        "Dean DeBlois"
-      ],
-      "cast": [
-        "Mason Thames",
-        "Nico Parker",
-        "Gerard Butler",
-        "Nick Frost",
-        "Gabriel Howell",
-        "Julian Dennison",
-        "Bronwyn James",
-        "Harry Trevaldwyn"
-      ],
-      "rank": 8,
-      "id": "tt26743210",
-      "name": "Cómo entrenar a tu dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
-      "rating": 7.929,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png",
-      "runtime": "115 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Henry Thomas",
-        "Drew Barrymore",
-        "Robert MacNaughton",
-        "Peter Coyote",
-        "Dee Wallace",
-        "Erika Eleniak",
-        "K.C. Martel",
-        "C. Thomas Howell"
-      ],
-      "rank": 9,
-      "id": "tt0083866",
-      "name": "E.T., el extraterrestre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
-      "rating": 7.5,
-      "year": 1982,
+      "id": "tt0082418",
+      "name": "Viernes 13, 2ª parte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
+      "rating": 6.197,
+      "year": 1981,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,12 +241,118 @@
         "RZA",
         "Billy MacLellan"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt7888964",
       "name": "Nadie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "rating": 7.858,
+      "rating": 7.856,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ev0PWpXvWWoWsg69hOcXjZs2Ayn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xSfU0bsDvoDsTAENYYKlI6UgDFn.png",
+      "runtime": "115 min",
+      "director": [
+        "Parker Finn"
+      ],
+      "cast": [
+        "Sosie Bacon",
+        "Kyle Gallner",
+        "Jessie T. Usher",
+        "Robin Weigert",
+        "Caitlin Stasey",
+        "Kal Penn",
+        "Rob Morgan",
+        "Gillian Zinser"
+      ],
+      "rank": 8,
+      "id": "tt15474916",
+      "name": "Smile",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+      "rating": 6.668,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rpb9eBNpYjqSI3dLLniZ0GXcnlS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png",
+      "runtime": "97 min",
+      "director": [
+        "Marcus Nispel"
+      ],
+      "cast": [
+        "Jared Padalecki",
+        "Travis Van Winkle",
+        "Danielle Panabaker",
+        "Amanda Righetti",
+        "Aaron Yoo",
+        "Derek Mears",
+        "Julianna Guill",
+        "Arlen Escarpeta"
+      ],
+      "rank": 9,
+      "id": "tt0758746",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
+      "rating": 5.8,
+      "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
+      ],
+      "rank": 10,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.075,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -367,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-18T13:15:50.149Z"
+  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
 }

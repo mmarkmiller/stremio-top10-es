@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610181820",
+  "date": "202610192047",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.2,
+      "rating": 8.406,
       "year": 2026,
       "days": null,
       "trend": {
@@ -53,8 +53,73 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.2,
+      "rating": 8.222,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
+      "director": [],
+      "cast": [
+        "Claudia Salas",
+        "Ana Torrent",
+        "Maribel Verdú",
+        "Carmen Maura",
+        "María León",
+        "Cecilia Suárez",
+        "Ana Mena",
+        "Clara Sans"
+      ],
+      "rank": 3,
+      "id": "tt32327588",
+      "name": "Furia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+      "rating": 6.554,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+      "director": [],
+      "cast": [
+        "Harold Perrineau",
+        "Catalina Sandino Moreno",
+        "Ricky He",
+        "David Alpay",
+        "Chloe Van Landschoot",
+        "Hannah Cheramy",
+        "Pegah Ghafoori",
+        "Simon Webster"
+      ],
+      "rank": 4,
+      "id": "tt9813792",
+      "name": "From",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
+      "rating": 8.489,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -82,7 +147,7 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
@@ -113,44 +178,12 @@
         "Jackson Connor",
         "Joseph William Evans"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt35768911",
       "name": "De puntillas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 6.9,
+      "rating": 6.932,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
-      "director": [],
-      "cast": [
-        "Claudia Salas",
-        "Ana Torrent",
-        "Maribel Verdú",
-        "Carmen Maura",
-        "María León",
-        "Cecilia Suárez",
-        "Ana Mena",
-        "Clara Sans"
-      ],
-      "rank": 5,
-      "id": "tt32327588",
-      "name": "Furia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.537,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -176,45 +209,12 @@
         "John Hawkes",
         "Grace Pitts"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt2356777",
       "name": "True Detective",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
-      "rating": 8.3,
+      "rating": 8.293,
       "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
-      "director": [],
-      "cast": [
-        "Harold Perrineau",
-        "Catalina Sandino Moreno",
-        "Ricky He",
-        "David Alpay",
-        "Chloe Van Landschoot",
-        "Hannah Cheramy",
-        "Pegah Ghafoori",
-        "Simon Webster"
-      ],
-      "rank": 7,
-      "id": "tt9813792",
-      "name": "From",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,7 +244,7 @@
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.735,
+      "rating": 8.736,
       "year": 2025,
       "days": null,
       "trend": {
@@ -283,25 +283,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un siglo antes de los acontecimientos de \"Juego de Tronos\", dos héroes improbables vagaban por Poniente: un joven e ingenuo, pero valiente caballero, Ser Duncan el Alto, y su pequeño escudero, Egg. Ambientada en una época en la que el linaje Targaryen aún ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, poderosos enemigos y peligrosas hazañas aguardan a estos improbables e incomparables amigos.",
+      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d5ohMxewL3L8CSt1AR897StlAe5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ax3rWzexUcPWc34FaO8n85OKTtz.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
       "director": [],
       "cast": [
-        "Peter Claffey",
-        "Dexter Sol Ansell"
+        "Dominic West",
+        "Lance Reddick",
+        "Sonja Sohn",
+        "Wendell Pierce",
+        "Michael Kenneth Williams",
+        "Deirdre Lovejoy",
+        "Andre Royo",
+        "John Doman"
       ],
       "rank": 10,
-      "id": "tt27497448",
-      "name": "El caballero de los Siete Reinos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
-      "rating": 8.427,
-      "year": 2026,
+      "id": "tt0306414",
+      "name": "Bajo escucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "rating": 8.639,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-18T17:18:54.478Z"
+  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
 }
