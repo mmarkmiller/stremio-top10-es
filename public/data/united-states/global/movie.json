@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610192047",
+  "date": "202610201942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,7 +66,7 @@
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.838,
+      "rating": 6.832,
       "year": 2026,
       "days": null,
       "trend": {
@@ -102,8 +102,43 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.012,
+      "rating": 7.014,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uMAYb2jn3yszL5nKQH1PGag63CP.png",
+      "runtime": "100 min",
+      "director": [
+        "David Robert Mitchell"
+      ],
+      "cast": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto",
+        "Jake Weary",
+        "Olivia Luccardi",
+        "Lili Sepe",
+        "Bailey Spry",
+        "Carollette Phillips"
+      ],
+      "rank": 4,
+      "id": "tt3235888",
+      "name": "It Follows",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
+      "rating": 6.584,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -133,46 +168,12 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.175,
+      "rating": 8.176,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una camionera dura entrena a su mejor amiga femenina para competir en el Campeonato Nacional de Lucha Libre de Brazo Femenino.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m2y1YIukPM5Shvb6VxbUejgcScX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6ROWhHP49cG14sE0l9xfwA6EKTK.png",
-      "runtime": "91 min",
-      "director": [
-        "Maureen Bharoocha"
-      ],
-      "cast": [
-        "Betsy Sodaro",
-        "Mary Holland",
-        "Olivia Stambouliah",
-        "Eugene Cordero",
-        "Aparna Nancherla",
-        "Dawn Luebbe",
-        "Ron Funches",
-        "Ahmed Bharoocha"
-      ],
-      "rank": 5,
-      "id": "tt9572534",
-      "name": "Brazo de oro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
-      "rating": 5.4,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,7 +208,42 @@
       "id": "tt32273171",
       "name": "La muerte de Robin Hood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.716,
+      "rating": 6.725,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "runtime": "126 min",
+      "director": [
+        "Jennifer Peedom"
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
+      ],
+      "rank": 7,
+      "id": "tt6262770",
+      "name": "Tenzing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -239,82 +275,11 @@
         "Sarah Sherman",
         "Patrick Fischler"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt35298123",
       "name": "Adolescencia, sexo y muerte en campamento Miasma",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.172,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 8,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.635,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 9,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.3,
+      "rating": 6.188,
       "year": 2026,
       "days": null,
       "trend": {
@@ -345,12 +310,47 @@
         "Cecilia Toussaint",
         "Geraldine Hakewill"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt31349844",
       "name": "Entrega al límite",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "rating": 8.338,
+      "rating": 8.331,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6Io0gvfEVpMQsB46yXOKCpSJOoJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
+      "runtime": "91 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Donald Pleasence",
+        "Jamie Lee Curtis",
+        "Nancy Kyes",
+        "P. J. Soles",
+        "Charles Cyphers",
+        "Kyle Richards",
+        "Brian Andrews",
+        "John Michael Graham"
+      ],
+      "rank": 10,
+      "id": "tt0077651",
+      "name": "La noche de Halloween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+      "rating": 7.6,
+      "year": 1978,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
+  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610192047",
+  "date": "202610201942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -20,7 +20,7 @@
       "id": "tt2297757",
       "name": "Nathan for You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
-      "rating": 8.2,
+      "rating": 8.243,
       "year": 2013,
       "days": null,
       "trend": {
@@ -48,7 +48,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.222,
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -73,8 +73,37 @@
       "id": "tt10802170",
       "name": "Los ensayos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 8,
+      "rating": 8.005,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "director": [],
+      "cast": [
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
+      ],
+      "rank": 4,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+      "rating": 7.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,7 +129,7 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
@@ -130,11 +159,11 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.507,
+      "rating": 7.509,
       "year": 2021,
       "days": null,
       "trend": {
@@ -144,81 +173,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "description": "Nos encontramos con Sarah, una joven huérfana sin ningún sitio donde caerse muerta que es testigo del suicidio de una chica que es idéntica a ella. Sarah decidirá asumir su identidad, cuenta bancaría, hogar y demás solo para encontrarse en medio de una tremenda conspiración con clones de por medio.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5mVZWI1BRhQrY3SUxA2VBDYTzHI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b9LYnRp4eEX2280BOCPBALI5Via.png",
       "director": [],
       "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
-      ],
-      "rank": 6,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
+        "Tatiana Maslany",
+        "Jordan Gavaris",
+        "Josh Vokey",
+        "Maria Doyle Kennedy",
+        "Ari Millen",
+        "Kevin Hanchard",
+        "Kristian Bruun"
       ],
       "rank": 7,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.06,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un policía de Nueva Orleans investiga el asesinato del dueño de un cementerio de mascotas y descubre un pasado que aún persigue a la comunidad.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n7Gw1vYb2vBLaBzdXbzAhYhIKX4.png",
-      "director": [],
-      "cast": [
-        "Patricia Newman",
-        "Brain Vallelungo"
-      ],
-      "rank": 8,
-      "id": "tt46683025",
-      "name": "Los crímenes del cementerio de animales: una historia de terror",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
-      "rating": 6.5,
-      "year": 2026,
+      "id": "tt2234222",
+      "name": "Orphan Black",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+      "rating": 7.807,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,11 +221,11 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.736,
+      "rating": 8.738,
       "year": 2025,
       "days": null,
       "trend": {
@@ -258,29 +235,52 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
       "director": [],
       "cast": [
-        "Jon Hamm",
-        "Elisabeth Moss",
-        "Vincent Kartheiser",
-        "January Jones",
-        "Christina Hendricks",
-        "Aaron Staton",
-        "Rich Sommer",
-        "Kiernan Shipka"
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
+      ],
+      "rank": 9,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8.06,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un policía de Nueva Orleans investiga el asesinato del dueño de un cementerio de mascotas y descubre un pasado que aún persigue a la comunidad.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n7Gw1vYb2vBLaBzdXbzAhYhIKX4.png",
+      "director": [],
+      "cast": [
+        "Patricia Newman",
+        "Brain Vallelungo"
       ],
       "rank": 10,
-      "id": "tt0804503",
-      "name": "Mad Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "rating": 8.128,
-      "year": 2007,
+      "id": "tt46683025",
+      "name": "Los crímenes del cementerio de animales: una historia de terror",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -289,5 +289,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
+  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610192047",
+  "date": "202610201942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.28,
+      "rating": 7.199,
       "year": 2026,
       "days": null,
       "trend": {
@@ -59,38 +59,8 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.602,
+      "rating": 7.613,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Hoon Lee",
-        "Ciarán Hinds",
-        "Joseph Zada"
-      ],
-      "rank": 3,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.968,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -117,11 +87,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.876,
+      "rating": 7.881,
       "year": 2024,
       "days": null,
       "trend": {
@@ -131,28 +101,60 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
       "director": [],
       "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Hoon Lee",
+        "Ciarán Hinds",
+        "Joseph Zada"
+      ],
+      "rank": 4,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.984,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "genres": [
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A0bcveWfk1OrHOif715iFSPIIRr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "director": [],
+      "cast": [
+        "Rose McIver",
+        "Utkarsh Ambudkar",
+        "Brandon Scott Jones",
+        "Danielle Pinnock",
+        "Richie Moriarty",
+        "Asher Grodman",
+        "Rebecca Wisocky",
+        "Devan Chandler Long"
       ],
       "rank": 5,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.726,
-      "year": 2026,
+      "id": "tt11379026",
+      "name": "Fantasmas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+      "rating": 8.126,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -193,62 +195,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "description": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/A0bcveWfk1OrHOif715iFSPIIRr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aQJW88GolybGrVqzIC2hI6coUr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
       "director": [],
       "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Devan Chandler Long"
+        "Momoka Terasawa",
+        "Akari Kito",
+        "Koki Uchiyama",
+        "Kentaro Tone"
       ],
       "rank": 7,
-      "id": "tt11379026",
-      "name": "Fantasmas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.124,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
-      "director": [],
-      "cast": [
-        "Friederike Becht",
-        "Hans Löw",
-        "Alexander Schubert",
-        "Katja Ponickau",
-        "Naila Schuberth",
-        "Josephine Thiesen",
-        "Matthias Brandt",
-        "Anna Schudt"
-      ],
-      "rank": 8,
-      "id": "tt36470958",
-      "name": "La trampa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
-      "rating": 6.457,
-      "year": 2026,
+      "id": "tt12590266",
+      "name": "Cyberpunk: Edgerunners",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "rating": 8.49,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,11 +242,11 @@
         "Billie Lourd",
         "Jessica Barden"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tmdb:299939",
       "name": "Monstruo: La historia de Lizzie Borden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.1,
+      "rating": 7.093,
       "year": 2026,
       "days": null,
       "trend": {
@@ -288,31 +256,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
       "genres": [
         "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
       "director": [],
       "cast": [
-        "Marina Inoue",
-        "Hiro Shimono",
-        "Yuki Kaji",
-        "Natsuki Hanae",
-        "Ayane Sakura",
-        "Kisho Taniyama",
-        "Yui Ishikawa",
-        "Yoshimasa Hosoya"
+        "Masako Nozawa",
+        "Ryo Horikawa",
+        "Naoko Watanabe",
+        "Unsho Ishizuka",
+        "Koichi Yamadera"
+      ],
+      "rank": 9,
+      "id": "tt39395275",
+      "name": "Dragon Ball Super: Beerus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "rating": 9.733,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Chou era una joven de baja condición que recogía los desechos en las calles. Todos podían humillarla a su antojo. Pero, por tener un rostro idéntico al de Wei Rao, la hija de una familia noble, terminó convirtiéndose por accidente en la novia de Lu Zhuo, el heredero del Duque, con la esperanza de traerle buena suerte. Ambiciosa, Chou vio en ello una oportunidad para ascender de posición. Sin embargo, cuando su esposo, que estaba al borde de la muerte, despertó de repente, ocupar el lugar de otra desencadenó una serie de desgracias. Wei Rao, furiosa porque Chou le había usurpado su lugar, quería deshacerse de ella cuanto antes. Lu Zhuo la consideraba una mujer cruel, así que se mantenía alerta ante ella. A primera vista, la Mansión del duque parecía un lugar armonioso, pero en realidad estaba llena de trampas y peligros mortales a cada paso. En medio de las intrigas, Chou luchó por sortear los intereses de todos y trazar su propio camino.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zl3gZ02Ex1N6P6ULolIKc36LXtv.png",
+      "director": [
+        "杨龙"
+      ],
+      "cast": [
+        "田曦薇",
+        "Yan An"
       ],
       "rank": 10,
-      "id": "tt2560140",
-      "name": "Ataque a los Titanes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.7,
-      "year": 2013,
+      "id": "tt42576855",
+      "name": "Donde termina la máscara",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uzhhvTVB5TxsHHY419KkX0tt4n2.jpg",
+      "rating": 9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
+  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
 }

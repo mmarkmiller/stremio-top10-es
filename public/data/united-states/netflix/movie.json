@@ -2,8 +2,42 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610192047",
+  "date": "202610201942",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
+      ],
+      "rank": 1,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.4,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
@@ -28,11 +62,11 @@
         "Sam Richardson",
         "Zarene Dallas"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.241,
+      "rating": 5.033,
       "year": 2026,
       "days": null,
       "trend": {
@@ -63,115 +97,12 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.995,
+      "rating": 7.03,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
-      "director": [
-        "Sean S. Cunningham"
-      ],
-      "cast": [
-        "Adrienne King",
-        "Jeannine Taylor",
-        "Robbi Morgan",
-        "Kevin Bacon",
-        "Betsy Palmer",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson"
-      ],
-      "rank": 3,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.405,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Brasil, 1971. Un país en las garras de una dictadura militar. Una madre se ve obligada a reinventarse cuando la vida de su familia se ve destrozada por un acto de violencia arbitraria.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t5XMGJryVcZ0iglPBMB3zU3UUjj.png",
-      "runtime": "137 min",
-      "director": [
-        "Walter Salles"
-      ],
-      "cast": [
-        "Fernanda Torres",
-        "Fernanda Montenegro",
-        "Selton Mello",
-        "Valentina Herszage",
-        "Maria Manoella",
-        "Bárbara Luz",
-        "Gabriela Carneiro da Cunha",
-        "Luiza Kosovski"
-      ],
-      "rank": 4,
-      "id": "tt14961016",
-      "name": "Aún estoy aquí",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
-      "rating": 7.914,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
-      "runtime": "83 min",
-      "director": [
-        "Tobe Hooper"
-      ],
-      "cast": [
-        "Marilyn Burns",
-        "Allen Danziger",
-        "Paul A. Partain",
-        "William Vail",
-        "Teri McMinn",
-        "Edwin Neal",
-        "Jim Siedow",
-        "Gunnar Hansen"
-      ],
-      "rank": 6,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.3,
-      "year": 1974,
       "days": null,
       "trend": {
         "dir": "same",
@@ -202,48 +133,12 @@
         "Samantha Mahurin",
         "David Bowie"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt0482571",
       "name": "El truco final (El prestigio)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
       "rating": 8.212,
       "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
-      "runtime": "101 min",
-      "director": [
-        "Janus Metz"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
-      ],
-      "rank": 8,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.584,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,11 +169,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
+      "rating": 7.603,
       "year": 2023,
       "days": null,
       "trend": {
@@ -288,33 +183,139 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eU4uwCFPl89AQ9zyFCtgBC3Ch5U.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
+      "runtime": "83 min",
       "director": [
-        "Gore Verbinski"
+        "Tobe Hooper"
       ],
       "cast": [
-        "Naomi Watts",
-        "Martin Henderson",
-        "David Dorfman",
-        "Brian Cox",
-        "Jane Alexander",
-        "Lindsay Frost",
-        "Amber Tamblyn",
-        "Rachael Bella"
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen"
+      ],
+      "rank": 7,
+      "id": "tt0072271",
+      "name": "La matanza de Texas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
+      "rating": 7.288,
+      "year": 1974,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Brasil, 1971. Un país en las garras de una dictadura militar. Una madre se ve obligada a reinventarse cuando la vida de su familia se ve destrozada por un acto de violencia arbitraria.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t5XMGJryVcZ0iglPBMB3zU3UUjj.png",
+      "runtime": "137 min",
+      "director": [
+        "Walter Salles"
+      ],
+      "cast": [
+        "Fernanda Torres",
+        "Fernanda Montenegro",
+        "Selton Mello",
+        "Valentina Herszage",
+        "Maria Manoella",
+        "Bárbara Luz",
+        "Gabriela Carneiro da Cunha",
+        "Luiza Kosovski"
+      ],
+      "rank": 8,
+      "id": "tt14961016",
+      "name": "Aún estoy aquí",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
+      "rating": 7.916,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
+      "runtime": "120 min",
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer",
+        "Babs Olusanmokun",
+        "Hero Fiennes Tiffin"
+      ],
+      "rank": 9,
+      "id": "tt5177120",
+      "name": "El ministerio de la Guerra Sucia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+      "rating": 7,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1xtNFKfTr0d5IqZ0i77E90cYYTP.png",
+      "runtime": "109 min",
+      "director": [
+        "Nia DaCosta"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "Alfie Williams",
+        "Jack O'Connell",
+        "Erin Kellyman",
+        "Chi Lewis-Parry",
+        "Connor Newall",
+        "Maura Bird",
+        "Ghazi Al Ruffai"
       ],
       "rank": 10,
-      "id": "tt0298130",
-      "name": "The Ring (La señal)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
-      "rating": 6.711,
-      "year": 2002,
+      "id": "tt32141377",
+      "name": "28 años después: El templo de los huesos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
+      "rating": 7.092,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-19T17:15:47.996Z"
+  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
 }
