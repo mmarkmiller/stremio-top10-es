@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,7 +30,40 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 8.821,
+      "rating": 8.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aYyxsYFnOv3IXThh1oNvkiLEmh5.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
+      ],
+      "rank": 2,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
+      "rating": 6.625,
       "year": 2026,
       "days": null,
       "trend": {
@@ -59,45 +92,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.079,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aYyxsYFnOv3IXThh1oNvkiLEmh5.png",
-      "director": [],
-      "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park",
-        "Elijah Fox"
-      ],
-      "rank": 3,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
-      "rating": 5,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -126,30 +126,8 @@
       "id": "tt39395275",
       "name": "Dragon Ball Super: Beerus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.733,
+      "rating": 9.699,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La paz en la Sociedad de Almas se ve repentinamente interrumpida por el sonido de sirenas de alerta. Sus residentes desaparecen sin dejar rastro y nadie sabe quién está detrás de ello. Mientras tanto, una oscuridad se cierne sobre Ichigo y sus amigos en la ciudad de Karakura.",
-      "genres": [
-        "Action & Adventure",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yk9i1A9UDyJWPyxEKwJFtC23SVI.jpg",
-      "director": [],
-      "cast": [],
-      "rank": 5,
-      "id": "tt14986406",
-      "name": "Bleach: Thousand-Year Blood War",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n4lGkXVMKDyGzkyxhQJzpkMsPaA.jpg",
-      "rating": null,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,11 +150,11 @@
         "Scoot McNairy",
         "Quincy Tyler Bernstine"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt36303968",
       "name": "Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "rating": 7.442,
+      "rating": 7.475,
       "year": 2026,
       "days": null,
       "trend": {
@@ -199,11 +177,11 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.585,
+      "rating": 8.6,
       "year": 2005,
       "days": null,
       "trend": {
@@ -213,29 +191,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
       "genres": [
         "Drama",
-        "Comedia"
+        "Crimen",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
       ],
-      "rank": 8,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.157,
+      "rank": 7,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.465,
       "year": 2022,
       "days": null,
       "trend": {
@@ -245,26 +224,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "description": "Dinero. Amor. Tragedia. Engaño. De la mano de la productora ejecutiva Elizabeth Meriwether, \"The Dropout: Auge y caída de Elizabeth Holmes\" es la historia de Elizabeth Holmes y Theranos, una increíble historia de ambición y fama que salió tremendamente mal. ¿Cómo la mujer multimillonaria más joven del mundo lo perdió todo en un abrir y cerrar de ojos?",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "background": "https://image.tmdb.org/t/p/w1280/969nC6k30OnMLCWyaa0d2FO0uTc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8k8UY9XK4tts5VfijEsf7uVrNvu.png",
       "director": [],
       "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
+        "Amanda Seyfried",
+        "Naveen Andrews"
       ],
-      "rank": 9,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.495,
-      "year": 2025,
+      "rank": 8,
+      "id": "tt10166622",
+      "name": "The Dropout: Auge y caída de Elizabeth Holmes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qh325jz8pfSMbW88lzeg1Ikb7JK.jpg",
+      "rating": 7.372,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -292,7 +268,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -303,8 +279,36 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 10,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,8 +29,33 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.351,
+      "rating": 8.33,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yQTQL9pliY6vpRt8HkjUJrKymBb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt"
+      ],
+      "rank": 2,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 8,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,7 +82,7 @@
         "Robyn Cara",
         "John Slattery"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
@@ -90,11 +115,11 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.079,
       "year": 2011,
       "days": null,
       "trend": {
@@ -120,12 +145,73 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
+      "rating": 8.565,
       "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+      "director": [],
+      "cast": [
+        "Brandon Rogers",
+        "Richard Steven Horvitz",
+        "Vivian Nixon",
+        "Erica Lindbeck",
+        "Bryce Pinkham"
+      ],
+      "rank": 6,
+      "id": "tt10691770",
+      "name": "Helluva Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "rating": 7.5,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "director": [],
+      "cast": [
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
+      ],
+      "rank": 7,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.132,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -152,67 +238,12 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.081,
+      "rating": 8.1,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
-      "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
-      ],
-      "rank": 6,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.131,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt"
-      ],
-      "rank": 7,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -235,11 +266,11 @@
         "Jensen Ackles",
         "Misha Collins"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0460681",
       "name": "Sobrenatural",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
-      "rating": 8.315,
+      "rating": 8.316,
       "year": 2005,
       "days": null,
       "trend": {
@@ -249,60 +280,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
       "genres": [
-        "Animación",
         "Comedia",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
-      "director": [],
-      "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
-      ],
-      "rank": 9,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.5,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Para salvar a su familia, Perséfone se casa con un duque frío y distante, sin imaginar que despertaría un amor que podría cambiarlos a ambos para siempre.",
-      "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/x0zAZmhH4Pbo6PctR5WzWoJ7SAV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Ac42oCOOZFCfrprxyq6DHWlJ0Dp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
       "director": [],
       "cast": [
-        "Ryann Bailey",
-        "Jake Stormoen",
-        "Toby-Alexander Smith",
-        "Catherine Hannay",
-        "Charlotte Hemmings",
-        "Stevie Raine",
-        "Eva Cambers",
-        "Willow Bell"
+        "Lauren Graham",
+        "Alexis Bledel",
+        "Scott Patterson",
+        "Melissa McCarthy",
+        "Keiko Agena",
+        "Yanic Truesdale",
+        "Liza Weil",
+        "Sean Gunn"
       ],
       "rank": 10,
-      "id": "tt29666911",
-      "name": "En busca de Perséfone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
-      "rating": 8.778,
-      "year": 2026,
+      "id": "tt0238784",
+      "name": "Las chicas Gilmore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "rating": 7.871,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }

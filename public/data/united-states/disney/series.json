@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,7 +30,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 8.821,
+      "rating": 8.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -60,7 +60,7 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
+      "rating": 8.565,
       "year": 2014,
       "days": null,
       "trend": {
@@ -91,7 +91,35 @@
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "rating": 8.205,
+      "rating": 8.2,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Reality",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
+      "director": [],
+      "cast": [
+        "Alfonso Ribeiro",
+        "Julianne Hough",
+        "Derek Hough",
+        "Carrie Ann Inaba",
+        "Bruno Tonioli"
+      ],
+      "rank": 4,
+      "id": "tt0463398",
+      "name": "Dancing with the Stars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "rating": 6.154,
       "year": 2005,
       "days": null,
       "trend": {
@@ -117,44 +145,12 @@
         "Hank Azaria",
         "Harry Shearer"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0096697",
       "name": "Los Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.024,
+      "rating": 8.025,
       "year": 1989,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 5,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.157,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -196,6 +192,71 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 7,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.157,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vbz8B3pIrGjWKY6Y3OhUDVugHz8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png",
+      "director": [],
+      "cast": [
+        "Teri Hatcher",
+        "Felicity Huffman",
+        "Marcia Cross",
+        "Eva Longoria",
+        "Ricardo Chavira",
+        "Doug Savant",
+        "James Denton",
+        "Brenda Strong"
+      ],
+      "rank": 8,
+      "id": "tt0410975",
+      "name": "Mujeres desesperadas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
+      "rating": 7.9,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
       "genres": [
         "Animación",
@@ -211,11 +272,11 @@
         "Daiki Yamashita",
         "Kenyu Horiuchi"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0168366",
       "name": "Pokémon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
-      "rating": 7.986,
+      "rating": 7.985,
       "year": 1997,
       "days": null,
       "trend": {
@@ -225,80 +286,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "X-Men '97 vuelve a la icónica época de los años 90, donde los X-Men, un grupo de mutantes que utilizan sus asombrosos poderes para proteger a un mundo que los odia y los teme, se enfrentarán a su mayor desafío y a un nuevo, insospechado y peligroso futuro.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
-      "director": [],
-      "cast": [],
-      "rank": 8,
-      "id": "tt16026746",
-      "name": "X-Men '97",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
-      "rating": 8.7,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
-      "genres": [
-        "Comedia",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qsVIaAvXxHXVVsU3WHs43H9eesX.png",
-      "director": [],
-      "cast": [
-        "Steve Martin",
-        "Martin Short",
-        "Selena Gómez"
-      ],
-      "rank": 9,
-      "id": "tt11691774",
-      "name": "Solo asesinatos en el edificio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
-      "rating": 8.4,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
       "director": [],
       "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "John C. McGinley",
-        "Eliza Coupe",
-        "Kerry Bishé",
-        "Michael Mosley",
-        "Dave Franco"
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 10,
-      "id": "tt0285403",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "rating": 8.171,
-      "year": 2001,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.113,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }

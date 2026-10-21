@@ -2,39 +2,8 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 1,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.199,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
@@ -55,12 +24,43 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.613,
+      "rating": 7.611,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "director": [],
+      "cast": [
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 2,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -91,8 +91,38 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.881,
+      "rating": 7.887,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aQJW88GolybGrVqzIC2hI6coUr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
+      "director": [],
+      "cast": [
+        "Koki Uchiyama",
+        "Momoka Terasawa",
+        "Akari Kito",
+        "Kentaro Tone"
+      ],
+      "rank": 4,
+      "id": "tt12590266",
+      "name": "Cyberpunk: Edgerunners",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "rating": 8.5,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -117,11 +147,11 @@
         "Ciarán Hinds",
         "Joseph Zada"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.984,
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -131,30 +161,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "description": "Cinco adolescentes de Harlem se ven atrapados en una pesadilla cuando se les acusa injustamente de un ataque brutal en Central Park.",
       "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/A0bcveWfk1OrHOif715iFSPIIRr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ps9bE3tlJGf5rMvRzgZ9nc9RhaU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w4kyxaoQWiqHuSA0vTvX8v0Pquv.png",
       "director": [],
       "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Devan Chandler Long"
+        "Asante Blackk",
+        "Jharrel Jerome",
+        "Ethan Herisse",
+        "Marquis Rodriguez",
+        "Caleel Harris",
+        "Marsha Stephanie Blake",
+        "Michael Kenneth Williams",
+        "John Leguizamo"
       ],
-      "rank": 5,
-      "id": "tt11379026",
-      "name": "Fantasmas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.126,
-      "year": 2021,
+      "rank": 6,
+      "id": "tt7137906",
+      "name": "Así nos ven",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8shLGVN1w4DiYuEc5i0X39dn6RA.jpg",
+      "rating": 8.204,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,7 +210,7 @@
         "José Condessa",
         "Pepón Nieto"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt36832679",
       "name": "El problema final",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
@@ -195,28 +224,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
+      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Crimen"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aQJW88GolybGrVqzIC2hI6coUr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
       "director": [],
       "cast": [
-        "Momoka Terasawa",
-        "Akari Kito",
-        "Koki Uchiyama",
-        "Kentaro Tone"
+        "Juno Temple",
+        "Jennifer Jason Leigh",
+        "David Rysdahl",
+        "Joe Keery",
+        "Lamorne Morris",
+        "Richa Shukla Moorjani",
+        "Sam Spruell",
+        "Sienna King"
       ],
-      "rank": 7,
-      "id": "tt12590266",
-      "name": "Cyberpunk: Edgerunners",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "rating": 8.49,
-      "year": 2022,
+      "rank": 8,
+      "id": "tt2802850",
+      "name": "Fargo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "rating": 8.288,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -225,29 +256,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Comedia",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "background": "https://image.tmdb.org/t/p/w1280/A0bcveWfk1OrHOif715iFSPIIRr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
       "director": [],
       "cast": [
-        "Ella Beatty",
-        "Vicky Krieps",
-        "Sarah Paulson",
-        "Charlie Hunnam",
-        "Rebecca Hall",
-        "Billie Lourd",
-        "Jessica Barden"
+        "Rose McIver",
+        "Utkarsh Ambudkar",
+        "Brandon Scott Jones",
+        "Danielle Pinnock",
+        "Richie Moriarty",
+        "Asher Grodman",
+        "Rebecca Wisocky",
+        "Devan Chandler Long"
       ],
-      "rank": 8,
-      "id": "tmdb:299939",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.093,
-      "year": 2026,
+      "rank": 9,
+      "id": "tt11379026",
+      "name": "Fantasmas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+      "rating": 8.126,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -272,38 +304,11 @@
         "Unsho Ishizuka",
         "Koichi Yamadera"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt39395275",
       "name": "Dragon Ball Super: Beerus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.733,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Chou era una joven de baja condición que recogía los desechos en las calles. Todos podían humillarla a su antojo. Pero, por tener un rostro idéntico al de Wei Rao, la hija de una familia noble, terminó convirtiéndose por accidente en la novia de Lu Zhuo, el heredero del Duque, con la esperanza de traerle buena suerte. Ambiciosa, Chou vio en ello una oportunidad para ascender de posición. Sin embargo, cuando su esposo, que estaba al borde de la muerte, despertó de repente, ocupar el lugar de otra desencadenó una serie de desgracias. Wei Rao, furiosa porque Chou le había usurpado su lugar, quería deshacerse de ella cuanto antes. Lu Zhuo la consideraba una mujer cruel, así que se mantenía alerta ante ella. A primera vista, la Mansión del duque parecía un lugar armonioso, pero en realidad estaba llena de trampas y peligros mortales a cada paso. En medio de las intrigas, Chou luchó por sortear los intereses de todos y trazar su propio camino.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zl3gZ02Ex1N6P6ULolIKc36LXtv.png",
-      "director": [
-        "杨龙"
-      ],
-      "cast": [
-        "田曦薇",
-        "Yan An"
-      ],
-      "rank": 10,
-      "id": "tt42576855",
-      "name": "Donde termina la máscara",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uzhhvTVB5TxsHHY419KkX0tt4n2.jpg",
-      "rating": 9,
+      "rating": 9.699,
       "year": 2026,
       "days": null,
       "trend": {
@@ -313,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }

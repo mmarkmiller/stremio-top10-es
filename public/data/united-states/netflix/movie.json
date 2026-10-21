@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,7 +66,7 @@
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.033,
+      "rating": 5.097,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,8 +101,44 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 7.03,
+      "rating": 6.997,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
+      "runtime": "95 min",
+      "director": [
+        "Jeremy Saulnier"
+      ],
+      "cast": [
+        "Anton Yelchin",
+        "Imogen Poots",
+        "Patrick Stewart",
+        "Alia Shawkat",
+        "Joe Cole",
+        "Callum Turner",
+        "Macon Blair",
+        "Mark Webber"
+      ],
+      "rank": 4,
+      "id": "tt4062536",
+      "name": "Green Room",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
+      "rating": 6.718,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -147,6 +183,78 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
+      "runtime": "108 min",
+      "director": [
+        "Jonathan Glazer"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade",
+        "Andrew Gorman",
+        "Joe Szula"
+      ],
+      "rank": 6,
+      "id": "tt1441395",
+      "name": "Under the Skin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
+      "rating": 6.142,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El joven y solitario Clarence está celebrando su cumpleaños como siempre lo hace, viendo películas de Kun-fú en un destartalado cine de Detroit, cunado una rubia explosiva, Alabama, hace su entrada en la sala derramando palomitas sobre él. De este incidente surgirá una loca aventura de amor que llevará a los dos jóvenes a vivir una verdadera noche de pasión. Alabama es en realidad una prostituta alquilada por el mejor amigo de Clarence como regalo de cumpleaños. Los dos jóvenes se enamoran y contraen matrimonio. Clarence intenta alejar a su mujer de la prostitución y se enfrenta con su chulo al ir a recoger las pertenencias de Alabama, pero al abrir la maleta se encuentran con una considerable cantidad de cocaína que utilizarán como esperanza para realizar todos lo sueños que han deseador.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5GS0703R52TQeEfNtsWeEK7QjMP.png",
+      "runtime": "120 min",
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Christian Slater",
+        "Patricia Arquette",
+        "Dennis Hopper",
+        "Val Kilmer",
+        "Gary Oldman",
+        "Brad Pitt",
+        "Christopher Walken",
+        "Bronson Pinchot"
+      ],
+      "rank": 7,
+      "id": "tt0108399",
+      "name": "Amor a quemarropa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wPdBa1Nk70zUfDA7nKbDoynZM1.jpg",
+      "rating": 7.535,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
         "Ciencia ficción",
@@ -169,7 +277,7 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
@@ -183,139 +291,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+      "description": "Una ciudad está poblada por varios clanes de gánsteres que dirigen varios negocios en los mercados negros. Cada clan quiere ser el gobernante absoluto, pero bajo el reinado de Big Boss, que cobra tarifas criminales por tema, el equilibrio entre ellos se mantiene de manera similar a la equidad entre los ilegales y los legales. Tee, Kid, Tuek y Sim, una pandilla de adictos a los juegos de computadora, se convirtieron en menciones de Big Boss. Cuando Big Boss murió abruptamente, Tee está a punto de informar a su equipo, pero duda y decide ocultar este hecho al resto. Para que pueda jugar otro juego con sus compañeros y satisfacer el último deseo de Big Boss.",
       "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png",
-      "runtime": "83 min",
-      "director": [
-        "Tobe Hooper"
-      ],
-      "cast": [
-        "Marilyn Burns",
-        "Allen Danziger",
-        "Paul A. Partain",
-        "William Vail",
-        "Teri McMinn",
-        "Edwin Neal",
-        "Jim Siedow",
-        "Gunnar Hansen"
-      ],
-      "rank": 7,
-      "id": "tt0072271",
-      "name": "La matanza de Texas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.288,
-      "year": 1974,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Brasil, 1971. Un país en las garras de una dictadura militar. Una madre se ve obligada a reinventarse cuando la vida de su familia se ve destrozada por un acto de violencia arbitraria.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t5XMGJryVcZ0iglPBMB3zU3UUjj.png",
-      "runtime": "137 min",
-      "director": [
-        "Walter Salles"
-      ],
-      "cast": [
-        "Fernanda Torres",
-        "Fernanda Montenegro",
-        "Selton Mello",
-        "Valentina Herszage",
-        "Maria Manoella",
-        "Bárbara Luz",
-        "Gabriela Carneiro da Cunha",
-        "Luiza Kosovski"
-      ],
-      "rank": 8,
-      "id": "tt14961016",
-      "name": "Aún estoy aquí",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnhi5LYyTY1p9cgug0XwC13xVtk.jpg",
-      "rating": 7.916,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
-      "genres": [
-        "Acción",
         "Comedia",
-        "Bélica"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/q5UEflDVC7C6yqvkngycF56KYe6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dv2DXOYhpXEWA1cbDwfPXQExWG0.png",
+      "runtime": "102 min",
       "director": [
-        "Guy Ritchie"
+        "Tiwa Moeithaisong"
       ],
       "cast": [
-        "Henry Cavill",
-        "Eiza González",
-        "Alan Ritchson",
-        "Henry Golding",
-        "Cary Elwes",
-        "Alex Pettyfer",
-        "Babs Olusanmokun",
-        "Hero Fiennes Tiffin"
-      ],
-      "rank": 9,
-      "id": "tt5177120",
-      "name": "El ministerio de la Guerra Sucia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
-      "rating": 7,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1xtNFKfTr0d5IqZ0i77E90cYYTP.png",
-      "runtime": "109 min",
-      "director": [
-        "Nia DaCosta"
-      ],
-      "cast": [
-        "Ralph Fiennes",
-        "Alfie Williams",
-        "Jack O'Connell",
-        "Erin Kellyman",
-        "Chi Lewis-Parry",
-        "Connor Newall",
-        "Maura Bird",
-        "Ghazi Al Ruffai"
+        "พิทวัส พฤกษกิจ",
+        "อิศรา กิจนิตย์ชีว์",
+        "Kyutae Sim",
+        "คุณพัทธ์ พิเชษฐ์วรวุฒิ",
+        "พลอยไพลิน ตั้งประภาพร",
+        "Day Thaitanium",
+        "นพชัย ชัยนาม",
+        "Jonathan Holman"
       ],
       "rank": 10,
-      "id": "tt32141377",
-      "name": "28 años después: El templo de los huesos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
-      "rating": 7.092,
-      "year": 2026,
+      "id": "tt13677352",
+      "name": "Game Changer",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NWiOOzLPilMC785dSywZCgkkvQ.jpg",
+      "rating": 6.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +326,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }

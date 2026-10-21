@@ -2,8 +2,41 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610201942",
+  "date": "202610211945",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aYyxsYFnOv3IXThh1oNvkiLEmh5.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
+      ],
+      "rank": 1,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
+      "rating": 6.625,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
@@ -21,44 +54,11 @@
         "Cameron Scoggins",
         "Devin Kessler"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/btTST9hsE5flPPhO7oH5sHZY0Yh.png",
-      "director": [],
-      "cast": [
-        "Summer H. Howell",
-        "Samantha Sloyan",
-        "Siena Agudong",
-        "Alison Thornton",
-        "Joel Oulette",
-        "Josie Totah",
-        "Arthur Conti",
-        "Thalia Dudek"
-      ],
-      "rank": 2,
-      "id": "tt11540908",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.351,
+      "rating": 8.572,
       "year": 2026,
       "days": null,
       "trend": {
@@ -90,7 +90,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.613,
+      "rating": 7.611,
       "year": 2023,
       "days": null,
       "trend": {
@@ -100,30 +100,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
       "genres": [
-        "Misterio",
+        "Crimen",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
       "director": [],
       "cast": [
-        "Harold Perrineau",
-        "Catalina Sandino Moreno",
-        "Ricky He",
-        "David Alpay",
-        "Chloe Van Landschoot",
-        "Hannah Cheramy",
-        "Pegah Ghafoori",
-        "Simon Webster"
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas",
+        "Hugo Weaving",
+        "Saskia Reeves",
+        "Christopher Chung",
+        "Aimee-Ffion Edwards"
       ],
       "rank": 4,
-      "id": "tt9813792",
-      "name": "From",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.489,
+      "id": "tt5875444",
+      "name": "Slow Horses",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "rating": 8.056,
       "year": 2022,
       "days": null,
       "trend": {
@@ -133,85 +132,30 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "genres": [
-        "Comedia",
-        "Documental"
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/btTST9hsE5flPPhO7oH5sHZY0Yh.png",
       "director": [],
       "cast": [
-        "Nathan Fielder"
+        "Summer H. Howell",
+        "Samantha Sloyan",
+        "Siena Agudong",
+        "Alison Thornton",
+        "Joel Oulette",
+        "Josie Totah",
+        "Arthur Conti",
+        "Thalia Dudek"
       ],
       "rank": 5,
-      "id": "tt2297757",
-      "name": "Nathan for You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
-      "rating": 8.243,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aYyxsYFnOv3IXThh1oNvkiLEmh5.png",
-      "director": [],
-      "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park",
-        "Elijah Fox"
-      ],
-      "rank": 6,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 7,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.199,
+      "id": "tt11540908",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.33,
       "year": 2026,
       "days": null,
       "trend": {
@@ -241,11 +185,11 @@
         "Diane Morgan",
         "Ben Crompton"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 8.821,
+      "rating": 8.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -255,29 +199,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
       "genres": [
-        "Crimen",
+        "Misterio",
         "Drama",
-        "Misterio"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
       "director": [],
       "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
+        "Harold Perrineau",
+        "Catalina Sandino Moreno",
+        "Ricky He",
+        "David Alpay",
+        "Chloe Van Landschoot",
+        "Hannah Cheramy",
+        "Pegah Ghafoori",
+        "Simon Webster"
       ],
-      "rank": 9,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.054,
+      "rank": 7,
+      "id": "tt9813792",
+      "name": "From",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
+      "rating": 8.49,
       "year": 2022,
       "days": null,
       "trend": {
@@ -287,30 +232,78 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 8,
+      "id": "tt2297757",
+      "name": "Nathan for You",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
+      "rating": 8.243,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
       "genres": [
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
       "director": [],
       "cast": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "Madison Iseman",
-        "P.J. Byrne",
-        "Dan Fogler",
-        "Wade Briggs",
-        "Robyn Cara",
-        "John Slattery"
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
+      ],
+      "rank": 9,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dinero. Amor. Tragedia. Engaño. De la mano de la productora ejecutiva Elizabeth Meriwether, \"The Dropout: Auge y caída de Elizabeth Holmes\" es la historia de Elizabeth Holmes y Theranos, una increíble historia de ambición y fama que salió tremendamente mal. ¿Cómo la mujer multimillonaria más joven del mundo lo perdió todo en un abrir y cerrar de ojos?",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/969nC6k30OnMLCWyaa0d2FO0uTc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8k8UY9XK4tts5VfijEsf7uVrNvu.png",
+      "director": [],
+      "cast": [
+        "Amanda Seyfried",
+        "Naveen Andrews"
       ],
       "rank": 10,
-      "id": "tt6151526",
-      "name": "Legítima defensa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.8,
-      "year": 2025,
+      "id": "tt10166622",
+      "name": "The Dropout: Auge y caída de Elizabeth Holmes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qh325jz8pfSMbW88lzeg1Ikb7JK.jpg",
+      "rating": 7.372,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-20T17:13:04.764Z"
+  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
 }
