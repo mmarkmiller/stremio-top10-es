@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt21952924",
       "name": "Farsante",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
-      "rating": 6.625,
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -58,40 +58,8 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.572,
+      "rating": 8.633,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
-      ],
-      "rank": 3,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.611,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -118,12 +86,69 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.056,
+      "rating": 8.062,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt"
+      ],
+      "rank": 4,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 8,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
+      ],
+      "rank": 5,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.616,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -151,11 +176,11 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.33,
+      "rating": 8.343,
       "year": 2026,
       "days": null,
       "trend": {
@@ -183,13 +208,13 @@
         "Lauren Morais",
         "Orla Brady",
         "Diane Morgan",
-        "Ben Crompton"
+        "Polly Frame"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt23112594",
       "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 8.8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.745,
       "year": 2026,
       "days": null,
       "trend": {
@@ -218,11 +243,11 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
+      "rating": 8.5,
       "year": 2022,
       "days": null,
       "trend": {
@@ -242,7 +267,7 @@
       "cast": [
         "Nathan Fielder"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt2297757",
       "name": "Nathan for You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
@@ -273,37 +298,12 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.2,
+      "rating": 7.227,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dinero. Amor. Tragedia. Engaño. De la mano de la productora ejecutiva Elizabeth Meriwether, \"The Dropout: Auge y caída de Elizabeth Holmes\" es la historia de Elizabeth Holmes y Theranos, una increíble historia de ambición y fama que salió tremendamente mal. ¿Cómo la mujer multimillonaria más joven del mundo lo perdió todo en un abrir y cerrar de ojos?",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/969nC6k30OnMLCWyaa0d2FO0uTc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8k8UY9XK4tts5VfijEsf7uVrNvu.png",
-      "director": [],
-      "cast": [
-        "Amanda Seyfried",
-        "Naveen Andrews"
-      ],
-      "rank": 10,
-      "id": "tt10166622",
-      "name": "The Dropout: Auge y caída de Elizabeth Holmes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qh325jz8pfSMbW88lzeg1Ikb7JK.jpg",
-      "rating": 7.372,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

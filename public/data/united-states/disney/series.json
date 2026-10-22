@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,13 +24,13 @@
         "Lauren Morais",
         "Orla Brady",
         "Diane Morgan",
-        "Ben Crompton"
+        "Polly Frame"
       ],
       "rank": 1,
       "id": "tt23112594",
       "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "rating": 8.8,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.745,
       "year": 2026,
       "days": null,
       "trend": {
@@ -60,8 +60,36 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.565,
+      "rating": 8.566,
       "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Reality",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
+      "director": [],
+      "cast": [
+        "Alfonso Ribeiro",
+        "Julianne Hough",
+        "Derek Hough",
+        "Carrie Ann Inaba",
+        "Bruno Tonioli"
+      ],
+      "rank": 3,
+      "id": "tt0463398",
+      "name": "Dancing with the Stars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "rating": 6.2,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -87,39 +115,11 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
       "rating": 8.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
-      "director": [],
-      "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
-      ],
-      "rank": 4,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.154,
       "year": 2005,
       "days": null,
       "trend": {
@@ -149,8 +149,40 @@
       "id": "tt0096697",
       "name": "Los Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.025,
+      "rating": 8.026,
       "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 6,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.153,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -178,7 +210,7 @@
         "Corinne Massiah",
         "Elijah M. Cooper"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
@@ -192,92 +224,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "description": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/2XToLzIbmmA8OTtyLzqfgncjWGx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 7,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.157,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vbz8B3pIrGjWKY6Y3OhUDVugHz8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png",
-      "director": [],
-      "cast": [
-        "Teri Hatcher",
-        "Felicity Huffman",
-        "Marcia Cross",
-        "Eva Longoria",
-        "Ricardo Chavira",
-        "Doug Savant",
-        "James Denton",
-        "Brenda Strong"
+        "Lea Michele",
+        "Chris Colfer",
+        "Matthew Morrison",
+        "Jane Lynch",
+        "Dot-Marie Jones",
+        "Chord Overstreet",
+        "Darren Criss",
+        "Amber Riley"
       ],
       "rank": 8,
-      "id": "tt0410975",
-      "name": "Mujeres desesperadas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
-      "rating": 7.9,
-      "year": 2004,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
-      "director": [],
-      "cast": [
-        "松本梨香",
-        "Ikue Otani",
-        "Daiki Yamashita",
-        "Kenyu Horiuchi"
-      ],
-      "rank": 9,
-      "id": "tt0168366",
-      "name": "Pokémon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
-      "rating": 7.985,
-      "year": 1997,
+      "id": "tt1327801",
+      "name": "Glee",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9WlKHB3lmqMmxO1SfL6MVOJxKPP.jpg",
+      "rating": 6.779,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -301,12 +271,41 @@
         "Cobie Smulders",
         "Cristin Milioti"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0460649",
       "name": "Cómo conocí a vuestra madre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.113,
+      "rating": 8.112,
       "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
+      "director": [],
+      "cast": [
+        "松本梨香",
+        "Ikue Otani",
+        "Daiki Yamashita",
+        "Kenyu Horiuchi"
+      ],
+      "rank": 10,
+      "id": "tt0168366",
+      "name": "Pokémon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
+      "rating": 8,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

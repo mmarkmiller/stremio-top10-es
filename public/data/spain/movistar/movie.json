@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,43 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.288,
+      "rating": 8.286,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
+      "runtime": "140 min",
+      "director": [
+        "Sebastian Schipper"
+      ],
+      "cast": [
+        "Laia Costa",
+        "Frederick Lau",
+        "Franz Rogowski",
+        "Max Mauff",
+        "Burak Yiğit",
+        "André Hennicke",
+        "Lena Klenke",
+        "Philipp Kubitza"
+      ],
+      "rank": 2,
+      "id": "tt4226388",
+      "name": "Victoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
+      "rating": 7.58,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -64,118 +99,12 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.945,
+      "rating": 7.944,
       "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
-      ],
-      "rank": 3,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.58,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hae-Joon, un veterano detective, investiga la sospechosa muerte de un hombre en la cima de una montaña. Pronto, comenzará a sospechar de Sore, la mujer del difunto, mientras la atracción que siente por ella le desestabilizará.",
-      "genres": [
-        "Suspense",
-        "Misterio",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2gs8jexTpsN6OkIgpwVYUmsnoWY.png",
-      "runtime": "138 min",
-      "director": [
-        "Park Chan-wook"
-      ],
-      "cast": [
-        "汤唯",
-        "박해일",
-        "이정현",
-        "고경표",
-        "박용우",
-        "김신영",
-        "Yoo Seung-mok",
-        "Jung Yi-seo"
-      ],
-      "rank": 4,
-      "id": "tt12477480",
-      "name": "Decision to Leave",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9Tk2tkXL2zmbAuYr8staL0SZWO.jpg",
-      "rating": 7.3,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Randy \"The Ram\" Robinson (Mickey Rourke) es un luchador profesional de wrestling que, tras haber sido una estrella en la década de los ochenta, trata de continuar su carrera en el circuito independiente, combatiendo en cuadriláteros de tercera categoría. Cuando se da cuenta de que los brutales golpes que ha recibido a lo largo de su carrera le empiezan a pasar factura, decide poner un poco de orden en su vida: intenta acercarse a Stephanie, la hija que abandonó (Evan Rachel Wood) y trata de superar la soledad con su amor por Cassidy, una streaper (Marisa Tomei).",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wcJmFsz8RqIhozMwvU81hreTX4i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mb9nuOJTG6gnriv13vxxg38x1M6.png",
-      "runtime": "109 min",
-      "director": [
-        "Darren Aronofsky"
-      ],
-      "cast": [
-        "Mickey Rourke",
-        "Marisa Tomei",
-        "Evan Rachel Wood",
-        "Mark Margolis",
-        "Todd Barry",
-        "Wass Stevens",
-        "Judah Friedlander",
-        "Ernest Miller"
-      ],
-      "rank": 5,
-      "id": "tt1125849",
-      "name": "El luchador",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hQpBhEHCFNYgakxpP6pAVB2k3fp.jpg",
-      "rating": 7.537,
-      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,12 +135,48 @@
         "Susan May Pratt",
         "Gabrielle Union"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
       "rating": 7.601,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hae-Joon, un veterano detective, investiga la sospechosa muerte de un hombre en la cima de una montaña. Pronto, comenzará a sospechar de Sore, la mujer del difunto, mientras la atracción que siente por ella le desestabilizará.",
+      "genres": [
+        "Suspense",
+        "Misterio",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2gs8jexTpsN6OkIgpwVYUmsnoWY.png",
+      "runtime": "138 min",
+      "director": [
+        "Park Chan-wook"
+      ],
+      "cast": [
+        "汤唯",
+        "박해일",
+        "이정현",
+        "고경표",
+        "박용우",
+        "김신영",
+        "Yoo Seung-mok",
+        "Jung Yi-seo"
+      ],
+      "rank": 5,
+      "id": "tt12477480",
+      "name": "Decision to Leave",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9Tk2tkXL2zmbAuYr8staL0SZWO.jpg",
+      "rating": 7.323,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +206,7 @@
         "Monica Barbaro",
         "Lewis Pullman"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt1745960",
       "name": "Top Gun: Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
@@ -255,60 +220,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un documental que explora un emocionante proyecto en Europa donde la naturaleza se toma el control. Se eliminan cercas, se liberan animales y todo se deja en manos de la vida salvaje para que brote y crezca libremente.",
+      "description": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
       "genres": [
-        "Documental"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/70IGSaWsOEaN2ReklyppeyDDZwy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fxOd0RTVeLTehimVu0azTSMILni.png",
-      "runtime": "75 min",
+      "background": "https://image.tmdb.org/t/p/w1280/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bJqOelH0DOmaAp996slar3zjTSa.png",
+      "runtime": "100 min",
       "director": [
-        "David Allen"
+        "Corin Hardy"
       ],
       "cast": [
-        "Isabella Tree",
-        "Rhiannon Hughes",
-        "Matthew Collyer",
-        "Charlie Burrell"
+        "Dafne Keen",
+        "Sophie Nélisse",
+        "Sky Yang",
+        "Jhaleil Swaby",
+        "Alissa Skovbye",
+        "Percy Hynes White",
+        "Michelle Fairley",
+        "Nick Frost"
       ],
-      "rank": 8,
-      "id": "tt28834285",
-      "name": "Wilding, el regreso de la naturaleza",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2iJXyrUNsaqQWQHvhmtdTzr3Emj.jpg",
-      "rating": 7.5,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El marido y el hermano de Rosario se han quedado sin trabajo tras un despido improcedente. Para pagar sus deudas, deciden secuestrar el cadáver de su jefe y pedir un rescate. Pero Inés, la adinerada mujer del muerto, y sus hijos tienen otros planes. A pesar de pertenecer a mundos totalmente distintos, ambas familias se verán obligadas a intercambiar mucho más que un cuerpo.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bT1GVyqPk0Y0FlZf0xqYR2jo3fW.jpg",
-      "runtime": "97 min",
-      "director": [
-        "Claudia Pinto Emperador"
-      ],
-      "cast": [
-        "Tamara Casellas",
-        "Ana Wagener",
-        "Juan Carlos Vellido",
-        "Pau Durà",
-        "Carmen Arrufat",
-        "Paula Muñoz",
-        "Daniel Pérez Prada",
-        "Raúl Prieto"
-      ],
-      "rank": 9,
-      "id": "tt36151377",
-      "name": "Morir no siempre sale bien",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/la72AK13gJTvU5OfBquwJSuIhdJ.jpg",
-      "rating": 10,
+      "rank": 7,
+      "id": "tt29550683",
+      "name": "Whistle: El silbido del mal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1gafvXyeC3vB7CatUo1IIx8a421.jpg",
+      "rating": 6.314,
       "year": 2026,
       "days": null,
       "trend": {
@@ -339,12 +276,87 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
+      "rating": 7.266,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
+      "genres": [
+        "Historia",
+        "Drama",
+        "Suspense",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/caQp2MhwfrTYGqVr7d9ayn8tqQ7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/as5896klrRArNMjGJSMwzlCaKl3.png",
+      "runtime": "115 min",
+      "director": [
+        "Morten Tyldum"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode",
+        "Rory Kinnear",
+        "Allen Leech",
+        "Matthew Beard",
+        "Charles Dance",
+        "Mark Strong"
+      ],
+      "rank": 9,
+      "id": "tt2084970",
+      "name": "The Imitation Game (Descifrando Enigma)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "rating": 7.977,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7GPemb4DkuxlicKiQP5V5f2Wwtg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Au8kowXvtfaNAwQDNGa8Ggt4mow.png",
+      "runtime": "92 min",
+      "director": [
+        "Sam Fell",
+        "Chris Butler"
+      ],
+      "cast": [
+        "Kodi Smit-McPhee",
+        "Tucker Albrizzi",
+        "Anna Kendrick",
+        "Casey Affleck",
+        "Christopher Mintz-Plasse",
+        "Leslie Mann",
+        "Jeff Garlin",
+        "Elaine Stritch"
+      ],
+      "rank": 10,
+      "id": "tt1623288",
+      "name": "El alucinante mundo de Norman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
+      "rating": 7.06,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

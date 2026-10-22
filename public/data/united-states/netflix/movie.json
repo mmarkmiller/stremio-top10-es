@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,79 +30,8 @@
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.4,
+      "rating": 6.404,
       "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "genres": [
-        "Aventura",
-        "Comedia",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
-      "director": [
-        "Romain Gavras"
-      ],
-      "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Sam Richardson",
-        "Zarene Dallas"
-      ],
-      "rank": 2,
-      "id": "tt32268992",
-      "name": "Sacrifice",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.097,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
-      "runtime": "109 min",
-      "director": [
-        "Ben Affleck"
-      ],
-      "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
-      ],
-      "rank": 3,
-      "id": "tt31049299",
-      "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.997,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -133,11 +62,11 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.718,
+      "rating": 6.7,
       "year": 2016,
       "days": null,
       "trend": {
@@ -147,34 +76,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción"
+        "Aventura",
+        "Comedia",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
-      "runtime": "130 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+      "runtime": "103 min",
       "director": [
-        "Christopher Nolan"
+        "Romain Gavras"
       ],
       "cast": [
-        "Hugh Jackman",
-        "Christian Bale",
-        "Michael Caine",
-        "Piper Perabo",
-        "Rebecca Hall",
-        "Scarlett Johansson",
-        "Samantha Mahurin",
-        "David Bowie"
+        "Chris Evans",
+        "Anya Taylor-Joy",
+        "Vincent Cassel",
+        "Salma Hayek Pinault",
+        "John Malkovich",
+        "Charli xcx",
+        "Sam Richardson",
+        "Zarene Dallas"
+      ],
+      "rank": 3,
+      "id": "tt32268992",
+      "name": "Sacrifice",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "rating": 5.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "rank": 4,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 6.97,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iD1axf4FfGyi6kPT1UcQ0VLgbap.png",
+      "runtime": "155 min",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed",
+        "Richard Harris",
+        "Derek Jacobi",
+        "Djimon Hounsou",
+        "David Schofield"
       ],
       "rank": 5,
-      "id": "tt0482571",
-      "name": "El truco final (El prestigio)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
-      "rating": 8.212,
-      "year": 2006,
+      "id": "tt0172495",
+      "name": "Gladiator",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
+      "rating": 8.232,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -219,34 +219,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El joven y solitario Clarence está celebrando su cumpleaños como siempre lo hace, viendo películas de Kun-fú en un destartalado cine de Detroit, cunado una rubia explosiva, Alabama, hace su entrada en la sala derramando palomitas sobre él. De este incidente surgirá una loca aventura de amor que llevará a los dos jóvenes a vivir una verdadera noche de pasión. Alabama es en realidad una prostituta alquilada por el mejor amigo de Clarence como regalo de cumpleaños. Los dos jóvenes se enamoran y contraen matrimonio. Clarence intenta alejar a su mujer de la prostitución y se enfrenta con su chulo al ir a recoger las pertenencias de Alabama, pero al abrir la maleta se encuentran con una considerable cantidad de cocaína que utilizarán como esperanza para realizar todos lo sueños que han deseador.",
+      "description": "'Emily' cuenta la vida imaginada de una de las autoras más famosas del mundo, Emily Brontë. La joven, que falleció a la temprana edad de 30 años, fue una rebelde e inadaptada a su tiempo y encontraría su voz al escribir el clásico literario 'Cumbres borrascosas'. La película explora las relaciones que la inspiraron, tanto con sus hermanas Charlotte y Anne como con su malogrado primer amor, además de la especial amistad y complicidad que le unían a su inconformista hermano Branwell, a quien Emily idolatraba.",
       "genres": [
-        "Acción",
-        "Crimen",
+        "Historia",
+        "Drama",
         "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5GS0703R52TQeEfNtsWeEK7QjMP.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wizYHZzSr0wJmB3Oo6LTFaP4HzY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5wwOF2BwSMUUkq2syazlJd7VQdO.png",
+      "runtime": "130 min",
       "director": [
-        "Tony Scott"
+        "Frances O'Connor"
       ],
       "cast": [
-        "Christian Slater",
-        "Patricia Arquette",
-        "Dennis Hopper",
-        "Val Kilmer",
-        "Gary Oldman",
-        "Brad Pitt",
-        "Christopher Walken",
-        "Bronson Pinchot"
+        "Emma Mackey",
+        "Fionn Whitehead",
+        "Oliver Jackson-Cohen",
+        "Alexandra Dowling",
+        "Gemma Jones",
+        "Adrian Dunbar",
+        "Amelia Gething",
+        "Veronica Roberts"
       ],
       "rank": 7,
-      "id": "tt0108399",
-      "name": "Amor a quemarropa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wPdBa1Nk70zUfDA7nKbDoynZM1.jpg",
-      "rating": 7.535,
-      "year": 1993,
+      "id": "tt12374656",
+      "name": "Emily",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gHRnvzxvcMGIDV2MiPkGRYKZoIS.jpg",
+      "rating": 6.9,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,34 +255,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "Stephen Meyers es un idealista y brillante comunicador. Es el segundo de a bordo de la campaña presidencial del gobernador Mike Morris, en quien confía ciegamente. Durante las primarias de Ohio, Tom Duffy, el jefe de campaña del máximo oponente de Morris, ofrece a Meyers un puesto de trabajo. Al mismo tiempo, las negociaciones de Morris para conseguir el apoyo adicional de un senador de Carolina del Sur se estancan. Y la joven becaria Molly Sterns capta la atención de Stephen. Los republicanos guardan varios ases bajo la manga, Meyers puede haberse confiado en exceso y Molly guarda un secreto. ¿Qué es más importante: la carrera, la victoria o la verdad?",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/h7CSSFdi613IpqfUNWRD7EVEniK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hr0Y0nwr04ErKGj0NUvcTohELKr.png",
+      "runtime": "101 min",
       "director": [
-        "Takashi Yamazaki"
+        "George Clooney"
       ],
       "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
+        "Ryan Gosling",
+        "George Clooney",
+        "Philip Seymour Hoffman",
+        "Paul Giamatti",
+        "Evan Rachel Wood",
+        "Marisa Tomei",
+        "Jeffrey Wright",
+        "Max Minghella"
       ],
       "rank": 9,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.603,
-      "year": 2023,
+      "id": "tt1124035",
+      "name": "Los idus de marzo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q0kIH8jo6wlILNozAkcNOFqEuZO.jpg",
+      "rating": 6.679,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -291,33 +289,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una ciudad está poblada por varios clanes de gánsteres que dirigen varios negocios en los mercados negros. Cada clan quiere ser el gobernante absoluto, pero bajo el reinado de Big Boss, que cobra tarifas criminales por tema, el equilibrio entre ellos se mantiene de manera similar a la equidad entre los ilegales y los legales. Tee, Kid, Tuek y Sim, una pandilla de adictos a los juegos de computadora, se convirtieron en menciones de Big Boss. Cuando Big Boss murió abruptamente, Tee está a punto de informar a su equipo, pero duda y decide ocultar este hecho al resto. Para que pueda jugar otro juego con sus compañeros y satisfacer el último deseo de Big Boss.",
+      "description": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
       "genres": [
-        "Comedia",
-        "Crimen"
+        "Acción",
+        "Aventura",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/q5UEflDVC7C6yqvkngycF56KYe6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dv2DXOYhpXEWA1cbDwfPXQExWG0.png",
-      "runtime": "102 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png",
+      "runtime": "148 min",
       "director": [
-        "Tiwa Moeithaisong"
+        "Ridley Scott"
       ],
       "cast": [
-        "พิทวัส พฤกษกิจ",
-        "อิศรา กิจนิตย์ชีว์",
-        "Kyutae Sim",
-        "คุณพัทธ์ พิเชษฐ์วรวุฒิ",
-        "พลอยไพลิน ตั้งประภาพร",
-        "Day Thaitanium",
-        "นพชัย ชัยนาม",
-        "Jonathan Holman"
+        "Paul Mescal",
+        "Denzel Washington",
+        "Pedro Pascal",
+        "Connie Nielsen",
+        "Joseph Quinn",
+        "Fred Hechinger",
+        "ליאור רז",
+        "Derek Jacobi"
       ],
       "rank": 10,
-      "id": "tt13677352",
-      "name": "Game Changer",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NWiOOzLPilMC785dSywZCgkkvQ.jpg",
-      "rating": 6.5,
-      "year": 2021,
+      "id": "tt9218128",
+      "name": "Gladiator II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ckTXrwlr4cRVxpBFEZcEmDzrmea.jpg",
+      "rating": 6.589,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +325,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

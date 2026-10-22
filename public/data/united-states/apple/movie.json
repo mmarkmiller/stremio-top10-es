@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.354,
+      "rating": 8.367,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.904,
+      "rating": 7.907,
       "year": 2026,
       "days": null,
       "trend": {
@@ -77,32 +77,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
       "genres": [
-        "Drama"
+        "Familia",
+        "Animación",
+        "Película de TV",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/vtml6FFkXCEG7j30dkNsK5F7SdK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png",
+      "runtime": "25 min",
       "director": [
-        "Gus Van Sant"
+        "Bill Melendez"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Peter Robbins",
+        "Christopher Shea",
+        "Sally Dryer",
+        "Bill Melendez",
+        "Cathy Steinberg",
+        "Gail DeFaria",
+        "Glenn Mendelson",
+        "Ann Altieri"
       ],
       "rank": 3,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.167,
-      "year": 1997,
+      "id": "tt0060550",
+      "name": "Ésta es la gran calabaza, Charlie Brown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "rating": 7.531,
+      "year": 1966,
       "days": null,
       "trend": {
         "dir": "same",
@@ -137,8 +140,114 @@
       "id": "tt28498219",
       "name": "Matchbox: La película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.799,
+      "rating": 7.787,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4npL5g0QOxuIZKsEx6SnC8niDuo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
+      "runtime": "113 min",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Naomie Harris",
+        "Brendan Gleeson",
+        "Megan Burns",
+        "Christopher Eccleston",
+        "Noah Huntley",
+        "Luke Mably",
+        "Stuart McQuarrie"
+      ],
+      "rank": 5,
+      "id": "tt0289043",
+      "name": "28 días después",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+      "rating": 7.244,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 6,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.956,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 7,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.167,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,121 +279,12 @@
         "Matthew McConaughey",
         "Tom Cruise"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt0942385",
       "name": "Tropic Thunder, ¡una guerra muy perra!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
       "rating": 6.73,
       "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
-      "genres": [
-        "Familia",
-        "Animación",
-        "Película de TV",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vtml6FFkXCEG7j30dkNsK5F7SdK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png",
-      "runtime": "25 min",
-      "director": [
-        "Bill Melendez"
-      ],
-      "cast": [
-        "Peter Robbins",
-        "Christopher Shea",
-        "Sally Dryer",
-        "Bill Melendez",
-        "Cathy Steinberg",
-        "Gail DeFaria",
-        "Glenn Mendelson",
-        "Ann Altieri"
-      ],
-      "rank": 6,
-      "id": "tt0060550",
-      "name": "Ésta es la gran calabaza, Charlie Brown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
-      "rating": 7.534,
-      "year": 1966,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 7,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.957,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4npL5g0QOxuIZKsEx6SnC8niDuo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
-      "runtime": "113 min",
-      "director": [
-        "Danny Boyle"
-      ],
-      "cast": [
-        "Cillian Murphy",
-        "Naomie Harris",
-        "Brendan Gleeson",
-        "Megan Burns",
-        "Christopher Eccleston",
-        "Noah Huntley",
-        "Luke Mably",
-        "Stuart McQuarrie"
-      ],
-      "rank": 8,
-      "id": "tt0289043",
-      "name": "28 días después",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.245,
-      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -328,34 +328,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "description": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
       "genres": [
-        "Romance",
-        "Comedia",
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6x0H4KhOW9j4H3lGk6q1JO0Udl.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/orjyEE9ZcMefTsN8zT5ryQTdkIz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png",
+      "runtime": "113 min",
       "director": [
-        "David Freyne"
+        "Martin Scorsese"
       ],
       "cast": [
-        "Elizabeth Olsen",
-        "Miles Teller",
-        "Callum Turner",
-        "Da'Vine Joy Randolph",
-        "John Early",
-        "Barry Primus",
-        "Betty Buckley",
-        "Darryl Scheelar"
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Harvey Keitel",
+        "Peter Boyle",
+        "Leonard Harris",
+        "Albert Brooks",
+        "Diahnne Abbott"
       ],
       "rank": 10,
-      "id": "tt24950660",
-      "name": "Eternity",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
-      "rating": 7.125,
-      "year": 2025,
+      "id": "tt0075314",
+      "name": "Taxi Driver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9G26DnAeMbA4sp58Gi0Vze6eQv4.jpg",
+      "rating": 8.118,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -364,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

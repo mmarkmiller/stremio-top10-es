@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -48,7 +48,7 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.229,
+      "rating": 8.232,
       "year": 2026,
       "days": null,
       "trend": {
@@ -73,8 +73,38 @@
       "id": "tt10802170",
       "name": "Los ensayos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 8,
+      "rating": 7.988,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
+      "director": [],
+      "cast": [
+        "Quinta Brunson",
+        "Tyler James Williams",
+        "Sheryl Lee Ralph",
+        "Lisa Ann Walter",
+        "Chris Perfetti",
+        "Janelle James",
+        "William Stanford Davis"
+      ],
+      "rank": 4,
+      "id": "tt14218830",
+      "name": "Colegio Abbott",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
+      "rating": 7.509,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,7 +130,7 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
@@ -129,10 +159,10 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt35949226",
       "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
       "rating": 7.5,
       "year": 2026,
       "days": null,
@@ -143,57 +173,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
+      "background": "https://image.tmdb.org/t/p/w1280/1rFdsNlP7kuftVNSbQs6r0H2ufH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9c3BYh9hq9kk58dpEdd7ojXd5u7.png",
       "director": [],
       "cast": [
-        "Quinta Brunson",
-        "Tyler James Williams",
-        "Sheryl Lee Ralph",
-        "Lisa Ann Walter",
-        "Chris Perfetti",
-        "Janelle James",
-        "William Stanford Davis"
-      ],
-      "rank": 6,
-      "id": "tt14218830",
-      "name": "Colegio Abbott",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.509,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
+        "Joel Kinnaman",
+        "Waleed Zuaiter",
+        "Lena Góra",
+        "Talia Balsam",
+        "Ewan Miller",
+        "Mohamed Mahmoud Gomaa",
+        "أحمد طلعت",
+        "Dar Salim"
       ],
       "rank": 7,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.055,
-      "year": 2024,
+      "id": "tt9142920",
+      "name": "High Value Target",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aItPJsNvH6xaHAWVWbYifPljVri.jpg",
+      "rating": 6.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -233,60 +234,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/43zQoHS1Ku4qIonyIlglCXnFaGB.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
       "director": [],
       "cast": [
-        "Martin Sheen",
-        "Allison Janney",
-        "John Spencer",
-        "Bradley Whitford",
-        "Joshua Malina",
-        "Alan Alda",
-        "Jimmy Smits",
-        "Kristin Chenoweth"
+        "Jon Hamm",
+        "Elisabeth Moss",
+        "Vincent Kartheiser",
+        "January Jones",
+        "Christina Hendricks",
+        "Aaron Staton",
+        "Rich Sommer",
+        "Kiernan Shipka"
       ],
       "rank": 9,
-      "id": "tt0200276",
-      "name": "El ala oeste de la Casa Blanca",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l9Nu2p9kg9xdEqxvrMpv483EFoH.jpg",
-      "rating": 8.3,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png",
-      "director": [],
-      "cast": [
-        "Jodie Foster",
-        "Kali Reis",
-        "Fiona Shaw",
-        "Finn Bennett",
-        "Isabella Star LaBlanc",
-        "John Hawkes",
-        "Grace Pitts"
-      ],
-      "rank": 10,
-      "id": "tt2356777",
-      "name": "True Detective",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
-      "rating": 8.294,
-      "year": 2014,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "rating": 8.129,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -295,5 +265,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

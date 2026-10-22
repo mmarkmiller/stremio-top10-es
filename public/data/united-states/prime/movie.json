@@ -2,8 +2,43 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
+      "runtime": "89 min",
+      "director": [
+        "James Ward Byrkit"
+      ],
+      "cast": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon",
+        "Lorene Scafaria",
+        "Elizabeth Gracen",
+        "Hugo Armstrong",
+        "Alex Manugian",
+        "Lauren Maher"
+      ],
+      "rank": 1,
+      "id": "tt2866360",
+      "name": "Coherence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
+      "rating": 7.2,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -28,11 +63,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.636,
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,69 +77,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
-      "genres": [
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
-      "runtime": "89 min",
-      "director": [
-        "James Ward Byrkit"
-      ],
-      "cast": [
-        "Emily Baldoni",
-        "Maury Sterling",
-        "Nicholas Brendon",
-        "Lorene Scafaria",
-        "Elizabeth Gracen",
-        "Hugo Armstrong",
-        "Alex Manugian",
-        "Lauren Maher"
-      ],
-      "rank": 2,
-      "id": "tt2866360",
-      "name": "Coherence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
-      "rating": 7.21,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
       "genres": [
         "Terror",
         "Misterio",
-        "Crimen"
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
       "director": [
-        "Kevin Williamson"
+        "John Carpenter"
       ],
       "cast": [
-        "Neve Campbell",
-        "Courteney Cox",
-        "Isabel May",
-        "Jasmin Savoy Brown",
-        "Mason Gooding",
-        "Roger L. Jackson",
-        "Anna Camp",
-        "Joel McHale"
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
       ],
       "rank": 3,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "rating": 6.228,
-      "year": 2026,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.075,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,6 +148,138 @@
     },
     {
       "artworkVersion": 4,
+      "genres": [
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dz5NTj4LPMkGjbuePyJZ1XKv133.jpg",
+      "runtime": "115 min",
+      "director": [
+        "Lanxuan Xie"
+      ],
+      "cast": [
+        "Josh Stamberg",
+        "张静初",
+        "Jeremiah Birkett",
+        "Ian Sharkey"
+      ],
+      "rank": 5,
+      "id": "tt30577149",
+      "name": "A.I.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXoXXQn9XFW2F1IKx3LT8PvRW33.jpg",
+      "rating": 7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
+      "runtime": "90 min",
+      "director": [
+        "Clive Barker"
+      ],
+      "cast": [
+        "Andrew Robinson",
+        "Clare Higgins",
+        "Ashley Laurence",
+        "Oliver Smith",
+        "Sean Chapman",
+        "Robert Hines",
+        "Doug Bradley",
+        "Nicholas Vince"
+      ],
+      "rank": 6,
+      "id": "tt0093177",
+      "name": "Hellraiser",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
+      "rating": 6.885,
+      "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rWAeoiklvohyNRDsSHJafYpY7Bb.jpg",
+      "runtime": "109 min",
+      "director": [
+        "Bryan Bishop"
+      ],
+      "cast": [
+        "zoe kyranna",
+        "Emma Colwell",
+        "samuel zupan",
+        "Samantha Minton",
+        "Rachel Comeau",
+        "charlie prince",
+        "Chloë Marie Rhoades",
+        "Bryan Bachman"
+      ],
+      "rank": 7,
+      "id": "tt32394518",
+      "name": "Pickleballers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hMnh98leXyB1hzmeMlB0DUmsOJF.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
+      "runtime": "114 min",
+      "director": [
+        "Kevin Williamson"
+      ],
+      "cast": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "Isabel May",
+        "Jasmin Savoy Brown",
+        "Mason Gooding",
+        "Roger L. Jackson",
+        "Anna Camp",
+        "Joel McHale"
+      ],
+      "rank": 8,
+      "id": "tt27047903",
+      "name": "Scream 7",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "rating": 6.231,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
         "Terror",
@@ -169,11 +301,11 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
+      "rating": 7.266,
       "year": 2025,
       "days": null,
       "trend": {
@@ -183,161 +315,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+      "description": "Ray y Jess, dos investigadores del FBI, son relevados de su puesto junto con la supervisora del Fiscal del Distrito, cuando aparece brutalmente asesinada la hija adolescente de Jess. Trece años después de buscar incansablemente al asesino, Ray encuentra por fin una pista para resolver el caso. Remake de \"El secreto de sus ojos\" (2009).",
       "genres": [
-        "Drama",
         "Suspense",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png",
-      "runtime": "153 min",
-      "director": [
-        "Quentin Tarantino"
-      ],
-      "cast": [
-        "Brad Pitt",
-        "Mélanie Laurent",
-        "Christoph Waltz",
-        "Eli Roth",
-        "Michael Fassbender",
-        "Diane Kruger",
-        "Daniel Brühl",
-        "Til Schweiger"
-      ],
-      "rank": 6,
-      "id": "tt0361748",
-      "name": "Malditos bastardos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg",
-      "rating": 8.217,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
-      "genres": [
-        "Terror",
         "Misterio",
-        "Ciencia ficción"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/awiTvAC4TGLcdPK7UDXwTd5rjlB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1U6c17NoVYNjsT64VuL7tS96xld.png",
+      "runtime": "111 min",
       "director": [
-        "John Carpenter"
+        "Billy Ray"
       ],
       "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
+        "Chiwetel Ejiofor",
+        "Nicole Kidman",
+        "Julia Roberts",
+        "Dean Norris",
+        "Alfred Molina",
+        "Michael Kelly",
+        "Joe Cole",
+        "Zoe Graham"
       ],
-      "rank": 7,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.075,
-      "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/luUC2AmX6vVquAjWHaHhXQnVRVl.png",
-      "runtime": "101 min",
-      "director": [
-        "Chad Stahelski"
-      ],
-      "cast": [
-        "Keanu Reeves",
-        "Michael Nyqvist",
-        "Alfie Allen",
-        "Willem Dafoe",
-        "Dean Winters",
-        "Adrianne Palicki",
-        "עומר ברנע",
-        "Toby Leonard Moore"
-      ],
-      "rank": 8,
-      "id": "tt2911666",
-      "name": "John Wick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3sKWhzWiL9xPMOhDO7l6R3y5sNL.jpg",
-      "rating": 7.466,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 9,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.877,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Suspense",
-        "Terror"
-      ],
-      "runtime": "90 min",
-      "director": [],
-      "cast": [],
       "rank": 10,
-      "id": "tmdb:1748419",
-      "name": "A Mother's Secret",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gb6w3uvChgjvT6alqqOzAHXz4Yb.jpg",
-      "rating": null,
-      "year": 2026,
+      "id": "tt1741273",
+      "name": "El secreto de una obsesión",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/biK0cAoIJpnRFg7A7JMIOHY7LMs.jpg",
+      "rating": 6.366,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -346,5 +351,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }

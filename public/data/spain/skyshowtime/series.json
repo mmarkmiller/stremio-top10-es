@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610211945",
+  "date": "202610221936",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.526,
+      "rating": 8.533,
       "year": 2025,
       "days": null,
       "trend": {
@@ -70,6 +70,130 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gv8VlHHtL4roLpU0MZOv9Evlvdf.png",
+      "director": [],
+      "cast": [
+        "Sylvester Stallone",
+        "Martin Starr",
+        "Jay Will",
+        "Vincent Piazza",
+        "Annabella Sciorra",
+        "Chris Caldovino",
+        "McKenna Quigley Harrington",
+        "Frank Grillo"
+      ],
+      "rank": 3,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+      "rating": 8.3,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El agente encubierto de la CIA, Martian, recibe la orden de abandonar su vida encubierta y regresar a la estación de Londres. Cuando el amor que dejó atrás reaparece inesperadamente, su romance se reaviva, enfrentando su carrera, su verdadera identidad y su misión contra su corazón, mientras ambos se ven envueltos en un juego mortal de intriga y espionaje internacional.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o9gr7EoGPDU1IIv8Buzm2neklUM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mTAo0IX8PDVargiAQiPBTM4ybJE.png",
+      "director": [],
+      "cast": [
+        "Michael Fassbender",
+        "Jeffrey Wright",
+        "Jodie Turner-Smith",
+        "Katherine Waterston",
+        "Harriet Sansom Harris",
+        "John Magaro",
+        "Saura Lightfoot-Leon",
+        "India Fowler"
+      ],
+      "rank": 4,
+      "id": "tt26656917",
+      "name": "La Agencia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fWGQaZ9BntXIDT1WKHrbSAVuShk.jpg",
+      "rating": 7.285,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 5,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.587,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rzAzvWJoZSwVSswvWsKx1lqT63m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
+      "director": [],
+      "cast": [
+        "Anson Mount",
+        "Ethan Peck",
+        "Jess Bush",
+        "Christina Chong",
+        "Celia Rose Gooding",
+        "Melissa Navia",
+        "Babs Olusanmokun",
+        "Martin Quinn"
+      ],
+      "rank": 6,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
+      "rating": 7.9,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
       "genres": [
         "Drama",
@@ -81,44 +205,12 @@
       "cast": [
         "Kyle MacLachlan"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt0098936",
       "name": "Twin Peaks",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
       "rating": 8.3,
       "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
-      ],
-      "rank": 5,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.278,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -146,7 +238,7 @@
         "Mo Brings Plenty",
         "Gil Birmingham"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt36849871",
       "name": "Marshals: Una historia de Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
@@ -160,118 +252,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
       "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 7,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía.\n\nEntre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de acceso a la facultad de derecho.\n\nEl azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter.\n\nLa inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un único título universitario.",
-      "genres": [
+        "Western",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
       "director": [],
       "cast": [
-        "Gabriel Macht",
-        "Rick Hoffman",
-        "Sarah Rafferty",
-        "Amanda Schull",
-        "Dulé Hill",
-        "Katherine Heigl"
-      ],
-      "rank": 8,
-      "id": "tt1632701",
-      "name": "Suits: la clave del éxito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nZsdLWlvZgA5waLpKl9koRg1VbJ.jpg",
-      "rating": 8.217,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gv8VlHHtL4roLpU0MZOv9Evlvdf.png",
-      "director": [],
-      "cast": [
-        "Sylvester Stallone",
-        "Martin Starr",
-        "Jay Will",
-        "Vincent Piazza",
-        "Annabella Sciorra",
-        "Chris Caldovino",
-        "McKenna Quigley Harrington",
-        "Frank Grillo"
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
       ],
       "rank": 9,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.3,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ijZsJKzTffG7PiRyALGd8DkWu8G.png",
-      "director": [],
-      "cast": [
-        "Saheli Khan",
-        "Aishwarya 'Aishu' Devan",
-        "Major Curda",
-        "Akshay Khanna",
-        "Sakina Jaffrey"
-      ],
-      "rank": 10,
-      "id": "tt35854736",
-      "name": "Avatar: Los Siete Refugios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-      "rating": 9.116,
-      "year": 2026,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.279,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,5 +284,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-21T17:12:08.176Z"
+  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
 }
