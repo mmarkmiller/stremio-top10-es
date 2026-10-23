@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,59 +30,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
-      ],
-      "rank": 2,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.232,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
-      "director": [],
-      "cast": [
-        "Nathan Fielder"
-      ],
-      "rank": 3,
-      "id": "tt10802170",
-      "name": "Los ensayos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 7.988,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
       "genres": [
         "Comedia"
@@ -99,11 +46,11 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.509,
+      "rating": 7.5,
       "year": 2021,
       "days": null,
       "trend": {
@@ -130,11 +77,120 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
       "rating": 7.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 4,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.233,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 5,
+      "id": "tt10802170",
+      "name": "Los ensayos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
+      "rating": 7.988,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
+      ],
+      "rank": 6,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+      "rating": 8.063,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oc6OMFUQooMKg74qtvOWUjufUsU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dgMbKtriwUTYWzyvOApD906bZcL.png",
+      "director": [
+        "Augusto Tejada"
+      ],
+      "cast": [
+        "Matías Bagnato",
+        "Juan José Campanella"
+      ],
+      "rank": 7,
+      "id": "tt48313964",
+      "name": "La masacre de Flores",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -159,73 +215,12 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
       "rating": 7.5,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1rFdsNlP7kuftVNSbQs6r0H2ufH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9c3BYh9hq9kk58dpEdd7ojXd5u7.png",
-      "director": [],
-      "cast": [
-        "Joel Kinnaman",
-        "Waleed Zuaiter",
-        "Lena Góra",
-        "Talia Balsam",
-        "Ewan Miller",
-        "Mohamed Mahmoud Gomaa",
-        "أحمد طلعت",
-        "Dar Salim"
-      ],
-      "rank": 7,
-      "id": "tt9142920",
-      "name": "High Value Target",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aItPJsNvH6xaHAWVWbYifPljVri.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 8,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.737,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -262,8 +257,39 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "director": [],
+      "cast": [
+        "Noah Wyle",
+        "Patrick Ball",
+        "Katherine LaNasa",
+        "Supriya Ganesh",
+        "Fiona Dourif",
+        "Taylor Dearden",
+        "Isa Briones",
+        "Gerran Howell"
+      ],
+      "rank": 10,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "rating": 8.738,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

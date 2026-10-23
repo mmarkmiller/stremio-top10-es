@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,37 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.633,
+      "rating": 8.627,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iqXeoigqrsRw81lMYVMs0Vg7Gdy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tu5HUuhj1lxlD8cNc9ms5XbpNtc.png",
+      "director": [],
+      "cast": [
+        "Carrie-Anne Moss",
+        "Clark Backo",
+        "Noah Reid",
+        "Hudson Williams",
+        "Ezra Franky",
+        "Patrick Gilmore"
+      ],
+      "rank": 2,
+      "id": "tt39980704",
+      "name": "YAGA",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kxIViR7g3e08ZHLlvNFFJkgJtI.jpg",
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -49,11 +79,11 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.232,
+      "rating": 8.233,
       "year": 2026,
       "days": null,
       "trend": {
@@ -81,73 +111,12 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
       "rating": 6.554,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
-      "director": [],
-      "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
-      ],
-      "rank": 4,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.381,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Blanca, una bióloga de 37 años, se incorpora como embrióloga a una pequeña clínica, donde se enfrentará a decisiones difíciles, pacientes con historias muy distintas y un sistema que a menudo prioriza la eficacia frente a la empatía. Su compañero Héctor, un profesional brillante, pero extremadamente racional, representa la otra cara del proceso. Por tanto, el contraste entre ambos pondrá en jaque su forma de entender la ciencia.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6BDD0JhJVVbATEpgcaxJs9zmzPS.jpg",
-      "director": [],
-      "cast": [
-        "David Verdaguer",
-        "María Pujalte",
-        "Diana Gómez",
-        "Alain Hernández",
-        "Bruna Cusí"
-      ],
-      "rank": 5,
-      "id": "tt38674523",
-      "name": "In vitro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rRLCKaj1A0jW8yfczUjBazNScg.jpg",
-      "rating": null,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -175,11 +144,11 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.5,
+      "rating": 8.49,
       "year": 2022,
       "days": null,
       "trend": {
@@ -189,93 +158,124 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
+      "description": "Los Soprano (The Sopranos) es una serie de televisión estadounidense creada y producida por David Chase. La serie se estrenó en Estados Unidos el 10 de enero de 1999 por el canal de televisión por cable HBO, que la emitió ininterrumpidamente hasta su desenlace, el 10 de junio de 2007. La trama de la serie gira en torno al mafioso de Nueva Jersey Tony Soprano (James Gandolfini) y las dificultades que enfrenta tanto en su hogar como en la organización criminal que dirige. A su vez, la serie también se centra en la historia de los personajes cercanos a Tony, especialmente su esposa Carmela (Edie Falco) y su sobrino y protegido Christopher Moltisanti (Michael Imperioli).",
       "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png",
-      "director": [],
-      "cast": [
-        "Jodie Foster",
-        "Kali Reis",
-        "Fiona Shaw",
-        "Finn Bennett",
-        "Isabella Star LaBlanc",
-        "John Hawkes",
-        "Grace Pitts"
-      ],
-      "rank": 7,
-      "id": "tt2356777",
-      "name": "True Detective",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
-      "rating": 8.3,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra la historia de la familia Lyon a lo largo de quince años clave de la sociedad británica, repletos de convulsos cambios políticos, económicos y tecnológicos.",
-      "genres": [
-        "Drama",
-        "War & Politics",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFb6hGajDj4Qv7GIiidRTxgIFIk.png",
-      "director": [],
-      "cast": [
-        "Emma Thompson",
-        "Anne Reid",
-        "Rory Kinnear",
-        "Jessica Hynes",
-        "Russell Tovey",
-        "Ruth Madeley",
-        "T'Nia Miller",
-        "Lydia West"
-      ],
-      "rank": 8,
-      "id": "tt8694364",
-      "name": "Years and Years",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofTCqVKLqyt1dPIs1ghnOkOQTxT.jpg",
-      "rating": 7.543,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
+      "director": [
+        "medo lshl"
+      ],
+      "cast": [
+        "James Gandolfini",
+        "Edie Falco",
+        "Jamie-Lynn Sigler",
+        "Robert Iler",
+        "Lorraine Bracco",
+        "Michael Imperioli",
+        "Steven Van Zandt",
+        "Tony Sirico"
+      ],
+      "rank": 6,
+      "id": "tt0141842",
+      "name": "Los Soprano",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
+      "rating": 8.7,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
       "director": [],
       "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
+      ],
+      "rank": 7,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.381,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RySzFeK3LPVMXcPtqfZnl6u4p1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png",
+      "director": [],
+      "cast": [
+        "Johnny Galecki",
+        "Jim Parsons",
+        "Kaley Cuoco",
+        "Simon Helberg",
+        "Kunal Nayyar",
+        "Melissa Rauch",
+        "Mayim Bialik"
+      ],
+      "rank": 8,
+      "id": "tt0898266",
+      "name": "Big Bang",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "rating": 7.927,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "director": [],
+      "cast": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
       ],
       "rank": 9,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 7,
-      "year": 2026,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.407,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -305,7 +305,7 @@
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.737,
+      "rating": 8.738,
       "year": 2025,
       "days": null,
       "trend": {
@@ -315,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

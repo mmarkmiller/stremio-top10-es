@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,7 +66,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.7,
+      "rating": 6.718,
       "year": 2016,
       "days": null,
       "trend": {
@@ -102,7 +102,7 @@
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.1,
+      "rating": 5.114,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,7 +137,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.97,
+      "rating": 6.963,
       "year": 2026,
       "days": null,
       "trend": {
@@ -147,34 +147,102 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "description": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
       "genres": [
-        "Acción",
-        "Drama",
-        "Aventura"
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iD1axf4FfGyi6kPT1UcQ0VLgbap.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png",
+      "runtime": "117 min",
       "director": [
         "Ridley Scott"
       ],
       "cast": [
-        "Russell Crowe",
-        "Joaquin Phoenix",
-        "Connie Nielsen",
-        "Oliver Reed",
-        "Richard Harris",
-        "Derek Jacobi",
-        "Djimon Hounsou",
-        "David Schofield"
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm",
+        "Yaphet Kotto",
+        "Bolaji Badejo"
       ],
       "rank": 5,
-      "id": "tt0172495",
-      "name": "Gladiator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
-      "rating": 8.232,
-      "year": 2000,
+      "id": "tt0078748",
+      "name": "Alien: El octavo pasajero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
+      "rating": 8.175,
+      "year": 1979,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Marie, pastora costamarfileña y antigua periodista, vive en Túnez desde hace diez años. Su casa se convierte en refugio para Naney, una joven madre que busca un futuro mejor, y Jolie, una estudiante de gran carácter que carga con las esperanzas de su familia. La llegada de una niña huérfana desafía su sentido de la solidaridad en un clima social tenso, revelando tanto su fragilidad como su fortaleza.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/64UVhsWRinOnjKjYFmEnDx328Hi.jpg",
+      "runtime": "92 min",
+      "director": [
+        "Erige Sehiri"
+      ],
+      "cast": [
+        "Aïssa Maïga",
+        "Laëtitia Ky",
+        "Déborah Naney",
+        "Mohamed Grayaâ",
+        "Foued Zaazaa",
+        "Estelle Dogbo",
+        "Touré Blamassi",
+        "Sophie Tankou"
+      ],
+      "rank": 6,
+      "id": "tt33311007",
+      "name": "Prometido el cielo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 7,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.605,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,7 +273,7 @@
         "Andrew Gorman",
         "Joe Szula"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt1441395",
       "name": "Under the Skin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
@@ -219,68 +287,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "'Emily' cuenta la vida imaginada de una de las autoras más famosas del mundo, Emily Brontë. La joven, que falleció a la temprana edad de 30 años, fue una rebelde e inadaptada a su tiempo y encontraría su voz al escribir el clásico literario 'Cumbres borrascosas'. La película explora las relaciones que la inspiraron, tanto con sus hermanas Charlotte y Anne como con su malogrado primer amor, además de la especial amistad y complicidad que le unían a su inconformista hermano Branwell, a quien Emily idolatraba.",
+      "description": "Steven Spurrier, un británico expatriado que vive en París y propietario de una tienda de vinos, pone en marcha un plan para demostrar a los parisienses la calidad de los vinos provenientes de otras partes del mundo. Pullman y Rickman dan vida a una historia real en la que dos soñadores consiguen que en 1976 un vino criado en el Valle de Napa triunfe en un concurso en Francia y sitúe para siempre a la localidad de Calistoga en el mapa de los amantes del buen beber.",
       "genres": [
-        "Historia",
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wizYHZzSr0wJmB3Oo6LTFaP4HzY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5wwOF2BwSMUUkq2syazlJd7VQdO.png",
-      "runtime": "130 min",
-      "director": [
-        "Frances O'Connor"
-      ],
-      "cast": [
-        "Emma Mackey",
-        "Fionn Whitehead",
-        "Oliver Jackson-Cohen",
-        "Alexandra Dowling",
-        "Gemma Jones",
-        "Adrian Dunbar",
-        "Amelia Gething",
-        "Veronica Roberts"
-      ],
-      "rank": 7,
-      "id": "tt12374656",
-      "name": "Emily",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gHRnvzxvcMGIDV2MiPkGRYKZoIS.jpg",
-      "rating": 6.9,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Stephen Meyers es un idealista y brillante comunicador. Es el segundo de a bordo de la campaña presidencial del gobernador Mike Morris, en quien confía ciegamente. Durante las primarias de Ohio, Tom Duffy, el jefe de campaña del máximo oponente de Morris, ofrece a Meyers un puesto de trabajo. Al mismo tiempo, las negociaciones de Morris para conseguir el apoyo adicional de un senador de Carolina del Sur se estancan. Y la joven becaria Molly Sterns capta la atención de Stephen. Los republicanos guardan varios ases bajo la manga, Meyers puede haberse confiado en exceso y Molly guarda un secreto. ¿Qué es más importante: la carrera, la victoria o la verdad?",
-      "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/h7CSSFdi613IpqfUNWRD7EVEniK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hr0Y0nwr04ErKGj0NUvcTohELKr.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/eiI7A6i0Ipnst2H9NIT5P3fSm3J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ah8gftfpnHDAXzg3r5BM4IXAe3i.png",
+      "runtime": "110 min",
       "director": [
-        "George Clooney"
+        "Randall Miller"
       ],
       "cast": [
-        "Ryan Gosling",
-        "George Clooney",
-        "Philip Seymour Hoffman",
-        "Paul Giamatti",
-        "Evan Rachel Wood",
-        "Marisa Tomei",
-        "Jeffrey Wright",
-        "Max Minghella"
+        "Alan Rickman",
+        "Chris Pine",
+        "Bill Pullman",
+        "Rachael Taylor",
+        "Freddy Rodríguez",
+        "Dennis Farina",
+        "Hal B. Klein",
+        "Jean-Michel Richaud"
       ],
       "rank": 9,
-      "id": "tt1124035",
-      "name": "Los idus de marzo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q0kIH8jo6wlILNozAkcNOFqEuZO.jpg",
-      "rating": 6.679,
-      "year": 2011,
+      "id": "tt0914797",
+      "name": "Guerra de vinos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCzJf2qvyIzeO7BLOUcKZO6HO61.jpg",
+      "rating": 6.4,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -289,34 +322,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Drama"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png",
-      "runtime": "148 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hE90kqyiFm9apunHLQirvdO7KyR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uBYReWhXWWyMoOvv7s0XpAcFqxb.png",
+      "runtime": "127 min",
       "director": [
-        "Ridley Scott"
+        "Judd Apatow"
       ],
       "cast": [
-        "Paul Mescal",
-        "Denzel Washington",
-        "Pedro Pascal",
-        "Connie Nielsen",
-        "Joseph Quinn",
-        "Fred Hechinger",
-        "ליאור רז",
-        "Derek Jacobi"
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
       ],
       "rank": 10,
-      "id": "tt9218128",
-      "name": "Gladiator II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ckTXrwlr4cRVxpBFEZcEmDzrmea.jpg",
-      "rating": 6.589,
-      "year": 2024,
+      "id": "tt44822485",
+      "name": "Norm: The Tale of Norm Macdonald",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "rating": 7.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,5 +355,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

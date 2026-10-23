@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -43,6 +43,38 @@
     },
     {
       "artworkVersion": 4,
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bt6wON1JTu6eruie5GQokJoU2S1.jpg",
+      "runtime": "74 min",
+      "director": [
+        "John Real"
+      ],
+      "cast": [
+        "Elisabetta Pellini",
+        "Salvatore Lazzaro",
+        "Elaine Bonsangue",
+        "Matteo Tosi",
+        "Riccardo Flammini",
+        "Antonella Salvucci",
+        "Elisa Franco",
+        "Lara Brucci"
+      ],
+      "rank": 2,
+      "id": "tt2709726",
+      "name": "Midway: Tra la vita e la morte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
+      "rating": 4.4,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
         "Ciencia ficción",
@@ -65,11 +97,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.635,
+      "rating": 8.636,
       "year": 2026,
       "days": null,
       "trend": {
@@ -79,32 +111,137 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
       "genres": [
-        "Romance",
-        "Drama"
+        "Acción",
+        "Crimen",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
+      "runtime": "91 min",
       "director": [
-        "Rachel Morrison"
+        "Ben Wheatley"
       ],
       "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
       ],
-      "rank": 3,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.821,
+      "rank": 4,
+      "id": "tt31195136",
+      "name": "Normal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "rating": 7.264,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tom Avery (Martín Sheen) es un reputado oftalmólogo de California, viudo, que un día recibe una llamada desde Francia en la que se le comunica que su hijo Daniel ha fallecido en un temporal en los Pirineos. A pesar de que la relación con él nunca fue muy buena, Tom, desolado, viaja a Francia, y descubre que Daniel comenzaba a hacer el Camino de Santiago, por lo que decide hacerlo por él.",
+      "genres": [
+        "Aventura",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xqOcH6cKhGEbzgypAHU6UlUUDrh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l9naZBtqkFwWUYBt0rCpT13l6gs.png",
+      "runtime": "125 min",
+      "director": [
+        "Emilio Estevez"
+      ],
+      "cast": [
+        "Martin Sheen",
+        "Emilio Estevez",
+        "Deborah Kara Unger",
+        "Yorick van Wageningen",
+        "James Nesbitt",
+        "Tchéky Karyo",
+        "Ángela Molina",
+        "Carlos Leal"
+      ],
+      "rank": 5,
+      "id": "tt1441912",
+      "name": "El camino",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2dXGc8BcTy341ZeoQMZrpD9uEfS.jpg",
+      "rating": 7.095,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un detective y su familia comienzan a experimentar en su propia casa sucesos paranormales, mientras trata de averiguar el paradero de un niño de 10 años que ha desaparecido en la pequeña población en la que reside.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oIJenVsuK42zgfJd8E1hZqId3s5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vdd14JgLwdnUnB1ItvD2sBLGvfy.png",
+      "runtime": "95 min",
+      "director": [
+        "Adam Randall"
+      ],
+      "cast": [
+        "Helen Hunt",
+        "Jon Tenney",
+        "Owen Teague",
+        "Judah Lewis",
+        "Libe Barer",
+        "Gregory Alan Williams",
+        "Erika Alexander",
+        "Sam Trammell"
+      ],
+      "rank": 6,
+      "id": "tt6079516",
+      "name": "Te veo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
+      "rating": 6.973,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jérémy, atrapado tras el mostrador de un videoclub en Amiens, y Bouna, limpiador en el aeropuerto de Orly. Sin contactos, sin dinero y con un nivel de inglés muy bajo, nadie habría predicho que acabarían como agentes de renombre en la NBA. Estos dos marginados, gracias a su pasión absoluta por el baloncesto y su inquebrantable amistad, superaron todos los obstáculos para alcanzar su sueño americano. La historia de años de dificultades que los llevaron a su primera gran oportunidad: el nuevo contrato de Nicolas Batum con los Portland Trail Blazers en 2012, por 46 millones de dólares durante cuatro años.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7mSLP3Bpbc1xxgEd8oJizZnqegA.jpg",
+      "runtime": "122 min",
+      "director": [
+        "Anthony Marciano"
+      ],
+      "cast": [
+        "Jean-Pascal Zadi",
+        "Raphaël Quenard",
+        "Gregory Defleur",
+        "David Clark",
+        "Josh Casaubon",
+        "Etienne Guillou-Kervern",
+        "Gabriel Caballero",
+        "Momar Sakanoko"
+      ],
+      "rank": 7,
+      "id": "tt36313062",
+      "name": "El sueño americano",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8e3GGEt6za1ksDZLKTWCOhULWcp.jpg",
+      "rating": 7.399,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,7 +273,7 @@
         "Susan May Pratt",
         "Gabrielle Union"
       ],
-      "rank": 4,
+      "rank": 8,
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
@@ -150,173 +287,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
-      "director": [
-        "Ben Wheatley"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
-      ],
-      "rank": 5,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.267,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La película cuenta la historia de John Oldman, un profesor de universidad que asegura ser en realidad un hombre de Cromañón de 14.000 años de edad que sobrevive hasta nuestros días. Toda la película está rodada en la misma casa y su porche, prueba de su bajo presupuesto y de su elaboración prácticamente artesanal. Se basa únicamente en la conversación de los personajes para mantener la trama, sin efectos especiales ni escenas de acción. Se trata de un discurso intelectual entre un supuesto hombre de las cavernas y sus actuales colegas de trabajo, en su despedida como docente universitario. En las horas que transcurren, las reacciones de sus amigos científicos son muy variadas y van surgiendo preguntas, cuestiones, revelaciones y reacciones de todo tipo.",
-      "genres": [
-        "Ciencia ficción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xlnQO1J5dJHHusKcvLFsew0oBLq.png",
-      "runtime": "87 min",
-      "director": [
-        "Richard Schenkman"
-      ],
-      "cast": [
-        "David Lee Smith",
-        "Tony Todd",
-        "John Billingsley",
-        "Ellen Crawford",
-        "Annika Peterson",
-        "Alexis Thorpe",
-        "William Katt",
-        "Richard Riehle"
-      ],
-      "rank": 6,
-      "id": "tt0756683",
-      "name": "El hombre de la tierra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
-      "rating": 7.62,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
-      "director": [
-        "Jan Komasa"
-      ],
-      "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
-      ],
-      "rank": 7,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.945,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 8,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre está decidido a recuperar al amor de su vida aprendiendo a tocar el piano durante un año. Su vecina le dará clases para conseguirlo.",
-      "genres": [
-        "Drama",
         "Romance",
-        "Música"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nHeAA8XdS3zfoo1DS54EeXznUZA.jpg",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Álex San Martín"
+        "Rachel Morrison"
       ],
       "cast": [
-        "Luis Fernández",
-        "Nicole Wallace",
-        "Nadia de Santiago",
-        "Carlos Iglesias",
-        "Cosette Silguero",
-        "Fanny Gautier",
-        "Víctor Elías",
-        "Antonio Gil"
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
       "rank": 9,
-      "id": "tt27664873",
-      "name": "Un año y un día",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nonXGLIKTPYEHvvyjTFsUPSRD10.jpg",
-      "rating": 6.635,
-      "year": 2025,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.772,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,32 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "description": "En medio del desierto, dos atracadores secuestran a un grupo de excéntricos personajes en un área de servicio. Entre ellos, un vendedor de cuchillos, una camarera y una pareja de ancianos. Juntos vivirán una historia llena de tensión, sorpresas y giros inesperados.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/RmZPgvkmAZVTyPsl44fiOUfcmA.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/Y91KJmQ13jNEpOlNL9j6PPRpIO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7RBomkSMZRf59lZdHFn4dVKTHTG.png",
+      "runtime": "90 min",
       "director": [
-        "David Marqués"
+        "Francis Galluppi"
       ],
       "cast": [
-        "Quim Gutiérrez",
-        "Antonio Resines",
-        "Megan Montaner",
-        "Marta González de Vega",
-        "Daniel Fez",
-        "Giovani Florido",
-        "Raquel Cortés",
-        "Juan Fernández"
+        "Jim Cummings",
+        "Jocelin Donahue",
+        "Richard Brake",
+        "Nicholas Logan",
+        "Michael Abbott Jr.",
+        "Sierra McCormick",
+        "Ryan Masson",
+        "Connor Paolo"
       ],
       "rank": 10,
-      "id": "tt41801352",
-      "name": "Haciendo amigos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
-      "rating": 8.182,
-      "year": 2026,
+      "id": "tt11674730",
+      "name": "La última parada en Arizona",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
+      "rating": 6.894,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

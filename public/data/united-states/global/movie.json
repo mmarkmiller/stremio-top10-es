@@ -2,8 +2,40 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
+      "runtime": "107 min",
+      "director": [
+        "Olivia Wilde"
+      ],
+      "cast": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton"
+      ],
+      "rank": 1,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.207,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -27,118 +59,11 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
       "rating": 8.174,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 2,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.445,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
-      ],
-      "rank": 3,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.601,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 4,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.014,
       "year": 2026,
       "days": null,
       "trend": {
@@ -171,11 +96,82 @@
         "Emma Puahi-Shapazian",
         "Amaya Masoli"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.5,
+      "rating": 7.498,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
+      ],
+      "rank": 4,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.444,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 5,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 7.018,
       "year": 2026,
       "days": null,
       "trend": {
@@ -210,7 +206,7 @@
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.834,
+      "rating": 6.832,
       "year": 2026,
       "days": null,
       "trend": {
@@ -245,7 +241,7 @@
       "id": "tt0077651",
       "name": "La noche de Halloween",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.6,
+      "rating": 7.559,
       "year": 1978,
       "days": null,
       "trend": {
@@ -255,33 +251,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Aventura",
+        "Drama",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uMAYb2jn3yszL5nKQH1PGag63CP.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
       "director": [
-        "David Robert Mitchell"
+        "Michael Sarnoski"
       ],
       "cast": [
-        "Maika Monroe",
-        "Keir Gilchrist",
-        "Daniel Zovatto",
-        "Jake Weary",
-        "Olivia Luccardi",
-        "Lili Sepe",
-        "Bailey Spry",
-        "Carollette Phillips"
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
       ],
       "rank": 8,
-      "id": "tt3235888",
-      "name": "It Follows",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
-      "rating": 6.583,
-      "year": 2015,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.738,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,33 +321,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "description": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
       "genres": [
-        "Suspense",
-        "Ciencia ficción"
+        "Comedia",
+        "Terror",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qNAG8RHWfpS1ZsK2Z9oygVN9uuE.png",
+      "runtime": "106 min",
       "director": [
-        "James Ward Byrkit"
+        "Jane Schoenbrun"
       ],
       "cast": [
-        "Emily Baldoni",
-        "Maury Sterling",
-        "Nicholas Brendon",
-        "Lorene Scafaria",
-        "Elizabeth Gracen",
-        "Hugo Armstrong",
-        "Alex Manugian",
-        "Lauren Maher"
+        "Hannah Einbinder",
+        "Gillian Anderson",
+        "Amanda Fix",
+        "Arthur Conti",
+        "Eva Victor",
+        "Zach Cherry",
+        "Sarah Sherman",
+        "Patrick Fischler"
       ],
       "rank": 10,
-      "id": "tt2866360",
-      "name": "Coherence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
-      "rating": 7.2,
-      "year": 2014,
+      "id": "tt35298123",
+      "name": "Adolescencia, sexo y muerte en campamento Miasma",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "rating": 6.165,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

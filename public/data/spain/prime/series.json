@@ -2,33 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt"
-      ],
-      "rank": 1,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
@@ -49,12 +24,37 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.533,
+      "rating": 8.541,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt"
+      ],
+      "rank": 2,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 8,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -86,7 +86,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.343,
+      "rating": 8.349,
       "year": 2026,
       "days": null,
       "trend": {
@@ -128,6 +128,32 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 5,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.839,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "genres": [
         "Action & Adventure",
@@ -144,11 +170,11 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.13,
+      "rating": 8.132,
       "year": 2022,
       "days": null,
       "trend": {
@@ -158,51 +184,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 6,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.837,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "La historia de una mujer madura en el Valladolid de los 90, que tiene que coger las riendas del videoclub familiar. Para salvar el negocio apuesta por el porno.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/pGhq2AODZEB1y0aAYYF6DqiJMj7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLkp02Hmoxd69UO7p20G8oVYYXr.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Malena Alterio",
+        "Álvaro Mel",
+        "Celia Morán",
+        "Aina Picarolo",
+        "Chani Martín",
+        "David Castillo",
+        "Celia de Molina",
+        "Albert Baró"
       ],
       "rank": 7,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.587,
-      "year": 2005,
+      "id": "tt32974250",
+      "name": "Cochinas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+      "rating": 6.842,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -234,7 +238,7 @@
       "id": "tt2560140",
       "name": "Ataque a los Titanes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.688,
+      "rating": 8.689,
       "year": 2013,
       "days": null,
       "trend": {
@@ -244,29 +248,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
       "genres": [
-        "Animación",
-        "Comedia",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Misterio",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
       "director": [],
       "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
+        "Maria Sten",
+        "Greyston Holt",
+        "Adeline Rudolph",
+        "Matthew Del Negro",
+        "Damon Herriman",
+        "Jasper Jones",
+        "Emily Mitchell"
       ],
       "rank": 9,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.551,
-      "year": 2020,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "rating": 8.089,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,30 +280,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Juno Temple",
-        "Jennifer Jason Leigh",
-        "David Rysdahl",
-        "Joe Keery",
-        "Lamorne Morris",
-        "Richa Shukla Moorjani",
-        "Sam Spruell",
-        "Sienna King"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 10,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.29,
-      "year": 2014,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.586,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

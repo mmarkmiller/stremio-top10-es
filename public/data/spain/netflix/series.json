@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,8 +27,36 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.227,
+      "rating": 7.224,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+      "director": [],
+      "cast": [
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
+      ],
+      "rank": 2,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.3,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -55,12 +83,37 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.616,
+      "rating": 7.6,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "director": [],
+      "cast": [
+        "Omar Sy"
+      ],
+      "rank": 4,
+      "id": "tt2531336",
+      "name": "Lupin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "rating": 7.677,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -87,11 +140,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.886,
+      "rating": 7.888,
       "year": 2024,
       "days": null,
       "trend": {
@@ -117,11 +170,11 @@
         "Akari Kito",
         "Kentaro Tone"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt12590266",
       "name": "Cyberpunk: Edgerunners",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "rating": 8.496,
+      "rating": 8.499,
       "year": 2022,
       "days": null,
       "trend": {
@@ -144,11 +197,11 @@
         "Christopher Abbott",
         "Mike Faist"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "rating": 7.932,
       "year": 2026,
       "days": null,
       "trend": {
@@ -176,11 +229,11 @@
         "Rebecca Wisocky",
         "Devan Chandler Long"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.125,
+      "rating": 8.131,
       "year": 2021,
       "days": null,
       "trend": {
@@ -190,120 +243,62 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
-      "director": [],
-      "cast": [
-        "Yılmaz Erdoğan",
-        "Kıvanç Tatlıtuğ",
-        "Ezgi Mola",
-        "Bensu Soral",
-        "Rıza Kocaoğlu",
-        "Kubilay Aka",
-        "Burcu Özberk",
-        "Uraz Kaygılaroğlu"
-      ],
-      "rank": 7,
-      "id": "tt38732131",
-      "name": "Criminales organizados",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
-      "rating": 4.333,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
-      ],
-      "rank": 8,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
-      "director": [],
-      "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
-      ],
-      "rank": 9,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
       "genres": [
         "Drama",
-        "Misterio"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
       "director": [],
       "cast": [
-        "Friederike Becht",
-        "Hans Löw",
-        "Alexander Schubert",
-        "Katja Ponickau",
-        "Naila Schuberth",
-        "Josephine Thiesen",
-        "Matthias Brandt",
-        "Anna Schudt"
+        "Ella Beatty",
+        "Vicky Krieps",
+        "Sarah Paulson",
+        "Charlie Hunnam",
+        "Rebecca Hall",
+        "Billie Lourd",
+        "Jessica Barden"
+      ],
+      "rank": 9,
+      "id": "tmdb:299939",
+      "name": "Monstruo: La historia de Lizzie Borden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "rating": 7.062,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "director": [],
+      "cast": [
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
       ],
       "rank": 10,
-      "id": "tt36470958",
-      "name": "La trampa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
-      "rating": 6.431,
-      "year": 2026,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.689,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +307,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

@@ -2,8 +2,41 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Marie, pastora costamarfileña y antigua periodista, vive en Túnez desde hace diez años. Su casa se convierte en refugio para Naney, una joven madre que busca un futuro mejor, y Jolie, una estudiante de gran carácter que carga con las esperanzas de su familia. La llegada de una niña huérfana desafía su sentido de la solidaridad en un clima social tenso, revelando tanto su fragilidad como su fortaleza.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/64UVhsWRinOnjKjYFmEnDx328Hi.jpg",
+      "runtime": "92 min",
+      "director": [
+        "Erige Sehiri"
+      ],
+      "cast": [
+        "Aïssa Maïga",
+        "Laëtitia Ky",
+        "Déborah Naney",
+        "Mohamed Grayaâ",
+        "Foued Zaazaa",
+        "Estelle Dogbo",
+        "Touré Blamassi",
+        "Sophie Tankou"
+      ],
+      "rank": 1,
+      "id": "tt33311007",
+      "name": "Prometido el cielo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
@@ -27,46 +60,12 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
       "rating": 8.438,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 2,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.167,
-      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,7 +99,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.97,
+      "rating": 6.963,
       "year": 2026,
       "days": null,
       "trend": {
@@ -110,32 +109,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
       "director": [
-        "Anne Sewitsky"
+        "John Krasinski"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
       ],
       "rank": 4,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.25,
-      "year": 2015,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -144,30 +144,171 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
+      "description": "Un hombre está decidido a recuperar al amor de su vida aprendiendo a tocar el piano durante un año. Su vecina le dará clases para conseguirlo.",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Romance",
+        "Música"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/nHeAA8XdS3zfoo1DS54EeXznUZA.jpg",
+      "runtime": "107 min",
       "director": [
-        "Arantxa Echevarría"
+        "Álex San Martín"
       ],
       "cast": [
-        "Hugo Silva",
-        "Susi Sánchez",
-        "Dafne Fernández",
-        "Jaime Olías",
-        "Ginés García Millán",
-        "Diego Anido",
-        "Sofía Otero",
-        "Marina Ostolaza"
+        "Luis Fernández",
+        "Nicole Wallace",
+        "Nadia de Santiago",
+        "Carlos Iglesias",
+        "Cosette Silguero",
+        "Fanny Gautier",
+        "Víctor Elías",
+        "Antonio Gil"
       ],
       "rank": 5,
-      "id": "tt36120484",
-      "name": "Cada día nace un listo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
-      "rating": 6,
+      "id": "tt27664873",
+      "name": "Un año y un día",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nonXGLIKTPYEHvvyjTFsUPSRD10.jpg",
+      "rating": 6.635,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 6,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.167,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "runtime": "101 min",
+      "director": [
+        "Janus Metz"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "rank": 7,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.603,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Inglaterra, siglo XIX. Dos hermanas completamente distintas: una, pura razón y sentido común; la otra, pura sensibilidad y pasión, se enfrentan al amor y a las adversidades de la vida. Al morir su padre, deben abandonar su hogar, que pasa a manos de un hermanastro, hijo del primer matrimonio de su padre. Se mudan al campo y, allí, tendrán experiencias amorosas que producirán en ellas un cambio profundo.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iJFcRyjRvNLv3mj48aGnFZ3jgLh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gr3OqmytROnEgPltNXSful2lVio.png",
+      "runtime": "131 min",
+      "director": [
+        "Ang Lee"
+      ],
+      "cast": [
+        "Emma Thompson",
+        "Kate Winslet",
+        "Alan Rickman",
+        "Hugh Grant",
+        "Gemma Jones",
+        "Greg Wise",
+        "Elizabeth Spriggs",
+        "Imogen Stubbs"
+      ],
+      "rank": 8,
+      "id": "tt0114388",
+      "name": "Sentido y sensibilidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eAhOt2FExPlLRtkln6mAZEOFU3T.jpg",
+      "rating": 7.416,
+      "year": 1995,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+      "runtime": "97 min",
+      "director": [
+        "Hernán Goldfrid"
+      ],
+      "cast": [
+        "Ricardo Darín",
+        "Diego Peretti",
+        "Inés Efrón",
+        "Carlos Santamaría",
+        "Miriam Odorico",
+        "Antonia Bengochea",
+        "Andrea Politti",
+        "Patricia Echegoyen"
+      ],
+      "rank": 9,
+      "id": "tt37027309",
+      "name": "Lo dejamos acá",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+      "rating": 7.713,
       "year": 2026,
       "days": null,
       "trend": {
@@ -200,7 +341,7 @@
         "木村祐一",
         "遠藤憲一"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt27502365",
       "name": "Kubi",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/DG3B7D0cLx3gmoySAwHVZ6QPeb.jpg",
@@ -211,147 +352,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre está decidido a recuperar al amor de su vida aprendiendo a tocar el piano durante un año. Su vecina le dará clases para conseguirlo.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Música"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nHeAA8XdS3zfoo1DS54EeXznUZA.jpg",
-      "runtime": "107 min",
-      "director": [
-        "Álex San Martín"
-      ],
-      "cast": [
-        "Luis Fernández",
-        "Nicole Wallace",
-        "Nadia de Santiago",
-        "Carlos Iglesias",
-        "Cosette Silguero",
-        "Fanny Gautier",
-        "Víctor Elías",
-        "Antonio Gil"
-      ],
-      "rank": 7,
-      "id": "tt27664873",
-      "name": "Un año y un día",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nonXGLIKTPYEHvvyjTFsUPSRD10.jpg",
-      "rating": 6.635,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven musulmán de 22 años que vive en un gueto de Bombay se da cuenta de su amor por el rap e intenta perseguir su sueño.",
-      "genres": [
-        "Música",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
-      "runtime": "156 min",
-      "director": [
-        "Zoya Akhtar"
-      ],
-      "cast": [
-        "रणवीर सिंह",
-        "आलिया भट्ट",
-        "Siddhant Chaturvedi",
-        "Vijay Raaz",
-        "विजय वर्मा",
-        "Amruta Subhash",
-        "Ikhlaque Khan",
-        "Sheeba Chaddha"
-      ],
-      "rank": 8,
-      "id": "tt2395469",
-      "name": "Gully Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
-      "rating": 7.334,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 9,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos jóvenes neoyorquinos se enamoran mientras están en la universidad, y acaban casándose y teniendo un hijo. Pero los inesperados giros durante este recorrido repercuten en dos continentes y en numerosas existencias.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d4n8B3Z3sh0CS6UR2kQ0G40Nc0X.png",
-      "runtime": "118 min",
-      "director": [
-        "Dan Fogelman"
-      ],
-      "cast": [
-        "Oscar Isaac",
-        "Olivia Wilde",
-        "Annette Bening",
-        "Antonio Banderas",
-        "Samuel L. Jackson",
-        "Olivia Cooke",
-        "Mandy Patinkin",
-        "Jean Smart"
-      ],
-      "rank": 10,
-      "id": "tt5989218",
-      "name": "Como la vida misma",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1QeUDCOCaIKHRPxptms8ZWBFUtb.jpg",
-      "rating": 7.173,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }

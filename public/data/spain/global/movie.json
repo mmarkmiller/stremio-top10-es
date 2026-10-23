@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610221936",
+  "date": "202610231937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt1596363",
       "name": "La gran apuesta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kNjz9Ezuf8tZHP2MfMbtDzDJ8wR.jpg",
-      "rating": 7.375,
+      "rating": 7.376,
       "year": 2015,
       "days": null,
       "trend": {
@@ -66,8 +66,77 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.286,
+      "rating": 8.285,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 3,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 7.018,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Marie, pastora costamarfileña y antigua periodista, vive en Túnez desde hace diez años. Su casa se convierte en refugio para Naney, una joven madre que busca un futuro mejor, y Jolie, una estudiante de gran carácter que carga con las esperanzas de su familia. La llegada de una niña huérfana desafía su sentido de la solidaridad en un clima social tenso, revelando tanto su fragilidad como su fortaleza.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/64UVhsWRinOnjKjYFmEnDx328Hi.jpg",
+      "runtime": "92 min",
+      "director": [
+        "Erige Sehiri"
+      ],
+      "cast": [
+        "Aïssa Maïga",
+        "Laëtitia Ky",
+        "Déborah Naney",
+        "Mohamed Grayaâ",
+        "Foued Zaazaa",
+        "Estelle Dogbo",
+        "Touré Blamassi",
+        "Sophie Tankou"
+      ],
+      "rank": 4,
+      "id": "tt33311007",
+      "name": "Prometido el cielo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -97,12 +166,47 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
       "rating": 8.438,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
+      "runtime": "140 min",
+      "director": [
+        "Sebastian Schipper"
+      ],
+      "cast": [
+        "Laia Costa",
+        "Frederick Lau",
+        "Franz Rogowski",
+        "Max Mauff",
+        "Burak Yiğit",
+        "André Hennicke",
+        "Lena Klenke",
+        "Philipp Kubitza"
+      ],
+      "rank": 6,
+      "id": "tt4226388",
+      "name": "Victoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
+      "rating": 7.58,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,7 +238,7 @@
         "Alexandra Barreto",
         "Aisha Kabia"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt35521703",
       "name": "El descendiente",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3tO8SSlRxrZrJStbX2nPr5u7dCQ.jpg",
@@ -148,33 +252,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
       "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bt6wON1JTu6eruie5GQokJoU2S1.jpg",
+      "runtime": "74 min",
       "director": [
-        "Sebastian Schipper"
+        "John Real"
       ],
       "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
+        "Elisabetta Pellini",
+        "Salvatore Lazzaro",
+        "Elaine Bonsangue",
+        "Matteo Tosi",
+        "Riccardo Flammini",
+        "Antonella Salvucci",
+        "Elisa Franco",
+        "Lara Brucci"
       ],
-      "rank": 5,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.58,
-      "year": 2015,
+      "rank": 8,
+      "id": "tt2709726",
+      "name": "Midway: Tra la vita e la morte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
+      "rating": 4.4,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,34 +284,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra una historia de amor no convencional, ambientada en un mundo distópico, en el que según las reglas establecidas, los solteros son arrestados y enviados a un lugar donde tienen que encontrar pareja en un plazo de 45 días. El tema central es la soledad, el temor a morir solo, a vivir solo, y también al temor a vivir con alguien.",
+      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v2tbCPD2usCRioqhRKGY34CH4ei.png",
-      "runtime": "118 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
+      "runtime": "101 min",
       "director": [
-        "Yorgos Lánthimos"
+        "Henry Selick"
       ],
       "cast": [
-        "Colin Farrell",
-        "Rachel Weisz",
-        "Olivia Colman",
-        "Léa Seydoux",
-        "Michael Smiley",
-        "Ariane Labed",
-        "John C. Reilly",
-        "Ben Whishaw"
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman",
+        "Robert Bailey Jr.",
+        "Ian McShane"
       ],
-      "rank": 6,
-      "id": "tt3464902",
-      "name": "Langosta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uGJ7JNSwvt9wr4XO2uoNGtXIdrq.jpg",
-      "rating": 7.019,
-      "year": 2015,
+      "rank": 9,
+      "id": "tt0327597",
+      "name": "Los mundos de Coraline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
+      "rating": 7.945,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -219,135 +321,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 7,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.014,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
+        "Romance",
         "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
       "director": [
-        "Cesc Gay"
+        "Kristoffer Borgli"
       ],
       "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 8,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.416,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 9,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.635,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
+        "Zendaya",
+        "Robert Pattinson",
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
       ],
       "rank": 10,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.367,
+      "id": "tt33071426",
+      "name": "El drama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": 6.902,
       "year": 2026,
       "days": null,
       "trend": {
@@ -357,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-22T17:38:45.346Z"
+  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
 }
