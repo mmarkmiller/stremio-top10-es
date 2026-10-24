@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -34,64 +34,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 2,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.839,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un pequeño pueblo de Oxfordshire, la aparición de miles de peces muertos lleva a dos jubilados a cuestionar las explicaciones oficiales. Lo que comienza como una reclamación a la compañía del agua se convierte en una investigación que destapa una red de negligencias, encubrimientos y decisiones empresariales con consecuencias devastadoras.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lEWYi4LwLoEwwQWfL5lcWtRsnk9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ovYKjTjj03Mbm13yaXV9yfRDFv4.png",
-      "director": [],
-      "cast": [
-        "David Thewlis",
-        "Jason Watkins",
-        "Posy Sterling",
-        "Tom McKay",
-        "Alex Jennings",
-        "Asim Chaudhry",
-        "Alice Lowe",
-        "Chanel Cresswell"
-      ],
-      "rank": 3,
-      "id": "tt39374202",
-      "name": "Negocios turbios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
-      "rating": 8.167,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "La brillante y frágil detective Amy Silva (Suranne Jones) es enviada al submarino HMS Vigil para investigar la misteriosa muerte de uno de sus tripulantes. Cuando la escotilla se cierra encima de su cabeza, la realidad que encuentra es muy distinta a lo esperado. Dentro del submarino el secretismo, las jerarquías y el claustrofóbico escenario complican la investigación, y la tripulación se muestra reacia a colaborar. Mientras tanto, en tierra, su compañera y confidente Kirsten Longacre (Rose Leslie) hace sus propias indagaciones. El caso pronto trasciende las paredes del submarino y desvela una conspiración que amenaza el corazón mismo de la seguridad nacional británica.",
       "genres": [
         "Drama",
@@ -106,7 +48,7 @@
         "Dominic Mafham",
         "Steven Miller"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt11846996",
       "name": "Vigil: Conspiración nuclear",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7v2D9l9QmU02pXP7R2udu1uYN2y.jpg",
@@ -137,12 +79,44 @@
         "Amaia Romero",
         "Biel Rossell"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt20096840",
       "name": "La mesías",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
       "rating": 7.5,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un pequeño pueblo de Oxfordshire, la aparición de miles de peces muertos lleva a dos jubilados a cuestionar las explicaciones oficiales. Lo que comienza como una reclamación a la compañía del agua se convierte en una investigación que destapa una red de negligencias, encubrimientos y decisiones empresariales con consecuencias devastadoras.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lEWYi4LwLoEwwQWfL5lcWtRsnk9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ovYKjTjj03Mbm13yaXV9yfRDFv4.png",
+      "director": [],
+      "cast": [
+        "David Thewlis",
+        "Jason Watkins",
+        "Posy Sterling",
+        "Tom McKay",
+        "Alex Jennings",
+        "Asim Chaudhry",
+        "Alice Lowe",
+        "Chanel Cresswell"
+      ],
+      "rank": 4,
+      "id": "tt39374202",
+      "name": "Negocios turbios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
+      "rating": 8.167,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -165,75 +139,12 @@
         "Mona Marshall",
         "Jennifer Howell"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "rating": 8.33,
+      "rating": 8.331,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
-      "director": [],
-      "cast": [
-        "Taylor Kinney",
-        "David Eigenberg",
-        "Christian Stolte",
-        "Miranda Rae Mayo",
-        "Hanako Greensmith",
-        "Jocelyn Hudon",
-        "Brandon Larracuente",
-        "Da'Vinchi"
-      ],
-      "rank": 7,
-      "id": "tt2261391",
-      "name": "Chicago Fire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-      "rating": 8.411,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Seis antidisturbios ejecutan un desahucio en el centro de Madrid que se complica y un hombre acaba muriendo. Un equipo de Asuntos Internos será el encargado de investigar los hechos y los seis antidisturbios se enfrentan a una acusación de homicidio imprudente. El grupo de agentes busca una salida por su cuenta que acaba separándolos y, finalmente, complicando aún más la situación. Laia, una de las agentes de Asuntos Internos, se obsesiona con el caso y acaba descubriendo que, tras ese desahucio malogrado, hay mucho más.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aNUTY1pQKe66rSOW67TCQB5RzKK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aOq1ChO8cpI1H5PiTomRQyUaZHX.png",
-      "director": [],
-      "cast": [
-        "Victoria Luengo",
-        "Raúl Arévalo",
-        "Álex García",
-        "Hovik Keuchkerian",
-        "Roberto Álamo",
-        "Raúl Prieto",
-        "Patrick Criado",
-        "David Llorente"
-      ],
-      "rank": 8,
-      "id": "tt10883660",
-      "name": "Antidisturbios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nGSWzX6i9nXiDpt5O9desGk1MMW.jpg",
-      "rating": 7.4,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -262,12 +173,102 @@
         "Dylan Hughes",
         "Ralph Ineson"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt27846061",
       "name": "Ludwig",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
       "rating": 7.824,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Seis antidisturbios ejecutan un desahucio en el centro de Madrid que se complica y un hombre acaba muriendo. Un equipo de Asuntos Internos será el encargado de investigar los hechos y los seis antidisturbios se enfrentan a una acusación de homicidio imprudente. El grupo de agentes busca una salida por su cuenta que acaba separándolos y, finalmente, complicando aún más la situación. Laia, una de las agentes de Asuntos Internos, se obsesiona con el caso y acaba descubriendo que, tras ese desahucio malogrado, hay mucho más.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aNUTY1pQKe66rSOW67TCQB5RzKK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aOq1ChO8cpI1H5PiTomRQyUaZHX.png",
+      "director": [],
+      "cast": [
+        "Victoria Luengo",
+        "Raúl Arévalo",
+        "Álex García",
+        "Hovik Keuchkerian",
+        "Roberto Álamo",
+        "Raúl Prieto",
+        "Patrick Criado",
+        "David Llorente"
+      ],
+      "rank": 7,
+      "id": "tt10883660",
+      "name": "Antidisturbios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nGSWzX6i9nXiDpt5O9desGk1MMW.jpg",
+      "rating": 7.4,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 8,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.84,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
+      "director": [],
+      "cast": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "Madison Iseman",
+        "P.J. Byrne",
+        "Dan Fogler",
+        "Wade Briggs",
+        "Robyn Cara",
+        "John Slattery"
+      ],
+      "rank": 9,
+      "id": "tt6151526",
+      "name": "Legítima defensa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+      "rating": 7.732,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

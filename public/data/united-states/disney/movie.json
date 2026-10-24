@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -33,7 +33,7 @@
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.498,
+      "rating": 7.495,
       "year": 2026,
       "days": null,
       "trend": {
@@ -69,8 +69,44 @@
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.601,
+      "rating": 7.602,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
+      "runtime": "96 min",
+      "director": [
+        "Kenny Ortega"
+      ],
+      "cast": [
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Tobias Jelinek",
+        "Larry Bagby"
+      ],
+      "rank": 3,
+      "id": "tt0107120",
+      "name": "El retorno de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
+      "rating": 7.045,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -102,48 +138,12 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.277,
+      "rating": 8.269,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
-      "director": [
-        "Kenny Ortega"
-      ],
-      "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
-      ],
-      "rank": 4,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.045,
-      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -178,7 +178,7 @@
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.853,
+      "rating": 7.852,
       "year": 1993,
       "days": null,
       "trend": {
@@ -214,7 +214,7 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.462,
+      "rating": 7.467,
       "year": 2026,
       "days": null,
       "trend": {
@@ -250,8 +250,45 @@
       "id": "tt33978029",
       "name": "Noche de bodas 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.525,
+      "rating": 7.5,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En esta frenética comedia, seguimos los pasos de Marnie que, junto a sus hermanos y su abuela, se mudan a Halloweentown, un lugar donde criaturas sobrenaturales conviven en armonía. Con la llegada de su 13 cumpleaños, Marnie descubre que, como su abuela, es una bruja. Marnie tendrá que ayudar a su madre y a su abuela para evitar que las fuerzas oscuras acaben con Halloweentown.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Película de TV"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qcAJcXtYCaXYKQKBylqnWscTa6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xKpr64DKPWE18CjdzIGVBNlqg4N.png",
+      "runtime": "84 min",
+      "director": [
+        "Duwayne Dunham"
+      ],
+      "cast": [
+        "Kimberly J. Brown",
+        "Debbie Reynolds",
+        "Joey Zimmerman",
+        "Judith Hoag",
+        "Phillip Van Dyke",
+        "Emily Roeske",
+        "Robin Thomas",
+        "Shannon Day"
+      ],
+      "rank": 8,
+      "id": "tt0173886",
+      "name": "Halloweentown: ¡Qué familia la mía!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
+      "rating": 6.83,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,11 +320,11 @@
         "André Roussimoff",
         "Fred Savage"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0093779",
       "name": "La princesa prometida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
-      "rating": 7.71,
+      "rating": 7.709,
       "year": 1987,
       "days": null,
       "trend": {
@@ -297,71 +334,36 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Principios del siglo XX. A una pequeña ciudad americana llega una misteriosa compañía de cómicos ambulantes, pero dos niños descubrirán el oscuro y peligroso secreto que se oculta tras una fachada de diversión y alegría.",
+      "description": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
       "genres": [
-        "Fantasía",
-        "Misterio",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/28BYjdzw6nJjFMIKjfUu1JA6tNC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ok9EXedBLoYVkXTYENnSezwjssn.png",
-      "runtime": "96 min",
-      "director": [
-        "Jack Clayton"
-      ],
-      "cast": [
-        "Jason Robards",
-        "Jonathan Pryce",
-        "Diane Ladd",
-        "Royal Dano",
-        "Vidal Peterson",
-        "Shawn Carson",
-        "Mary Grace Canfield",
-        "Richard Davalos"
-      ],
-      "rank": 9,
-      "id": "tt0086336",
-      "name": "El Carnaval De Las Tinieblas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rt4YVkJFvlcLLwIuOxMvK0ozN2G.jpg",
-      "rating": 6.52,
-      "year": 1983,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta frenética comedia, seguimos los pasos de Marnie que, junto a sus hermanos y su abuela, se mudan a Halloweentown, un lugar donde criaturas sobrenaturales conviven en armonía. Con la llegada de su 13 cumpleaños, Marnie descubre que, como su abuela, es una bruja. Marnie tendrá que ayudar a su madre y a su abuela para evitar que las fuerzas oscuras acaben con Halloweentown.",
-      "genres": [
-        "Familia",
-        "Fantasía",
+        "Animación",
         "Comedia",
-        "Película de TV"
+        "Familia",
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qcAJcXtYCaXYKQKBylqnWscTa6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xKpr64DKPWE18CjdzIGVBNlqg4N.png",
-      "runtime": "84 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t4qbhTFsG3VEVaFZ3yBFAp7FSxJ.png",
+      "runtime": "87 min",
       "director": [
-        "Duwayne Dunham"
+        "Tim Burton"
       ],
       "cast": [
-        "Debbie Reynolds",
-        "Judith Hoag",
-        "Kimberly J. Brown",
-        "Joey Zimmerman",
-        "Phillip Van Dyke",
-        "Emily Roeske",
-        "Robin Thomas",
-        "Shannon Day"
+        "Charlie Tahan",
+        "Catherine O'Hara",
+        "Martin Short",
+        "Martin Landau",
+        "Atticus Shaffer",
+        "Winona Ryder",
+        "Robert Capron",
+        "James Hiroyuki Liao"
       ],
       "rank": 10,
-      "id": "tt0173886",
-      "name": "Halloweentown: ¡Qué familia la mía!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
-      "rating": 6.83,
-      "year": 1998,
+      "id": "tt1142977",
+      "name": "Frankenweenie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
+      "rating": 7.015,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -370,5 +372,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

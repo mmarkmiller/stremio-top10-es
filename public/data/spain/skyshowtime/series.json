@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.541,
+      "rating": 8.6,
       "year": 2025,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.3,
+      "rating": 8.302,
       "year": 2022,
       "days": null,
       "trend": {
@@ -93,8 +93,97 @@
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.267,
+      "rating": 8.268,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Logan Marshall-Green",
+        "Arielle Kebbel",
+        "Ash Santos",
+        "Tatanka Means",
+        "Brecken Merrill",
+        "Mo Brings Plenty",
+        "Gil Birmingham"
+      ],
+      "rank": 4,
+      "id": "tt36849871",
+      "name": "Marshals: Una historia de Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "rating": 7.957,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ijZsJKzTffG7PiRyALGd8DkWu8G.png",
+      "director": [],
+      "cast": [
+        "Saheli Khan",
+        "Aishwarya 'Aishu' Devan",
+        "Major Curda",
+        "Akshay Khanna",
+        "Sakina Jaffrey"
+      ],
+      "rank": 5,
+      "id": "tt35854736",
+      "name": "Avatar: Los Siete Refugios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
+      "rating": 9.083,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
+      "director": [],
+      "cast": [
+        "Kyle MacLachlan"
+      ],
+      "rank": 6,
+      "id": "tt0098936",
+      "name": "Twin Peaks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "rating": 8.3,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -116,7 +205,7 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
@@ -148,45 +237,12 @@
         "Ryan Bingham",
         "Finn Little"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.279,
+      "rating": 8.28,
       "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Logan Marshall-Green",
-        "Arielle Kebbel",
-        "Ash Santos",
-        "Tatanka Means",
-        "Brecken Merrill",
-        "Mo Brings Plenty",
-        "Gil Birmingham"
-      ],
-      "rank": 6,
-      "id": "tt36849871",
-      "name": "Marshals: Una historia de Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.954,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,11 +270,11 @@
         "James Remar",
         "Brian Cox"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.509,
+      "rating": 8.511,
       "year": 2025,
       "days": null,
       "trend": {
@@ -228,86 +284,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Familia"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ijZsJKzTffG7PiRyALGd8DkWu8G.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
       "director": [],
       "cast": [
-        "Saheli Khan",
-        "Aishwarya 'Aishu' Devan",
-        "Major Curda",
-        "Akshay Khanna",
-        "Sakina Jaffrey"
-      ],
-      "rank": 8,
-      "id": "tt35854736",
-      "name": "Avatar: Los Siete Refugios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-      "rating": 9.129,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un castigo reúne a cinco alumnos de instituto muy diferentes. Pero un asesinato (y varios secretos) los mantendrán unidos durante un misterioso juego del gato y el ratón.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yVZESlkDTihnGB0qa9MLWCop9Xf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qY5yreyrN0CgwDoE2aO0Zzq5x76.png",
-      "director": [],
-      "cast": [
-        "Annalisa Cochrane",
-        "Chibuikem Uche",
-        "Marianly Tejada",
-        "Cooper van Grootel",
-        "Jess McLeod",
-        "Melissa Collazo",
-        "Sara Thompson",
-        "Alimi Ballard"
-      ],
-      "rank": 9,
-      "id": "tt8354062",
-      "name": "Alguien está mintiendo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hKMpbHY7xqFKaBR8W7jE61JlQB6.jpg",
-      "rating": 7.164,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
-      "director": [],
-      "cast": [
-        "Kyle MacLachlan"
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
       ],
       "rank": 10,
-      "id": "tt0098936",
-      "name": "Twin Peaks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "rating": 8.3,
-      "year": 1990,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.42,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.3,
+      "rating": 8.256,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,7 +104,7 @@
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.897,
+      "rating": 7.891,
       "year": 2026,
       "days": null,
       "trend": {
@@ -176,8 +176,44 @@
       "id": "tt28498219",
       "name": "Matchbox: La película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.745,
+      "rating": 7.759,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4npL5g0QOxuIZKsEx6SnC8niDuo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
+      "runtime": "113 min",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Naomie Harris",
+        "Brendan Gleeson",
+        "Megan Burns",
+        "Christopher Eccleston",
+        "Noah Huntley",
+        "Luke Mably",
+        "Stuart McQuarrie"
+      ],
+      "rank": 6,
+      "id": "tt0289043",
+      "name": "28 días después",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+      "rating": 7.244,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -209,7 +245,7 @@
         "Matthew McConaughey",
         "Tom Cruise"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0942385",
       "name": "Tropic Thunder, ¡una guerra muy perra!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
@@ -243,7 +279,7 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
@@ -257,34 +293,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
+      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
       "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
+        "Acción",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4npL5g0QOxuIZKsEx6SnC8niDuo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
-      "runtime": "113 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
+      "runtime": "155 min",
       "director": [
-        "Danny Boyle"
+        "Joseph Kosinski"
       ],
       "cast": [
-        "Cillian Murphy",
-        "Naomie Harris",
-        "Brendan Gleeson",
-        "Megan Burns",
-        "Christopher Eccleston",
-        "Noah Huntley",
-        "Luke Mably",
-        "Stuart McQuarrie"
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem",
+        "Kerry Condon",
+        "Tobias Menzies",
+        "Kim Bodnia",
+        "Sarah Niles",
+        "Will Merrick"
       ],
-      "rank": 8,
-      "id": "tt0289043",
-      "name": "28 días después",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "rating": 7.244,
-      "year": 2002,
+      "rank": 9,
+      "id": "tt16311594",
+      "name": "F1 la película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
+      "rating": 7.83,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,7 +350,7 @@
         "Betty Buckley",
         "Darryl Scheelar"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt24950660",
       "name": "Eternity",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
@@ -326,43 +361,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-      "genres": [
-        "Acción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
-      "runtime": "155 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Brad Pitt",
-        "Damson Idris",
-        "Javier Bardem",
-        "Kerry Condon",
-        "Tobias Menzies",
-        "Kim Bodnia",
-        "Sarah Niles",
-        "Will Merrick"
-      ],
-      "rank": 10,
-      "id": "tt16311594",
-      "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.831,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

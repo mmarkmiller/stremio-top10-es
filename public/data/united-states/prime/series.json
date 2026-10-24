@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.349,
+      "rating": 8.323,
       "year": 2026,
       "days": null,
       "trend": {
@@ -54,7 +54,7 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
+      "rating": 7.983,
       "year": 2022,
       "days": null,
       "trend": {
@@ -129,37 +129,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
-      "director": [],
-      "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
-      ],
-      "rank": 5,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.5,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
       "genres": [
         "Misterio",
@@ -176,7 +145,7 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
@@ -206,12 +175,37 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.132,
+      "rating": 8.13,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las criaturas fantásticas emergen de los objetos más familiares y cotidianos. Máscaras de halloween que se adueñan de la personalidad de su portador, terroríficos espantapájaros que cobran vida, artilugios inquietantes, cementerios, brujería y conjuros. Nadie está a salvo en el colegio, en el hogar o en el vecindario. En cada rincón puede esconderse algo o alguien que provoque el horror en tu vida, despertando tus peores pesadillas.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Kids",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pRpHVBQyKwyfFnvXBDALKacqyVw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fGgvP2O0cdnSD70ilBQTHbjpAFe.png",
+      "director": [],
+      "cast": [],
+      "rank": 7,
+      "id": "tt0111987",
+      "name": "Pesadillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIgridP6LYaDZG6VusnTiiCJy88.jpg",
+      "rating": 8,
+      "year": 1995,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,7 +236,7 @@
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.089,
+      "rating": 8.088,
       "year": 2026,
       "days": null,
       "trend": {
@@ -252,23 +246,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las criaturas fantásticas emergen de los objetos más familiares y cotidianos. Máscaras de halloween que se adueñan de la personalidad de su portador, terroríficos espantapájaros que cobran vida, artilugios inquietantes, cementerios, brujería y conjuros. Nadie está a salvo en el colegio, en el hogar o en el vecindario. En cada rincón puede esconderse algo o alguien que provoque el horror en tu vida, despertando tus peores pesadillas.",
+      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Misterio",
-        "Kids",
-        "Comedia"
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pRpHVBQyKwyfFnvXBDALKacqyVw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fGgvP2O0cdnSD70ilBQTHbjpAFe.png",
+      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
       "director": [],
-      "cast": [],
+      "cast": [
+        "Brandon Rogers",
+        "Richard Steven Horvitz",
+        "Vivian Nixon",
+        "Erica Lindbeck",
+        "Bryce Pinkham"
+      ],
       "rank": 9,
-      "id": "tt0111987",
-      "name": "Pesadillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIgridP6LYaDZG6VusnTiiCJy88.jpg",
-      "rating": 7.962,
-      "year": 1995,
+      "id": "tt10691770",
+      "name": "Helluva Boss",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "rating": 7.5,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,28 +277,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
+      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
       "genres": [
-        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
       "director": [],
       "cast": [
-        "Jason Beghe",
-        "Marina Squerciati",
-        "Patrick John Flueger",
-        "Benjamin Levy Aguilar",
-        "Arienne Mandi",
-        "Amy Morton"
+        "Kyle Chandler",
+        "Connie Britton",
+        "Aimee Teegarden",
+        "Michael B. Jordan",
+        "Jurnee Smollett-Bell",
+        "Dora Madison",
+        "Grey Damon",
+        "Matt Lauria"
       ],
       "rank": 10,
-      "id": "tt2805096",
-      "name": "Chicago P.D.",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
-      "rating": 8.42,
-      "year": 2014,
+      "id": "tt0758745",
+      "name": "Friday Night Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+      "rating": 8,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

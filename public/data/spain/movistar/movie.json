@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,43 +31,8 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.285,
+      "rating": 8.283,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
-      ],
-      "rank": 2,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.58,
-      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,11 +64,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.945,
+      "rating": 7.946,
       "year": 2009,
       "days": null,
       "trend": {
@@ -113,34 +78,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
       "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
+        "Crimen",
+        "Suspense",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
+      "runtime": "140 min",
       "director": [
-        "Gil Junger"
+        "Sebastian Schipper"
       ],
       "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Laia Costa",
+        "Frederick Lau",
+        "Franz Rogowski",
+        "Max Mauff",
+        "Burak Yiğit",
+        "André Hennicke",
+        "Lena Klenke",
+        "Philipp Kubitza"
+      ],
+      "rank": 3,
+      "id": "tt4226388",
+      "name": "Victoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
+      "rating": 7.58,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 4,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.601,
-      "year": 1999,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.265,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
+      "runtime": "110 min",
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell",
+        "Henry Golding",
+        "Tom Wu"
+      ],
+      "rank": 5,
+      "id": "tt8367814",
+      "name": "The Gentlemen: Los señores de la mafia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
+      "rating": 7.659,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +205,7 @@
         "Yoo Seung-mok",
         "Jung Yi-seo"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt12477480",
       "name": "Decision to Leave",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9Tk2tkXL2zmbAuYr8staL0SZWO.jpg",
@@ -185,33 +219,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
+      "runtime": "110 min",
       "director": [
-        "Zach Cregger"
+        "Dani Sancho"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Ousman Umar",
+        "Emma Vilarasau",
+        "Benjamin Adams",
+        "Jordi Bosch",
+        "Victor Sey",
+        "Elisabet Assens",
+        "Herminio Avilés",
+        "David Climent"
       ],
-      "rank": 6,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.266,
-      "year": 2025,
+      "rank": 7,
+      "id": "tt37162873",
+      "name": "Viaje al país de los blancos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -220,33 +252,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+      "description": "Jamal Malik es un adolescente pobre de Bombay que, por un motivo desconocido, está concursando en la versión hindú del programa \"¿Quién quiere ser millonario?\". A punto de conseguir los 20 millones de rupias como premio mayor del concurso, el joven es interrogado por la policía, bajo la sospecha de estar haciendo trampas. Pero para cada una de las preguntas, Jamal tiene una respuesta...",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bJqOelH0DOmaAp996slar3zjTSa.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/213lPPkawMHXsKkN0BJySCyU9YW.png",
+      "runtime": "123 min",
       "director": [
-        "Corin Hardy"
+        "Danny Boyle"
       ],
       "cast": [
-        "Dafne Keen",
-        "Sophie Nélisse",
-        "Sky Yang",
-        "Jhaleil Swaby",
-        "Alissa Skovbye",
-        "Percy Hynes White",
-        "Michelle Fairley",
-        "Nick Frost"
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal",
+        "अनिल कपूर",
+        "महेश मांजरेकर",
+        "Saurabh Shukla",
+        "Irrfan Khan",
+        "Ankur Vikal"
       ],
-      "rank": 7,
-      "id": "tt29550683",
-      "name": "Whistle: El silbido del mal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1gafvXyeC3vB7CatUo1IIx8a421.jpg",
-      "rating": 6.308,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt1010048",
+      "name": "Slumdog Millionaire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ub7iEniSi23Ms3RcF551Sozb1MH.jpg",
+      "rating": 7.726,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
+      ],
+      "rank": 9,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.602,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,7 +345,7 @@
         "George Takei",
         "Cary-Hiroyuki Tagawa"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt4302938",
       "name": "Kubo y las dos cuerdas mágicas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9L5BomkYAHwiRaVNp14WibZhHs.jpg",
@@ -288,77 +356,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
-      "genres": [
-        "Acción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w6dMatJzyyVtmE8JVGnNjviapnv.png",
-      "runtime": "131 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Miles Teller",
-        "Jennifer Connelly",
-        "Bashir Salahuddin",
-        "Jon Hamm",
-        "Charles Parnell",
-        "Monica Barbaro",
-        "Lewis Pullman"
-      ],
-      "rank": 9,
-      "id": "tt1745960",
-      "name": "Top Gun: Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos familias -una de clase media urbana y otra de productores rurales en decadencia- se entrecruzan en el sopor provinciano de una Salta caótica e inmutable, donde nada sucede pero todo está a punto de estallar.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qILNo8y7iR7ArYtgjbAk4Y0JWre.png",
-      "runtime": "102 min",
-      "director": [
-        "Lucrecia Martel"
-      ],
-      "cast": [
-        "Mercedes Morán",
-        "Graciela Borges",
-        "Martín Adjemián",
-        "Leonora Balcarce",
-        "Silvia Baylé",
-        "Sofia Bertolotto",
-        "Juan Cruz Bordeu",
-        "Noelia Bravo Herrera"
-      ],
-      "rank": 10,
-      "id": "tt0240419",
-      "name": "La ciénaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/emQIM4vtDbt25tVzdS16w2Gzjbk.jpg",
-      "rating": 6.826,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

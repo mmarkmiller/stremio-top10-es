@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,37 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.627,
+      "rating": 8.638,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zTGxRtGIFRVrrSXpcLHoNcKrobg.png",
+      "director": [],
+      "cast": [
+        "Noah Reid",
+        "Clark Backo",
+        "Carrie-Anne Moss",
+        "Hudson Williams",
+        "Ezra Franky",
+        "Patrick Gilmore"
+      ],
+      "rank": 2,
+      "id": "tt39980704",
+      "name": "Yaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -53,45 +83,12 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.062,
+      "rating": 8.1,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aYyxsYFnOv3IXThh1oNvkiLEmh5.png",
-      "director": [],
-      "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park",
-        "Elijah Fox"
-      ],
-      "rank": 3,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
-      "rating": 7.2,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -123,7 +120,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.349,
+      "rating": 8.323,
       "year": 2026,
       "days": null,
       "trend": {
@@ -165,23 +162,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
       "genres": [
-        "Action & Adventure",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
       "director": [],
       "cast": [
-        "Chris Pratt"
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
       ],
       "rank": 6,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.3,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -223,6 +223,71 @@
     },
     {
       "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
+      ],
+      "rank": 8,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6tKY8AvGrO5zh2WdaQyQf610Cf8.png",
+      "director": [],
+      "cast": [
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Paddy Considine",
+        "Joanne Froggatt",
+        "Lara Pulver",
+        "Anson Boon",
+        "Mandeep Dhillon",
+        "Jasmine Jobson"
+      ],
+      "rank": 9,
+      "id": "tt31510819",
+      "name": "Tierra de mafiosos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "rating": 8.6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
       "genres": [
         "Sci-Fi & Fantasy",
@@ -243,64 +308,12 @@
         "Diane Morgan",
         "Polly Frame"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.779,
+      "rating": 8.729,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
-      ],
-      "rank": 9,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
-      "director": [],
-      "cast": [
-        "Nathan Fielder"
-      ],
-      "rank": 10,
-      "id": "tt2297757",
-      "name": "Nathan for You",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
-      "rating": 8.243,
-      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

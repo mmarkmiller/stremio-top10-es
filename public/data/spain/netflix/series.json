@@ -2,8 +2,34 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
+      "director": [],
+      "cast": [
+        "Omar Sy"
+      ],
+      "rank": 1,
+      "id": "tt2531336",
+      "name": "Lupin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "rating": 7.674,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
@@ -23,11 +49,44 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.224,
+      "rating": 7.252,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "director": [
+        "Juan Cavestany",
+        "Álvaro Fernández Armero"
+      ],
+      "cast": [
+        "Antonio de la Torre",
+        "Alexandra Jiménez",
+        "Enric Benavent",
+        "Fernando Andina",
+        "Mercedes Sampietro",
+        "Celia de Molina",
+        "Teresa Rabal"
+      ],
+      "rank": 3,
+      "id": "tt39387986",
+      "name": "Grande de España",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
+      "rating": null,
       "year": 2026,
       "days": null,
       "trend": {
@@ -51,7 +110,7 @@
         "Justine Lupe",
         "Timothy Simons"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
@@ -83,37 +142,12 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
       "rating": 7.6,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "director": [],
-      "cast": [
-        "Omar Sy"
-      ],
-      "rank": 4,
-      "id": "tt2531336",
-      "name": "Lupin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.677,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -140,12 +174,40 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.888,
+      "rating": 7.9,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 7,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.926,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,39 +232,12 @@
         "Akari Kito",
         "Kentaro Tone"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt12590266",
       "name": "Cyberpunk: Edgerunners",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "rating": 8.499,
+      "rating": 8.5,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist"
-      ],
-      "rank": 7,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.932,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -229,11 +264,11 @@
         "Rebecca Wisocky",
         "Devan Chandler Long"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.131,
+      "rating": 8.1,
       "year": 2021,
       "days": null,
       "trend": {
@@ -243,62 +278,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "description": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
       "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
-      "director": [],
-      "cast": [
-        "Ella Beatty",
-        "Vicky Krieps",
-        "Sarah Paulson",
-        "Charlie Hunnam",
-        "Rebecca Hall",
-        "Billie Lourd",
-        "Jessica Barden"
-      ],
-      "rank": 9,
-      "id": "tmdb:299939",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.062,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
-      "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Crimen",
         "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
       "director": [],
       "cast": [
-        "Marina Inoue",
-        "Hiro Shimono",
-        "Yuki Kaji",
-        "Natsuki Hanae",
-        "Ayane Sakura",
-        "Kisho Taniyama",
-        "Yui Ishikawa",
-        "Yoshimasa Hosoya"
+        "Yılmaz Erdoğan",
+        "Kıvanç Tatlıtuğ",
+        "Ezgi Mola",
+        "Bensu Soral",
+        "Rıza Kocaoğlu",
+        "Kubilay Aka",
+        "Burcu Özberk",
+        "Uraz Kaygılaroğlu"
       ],
       "rank": 10,
-      "id": "tt2560140",
-      "name": "Ataque a los Titanes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.689,
-      "year": 2013,
+      "id": "tt38732131",
+      "name": "Criminales organizados",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
+      "rating": 5.1,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +310,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

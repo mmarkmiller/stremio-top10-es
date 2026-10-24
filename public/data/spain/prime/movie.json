@@ -2,45 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Sean Bruner es un guardia de seguridad de una colegio atormentado por un trauma infantil que, junto a su esposa Andrea, espera el nacimiento de su primer hijo. Durante su turno nocturno, presencia extrañas visiones y un misterioso haz de luz en el cielo que lo deja en el hospital con una perturbadora habilidad: dibujar vívidas imágenes de extraterrestres y paisajes desérticos. A medida que se acerca la fecha del parto de su esposa, Sean se apresura a enfrentarse a sus demonios antes de que su creciente obsesión le consuma.",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/HI3LsIikSTjeQ3CuAkJq1SzlBT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6nmlh0qzWPU2F4xFAkN2J7HWawx.png",
-      "runtime": "93 min",
-      "director": [
-        "Peter Cilella"
-      ],
-      "cast": [
-        "Ross Marquand",
-        "Sarah Bolger",
-        "Susan Wilder",
-        "Charlene Amoia",
-        "Dan O'Brien",
-        "Brandon Scott",
-        "Alexandra Barreto",
-        "Aisha Kabia"
-      ],
-      "rank": 1,
-      "id": "tt35521703",
-      "name": "El descendiente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3tO8SSlRxrZrJStbX2nPr5u7dCQ.jpg",
-      "rating": 5.7,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "genres": [
@@ -61,7 +24,7 @@
         "Elisa Franco",
         "Lara Brucci"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt2709726",
       "name": "Midway: Tra la vita e la morte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
@@ -97,11 +60,83 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.636,
+      "rating": 8.634,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sean Bruner es un guardia de seguridad de una colegio atormentado por un trauma infantil que, junto a su esposa Andrea, espera el nacimiento de su primer hijo. Durante su turno nocturno, presencia extrañas visiones y un misterioso haz de luz en el cielo que lo deja en el hospital con una perturbadora habilidad: dibujar vívidas imágenes de extraterrestres y paisajes desérticos. A medida que se acerca la fecha del parto de su esposa, Sean se apresura a enfrentarse a sus demonios antes de que su creciente obsesión le consuma.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/HI3LsIikSTjeQ3CuAkJq1SzlBT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6nmlh0qzWPU2F4xFAkN2J7HWawx.png",
+      "runtime": "93 min",
+      "director": [
+        "Peter Cilella"
+      ],
+      "cast": [
+        "Ross Marquand",
+        "Sarah Bolger",
+        "Susan Wilder",
+        "Charlene Amoia",
+        "Dan O'Brien",
+        "Brandon Scott",
+        "Alexandra Barreto",
+        "Aisha Kabia"
+      ],
+      "rank": 3,
+      "id": "tt35521703",
+      "name": "El descendiente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3tO8SSlRxrZrJStbX2nPr5u7dCQ.jpg",
+      "rating": 5.7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 4,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.801,
       "year": 2026,
       "days": null,
       "trend": {
@@ -133,83 +168,12 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.264,
+      "rating": 7.262,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tom Avery (Martín Sheen) es un reputado oftalmólogo de California, viudo, que un día recibe una llamada desde Francia en la que se le comunica que su hijo Daniel ha fallecido en un temporal en los Pirineos. A pesar de que la relación con él nunca fue muy buena, Tom, desolado, viaja a Francia, y descubre que Daniel comenzaba a hacer el Camino de Santiago, por lo que decide hacerlo por él.",
-      "genres": [
-        "Aventura",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xqOcH6cKhGEbzgypAHU6UlUUDrh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l9naZBtqkFwWUYBt0rCpT13l6gs.png",
-      "runtime": "125 min",
-      "director": [
-        "Emilio Estevez"
-      ],
-      "cast": [
-        "Martin Sheen",
-        "Emilio Estevez",
-        "Deborah Kara Unger",
-        "Yorick van Wageningen",
-        "James Nesbitt",
-        "Tchéky Karyo",
-        "Ángela Molina",
-        "Carlos Leal"
-      ],
-      "rank": 5,
-      "id": "tt1441912",
-      "name": "El camino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2dXGc8BcTy341ZeoQMZrpD9uEfS.jpg",
-      "rating": 7.095,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un detective y su familia comienzan a experimentar en su propia casa sucesos paranormales, mientras trata de averiguar el paradero de un niño de 10 años que ha desaparecido en la pequeña población en la que reside.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oIJenVsuK42zgfJd8E1hZqId3s5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vdd14JgLwdnUnB1ItvD2sBLGvfy.png",
-      "runtime": "95 min",
-      "director": [
-        "Adam Randall"
-      ],
-      "cast": [
-        "Helen Hunt",
-        "Jon Tenney",
-        "Owen Teague",
-        "Judah Lewis",
-        "Libe Barer",
-        "Gregory Alan Williams",
-        "Erika Alexander",
-        "Sam Trammell"
-      ],
-      "rank": 6,
-      "id": "tt6079516",
-      "name": "Te veo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
-      "rating": 6.973,
-      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -237,11 +201,11 @@
         "Gabriel Caballero",
         "Momar Sakanoko"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt36313062",
       "name": "El sueño americano",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8e3GGEt6za1ksDZLKTWCOhULWcp.jpg",
-      "rating": 7.399,
+      "rating": 7.403,
       "year": 2026,
       "days": null,
       "trend": {
@@ -251,34 +215,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
       "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
+      "runtime": "141 min",
       "director": [
-        "Gil Junger"
+        "Coralie Fargeat"
       ],
       "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams",
+        "Oscar Lesage",
+        "Christian Erickson",
+        "Robin Greer"
+      ],
+      "rank": 7,
+      "id": "tt17526714",
+      "name": "La sustancia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
+      "rating": 7.13,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "123 min",
+      "director": [
+        "Wim Wenders"
+      ],
+      "cast": [
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
       ],
       "rank": 8,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.601,
-      "year": 1999,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.821,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,33 +284,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
       "genres": [
-        "Romance",
-        "Drama"
+        "Comedia",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
+      "runtime": "110 min",
       "director": [
-        "Rachel Morrison"
+        "Guy Ritchie"
       ],
       "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell",
+        "Henry Golding",
+        "Tom Wu"
       ],
       "rank": 9,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.772,
-      "year": 2026,
+      "id": "tt8367814",
+      "name": "The Gentlemen: Los señores de la mafia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
+      "rating": 7.659,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,34 +319,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En medio del desierto, dos atracadores secuestran a un grupo de excéntricos personajes en un área de servicio. Entre ellos, un vendedor de cuchillos, una camarera y una pareja de ancianos. Juntos vivirán una historia llena de tensión, sorpresas y giros inesperados.",
+      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
+        "Ciencia ficción",
+        "Acción",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/Y91KJmQ13jNEpOlNL9j6PPRpIO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7RBomkSMZRf59lZdHFn4dVKTHTG.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
+      "runtime": "134 min",
       "director": [
-        "Francis Galluppi"
+        "Gore Verbinski"
       ],
       "cast": [
-        "Jim Cummings",
-        "Jocelin Donahue",
-        "Richard Brake",
-        "Nicholas Logan",
-        "Michael Abbott Jr.",
-        "Sierra McCormick",
-        "Ryan Masson",
-        "Connor Paolo"
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson",
+        "Michael Peña",
+        "Zazie Beetz",
+        "Asim Chaudhry",
+        "Tom Taylor",
+        "Georgia Goodman"
       ],
       "rank": 10,
-      "id": "tt11674730",
-      "name": "La última parada en Arizona",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
-      "rating": 6.894,
-      "year": 2024,
+      "id": "tt1341338",
+      "name": "Buena suerte, pásalo bien, no mueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "rating": 7.11,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +355,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

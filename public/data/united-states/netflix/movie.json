@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,42 +40,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
-      "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
-      "runtime": "95 min",
-      "director": [
-        "Jeremy Saulnier"
-      ],
-      "cast": [
-        "Anton Yelchin",
-        "Imogen Poots",
-        "Patrick Stewart",
-        "Alia Shawkat",
-        "Joe Cole",
-        "Callum Turner",
-        "Macon Blair",
-        "Mark Webber"
-      ],
-      "rank": 2,
-      "id": "tt4062536",
-      "name": "Green Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.718,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
       "genres": [
         "Aventura",
@@ -102,7 +66,7 @@
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.114,
+      "rating": 5.107,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,8 +101,152 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.963,
+      "rating": 6.952,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
+      "runtime": "95 min",
+      "director": [
+        "Jeremy Saulnier"
+      ],
+      "cast": [
+        "Anton Yelchin",
+        "Imogen Poots",
+        "Patrick Stewart",
+        "Alia Shawkat",
+        "Joe Cole",
+        "Callum Turner",
+        "Macon Blair",
+        "Mark Webber"
+      ],
+      "rank": 5,
+      "id": "tt4062536",
+      "name": "Green Room",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
+      "rating": 6.719,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 6,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.957,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
+      "runtime": "130 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie"
+      ],
+      "rank": 7,
+      "id": "tt0482571",
+      "name": "El truco final (El prestigio)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "rating": 8.212,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 8,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.605,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,7 +276,7 @@
         "Yaphet Kotto",
         "Bolaji Badejo"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0078748",
       "name": "Alien: El octavo pasajero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
@@ -201,7 +309,7 @@
         "Touré Blamassi",
         "Sophie Tankou"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt33311007",
       "name": "Prometido el cielo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
@@ -212,148 +320,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 7,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.605,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
-      "genres": [
-        "Suspense",
-        "Ciencia ficción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
-      "runtime": "108 min",
-      "director": [
-        "Jonathan Glazer"
-      ],
-      "cast": [
-        "Scarlett Johansson",
-        "Jeremy McWilliams",
-        "Lynsey Taylor Mackay",
-        "Dougie McConnell",
-        "Kevin McAlinden",
-        "D. Meade",
-        "Andrew Gorman",
-        "Joe Szula"
-      ],
-      "rank": 8,
-      "id": "tt1441395",
-      "name": "Under the Skin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
-      "rating": 6.142,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steven Spurrier, un británico expatriado que vive en París y propietario de una tienda de vinos, pone en marcha un plan para demostrar a los parisienses la calidad de los vinos provenientes de otras partes del mundo. Pullman y Rickman dan vida a una historia real en la que dos soñadores consiguen que en 1976 un vino criado en el Valle de Napa triunfe en un concurso en Francia y sitúe para siempre a la localidad de Calistoga en el mapa de los amantes del buen beber.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eiI7A6i0Ipnst2H9NIT5P3fSm3J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ah8gftfpnHDAXzg3r5BM4IXAe3i.png",
-      "runtime": "110 min",
-      "director": [
-        "Randall Miller"
-      ],
-      "cast": [
-        "Alan Rickman",
-        "Chris Pine",
-        "Bill Pullman",
-        "Rachael Taylor",
-        "Freddy Rodríguez",
-        "Dennis Farina",
-        "Hal B. Klein",
-        "Jean-Michel Richaud"
-      ],
-      "rank": 9,
-      "id": "tt0914797",
-      "name": "Guerra de vinos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gCzJf2qvyIzeO7BLOUcKZO6HO61.jpg",
-      "rating": 6.4,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hE90kqyiFm9apunHLQirvdO7KyR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uBYReWhXWWyMoOvv7s0XpAcFqxb.png",
-      "runtime": "127 min",
-      "director": [
-        "Judd Apatow"
-      ],
-      "cast": [
-        "Norm Macdonald",
-        "Adam Sandler",
-        "David Letterman",
-        "Jim Carrey",
-        "Jane Fonda",
-        "Sarah Silverman",
-        "Conan O'Brien",
-        "Harland Williams"
-      ],
-      "rank": 10,
-      "id": "tt44822485",
-      "name": "Norm: The Tale of Norm Macdonald",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }

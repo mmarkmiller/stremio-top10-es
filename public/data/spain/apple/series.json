@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610231937",
+  "date": "202610241825",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,39 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.062,
+      "rating": 8.1,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 2,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.817,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -56,75 +87,12 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.365,
+      "rating": 8.366,
       "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
-      "director": [],
-      "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
-      ],
-      "rank": 3,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.8,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "director": [],
-      "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Chinaza Uche",
-        "Ashley Zukerman",
-        "Shane McRae",
-        "Remmie Milner",
-        "Alexandria Riley",
-        "Reed Birney"
-      ],
-      "rank": 4,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.226,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -152,12 +120,44 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
       "rating": 8,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
+      "director": [],
+      "cast": [
+        "Rebecca Ferguson",
+        "Common",
+        "Chinaza Uche",
+        "Ashley Zukerman",
+        "Shane McRae",
+        "Remmie Milner",
+        "Alexandria Riley",
+        "Reed Birney"
+      ],
+      "rank": 5,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "rating": 8.226,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -197,31 +197,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
       "genres": [
         "Drama",
-        "Misterio",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
       "director": [],
       "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
       ],
       "rank": 7,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.39,
-      "year": 2022,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.909,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -263,30 +257,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jimmy trata de asimilar la muerte de su esposa mientras ejerce de padre, amigo y terapeuta. Decide cambiar su forma de ser con la gente y volverse una persona completamente honesta, sin ningún tipo de filtro. ¿Conseguirá que las cosas mejoren o desatará el caos?",
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
       "genres": [
         "Drama",
-        "Comedia"
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8lWcmMKvIbilcIMaTNTk5nEcYYS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bxcE5bPOibbuG8kTtLaSBQEGUuT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
       "director": [],
       "cast": [
-        "Jason Segel",
-        "Harrison Ford",
-        "Jessica Williams",
-        "Luke Tennie",
-        "Michael Urie",
-        "Lukita Maxwell",
-        "Christa Miller",
-        "Ted McGinley"
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
       ],
       "rank": 9,
-      "id": "tt15677150",
-      "name": "Terapia sin filtro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
-      "rating": 7.8,
-      "year": 2023,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.39,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -295,25 +290,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/n1KezePqzeY5449V9HppWek2tpO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4b0YCutnlRq92TynHGMRsqhK4Mv.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "ניב סולטן",
+        "Shaun Toub",
+        "Shervin Alenabi",
+        "Hugh Laurie"
       ],
       "rank": 10,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.909,
-      "year": 2025,
+      "id": "tt10577736",
+      "name": "Teherán",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg",
+      "rating": 7.505,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-23T17:39:23.714Z"
+  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
 }
