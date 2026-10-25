@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
     {
       "artworkVersion": 4,
@@ -40,6 +40,43 @@
     },
     {
       "artworkVersion": 4,
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Acción",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
+      ],
+      "rank": 2,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 6.966,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
       "genres": [
         "Aventura",
@@ -66,7 +103,7 @@
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.107,
+      "rating": 5.169,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,33 +113,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
       "genres": [
         "Suspense",
+        "Ciencia ficción",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
+      "runtime": "108 min",
       "director": [
-        "Ben Affleck"
+        "Jonathan Glazer"
       ],
       "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade",
+        "Andrew Gorman",
+        "Joe Szula"
       ],
       "rank": 4,
-      "id": "tt31049299",
-      "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.952,
-      "year": 2026,
+      "id": "tt1441395",
+      "name": "Under the Skin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
+      "rating": 6.141,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,48 +207,12 @@
         "Peter Anthony Tambakis",
         "Jeffrey Zubernis"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
       "rating": 7.957,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
-      "runtime": "130 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Christian Bale",
-        "Michael Caine",
-        "Piper Perabo",
-        "Rebecca Hall",
-        "Scarlett Johansson",
-        "Samantha Mahurin",
-        "David Bowie"
-      ],
-      "rank": 7,
-      "id": "tt0482571",
-      "name": "El truco final (El prestigio)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
-      "rating": 8.212,
-      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,6 +257,39 @@
     },
     {
       "artworkVersion": 4,
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wlJmF47IHYwzVpG1qA6aYA0UHj.jpg",
+      "runtime": "146 min",
+      "director": [
+        "Karthik Subbaraj"
+      ],
+      "cast": [
+        "Sananth",
+        "Rishikanth",
+        "கீர்த்தி சுரேஷ்",
+        "Jeeva Subramanian",
+        "Ramachandran Durairaj",
+        "Muthukumar",
+        "Soundara Raja",
+        "Anthony Daasan"
+      ],
+      "rank": 9,
+      "id": "tt38915678",
+      "name": "டோரதி",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pmhKipyrlYj8RSgqudXWDEy9ziv.jpg",
+      "rating": 8.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
       "genres": [
         "Terror",
@@ -276,7 +311,7 @@
         "Yaphet Kotto",
         "Bolaji Badejo"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt0078748",
       "name": "Alien: El octavo pasajero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
@@ -287,41 +322,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Marie, pastora costamarfileña y antigua periodista, vive en Túnez desde hace diez años. Su casa se convierte en refugio para Naney, una joven madre que busca un futuro mejor, y Jolie, una estudiante de gran carácter que carga con las esperanzas de su familia. La llegada de una niña huérfana desafía su sentido de la solidaridad en un clima social tenso, revelando tanto su fragilidad como su fortaleza.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/64UVhsWRinOnjKjYFmEnDx328Hi.jpg",
-      "runtime": "92 min",
-      "director": [
-        "Erige Sehiri"
-      ],
-      "cast": [
-        "Aïssa Maïga",
-        "Laëtitia Ky",
-        "Déborah Naney",
-        "Mohamed Grayaâ",
-        "Foued Zaazaa",
-        "Estelle Dogbo",
-        "Touré Blamassi",
-        "Sophie Tankou"
-      ],
-      "rank": 10,
-      "id": "tt33311007",
-      "name": "Prometido el cielo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

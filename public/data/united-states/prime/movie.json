@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6RMEU8ZUWUKOaLKZjjUCBVMJhuS.png",
-      "runtime": "127 min",
-      "director": [
-        "Maggie Gyllenhaal"
-      ],
-      "cast": [
-        "Jessie Buckley",
-        "Christian Bale",
-        "Peter Sarsgaard",
-        "John Magaro",
-        "Jeannie Berlin",
-        "Annette Bening",
-        "Jake Gyllenhaal",
-        "Penélope Cruz"
-      ],
-      "rank": 1,
-      "id": "tt30851137",
-      "name": "¡La novia!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
-      "rating": 6.078,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -64,47 +28,12 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.633,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 4,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.343,
-      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,12 +64,47 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 5,
+      "rank": 2,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.074,
+      "rating": 8.1,
       "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
+      ],
+      "rank": 3,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.343,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +135,7 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
@@ -185,33 +149,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Clive Barker"
+        "Zach Cregger"
       ],
       "cast": [
-        "Andrew Robinson",
-        "Clare Higgins",
-        "Ashley Laurence",
-        "Oliver Smith",
-        "Sean Chapman",
-        "Robert Hines",
-        "Doug Bradley",
-        "Nicholas Vince"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
-      "rank": 7,
-      "id": "tt0093177",
-      "name": "Hellraiser",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
-      "rating": 6.886,
-      "year": 1987,
+      "rank": 5,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.265,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
+      "runtime": "89 min",
+      "director": [
+        "James Ward Byrkit"
+      ],
+      "cast": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon",
+        "Lauren Maher",
+        "Elizabeth Gracen",
+        "Hugo Armstrong",
+        "Lorene Scafaria",
+        "Alex Manugian"
+      ],
+      "rank": 6,
+      "id": "tt2866360",
+      "name": "Coherence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
+      "rating": 7.209,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,11 +241,11 @@
         "Anna Camp",
         "Joel McHale"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt27047903",
       "name": "Scream 7",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "rating": 6.224,
+      "rating": 6.218,
       "year": 2026,
       "days": null,
       "trend": {
@@ -256,34 +255,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "description": "Los Bowden son una pareja feliz: Sam es un abogado de éxito y Leig diseñadora gráfica. Tienen una hija de 15 años, Danielle, y acaban de trasladarse a una preciosa casa en una tranquila ciudad. Max Cady acaba de salir de la cárcel, trás pasar en ella 14 años, acusado de violar y apalear a una adolescente. En prisión ha estudiado leyes, y ha llegado a la conclusión de que el responsable directo de su condena fue su abogado, Sam Bowden. Ahora va a dedicar cada minuto de su existencia a hacerle pagar su error. Candy ejecutará su terrible venganza, aterrorizando a la familia Bowden y convirtiendo su vida en una pesadilla.",
       "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
+        "Drama",
+        "Crimen",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wYvgaVmUioMTrTowBDvnQeNJ6Wf.png",
+      "runtime": "128 min",
       "director": [
-        "Kyle Balda"
+        "Martin Scorsese"
       ],
       "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
+        "Nick Nolte",
+        "Robert De Niro",
+        "Jessica Lange",
+        "Juliette Lewis",
+        "Joe Don Baker",
+        "Robert Mitchum",
+        "Gregory Peck",
+        "Martin Balsam"
       ],
-      "rank": 9,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.922,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt0101540",
+      "name": "El cabo del miedo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rEhLntnS2qqZ57O7k5T5XhJvavb.jpg",
+      "rating": 7.258,
+      "year": 1991,
       "days": null,
       "trend": {
         "dir": "same",
@@ -292,33 +291,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
       "genres": [
         "Terror",
-        "Misterio"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
+      "runtime": "90 min",
       "director": [
-        "Zach Cregger"
+        "Clive Barker"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Andrew Robinson",
+        "Clare Higgins",
+        "Ashley Laurence",
+        "Oliver Smith",
+        "Sean Chapman",
+        "Robert Hines",
+        "Doug Bradley",
+        "Nicholas Vince"
+      ],
+      "rank": 9,
+      "id": "tt0093177",
+      "name": "Hellraiser",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
+      "rating": 6.885,
+      "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una ciudad invadida por el crimen, la agente del gobierno Lily Chen se ve obligada a elegir entre su deber y su familia cuando secuestran a su marido y la chantajean para que asesine a criminales de alto nivel para salvarlo. A medida que se adentra en el submundo criminal, la implacable búsqueda de justicia de Lily desenmaraña una red de corrupción que la llevará a tomar una decisión final que cambiará su mundo para siempre.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG7FMTwl3rMUxNNENVWXdBiMjse.png",
+      "runtime": "93 min",
+      "director": [
+        "James Mark"
+      ],
+      "cast": [
+        "Orphée Ladouceur-Nguyen",
+        "Alain Moussi",
+        "Tim Rozon",
+        "Finn McCager Higgins",
+        "Lisa Berry",
+        "Paul Braunstein",
+        "Jason Cavalier",
+        "Jonathan Goad"
       ],
       "rank": 10,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
-      "year": 2025,
+      "id": "tt29218808",
+      "name": "Dura de matar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wK62dUZEsLAJSEKOzV6NlcOoZrl.jpg",
+      "rating": 7.375,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

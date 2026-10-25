@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.2,
+      "rating": 7.203,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,7 +64,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.016,
+      "rating": 7.015,
       "year": 2026,
       "days": null,
       "trend": {
@@ -74,34 +74,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
+      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Fantasía"
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6RMEU8ZUWUKOaLKZjjUCBVMJhuS.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
+      "runtime": "101 min",
       "director": [
-        "Maggie Gyllenhaal"
+        "Henry Selick"
       ],
       "cast": [
-        "Jessie Buckley",
-        "Christian Bale",
-        "Peter Sarsgaard",
-        "John Magaro",
-        "Jeannie Berlin",
-        "Annette Bening",
-        "Jake Gyllenhaal",
-        "Penélope Cruz"
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman",
+        "Robert Bailey Jr.",
+        "Ian McShane"
       ],
       "rank": 3,
-      "id": "tt30851137",
-      "name": "¡La novia!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
-      "rating": 6.078,
-      "year": 2026,
+      "id": "tt0327597",
+      "name": "Los mundos de Coraline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
+      "rating": 7.945,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,80 +137,8 @@
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.828,
+      "rating": 6.829,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
-      "runtime": "101 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Dakota Fanning",
-        "Teri Hatcher",
-        "Jennifer Saunders",
-        "Dawn French",
-        "Keith David",
-        "John Hodgman",
-        "Robert Bailey Jr.",
-        "Ian McShane"
-      ],
-      "rank": 5,
-      "id": "tt0327597",
-      "name": "Los mundos de Coraline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.946,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
-      "director": [
-        "Paul Feig"
-      ],
-      "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
-      ],
-      "rank": 6,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.251,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,11 +169,11 @@
         "Faith Delaney",
         "Tabitha Smyth"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt32273171",
       "name": "La muerte de Robin Hood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.7,
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -274,12 +203,47 @@
         "Ronee Blakley",
         "Charles Fleischer"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt0087800",
       "name": "Pesadilla en Elm Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
-      "rating": 7.356,
+      "rating": 7.357,
       "year": 1984,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
+      "director": [
+        "Paul Feig"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 7,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.251,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,7 +273,7 @@
         "Betty Buckley",
         "P. J. Soles"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
@@ -323,33 +287,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
+      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
       "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
+      "runtime": "146 min",
+      "director": [
+        "Stanley Kubrick"
+      ],
+      "cast": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "Philip Stone",
+        "Joe Turkel",
+        "Anne Jackson"
+      ],
+      "rank": 9,
+      "id": "tt0081505",
+      "name": "El resplandor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+      "rating": 8.2,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
+      "genres": [
+        "Terror",
         "Fantasía",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Sgr19oWCPh9m3LRWScNqWrqGDF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4QexYP92sCpGK1PeBwN3mhyrD6H.png",
-      "runtime": "92 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
+      "runtime": "82 min",
       "director": [
-        "Tim Burton"
+        "Michael Dougherty"
       ],
       "cast": [
-        "Alec Baldwin",
-        "Geena Davis",
-        "Winona Ryder",
-        "Catherine O'Hara",
-        "Jeffrey Jones",
-        "Michael Keaton",
-        "Glenn Shadix",
-        "Sylvia Sidney"
+        "Brian Cox",
+        "Quinn Lord",
+        "Anna Paquin",
+        "Dylan Baker",
+        "Leslie Bibb",
+        "Tahmoh Penikett",
+        "Rochelle Aytes",
+        "Britt McKillip"
       ],
       "rank": 10,
-      "id": "tt0094721",
-      "name": "Bitelchús",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
-      "rating": 7.367,
-      "year": 1988,
+      "id": "tt0862856",
+      "name": "Truco o trato: Terror en Halloween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
+      "rating": 6.984,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

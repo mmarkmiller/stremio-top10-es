@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.6,
+      "rating": 8.56,
       "year": 2025,
       "days": null,
       "trend": {
@@ -47,13 +47,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
       "director": [],
       "cast": [
-        "Chris Pratt"
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
       ],
       "rank": 2,
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.983,
+      "rating": 8,
       "year": 2022,
       "days": null,
       "trend": {
@@ -86,7 +93,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.323,
+      "rating": 8.308,
       "year": 2026,
       "days": null,
       "trend": {
@@ -118,7 +125,7 @@
       "id": "tt20883126",
       "name": "Reina roja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "rating": 7.036,
+      "rating": 7,
       "year": 2024,
       "days": null,
       "trend": {
@@ -158,35 +165,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ePZAsSSkT2G0j1F1U13ZE675N6I.png",
-      "director": [],
-      "cast": [
-        "Tom Welling",
-        "Erica Durance",
-        "Cassidy Freeman",
-        "Justin Hartley"
-      ],
-      "rank": 6,
-      "id": "tt0279600",
-      "name": "Smallville",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
-      "rating": 8.192,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "La protagonista, Fleabag, es una mujer de clase media que tiene una  situación familiar complicada y un trabajo con el que no puede mantener  su estilo de vida. Ella es propietaria de un café con el que apenas gana  dinero y su novio es un hombre que llena su vacío existencial con  encuentros sexuales sin sentido con todo tipo de mujeres, cada cual peor que la anterior. Y eso es solo una pequeña parte de su vida y  situaciones cotidianas con las que Fleabag debe lidiar.  Fleabag  es un ejemplo de una vida que ha ido mal y debe adaptarse a nuevas  situaciones, cosa que consigue hacer gracias a su personalidad.",
       "genres": [
         "Comedia",
@@ -200,11 +178,11 @@
         "Sian Clifford",
         "Andrew Scott"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt5687612",
       "name": "Fleabag",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
-      "rating": 8.275,
+      "rating": 8.3,
       "year": 2016,
       "days": null,
       "trend": {
@@ -214,56 +192,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
       "genres": [
-        "Action & Adventure",
-        "Familia",
+        "Western",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
       "director": [],
       "cast": [
-        "Elizabeth Tabish"
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
       ],
-      "rank": 8,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.84,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
-      "director": [],
-      "cast": [
-        "Juno Temple",
-        "Jennifer Jason Leigh",
-        "David Rysdahl",
-        "Joe Keery",
-        "Lamorne Morris",
-        "Richa Shukla Moorjani",
-        "Sam Spruell",
-        "Sienna King"
-      ],
-      "rank": 9,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.29,
-      "year": 2014,
+      "rank": 7,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.281,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -291,12 +243,72 @@
         "Yui Ishikawa",
         "Yoshimasa Hosoya"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt2560140",
       "name": "Ataque a los Titanes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.689,
+      "rating": 8.7,
       "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "1977. Han pasado dos años después del asesinato del capataz de la finca y su mujer, dos tractoristas y la esposa de uno de ellos. Onofre, un periodista, decide volver al lugar de los hechos, que además es su pueblo, para realizar un reportaje. A su llegada al pueblo de Paradas (Sevilla), se da cuenta de que su amiga Chelo no le dirige la palabra, ya que su tío fue acusado de matar en aquel asesinato múltiple a la tía del periodista. En el pasado, siete semanas antes del asesinato, se observa cómo ninguna de las personas que se vieron afectadas por el caso sabía lo que estaba a punto de ocurrir.",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qAmUwIENN2CYbjJ793OI9ajnHpx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9QvLH2ZO5fPuNFWbomkfekret3L.png",
+      "director": [],
+      "cast": [
+        "Víctor Clavijo Cobos",
+        "José Pastor",
+        "Juan Fernández",
+        "Lara Grube",
+        "Paco Tous",
+        "Laura Baena",
+        "Cinta Ramírez",
+        "Óscar de la Fuente"
+      ],
+      "rank": 9,
+      "id": "tt29515825",
+      "name": "El Marqués",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m7pqSTLIDWtaAyeu4uAQSIanNUR.jpg",
+      "rating": 6.4,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png",
+      "director": [],
+      "cast": [
+        "David Duchovny",
+        "Gillian Anderson"
+      ],
+      "rank": 10,
+      "id": "tt0106179",
+      "name": "Expediente X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
+      "rating": 8.368,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -305,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

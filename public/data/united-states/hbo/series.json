@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
     {
       "artworkVersion": 4,
@@ -61,6 +61,59 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 3,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.235,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 4,
+      "id": "tt10802170",
+      "name": "Los ensayos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
+      "rating": 7.984,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
       "genres": [
         "Comedia"
@@ -77,11 +130,11 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.513,
+      "rating": 7.5,
       "year": 2021,
       "days": null,
       "trend": {
@@ -91,26 +144,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Reality"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bE9xK4FMkIy4FbtZSrtItiGdyYK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x3gaqJH9xFHTu0dR1r0SXAz088h.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Keith Brymer Jones",
+        "Richard Miller",
+        "Siobhán McSweeney"
       ],
-      "rank": 4,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.241,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt6417190",
+      "name": "The Great Pottery Throw Down",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/89RRcMbTgELBRmFCD1B9n4wPv39.jpg",
+      "rating": 7.8,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,103 +184,12 @@
         "Dougie Baldwin",
         "Jessie Prez"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.059,
+      "rating": 8.051,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
-      "director": [],
-      "cast": [
-        "Nathan Fielder"
-      ],
-      "rank": 6,
-      "id": "tt10802170",
-      "name": "Los ensayos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 7.984,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/at1WyFTzH6ekDVglSCFNC5BjNob.png",
-      "director": [
-        "Sébastien Marnier"
-      ],
-      "cast": [
-        "Jérôme Niel",
-        "Yoann Gasiorowski",
-        "Magalie Lépine-Blondeau",
-        "Marie Oppert",
-        "Léo Chalié",
-        "Véronique Ruggia Saura",
-        "Guslagie Malanda",
-        "Salif Cissé"
-      ],
-      "rank": 7,
-      "id": "tt40407840",
-      "name": "Paolo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2cDwjO1u90ITkQbkARI8kl6Tw3s.jpg",
-      "rating": 4.7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kama regresa a su ciudad natal y se ve envuelta en un antiguo caso de desaparición. Secretos familiares, pasiones y crímenes revelan que el pasado nunca guarda silencio.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sq0YtR3T9f2M8Z1SNxaVKltitBp.png",
-      "director": [],
-      "cast": [
-        "Magdalena Cielecka",
-        "Piotr Żurawski",
-        "Łukasz Simlat",
-        "Piotr Głowacki",
-        "Dorota Kolak",
-        "Piotr Jankowski",
-        "Maria Pakulnis",
-        "Katarzyna Bujakiewicz"
-      ],
-      "rank": 8,
-      "id": "tt47816221",
-      "name": "El Calvario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qPwbr4eZzE6cOXVvCxemy3t4pK7.jpg",
-      "rating": 6,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -254,11 +213,11 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 7.5,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -285,12 +244,47 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.74,
+      "rating": 8.739,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4kTINu9mv2YV1PqFqPGG1FZMnhi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
+      "director": [
+        "medo lshl"
+      ],
+      "cast": [
+        "Peter Dinklage",
+        "Kit Harington",
+        "Nikolaj Coster-Waldau",
+        "Lena Headey",
+        "Emilia Clarke",
+        "Liam Cunningham",
+        "Maisie Williams",
+        "Isaac Hempstead Wright"
+      ],
+      "rank": 10,
+      "id": "tt0944947",
+      "name": "Juego de tronos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
+      "rating": 8.5,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -299,5 +293,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

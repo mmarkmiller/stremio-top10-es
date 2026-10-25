@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.323,
+      "rating": 8.308,
       "year": 2026,
       "days": null,
       "trend": {
@@ -48,14 +48,53 @@
       "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
       "director": [],
       "cast": [
-        "Chris Pratt"
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
       ],
       "rank": 2,
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.983,
+      "rating": 8,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
+      "director": [],
+      "cast": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "Madison Iseman",
+        "P.J. Byrne",
+        "Dan Fogler",
+        "Wade Briggs",
+        "Robyn Cara",
+        "John Slattery"
+      ],
+      "rank": 3,
+      "id": "tt6151526",
+      "name": "Legítima defensa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+      "rating": 7.702,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -83,44 +122,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.08,
+      "rating": 8.081,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
-      "director": [],
-      "cast": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "Madison Iseman",
-        "P.J. Byrne",
-        "Dan Fogler",
-        "Wade Briggs",
-        "Robyn Cara",
-        "John Slattery"
-      ],
-      "rank": 4,
-      "id": "tt6151526",
-      "name": "Legítima defensa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.732,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -149,7 +156,7 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
+      "rating": 8.566,
       "year": 2014,
       "days": null,
       "trend": {
@@ -159,53 +166,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "description": "Estudio crítico de la historia del cine basado en el libro homónimo. Comparada a las \"Histoire(s) du Cinema\" de Jean Luc Godard, Cousins aborda visualmente la historia del cine desde su creación hasta nuestros días a través de 15 episodios y cientos de fragmentos cinematográficos desde la creación del cine hasta el último \"blockbuster\" norteamericano. En ellos encontramos decenas de entrevistas con los principales maestros de nuestro tiempo. Un documental producido por Film 4 para Gran Bretaña. Ha sido emitido con éxito en Reino Unido a través de Channel 4, y fue estrenado íntegro en el Festival de Toronto, además de haber sido proyectado en el MoMA de Nueva York.",
       "genres": [
-        "Action & Adventure",
-        "Crimen"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/5ZV8kYvo5LfFmTtNGI3wJ2W6lGC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/u8avJh5ruTRzkYTDgrcajVbVoFh.png",
+      "director": [
+        "Mark Cousins"
+      ],
       "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
+        "Mark Cousins",
+        "Mario Cordova"
       ],
       "rank": 6,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.13,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las criaturas fantásticas emergen de los objetos más familiares y cotidianos. Máscaras de halloween que se adueñan de la personalidad de su portador, terroríficos espantapájaros que cobran vida, artilugios inquietantes, cementerios, brujería y conjuros. Nadie está a salvo en el colegio, en el hogar o en el vecindario. En cada rincón puede esconderse algo o alguien que provoque el horror en tu vida, despertando tus peores pesadillas.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Misterio",
-        "Kids",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pRpHVBQyKwyfFnvXBDALKacqyVw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fGgvP2O0cdnSD70ilBQTHbjpAFe.png",
-      "director": [],
-      "cast": [],
-      "rank": 7,
-      "id": "tt0111987",
-      "name": "Pesadillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dIgridP6LYaDZG6VusnTiiCJy88.jpg",
-      "rating": 8,
-      "year": 1995,
+      "id": "tt2044056",
+      "name": "La historia del cine: una odisea",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aRwDa2xEgbFVH3KGWT5tj07icV5.jpg",
+      "rating": 7.7,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -232,11 +211,11 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.088,
+      "rating": 8.087,
       "year": 2026,
       "days": null,
       "trend": {
@@ -246,29 +225,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "description": "El exsoldado británico Jonathan Pine es reclutado por la agente Burr, de los servicios de inteligencia, para infiltrarse en la red de un traficante de armas internacional liderada por Richard Onslow Roper.",
       "genres": [
-        "Animación",
-        "Comedia",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Misterio",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+      "background": "https://image.tmdb.org/t/p/w1280/86Lac0EmcXyKM40MC9yjRHI62hk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bbrwN2nik4tyvyoJinglYkRUf9S.png",
       "director": [],
       "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
+        "Tom Hiddleston",
+        "Hugh Laurie",
+        "Diego Calva",
+        "Camila Morrone",
+        "Paul Chahidi",
+        "Hayley Squires",
+        "Indira Varma",
+        "Unax Ugalde"
       ],
-      "rank": 9,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.5,
-      "year": 2020,
+      "rank": 8,
+      "id": "tt1399664",
+      "name": "El infiltrado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mpegR0goWmr1uBZ5DaPGIQDvMHg.jpg",
+      "rating": 7.735,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,29 +258,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "genres": [
-        "Drama"
+        "Action & Adventure",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iS0zzzkRHmE1nsDLJWfaYlQbXF5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Connie Britton",
-        "Aimee Teegarden",
-        "Michael B. Jordan",
-        "Jurnee Smollett-Bell",
-        "Dora Madison",
-        "Grey Damon",
-        "Matt Lauria"
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
       ],
-      "rank": 10,
-      "id": "tt0758745",
-      "name": "Friday Night Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "rating": 8,
-      "year": 2006,
+      "rank": 9,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.13,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +288,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

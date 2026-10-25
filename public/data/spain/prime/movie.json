@@ -2,40 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bt6wON1JTu6eruie5GQokJoU2S1.jpg",
-      "runtime": "74 min",
-      "director": [
-        "John Real"
-      ],
-      "cast": [
-        "Elisabetta Pellini",
-        "Salvatore Lazzaro",
-        "Elaine Bonsangue",
-        "Matteo Tosi",
-        "Riccardo Flammini",
-        "Antonella Salvucci",
-        "Elisa Franco",
-        "Lara Brucci"
-      ],
-      "rank": 1,
-      "id": "tt2709726",
-      "name": "Midway: Tra la vita e la morte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
-      "rating": 4.4,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -60,11 +28,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.633,
       "year": 2026,
       "days": null,
       "trend": {
@@ -74,35 +42,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sean Bruner es un guardia de seguridad de una colegio atormentado por un trauma infantil que, junto a su esposa Andrea, espera el nacimiento de su primer hijo. Durante su turno nocturno, presencia extrañas visiones y un misterioso haz de luz en el cielo que lo deja en el hospital con una perturbadora habilidad: dibujar vívidas imágenes de extraterrestres y paisajes desérticos. A medida que se acerca la fecha del parto de su esposa, Sean se apresura a enfrentarse a sus demonios antes de que su creciente obsesión le consuma.",
+      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
       "genres": [
-        "Drama",
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Acción",
+        "Crimen",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/HI3LsIikSTjeQ3CuAkJq1SzlBT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6nmlh0qzWPU2F4xFAkN2J7HWawx.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
+      "runtime": "91 min",
       "director": [
-        "Peter Cilella"
+        "Ben Wheatley"
       ],
       "cast": [
-        "Ross Marquand",
-        "Sarah Bolger",
-        "Susan Wilder",
-        "Charlene Amoia",
-        "Dan O'Brien",
-        "Brandon Scott",
-        "Alexandra Barreto",
-        "Aisha Kabia"
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
+      ],
+      "rank": 2,
+      "id": "tt31195136",
+      "name": "Normal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "rating": 7.252,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una mujer llamada Sam trata de sobrevivir a una invasión en la ciudad de Nueva York por criaturas alienígenas sedientas de sangre con oídos ultrasónicos. Tercera entrega de la saga y precuela de las dos anteriores.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1XyIHrP7X7rn3UBkNy9hPb9vCUf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o3tY0bI244lXpaux4ZYTzB1siyk.png",
+      "runtime": "100 min",
+      "director": [
+        "Michael Sarnoski"
+      ],
+      "cast": [
+        "Lupita Nyong'o",
+        "Joseph Quinn",
+        "Alex Wolff",
+        "Djimon Hounsou",
+        "Eliane Umuhire",
+        "Takunda Khumalo",
+        "Alfie Todd",
+        "Avy-Berry Worrall"
       ],
       "rank": 3,
-      "id": "tt35521703",
-      "name": "El descendiente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3tO8SSlRxrZrJStbX2nPr5u7dCQ.jpg",
-      "rating": 5.7,
-      "year": 2025,
+      "id": "tt13433802",
+      "name": "Un lugar tranquilo: Día uno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg",
+      "rating": 6.626,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,7 +139,7 @@
       "id": "tt34384900",
       "name": "El amor de tu vida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.801,
+      "rating": 6.888,
       "year": 2026,
       "days": null,
       "trend": {
@@ -146,171 +149,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bt6wON1JTu6eruie5GQokJoU2S1.jpg",
+      "runtime": "74 min",
       "director": [
-        "Ben Wheatley"
+        "John Real"
       ],
       "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
+        "Elisabetta Pellini",
+        "Salvatore Lazzaro",
+        "Elaine Bonsangue",
+        "Matteo Tosi",
+        "Riccardo Flammini",
+        "Antonella Salvucci",
+        "Elisa Franco",
+        "Lara Brucci"
       ],
       "rank": 5,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.262,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jérémy, atrapado tras el mostrador de un videoclub en Amiens, y Bouna, limpiador en el aeropuerto de Orly. Sin contactos, sin dinero y con un nivel de inglés muy bajo, nadie habría predicho que acabarían como agentes de renombre en la NBA. Estos dos marginados, gracias a su pasión absoluta por el baloncesto y su inquebrantable amistad, superaron todos los obstáculos para alcanzar su sueño americano. La historia de años de dificultades que los llevaron a su primera gran oportunidad: el nuevo contrato de Nicolas Batum con los Portland Trail Blazers en 2012, por 46 millones de dólares durante cuatro años.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7mSLP3Bpbc1xxgEd8oJizZnqegA.jpg",
-      "runtime": "122 min",
-      "director": [
-        "Anthony Marciano"
-      ],
-      "cast": [
-        "Jean-Pascal Zadi",
-        "Raphaël Quenard",
-        "Gregory Defleur",
-        "David Clark",
-        "Josh Casaubon",
-        "Etienne Guillou-Kervern",
-        "Gabriel Caballero",
-        "Momar Sakanoko"
-      ],
-      "rank": 6,
-      "id": "tt36313062",
-      "name": "El sueño americano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8e3GGEt6za1ksDZLKTWCOhULWcp.jpg",
-      "rating": 7.403,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
-      "runtime": "141 min",
-      "director": [
-        "Coralie Fargeat"
-      ],
-      "cast": [
-        "Demi Moore",
-        "Margaret Qualley",
-        "Dennis Quaid",
-        "Edward Hamilton-Clark",
-        "Gore Abrams",
-        "Oscar Lesage",
-        "Christian Erickson",
-        "Robin Greer"
-      ],
-      "rank": 7,
-      "id": "tt17526714",
-      "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
-      "rating": 7.13,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 8,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.821,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
-      "genres": [
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
-      ],
-      "rank": 9,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.659,
-      "year": 2020,
+      "id": "tt2709726",
+      "name": "Midway: Tra la vita e la morte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
+      "rating": 4.4,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -341,12 +203,150 @@
         "Tom Taylor",
         "Georgia Goodman"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.11,
+      "rating": 7.107,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
+      "director": [
+        "Jan Komasa"
+      ],
+      "cast": [
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
+      ],
+      "rank": 7,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
+      "rating": 6.943,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/RmZPgvkmAZVTyPsl44fiOUfcmA.png",
+      "runtime": "110 min",
+      "director": [
+        "David Marqués"
+      ],
+      "cast": [
+        "Antonio Resines",
+        "Quim Gutiérrez",
+        "Megan Montaner",
+        "Marta González de Vega",
+        "Carmen Lara Díaz",
+        "Cristofer Ortiz",
+        "Ignacio Gascón",
+        "Israel Romero"
+      ],
+      "rank": 8,
+      "id": "tt41801352",
+      "name": "Haciendo amigos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "123 min",
+      "director": [
+        "Wim Wenders"
+      ],
+      "cast": [
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
+      ],
+      "rank": 9,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.819,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
+      "director": [
+        "Paul Feig"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 10,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.251,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +355,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }

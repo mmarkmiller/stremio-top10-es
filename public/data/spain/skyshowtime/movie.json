@@ -2,47 +2,8 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202610241825",
+  "date": "202610251836",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "genres": [
-        "Familia",
-        "Comedia",
-        "Aventura",
-        "Fantasía",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
-      "runtime": "98 min",
-      "director": [
-        "Michael Jelenic",
-        "Aaron Horvath"
-      ],
-      "cast": [
-        "Chris Pratt",
-        "Charlie Day",
-        "Anya Taylor-Joy",
-        "Jack Black",
-        "Keegan-Michael Key",
-        "Benny Safdie",
-        "Donald Glover",
-        "Glen Powell"
-      ],
-      "rank": 1,
-      "id": "tt28650488",
-      "name": "Super Mario Galaxy la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.204,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
@@ -66,12 +27,51 @@
         "Olivia Lynes",
         "Justine Mitchell"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.732,
+      "rating": 7.733,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
+      "runtime": "98 min",
+      "director": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Charlie Day",
+        "Anya Taylor-Joy",
+        "Jack Black",
+        "Keegan-Michael Key",
+        "Benny Safdie",
+        "Donald Glover",
+        "Glen Powell"
+      ],
+      "rank": 2,
+      "id": "tt28650488",
+      "name": "Super Mario Galaxy la película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+      "rating": 8.202,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -151,34 +151,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
+      "description": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar...",
       "genres": [
-        "Drama",
-        "Romance",
+        "Comedia",
         "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l2Yvmy5xkCNuz8ZFGbKgimzHIbH.png",
+      "runtime": "101 min",
       "director": [
-        "Richard Curtis"
+        "Barry Sonnenfeld"
       ],
       "cast": [
-        "Domhnall Gleeson",
-        "Rachel McAdams",
-        "Bill Nighy",
-        "Tom Hollander",
-        "Margot Robbie",
-        "Lydia Wilson",
-        "Lindsay Duncan",
-        "Richard Cordery"
+        "Raúl Juliá",
+        "Anjelica Huston",
+        "Christopher Lloyd",
+        "Dan Hedaya",
+        "Elizabeth Wilson",
+        "Judith Malina",
+        "Carel Struycken",
+        "Dana Ivey"
       ],
       "rank": 5,
-      "id": "tt2194499",
-      "name": "Una cuestión de tiempo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.9,
-      "year": 2013,
+      "id": "tt0101272",
+      "name": "La familia Addams",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
+      "rating": 7.082,
+      "year": 1991,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,34 +186,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kaulder es un cazador de brujas que resulta inmortal tras recibir una maldición de la todopoderosa Reina Bruja. En el mundo actual sigue defendiendo a los humanos del mal que traen estos seres sobrenaturales. Belvial, un hechicero muy poderoso, es uno de sus mayores enemigos. Atormentado por la pérdida de su familia, Kaulder es además el último miembro de su casta de cazadores de brujas.",
+      "description": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
       "genres": [
         "Acción",
-        "Aventura",
-        "Fantasía"
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/g8DUZrgCfXRJ5CazfZ5X7qCWcvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzVwzsiAO6VYxE3j9TcZmeERgrr.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png",
+      "runtime": "89 min",
       "director": [
-        "Breck Eisner"
+        "Timo Tjahjanto"
       ],
       "cast": [
-        "Vin Diesel",
-        "Rose Leslie",
-        "Elijah Wood",
-        "Ólafur Darri Ólafsson",
-        "Julie Engelbrecht",
-        "Michael Caine",
-        "Joseph Gilgun",
-        "Isaach de Bankolé"
+        "Bob Odenkirk",
+        "Connie Nielsen",
+        "John Ortiz",
+        "Colin Hanks",
+        "RZA",
+        "Colin Salmon",
+        "Christopher Lloyd",
+        "Sharon Stone"
       ],
       "rank": 6,
-      "id": "tt1618442",
-      "name": "El último cazador de brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg",
-      "rating": 6.026,
-      "year": 2015,
+      "id": "tt28996126",
+      "name": "Nadie 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+      "rating": 6.907,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,7 +243,7 @@
         "RZA",
         "Billy MacLellan"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt7888964",
       "name": "Nadie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
@@ -258,33 +257,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
       "genres": [
         "Drama",
-        "Crimen"
+        "Romance",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
-      "runtime": "175 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
+      "runtime": "123 min",
       "director": [
-        "Francis Ford Coppola"
+        "Richard Curtis"
       ],
       "cast": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan",
-        "Robert Duvall",
-        "Richard S. Castellano",
-        "Diane Keaton",
-        "Talia Shire",
-        "Gianni Russo"
+        "Domhnall Gleeson",
+        "Rachel McAdams",
+        "Bill Nighy",
+        "Tom Hollander",
+        "Margot Robbie",
+        "Lydia Wilson",
+        "Lindsay Duncan",
+        "Richard Cordery"
       ],
-      "rank": 9,
-      "id": "tt0068646",
-      "name": "El padrino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
-      "rating": 8.689,
-      "year": 1972,
+      "rank": 8,
+      "id": "tt2194499",
+      "name": "Una cuestión de tiempo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
+      "rating": 7.9,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,7 +315,7 @@
         "Zoe Saldaña",
         "Simon Pegg"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0796366",
       "name": "Star Trek",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
@@ -326,8 +326,42 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
+      "runtime": "87 min",
+      "director": [
+        "Steve Miner"
+      ],
+      "cast": [
+        "Amy Steel",
+        "John Furey",
+        "Adrienne King",
+        "Kirsten Baker",
+        "Stuart Charno",
+        "Warrington Gillette",
+        "Walt Gorney",
+        "Marta Kober"
+      ],
+      "rank": 10,
+      "id": "tt0082418",
+      "name": "Viernes 13, 2ª parte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
+      "rating": 6.204,
+      "year": 1981,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-24T13:38:12.673Z"
+  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
 }
