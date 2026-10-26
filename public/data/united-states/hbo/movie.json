@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.203,
+      "rating": 7.198,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,7 +64,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.015,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,7 +101,7 @@
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.945,
+      "rating": 7.946,
       "year": 2009,
       "days": null,
       "trend": {
@@ -137,44 +137,8 @@
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.829,
+      "rating": 6.828,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
-      "director": [
-        "Michael Sarnoski"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
-      ],
-      "rank": 5,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.8,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -203,7 +167,7 @@
         "Ronee Blakley",
         "Charles Fleischer"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0087800",
       "name": "Pesadilla en Elm Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
@@ -238,7 +202,7 @@
         "Elizabeth Perkins",
         "Amanda Joy Erickson"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
@@ -252,33 +216,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Aventura",
+        "Drama",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
       "director": [
-        "Brian De Palma"
+        "Michael Sarnoski"
       ],
       "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
+      ],
+      "rank": 7,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.762,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Sgr19oWCPh9m3LRWScNqWrqGDF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QexYP92sCpGK1PeBwN3mhyrD6H.png",
+      "runtime": "92 min",
+      "director": [
+        "Tim Burton"
+      ],
+      "cast": [
+        "Alec Baldwin",
+        "Geena Davis",
+        "Winona Ryder",
+        "Catherine O'Hara",
+        "Jeffrey Jones",
+        "Michael Keaton",
+        "Glenn Shadix",
+        "Sylvia Sidney"
       ],
       "rank": 8,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.343,
-      "year": 1976,
+      "id": "tt0094721",
+      "name": "Bitelchús",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
+      "rating": 7.367,
+      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,34 +322,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
       "genres": [
         "Terror",
-        "Fantasía",
-        "Comedia"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
-      "runtime": "82 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
       "director": [
-        "Michael Dougherty"
+        "Brian De Palma"
       ],
       "cast": [
-        "Brian Cox",
-        "Quinn Lord",
-        "Anna Paquin",
-        "Dylan Baker",
-        "Leslie Bibb",
-        "Tahmoh Penikett",
-        "Rochelle Aytes",
-        "Britt McKillip"
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
       ],
       "rank": 10,
-      "id": "tt0862856",
-      "name": "Truco o trato: Terror en Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
-      "rating": 6.984,
-      "year": 2007,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.3,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

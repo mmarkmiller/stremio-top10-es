@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.308,
+      "rating": 8.311,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
+      "rating": 7.993,
       "year": 2022,
       "days": null,
       "trend": {
@@ -93,7 +93,7 @@
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.702,
+      "rating": 7.7,
       "year": 2025,
       "days": null,
       "trend": {
@@ -126,7 +126,7 @@
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.081,
+      "rating": 8.1,
       "year": 2011,
       "days": null,
       "trend": {
@@ -156,7 +156,7 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.566,
+      "rating": 8.6,
       "year": 2014,
       "days": null,
       "trend": {
@@ -166,25 +166,49 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Estudio crítico de la historia del cine basado en el libro homónimo. Comparada a las \"Histoire(s) du Cinema\" de Jean Luc Godard, Cousins aborda visualmente la historia del cine desde su creación hasta nuestros días a través de 15 episodios y cientos de fragmentos cinematográficos desde la creación del cine hasta el último \"blockbuster\" norteamericano. En ellos encontramos decenas de entrevistas con los principales maestros de nuestro tiempo. Un documental producido por Film 4 para Gran Bretaña. Ha sido emitido con éxito en Reino Unido a través de Channel 4, y fue estrenado íntegro en el Festival de Toronto, además de haber sido proyectado en el MoMA de Nueva York.",
+      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
       "genres": [
-        "Documental"
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ZV8kYvo5LfFmTtNGI3wJ2W6lGC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/u8avJh5ruTRzkYTDgrcajVbVoFh.png",
-      "director": [
-        "Mark Cousins"
-      ],
-      "cast": [
-        "Mark Cousins",
-        "Mario Cordova"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+      "director": [],
+      "cast": [],
       "rank": 6,
-      "id": "tt2044056",
-      "name": "La historia del cine: una odisea",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aRwDa2xEgbFVH3KGWT5tj07icV5.jpg",
-      "rating": 7.7,
-      "year": 2011,
+      "id": "tt10946316",
+      "name": "El Instituto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+      "rating": 7.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
+      "director": [],
+      "cast": [
+        "Jared Padalecki",
+        "Jensen Ackles",
+        "Misha Collins"
+      ],
+      "rank": 7,
+      "id": "tt0460681",
+      "name": "Sobrenatural",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "rating": 8.3,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -211,45 +235,12 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.087,
+      "rating": 8.091,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El exsoldado británico Jonathan Pine es reclutado por la agente Burr, de los servicios de inteligencia, para infiltrarse en la red de un traficante de armas internacional liderada por Richard Onslow Roper.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/86Lac0EmcXyKM40MC9yjRHI62hk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bbrwN2nik4tyvyoJinglYkRUf9S.png",
-      "director": [],
-      "cast": [
-        "Tom Hiddleston",
-        "Hugh Laurie",
-        "Diego Calva",
-        "Camila Morrone",
-        "Paul Chahidi",
-        "Hayley Squires",
-        "Indira Varma",
-        "Unax Ugalde"
-      ],
-      "rank": 8,
-      "id": "tt1399664",
-      "name": "El infiltrado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mpegR0goWmr1uBZ5DaPGIQDvMHg.jpg",
-      "rating": 7.735,
-      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -285,8 +276,41 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\n\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uUwnClwdMA12bpHgeKgkQrbu5Oe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2O44nO22UQ8pF0RXKhBtU6DLCi2.png",
+      "director": [],
+      "cast": [
+        "Steven Strait",
+        "Dominique Tipper",
+        "Wes Chatham",
+        "Shohreh Aghdashloo",
+        "Frankie Adams",
+        "Cara Gee",
+        "Nadine Nicole",
+        "Keon Alexander"
+      ],
+      "rank": 10,
+      "id": "tt3230854",
+      "name": "The Expanse",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+      "rating": 8.1,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

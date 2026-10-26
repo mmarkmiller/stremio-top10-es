@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,43 +31,8 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.283,
+      "rating": 8.287,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
-      ],
-      "rank": 2,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.58,
-      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -97,11 +62,11 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
+      "rating": 7.264,
       "year": 2025,
       "days": null,
       "trend": {
@@ -134,12 +99,82 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.945,
+      "rating": 7.946,
       "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
+      "runtime": "140 min",
+      "director": [
+        "Sebastian Schipper"
+      ],
+      "cast": [
+        "Laia Costa",
+        "Frederick Lau",
+        "Franz Rogowski",
+        "Max Mauff",
+        "Burak Yiğit",
+        "André Hennicke",
+        "Lena Klenke",
+        "Philipp Kubitza"
+      ],
+      "rank": 4,
+      "id": "tt4226388",
+      "name": "Victoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
+      "rating": 7.6,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png",
+      "runtime": "127 min",
+      "director": [
+        "Joe Wright"
+      ],
+      "cast": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Rosamund Pike",
+        "Carey Mulligan",
+        "Jena Malone",
+        "Talulah Riley",
+        "Donald Sutherland"
+      ],
+      "rank": 5,
+      "id": "tt0414387",
+      "name": "Orgullo y prejuicio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "rating": 8.052,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,47 +205,12 @@
         "Yoo Seung-mok",
         "Jung Yi-seo"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt12477480",
       "name": "Decision to Leave",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9Tk2tkXL2zmbAuYr8staL0SZWO.jpg",
       "rating": 7.324,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
-      "genres": [
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
-      "director": [
-        "Guy Ritchie"
-      ],
-      "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
-      ],
-      "rank": 6,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.658,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +245,7 @@
       "id": "tt4302938",
       "name": "Kubo y las dos cuerdas mágicas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9L5BomkYAHwiRaVNp14WibZhHs.jpg",
-      "rating": 7.65,
+      "rating": 7.7,
       "year": 2016,
       "days": null,
       "trend": {
@@ -255,34 +255,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
+      "description": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
       "genres": [
         "Comedia",
-        "Crimen",
-        "Misterio"
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AbRYlvwAKHs0YuyNO6NX9ofq4l6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sxHbXvVW81ydoKckURGbjx92z82.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/g1e4eGYySgxwAV6Uu1R7f6eOwsr.jpg",
+      "runtime": "113 min",
       "director": [
-        "Rian Johnson"
+        "Aina Clotet"
       ],
       "cast": [
-        "Daniel Craig",
-        "Chris Evans",
-        "Ana de Armas",
-        "Jamie Lee Curtis",
-        "Michael Shannon",
-        "Don Johnson",
-        "Toni Collette",
-        "LaKeith Stanfield"
+        "Aina Clotet",
+        "Marc Soler Rull",
+        "Naby Dakhli",
+        "Guillermo Toledo",
+        "Lloll Bertran",
+        "Mohamed Lamine",
+        "Zaïra Pérez",
+        "Josh Zuckerman"
       ],
       "rank": 8,
-      "id": "tt8946378",
-      "name": "Puñales por la espalda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
-      "rating": 7.844,
-      "year": 2019,
+      "id": "tt36822560",
+      "name": "Viva",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
+      "rating": 5.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -291,33 +290,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
+      "description": "Año 2027: el ser humano está al borde de la extinción: los hombres han perdido la capacidad de procrear y se ignora por qué razon todas las mujeres del planeta se han vuelto estériles. Al mismo tiempo, el mundo se estremece cuando muere un muchacho de 18 años, la persona más joven de la Tierra. Se vive, pues, una situación de caos galopante. En tales circunstancias, Theo (Clive Owen), un desilusionado ex-activista radical de Londres convertido en burócrata, es contratado por Julian (Julianne Moore) para que proteja a una mujer que puede tener el secreto de la salvación de la humanidad, la persona más valiosa de la Tierra...",
       "genres": [
-        "Historia",
-        "Drama"
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
-      "runtime": "150 min",
+      "background": "https://image.tmdb.org/t/p/w1280/www52jvhbB0ppe9s0zxbf9EYox.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xDCVx7xZpkYaPnZIWVhSHyqcRqK.png",
+      "runtime": "109 min",
       "director": [
-        "James Vanderbilt"
+        "Alfonso Cuarón"
       ],
       "cast": [
-        "Rami Malek",
-        "Russell Crowe",
-        "Michael Shannon",
-        "Leo Woodall",
-        "John Slattery",
-        "Richard E. Grant",
-        "Mark O'Brien",
-        "Colin Hanks"
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris",
+        "Charlie Hunnam",
+        "Danny Huston"
       ],
       "rank": 9,
-      "id": "tt29567915",
-      "name": "Núremberg",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
-      "rating": 7.593,
-      "year": 2025,
+      "id": "tt0206634",
+      "name": "Hijos de los hombres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jxVLES5eTLuJgeYs0ywCLZbbQW1.jpg",
+      "rating": 7.618,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -364,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.654,
+      "rating": 8.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -53,35 +53,7 @@
       "id": "tt39980704",
       "name": "Yaga",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 6.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
-      ],
-      "rank": 3,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.235,
+      "rating": 6.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -109,12 +81,40 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
       "rating": 6.6,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 4,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.234,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -144,7 +144,7 @@
       "id": "tt35768911",
       "name": "De puntillas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 7.021,
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -177,8 +177,39 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
+      "rating": 8.5,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png",
+      "director": [],
+      "cast": [
+        "Jodie Foster",
+        "Kali Reis",
+        "Fiona Shaw",
+        "Finn Bennett",
+        "Isabella Star LaBlanc",
+        "John Hawkes",
+        "Grace Pitts"
+      ],
+      "rank": 7,
+      "id": "tt2356777",
+      "name": "True Detective",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
+      "rating": 8.3,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,11 +237,11 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.382,
+      "rating": 8.4,
       "year": 2022,
       "days": null,
       "trend": {
@@ -220,56 +251,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando una de sus amigas más importantes desaparece sin dejar rastro, Elena Greco, una anciana que vive en una vivienda llena de libros, decide escribir la historia de su amistad desde 1950. Esto pretende desvelar el misterio de Lila, su mejor amiga y mayor enemiga.",
+      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
       "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Mtb712hSNyXPA4fsv0CEdifCG2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4MsrBlqhYrrRZFVO5sIaMNBMd71.png",
-      "director": [
-        "Laura Bispuri"
-      ],
-      "cast": [
-        "Alba Rohrwacher",
-        "Irene Maiorino",
-        "Fabrizio Gifuni",
-        "Filippo Beltrami"
-      ],
-      "rank": 8,
-      "id": "tt7278862",
-      "name": "La amiga estupenda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ogxu9WiIvGEgY2UZfucbvgOwhQm.jpg",
-      "rating": 8.104,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
       "director": [],
       "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
+        "Dominic West",
+        "Lance Reddick",
+        "Sonja Sohn",
+        "Wendell Pierce",
+        "Michael Kenneth Williams",
+        "Deirdre Lovejoy",
+        "Andre Royo",
+        "John Doman"
       ],
       "rank": 9,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.051,
-      "year": 2024,
+      "id": "tt0306414",
+      "name": "Bajo escucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "rating": 8.6,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -299,7 +304,7 @@
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.739,
+      "rating": 8.7,
       "year": 2025,
       "days": null,
       "trend": {
@@ -309,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

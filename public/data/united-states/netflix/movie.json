@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,7 +30,7 @@
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.404,
+      "rating": 6.403,
       "year": 1980,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.966,
+      "rating": 6.971,
       "year": 2026,
       "days": null,
       "trend": {
@@ -103,7 +103,7 @@
       "id": "tt32268992",
       "name": "Sacrifice",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.169,
+      "rating": 5.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -113,34 +113,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
-        "Suspense",
         "Ciencia ficción",
-        "Drama"
+        "Terror",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "Jonathan Glazer"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Scarlett Johansson",
-        "Jeremy McWilliams",
-        "Lynsey Taylor Mackay",
-        "Dougie McConnell",
-        "Kevin McAlinden",
-        "D. Meade",
-        "Andrew Gorman",
-        "Joe Szula"
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
       ],
       "rank": 4,
-      "id": "tt1441395",
-      "name": "Under the Skin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
-      "rating": 6.141,
-      "year": 2014,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.606,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -175,8 +175,80 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.719,
+      "rating": 6.72,
       "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alien asume la forma de una atractiva mujer y deambula por las calles de Escocia, llevando a hombres solitarios y confiados a su destino fatal en la adaptación surrealista de la novela homónima de Michel Faber.",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1h7p96NJ4I3ZGr5KnTd6CgMMI0U.png",
+      "runtime": "108 min",
+      "director": [
+        "Jonathan Glazer"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade",
+        "Andrew Gorman",
+        "Joe Szula"
+      ],
+      "rank": 6,
+      "id": "tt1441395",
+      "name": "Under the Skin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg",
+      "rating": 6.1,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
+      "runtime": "130 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie"
+      ],
+      "rank": 7,
+      "id": "tt0482571",
+      "name": "El truco final (El prestigio)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "rating": 8.212,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,81 +279,12 @@
         "Peter Anthony Tambakis",
         "Jeffrey Zubernis"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
       "rating": 7.957,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 8,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.605,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wlJmF47IHYwzVpG1qA6aYA0UHj.jpg",
-      "runtime": "146 min",
-      "director": [
-        "Karthik Subbaraj"
-      ],
-      "cast": [
-        "Sananth",
-        "Rishikanth",
-        "கீர்த்தி சுரேஷ்",
-        "Jeeva Subramanian",
-        "Ramachandran Durairaj",
-        "Muthukumar",
-        "Soundara Raja",
-        "Anthony Daasan"
-      ],
-      "rank": 9,
-      "id": "tt38915678",
-      "name": "டோரதி",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pmhKipyrlYj8RSgqudXWDEy9ziv.jpg",
-      "rating": 8.3,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,5 +328,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

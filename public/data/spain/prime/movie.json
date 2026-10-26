@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 1,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.799,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -28,11 +63,46 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "rating": 8.633,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Leo Woodall",
+        "Stavros Halkias",
+        "Michael Jibrin",
+        "Monica Raymund",
+        "Rich Sommer"
+      ],
+      "rank": 3,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,11 +134,11 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.252,
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,101 +148,172 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una mujer llamada Sam trata de sobrevivir a una invasión en la ciudad de Nueva York por criaturas alienígenas sedientas de sangre con oídos ultrasónicos. Tercera entrega de la saga y precuela de las dos anteriores.",
+      "description": "James Bond se encuentra disfrutando de unas merecidas vacaciones en Jamaica. Sin embargo, su paz termina cuando su amigo de la CIA, Felix Leiter, lo busca para una nueva misión que implica rescatar a un importante científico que ha sido secuestrado.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspense"
+        "Acción",
+        "Suspense",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1XyIHrP7X7rn3UBkNy9hPb9vCUf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o3tY0bI244lXpaux4ZYTzB1siyk.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dXclpDiyUJZDSRmxW7s3Ixaf5iB.png",
+      "runtime": "163 min",
       "director": [
-        "Michael Sarnoski"
+        "Cary Joji Fukunaga"
       ],
       "cast": [
-        "Lupita Nyong'o",
-        "Joseph Quinn",
-        "Alex Wolff",
-        "Djimon Hounsou",
-        "Eliane Umuhire",
-        "Takunda Khumalo",
-        "Alfie Todd",
-        "Avy-Berry Worrall"
-      ],
-      "rank": 3,
-      "id": "tt13433802",
-      "name": "Un lugar tranquilo: Día uno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg",
-      "rating": 6.626,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 4,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.888,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bt6wON1JTu6eruie5GQokJoU2S1.jpg",
-      "runtime": "74 min",
-      "director": [
-        "John Real"
-      ],
-      "cast": [
-        "Elisabetta Pellini",
-        "Salvatore Lazzaro",
-        "Elaine Bonsangue",
-        "Matteo Tosi",
-        "Riccardo Flammini",
-        "Antonella Salvucci",
-        "Elisa Franco",
-        "Lara Brucci"
+        "Daniel Craig",
+        "Léa Seydoux",
+        "Rami Malek",
+        "Lashana Lynch",
+        "Ralph Fiennes",
+        "Ben Whishaw",
+        "Naomie Harris",
+        "Rory Kinnear"
       ],
       "rank": 5,
-      "id": "tt2709726",
-      "name": "Midway: Tra la vita e la morte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s8YMCLyIJNXhbdIFINKjZKPdaJU.jpg",
-      "rating": 4.4,
-      "year": 2013,
+      "id": "tt2382320",
+      "name": "Sin tiempo para morir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4yk2270JA6QpnN8xkuRsnPVXgdP.jpg",
+      "rating": 7.336,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Atrapado desde la muerte de Alicia, el viudo Gabriel, de 65 años intenta conectar con su nueva inquilina, Yuqi. Luchando con Lidia, su hija, y ayudado por una clase de cocina, descubre el último ingrediente para recuperar los vínculos perdidos",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9ftrjXCZJ2KZ7GPxrDTYyq0NTHu.jpg",
+      "runtime": "76 min",
+      "director": [
+        "Manhal Aziz",
+        "Nina Rosser"
+      ],
+      "cast": [
+        "Claudio Sierra",
+        "Lidia Mínguez",
+        "Elena Sala Marco",
+        "Jesús Montoya",
+        "Mónica Espigares",
+        "Yuqi Zhu",
+        "Diego Salinas",
+        "Carlos Valera"
+      ],
+      "rank": 6,
+      "id": "tt31069435",
+      "name": "El Último Táper",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9rWy7dIquCijCxC1xE7tRLIKqif.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png",
+      "runtime": "127 min",
+      "director": [
+        "Joe Wright"
+      ],
+      "cast": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Rosamund Pike",
+        "Carey Mulligan",
+        "Jena Malone",
+        "Talulah Riley",
+        "Donald Sutherland"
+      ],
+      "rank": 7,
+      "id": "tt0414387",
+      "name": "Orgullo y prejuicio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "rating": 8.052,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
+      "director": [
+        "Jan Komasa"
+      ],
+      "cast": [
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
+      ],
+      "rank": 8,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
+      "rating": 7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/RmZPgvkmAZVTyPsl44fiOUfcmA.png",
+      "runtime": "110 min",
+      "director": [
+        "David Marqués"
+      ],
+      "cast": [
+        "Antonio Resines",
+        "Quim Gutiérrez",
+        "Megan Montaner",
+        "Marta González de Vega",
+        "Carmen Lara Díaz",
+        "Cristofer Ortiz",
+        "Ignacio Gascón",
+        "Israel Romero"
+      ],
+      "rank": 9,
+      "id": "tt41801352",
+      "name": "Haciendo amigos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -203,150 +344,12 @@
         "Tom Taylor",
         "Georgia Goodman"
       ],
-      "rank": 6,
+      "rank": 10,
       "id": "tt1341338",
       "name": "Buena suerte, pásalo bien, no mueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.107,
+      "rating": 7.109,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
-      "director": [
-        "Jan Komasa"
-      ],
-      "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
-      ],
-      "rank": 7,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.943,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/RmZPgvkmAZVTyPsl44fiOUfcmA.png",
-      "runtime": "110 min",
-      "director": [
-        "David Marqués"
-      ],
-      "cast": [
-        "Antonio Resines",
-        "Quim Gutiérrez",
-        "Megan Montaner",
-        "Marta González de Vega",
-        "Carmen Lara Díaz",
-        "Cristofer Ortiz",
-        "Ignacio Gascón",
-        "Israel Romero"
-      ],
-      "rank": 8,
-      "id": "tt41801352",
-      "name": "Haciendo amigos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 9,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.819,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
-      "director": [
-        "Paul Feig"
-      ],
-      "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
-      ],
-      "rank": 10,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.251,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.015,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.902,
+      "rating": 6.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,7 +104,7 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.599,
+      "rating": 7.593,
       "year": 2026,
       "days": null,
       "trend": {
@@ -120,7 +120,7 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "123 min",
+      "runtime": "124 min",
       "director": [
         "Wim Wenders"
       ],
@@ -148,138 +148,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Viktor Navorski es un inmigrante balcánico que, al estallar la guerra en su país y quedar anulado su pasaporte, se encuentra involuntariamente exiliado en un aeropuerto de los Estados Unidos.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/31LPPI1ZPB6DvC4amKqx3q89sxb.png",
-      "runtime": "129 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Tom Hanks",
-        "Catherine Zeta-Jones",
-        "Stanley Tucci",
-        "Chi McBride",
-        "Diego Luna",
-        "Barry Shabaka Henley",
-        "Kumar Pallana",
-        "Zoe Saldaña"
-      ],
-      "rank": 5,
-      "id": "tt0362227",
-      "name": "La terminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/GZHg5TMQpfNDjOWJ6zO2mO7ftS.jpg",
-      "rating": 7.356,
-      "year": 2004,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
-      "director": [
-        "Sean S. Cunningham"
-      ],
-      "cast": [
-        "Adrienne King",
-        "Jeannine Taylor",
-        "Robbi Morgan",
-        "Kevin Bacon",
-        "Betsy Palmer",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson"
-      ],
-      "rank": 6,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.404,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
-      "runtime": "141 min",
-      "director": [
-        "Coralie Fargeat"
-      ],
-      "cast": [
-        "Demi Moore",
-        "Margaret Qualley",
-        "Dennis Quaid",
-        "Edward Hamilton-Clark",
-        "Gore Abrams",
-        "Oscar Lesage",
-        "Christian Erickson",
-        "Robin Greer"
-      ],
-      "rank": 7,
-      "id": "tt17526714",
-      "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
-      "rating": 7.13,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "description": "Un padre y su hija adolescente asisten a un concierto de música pop, donde se dan cuenta de que están en el centro de un oscuro y siniestro suceso.",
       "genres": [
         "Suspense",
         "Crimen",
-        "Comedia"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
-      "runtime": "154 min",
+      "background": "https://image.tmdb.org/t/p/w1280/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2m3ZkLITwm1OA1ScrgKYX4JRQuH.png",
+      "runtime": "105 min",
       "director": [
-        "Quentin Tarantino"
+        "M. Night Shyamalan"
       ],
       "cast": [
-        "John Travolta",
-        "Samuel L. Jackson",
-        "Uma Thurman",
-        "Bruce Willis",
-        "Ving Rhames",
-        "Harvey Keitel",
-        "Eric Stoltz",
-        "Tim Roth"
+        "Josh Hartnett",
+        "Ariel Donoghue",
+        "Saleka",
+        "Hayley Mills",
+        "Jonathan Langdon",
+        "Alison Pill",
+        "Mark Bacolcol",
+        "Marnie McPhail"
       ],
-      "rank": 8,
-      "id": "tt0110912",
-      "name": "Pulp Fiction",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "rating": 8.481,
-      "year": 1994,
+      "rank": 5,
+      "id": "tt26753003",
+      "name": "La trampa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j81fGYj8hjDhpdNSHzREWMaE8p8.jpg",
+      "rating": 6.205,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,11 +206,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.829,
+      "rating": 6.828,
       "year": 1998,
       "days": null,
       "trend": {
@@ -324,34 +220,138 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
       "director": [
-        "Craig Gillespie"
+        "Sean S. Cunningham"
       ],
       "cast": [
-        "Milly Alcock",
-        "Eve Ridley",
-        "Matthias Schoenaerts",
-        "Jason Momoa",
-        "David Krumholtz",
-        "Emily Beecham",
-        "David Corenswet",
-        "Kadiff Kirwan"
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
+      ],
+      "rank": 7,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.403,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
+      "runtime": "179 min",
+      "director": [
+        "Peter Jackson"
+      ],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler",
+        "Christopher Lee",
+        "Sean Bean"
+      ],
+      "rank": 8,
+      "id": "tt0120737",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "rating": 8.448,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
+      "runtime": "141 min",
+      "director": [
+        "Coralie Fargeat"
+      ],
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams",
+        "Oscar Lesage",
+        "Christian Erickson",
+        "Robin Greer"
+      ],
+      "rank": 9,
+      "id": "tt17526714",
+      "name": "La sustancia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
+      "rating": 7.129,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "genres": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
+      "runtime": "152 min",
+      "director": [
+        "Chris Columbus"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
       ],
       "rank": 10,
-      "id": "tt8814476",
-      "name": "Supergirl",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
-      "rating": 6.63,
-      "year": 2026,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.905,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gfksMFxjcV1IxayRiLBPNR54uT0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6VufxQEq7qQ4ZzdCVGb3QIAqPKS.png",
+      "runtime": "114 min",
+      "director": [
+        "Vanessa Caswill"
+      ],
+      "cast": [
+        "Maika Monroe",
+        "Tyriq Withers",
+        "Rudy Pankow",
+        "Bradley Whitford",
+        "Lauren Graham",
+        "Zoe Kosovic",
+        "Nicholas Duvernay",
+        "Jennifer Robertson"
+      ],
+      "rank": 1,
+      "id": "tt33714084",
+      "name": "No te olvidaré",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
@@ -27,11 +62,11 @@
         "Olivia Lynes",
         "Justine Mitchell"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.733,
+      "rating": 7.732,
       "year": 2025,
       "days": null,
       "trend": {
@@ -53,8 +88,8 @@
       "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
       "runtime": "98 min",
       "director": [
-        "Aaron Horvath",
-        "Michael Jelenic"
+        "Michael Jelenic",
+        "Aaron Horvath"
       ],
       "cast": [
         "Chris Pratt",
@@ -66,12 +101,48 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.202,
+      "rating": 8.198,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En 1973, el ejército de Israel perdió un caza con un misil nuclear, abatido por fuerzas enemigas. No se volvió a saber del misil. 29 años después, un viejo árabe lo encuentra semienterrado y abandonado en el Golán, y se lo vende a un mercenario con conexiones con unos potentados neonazis. Al mismo tiempo, en Rusia, se produce un nuevo cambio de presidente, y el nuevo mandatario, apenas conocido, no despierta plena confianza para la CIA... Nueva y trepidante aventura del agente de la CIA Jack Ryan (interpretado ahora por Ben Affleck y al que anteriormente habían dado vida Alec Baldwin y Harrison Ford). La película tuvo su polémica al tratar el tema del terrorismo de forma apocalíptica cuando todavía estaba reciente el recuerdo del 11-S. Además, en la novela de Tom Clancy los terroristas eran fanáticos musulmanes, pero los productores decidieron \"sustituirlos\" por terroristas neonazis en la adaptación cinematográfica.",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/455z1puGQRuMKumAaDttSEEzqg1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jK3LiyHdKkIpsYrjyZJXuMiKExi.png",
+      "runtime": "128 min",
+      "director": [
+        "Phil Alden Robinson"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Morgan Freeman",
+        "James Cromwell",
+        "Liev Schreiber",
+        "Bridget Moynahan",
+        "Alan Bates",
+        "Ciarán Hinds",
+        "Philip Baker Hall"
+      ],
+      "rank": 4,
+      "id": "tt0164184",
+      "name": "Pánico nuclear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/voM9RFRBMxb73ruMqAFoEFica5w.jpg",
+      "rating": 6.4,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -101,12 +172,46 @@
         "Monica Barbaro",
         "Lewis Pullman"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt1745960",
       "name": "Top Gun: Maverick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
       "rating": 8.158,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
+      "runtime": "87 min",
+      "director": [
+        "Steve Miner"
+      ],
+      "cast": [
+        "Amy Steel",
+        "John Furey",
+        "Adrienne King",
+        "Kirsten Baker",
+        "Stuart Charno",
+        "Warrington Gillette",
+        "Walt Gorney",
+        "Marta Kober"
+      ],
+      "rank": 6,
+      "id": "tt0082418",
+      "name": "Viernes 13, 2ª parte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
+      "rating": 6.2,
+      "year": 1981,
       "days": null,
       "trend": {
         "dir": "same",
@@ -137,7 +242,7 @@
         "Marc T. Lewis",
         "Vanessa Eng"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt12300742",
       "name": "Bugonia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
@@ -151,104 +256,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar...",
+      "description": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento 'demasiado' complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
       "genres": [
-        "Comedia",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l2Yvmy5xkCNuz8ZFGbKgimzHIbH.png",
-      "runtime": "101 min",
-      "director": [
-        "Barry Sonnenfeld"
-      ],
-      "cast": [
-        "Raúl Juliá",
-        "Anjelica Huston",
-        "Christopher Lloyd",
-        "Dan Hedaya",
-        "Elizabeth Wilson",
-        "Judith Malina",
-        "Carel Struycken",
-        "Dana Ivey"
-      ],
-      "rank": 5,
-      "id": "tt0101272",
-      "name": "La familia Addams",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
-      "rating": 7.082,
-      "year": 1991,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
-      "genres": [
-        "Acción",
+        "Misterio",
         "Suspense",
-        "Crimen"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG21XcsSGnwuwbARB1dkZjTIG30.png",
+      "runtime": "103 min",
       "director": [
-        "Timo Tjahjanto"
+        "Jordan Peele"
       ],
       "cast": [
-        "Bob Odenkirk",
-        "Connie Nielsen",
-        "John Ortiz",
-        "Colin Hanks",
-        "RZA",
-        "Colin Salmon",
-        "Christopher Lloyd",
-        "Sharon Stone"
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones",
+        "Marcus Henderson",
+        "Betty Gabriel",
+        "LaKeith Stanfield"
       ],
-      "rank": 6,
-      "id": "tt28996126",
-      "name": "Nadie 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
-      "rating": 6.907,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
-      "runtime": "92 min",
-      "director": [
-        "Ilya Naishuller"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Aleksey Serebryakov",
-        "Connie Nielsen",
-        "Christopher Lloyd",
-        "Michael Ironside",
-        "Colin Salmon",
-        "RZA",
-        "Billy MacLellan"
-      ],
-      "rank": 7,
-      "id": "tt7888964",
-      "name": "Nadie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "rating": 7.855,
-      "year": 2021,
+      "rank": 9,
+      "id": "tt5052448",
+      "name": "Déjame salir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
+      "rating": 7.626,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,7 +314,7 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
@@ -290,78 +325,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2jJNyx5ftVCOMFKnf6F5zNJ7G61.png",
-      "runtime": "127 min",
-      "director": [
-        "J.J. Abrams"
-      ],
-      "cast": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Eric Bana",
-        "Bruce Greenwood",
-        "Karl Urban",
-        "Zoe Saldaña",
-        "Simon Pegg"
-      ],
-      "rank": 9,
-      "id": "tt0796366",
-      "name": "Star Trek",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
-      "rating": 7.439,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
-      "runtime": "87 min",
-      "director": [
-        "Steve Miner"
-      ],
-      "cast": [
-        "Amy Steel",
-        "John Furey",
-        "Adrienne King",
-        "Kirsten Baker",
-        "Stuart Charno",
-        "Warrington Gillette",
-        "Walt Gorney",
-        "Marta Kober"
-      ],
-      "rank": 10,
-      "id": "tt0082418",
-      "name": "Viernes 13, 2ª parte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
-      "rating": 6.204,
-      "year": 1981,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

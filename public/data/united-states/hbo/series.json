@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -20,7 +20,7 @@
       "id": "tt2297757",
       "name": "Nathan for You",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
-      "rating": 8.245,
+      "rating": 8.2,
       "year": 2013,
       "days": null,
       "trend": {
@@ -61,34 +61,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
-      "director": [],
-      "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
-      ],
-      "rank": 3,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.235,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
       "genres": [
         "Comedia",
@@ -100,11 +72,11 @@
       "cast": [
         "Nathan Fielder"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt10802170",
       "name": "Los ensayos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 7.984,
+      "rating": 8,
       "year": 2022,
       "days": null,
       "trend": {
@@ -130,7 +102,7 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
@@ -144,23 +116,55 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
-        "Reality"
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bE9xK4FMkIy4FbtZSrtItiGdyYK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x3gaqJH9xFHTu0dR1r0SXAz088h.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
       "director": [],
       "cast": [
-        "Keith Brymer Jones",
-        "Richard Miller",
-        "Siobhán McSweeney"
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 5,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.234,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "director": [],
+      "cast": [
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
       ],
       "rank": 6,
-      "id": "tt6417190",
-      "name": "The Great Pottery Throw Down",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/89RRcMbTgELBRmFCD1B9n4wPv39.jpg",
-      "rating": 7.8,
-      "year": 2015,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "rating": 7.1,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -188,7 +192,7 @@
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-      "rating": 8.051,
+      "rating": 8.028,
       "year": 2024,
       "days": null,
       "trend": {
@@ -198,93 +202,88 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
-      "director": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
-      ],
-      "rank": 8,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 9,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.739,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama",
         "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4kTINu9mv2YV1PqFqPGG1FZMnhi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
-      "director": [
-        "medo lshl"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+      "director": [],
       "cast": [
-        "Peter Dinklage",
-        "Kit Harington",
-        "Nikolaj Coster-Waldau",
-        "Lena Headey",
-        "Emilia Clarke",
-        "Liam Cunningham",
-        "Maisie Williams",
-        "Isaac Hempstead Wright"
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
+      ],
+      "rank": 8,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.4,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Elisabeth Moss",
+        "Vincent Kartheiser",
+        "January Jones",
+        "Christina Hendricks",
+        "Aaron Staton",
+        "Rich Sommer",
+        "Kiernan Shipka"
+      ],
+      "rank": 9,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "rating": 8.132,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
+      "genres": [
+        "Talk",
+        "Comedia",
+        "News"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
+      "director": [],
+      "cast": [
+        "John Oliver"
       ],
       "rank": 10,
-      "id": "tt0944947",
-      "name": "Juego de tronos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
-      "rating": 8.5,
-      "year": 2011,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.7,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,5 +292,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

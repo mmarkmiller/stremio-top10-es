@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -13,9 +13,7 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
-      "director": [
-        "medo lshl"
-      ],
+      "director": [],
       "cast": [
         "Paul Bettany",
         "James Spader",
@@ -30,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.75,
+      "rating": 8.72,
       "year": 2026,
       "days": null,
       "trend": {
@@ -60,8 +58,38 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.566,
+      "rating": 8.6,
       "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+      "director": [],
+      "cast": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer"
+      ],
+      "rank": 3,
+      "id": "tt0096697",
+      "name": "Los Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "rating": 8.026,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -87,11 +115,11 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "rating": 8.204,
+      "rating": 8.2,
       "year": 2005,
       "days": null,
       "trend": {
@@ -118,76 +146,14 @@
         "Kenneth Choi",
         "Ryan Guzman",
         "Corinne Massiah",
-        "Elijah M. Cooper"
+        "Gavin McHugh"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.225,
+      "rating": 8.2,
       "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 5,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.16,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
-      "director": [],
-      "cast": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Hank Azaria",
-        "Harry Shearer"
-      ],
-      "rank": 6,
-      "id": "tt0096697",
-      "name": "Los Simpson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.026,
-      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,11 +180,11 @@
         "Darren Criss",
         "Amber Riley"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt1327801",
       "name": "Glee",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9WlKHB3lmqMmxO1SfL6MVOJxKPP.jpg",
-      "rating": 6.8,
+      "rating": 6.778,
       "year": 2009,
       "days": null,
       "trend": {
@@ -228,26 +194,28 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
       "genres": [
-        "Reality",
-        "Familia"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
       "director": [],
       "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
+        "Zach Braff",
+        "Donald Faison",
+        "John C. McGinley",
+        "Eliza Coupe",
+        "Kerry Bishé",
+        "Michael Mosley",
+        "Dave Franco"
       ],
-      "rank": 8,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.2,
-      "year": 2005,
+      "rank": 7,
+      "id": "tt0285403",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "rating": 8.2,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -256,27 +224,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
+        "Drama",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
       "director": [],
       "cast": [
-        "Josh Radnor",
-        "Neil Patrick Harris",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Cobie Smulders",
-        "Cristin Milioti"
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.2,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "genres": [
+        "Comedia",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qsVIaAvXxHXVVsU3WHs43H9eesX.png",
+      "director": [],
+      "cast": [
+        "Steve Martin",
+        "Martin Short",
+        "Selena Gómez"
       ],
       "rank": 9,
-      "id": "tt0460649",
-      "name": "Cómo conocí a vuestra madre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.112,
-      "year": 2005,
+      "id": "tt11691774",
+      "name": "Solo asesinatos en el edificio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
+      "rating": 8.4,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -304,7 +303,7 @@
       "id": "tt0168366",
       "name": "Pokémon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
-      "rating": 7.986,
+      "rating": 8,
       "year": 1997,
       "days": null,
       "trend": {
@@ -314,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

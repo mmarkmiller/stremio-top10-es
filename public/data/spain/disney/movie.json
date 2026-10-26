@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 1,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.828,
+      "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
@@ -29,11 +65,11 @@
         "Emma Puahi-Shapazian",
         "Amaya Masoli"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.491,
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,11 +102,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.272,
+      "rating": 8.274,
       "year": 2026,
       "days": null,
       "trend": {
@@ -102,12 +138,83 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.9,
+      "rating": 7.853,
       "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
+      "runtime": "179 min",
+      "director": [
+        "Peter Jackson"
+      ],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler",
+        "Christopher Lee",
+        "Sean Bean"
+      ],
+      "rank": 5,
+      "id": "tt0120737",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "rating": 8.448,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
+      "runtime": "119 min",
+      "director": [
+        "David Frankel"
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt",
+        "Stanley Tucci",
+        "Kenneth Branagh",
+        "Justin Theroux",
+        "Lady Gaga",
+        "Lucy Liu"
+      ],
+      "rank": 6,
+      "id": "tt33612209",
+      "name": "El diablo viste de Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "rating": 7.031,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -138,12 +245,41 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.461,
+      "rating": 7.46,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los jóvenes estudiantes de cine Inge Wegge y Jørn Ranum buscan la ola perfecta. Pero lejos de las palmeras y sol, deciden llevarse sus queridas tablas de surf a una isla del Ártico en la costa del norte de Noruega. Allí, construyen una cabaña de madera con materiales y desechos a la deriva que van llegando a la costa. La remota bahía esconde un secreto bien guardado: las mejores olas de surf del mundo... a unos cuantos grados bajo cero. (FILMAFFINITY)",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/C3x6StSeC5uJtbEVj8yJii5Wkf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h4OoxaQcKJlexJS69t8q5X4woB3.png",
+      "runtime": "46 min",
+      "director": [
+        "Jørn Nyseth Ranum",
+        "Inge Wegge"
+      ],
+      "cast": [
+        "Jørn Nyseth Ranum",
+        "Inge Wegge"
+      ],
+      "rank": 8,
+      "id": "tt2486904",
+      "name": "Nordfor sola",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ue0MDSrF73ALkJlJI8aVUpTfXk.jpg",
+      "rating": 7.6,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -174,190 +310,12 @@
         "Susan May Pratt",
         "Gabrielle Union"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.6,
+      "rating": 7.603,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 6,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.829,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
-      "genres": [
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Historia",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcyz89Ues6pi1QoDzhFN4YlXkqq.png",
-      "runtime": "144 min",
-      "director": [
-        "Ridley Scott"
-      ],
-      "cast": [
-        "Orlando Bloom",
-        "Eva Green",
-        "Jeremy Irons",
-        "David Thewlis",
-        "غسان مسعود",
-        "Liam Neeson",
-        "Brendan Gleeson",
-        "Marton Csokas"
-      ],
-      "rank": 7,
-      "id": "tt0320661",
-      "name": "El reino de los cielos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
-      "rating": 7.101,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
-      "runtime": "119 min",
-      "director": [
-        "David Frankel"
-      ],
-      "cast": [
-        "Anne Hathaway",
-        "Meryl Streep",
-        "Emily Blunt",
-        "Stanley Tucci",
-        "Kenneth Branagh",
-        "Justin Theroux",
-        "Lady Gaga",
-        "Lucy Liu"
-      ],
-      "rank": 8,
-      "id": "tt33612209",
-      "name": "El diablo viste de Prada 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.031,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ike Graham, redactor de un periódico de Nueva York, abrumado por diversos problemas, decide aislarse en su refugio favorito a fin de encontrar ideas para escribir. Allí se entera del caso de Maggie, una joven que vive en una zona rural del estado de Maryland, a la que le encantan los compromisos matrimoniales, pero le horroriza el matrimonio. Intrigado, Ike escribe una columna sobre el caso de la joven, sin prever el enfado de Maggie y la cadena de enredos que acabará desatando.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wKx7mmKJPEAV5bPiOEakoXVccmL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4eHTEwYzFfAlZ7IdfQUMEQoCLOd.png",
-      "runtime": "112 min",
-      "director": [
-        "Garry Marshall"
-      ],
-      "cast": [
-        "Julia Roberts",
-        "Richard Gere",
-        "Joan Cusack",
-        "Héctor Elizondo",
-        "Rita Wilson",
-        "Paul Dooley",
-        "Christopher Meloni",
-        "Donal Logue"
-      ],
-      "rank": 9,
-      "id": "tt0163187",
-      "name": "Novia a la fuga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zIjExGnoEl7dzsDcGBVWiWSMWrN.jpg",
-      "rating": 6.095,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
-      ],
-      "rank": 10,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
-      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }

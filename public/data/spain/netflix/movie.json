@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610251836",
+  "date": "202610262048",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.416,
+      "rating": 6.4,
       "year": 2020,
       "days": null,
       "trend": {
@@ -62,7 +62,7 @@
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.265,
+      "rating": 7.264,
       "year": 2025,
       "days": null,
       "trend": {
@@ -72,33 +72,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "genres": [
-        "Terror",
+        "Suspense",
         "Drama",
-        "Ciencia ficción"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "runtime": "101 min",
       "director": [
-        "John Krasinski"
+        "Janus Metz"
       ],
       "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
       ],
       "rank": 3,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.619,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,8 +135,43 @@
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.966,
+      "rating": 6.971,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 5,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -165,115 +201,12 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
       "rating": 8.438,
       "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
-      "runtime": "101 min",
-      "director": [
-        "Janus Metz"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
-      ],
-      "rank": 6,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.61,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Marie, pastora costamarfileña y antigua periodista, vive en Túnez desde hace diez años. Su casa se convierte en refugio para Naney, una joven madre que busca un futuro mejor, y Jolie, una estudiante de gran carácter que carga con las esperanzas de su familia. La llegada de una niña huérfana desafía su sentido de la solidaridad en un clima social tenso, revelando tanto su fragilidad como su fortaleza.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/64UVhsWRinOnjKjYFmEnDx328Hi.jpg",
-      "runtime": "92 min",
-      "director": [
-        "Erige Sehiri"
-      ],
-      "cast": [
-        "Aïssa Maïga",
-        "Laëtitia Ky",
-        "Déborah Naney",
-        "Mohamed Grayaâ",
-        "Foued Zaazaa",
-        "Estelle Dogbo",
-        "Touré Blamassi",
-        "Sophie Tankou"
-      ],
-      "rank": 7,
-      "id": "tt33311007",
-      "name": "Prometido el cielo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wxQW8losSpjC4vYLzhNoQYIi1OD.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 8,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.167,
-      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,11 +235,11 @@
         "Terje Strømdahl",
         "Ida Marianne Vassbotn Klasson"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt3166500",
       "name": "Homesick",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.25,
+      "rating": 5.2,
       "year": 2015,
       "days": null,
       "trend": {
@@ -316,34 +249,104 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras los fatales acontecimientos sucedidos en la primera parte, la familia Abbot debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la única amenaza que acecha más allá del camino de arena. Secuela de la exitosa producción \"Un lugar tranquilo\" (A Quiet Place, 2018).",
+      "description": "Hermosa, glamurosa y adorada por el pueblo, Georgiana Spencer fue, como su descendiente Diana de Gales, la mujer más fascinante de su época. Pero mientras que su belleza y su carisma le forjó un nombre en la historia, el amor siempre se le escapó. Casada muy joven con uno de los hombres más ricos de Inglaterra, el duque de Devonshire, fue confidente íntima de ministros y de la Casa Real, llegando a ser un icono de la moda, madre adorada e influyente política para el partido liberal. Sin embargo, en el núcleo de su historia está la búsqueda desesperada de afecto y amor. Desde el apasionado pero fatídico romance con Charles Grey hasta el complicado triángulo amoroso con su marido y su mejor amiga lady Foster.",
       "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Terror"
+        "Drama",
+        "Historia",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z2UtGA1WggESspi6KOXeo66lvLx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aiKavCMA9HtDcBmwM8GZy5rnmqP.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lF0QxtGJ0zkwkBHGAI6FNBQ9n3y.png",
+      "runtime": "111 min",
       "director": [
-        "John Krasinski"
+        "Saul Dibb"
       ],
       "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cillian Murphy",
-        "Djimon Hounsou",
-        "Okieriete Onaodowan",
-        "Scoot McNairy"
+        "Keira Knightley",
+        "Ralph Fiennes",
+        "Charlotte Rampling",
+        "Dominic Cooper",
+        "Hayley Atwell",
+        "Simon McBurney",
+        "Aidan McArdle",
+        "John Shrapnel"
+      ],
+      "rank": 8,
+      "id": "tt0864761",
+      "name": "La duquesa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pC3vFdud0POGjxdJ70ocg9iedj.jpg",
+      "rating": 7,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los hermanos John y Charlie Foster trabajan como policías en el metro de Nueva York. Mientras a uno la vida le va bien, el otro no levanta cabeza y acaba siendo despedido de su trabajo. Se le ocurre entonces asaltar un tren que transporta las recaudaciones del metro. Su principal obstáculo será Donald Patterson, el implacable jefe de seguridad del suburbano.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3M9Wq3Uwelmc9JmjhIFVC86FnII.png",
+      "runtime": "110 min",
+      "director": [
+        "Joseph Ruben"
+      ],
+      "cast": [
+        "Wesley Snipes",
+        "Woody Harrelson",
+        "Jennifer Lopez",
+        "Robert Blake",
+        "Chris Cooper",
+        "Joe Grifasi",
+        "Scott Sowers",
+        "Skipp Sudduth"
+      ],
+      "rank": 9,
+      "id": "tt0113845",
+      "name": "Asalto al tren del dinero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/um0DjdiCWm0IdKqySjQAlkV6rvv.jpg",
+      "rating": 5.871,
+      "year": 1995,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
       "rank": 10,
-      "id": "tt8332922",
-      "name": "Un lugar tranquilo 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg",
-      "rating": 7.428,
-      "year": 2021,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.167,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -352,5 +355,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-25T13:38:32.55Z"
+  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
 }
