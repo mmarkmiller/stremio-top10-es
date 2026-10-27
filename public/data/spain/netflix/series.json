@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
     {
       "artworkVersion": 4,
@@ -61,7 +61,7 @@
       "id": "tt39387986",
       "name": "Grande de España",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
-      "rating": null,
+      "rating": 5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -152,8 +152,36 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.3,
+      "rating": 7.317,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -180,40 +208,12 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
+      "rating": 7.882,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
-      ],
-      "rank": 7,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,7 +244,7 @@
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
+      "rating": 8.147,
       "year": 2021,
       "days": null,
       "trend": {
@@ -254,28 +254,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
       "director": [],
       "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
+        "Lola Rodríguez",
+        "Isabel Torres",
+        "Daniela Santiago",
+        "Jedet",
+        "Paca la Piraña",
+        "Israel Elejalde",
+        "Sophia Lamar",
+        "Mariona Terés"
       ],
       "rank": 9,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.656,
-      "year": 2026,
+      "id": "tt10383046",
+      "name": "Veneno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "rating": 8.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -284,28 +285,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "description": "En esta serie, basada en los famosos cortos virales, unos adolescentes intentan dirigir una pizzería local compaginando los estudios, un jefe maníaco y el salario mínimo.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png",
+      "background": "https://image.tmdb.org/t/p/w1280/okGxvifOhLEJvj85zSbpQMfLwy8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ixXavDLqHfiVDn26thx1SWhQl2.png",
       "director": [],
       "cast": [
-        "Ella Beatty",
-        "Vicky Krieps",
-        "Sarah Paulson",
-        "Charlie Hunnam",
-        "Rebecca Hall",
-        "Billie Lourd",
-        "Jessica Barden"
+        "Aidan Micho",
+        "Grace Reiter",
+        "Hyde Healy",
+        "Julia DiCesare",
+        "Luke Burke",
+        "Ryan Micho",
+        "Tommy Armstrong"
       ],
       "rank": 10,
-      "id": "tmdb:299939",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "rating": 7.1,
+      "id": "tt42220724",
+      "name": "Salario mínimo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "rating": 9.333,
       "year": 2026,
       "days": null,
       "trend": {
@@ -315,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }

@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Leo Woodall",
+        "Stavros Halkias",
+        "Michael Jibrin",
+        "Monica Raymund",
+        "Rich Sommer"
+      ],
+      "rank": 1,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
@@ -27,11 +62,11 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.287,
+      "rating": 8.289,
       "year": 2025,
       "days": null,
       "trend": {
@@ -46,7 +81,7 @@
         "Romance",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
       "runtime": "109 min",
       "director": [
@@ -62,11 +97,11 @@
         "Corey Johnson",
         "Michael Shelford"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt34384900",
       "name": "El amor de tu vida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.799,
+      "rating": 6.771,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,100 +111,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
       "genres": [
+        "Drama",
+        "Romance",
         "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 3,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 4,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
+        "Suspense",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
+      "runtime": "110 min",
       "director": [
-        "Zach Cregger"
+        "Charlie McDowell"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Jason Segel",
+        "Rooney Mara",
+        "Robert Redford",
+        "Jesse Plemons",
+        "Riley Keough",
+        "Ron Canada",
+        "Brian McCarthy",
+        "Kimleigh Smith"
+      ],
+      "rank": 4,
+      "id": "tt5155780",
+      "name": "The Discovery",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+      "rating": 6.254,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Leila es una joven sexualmente voraz que se relaciona con los hombres mediante breves encuentros íntimos. Una noche, durante una concurrida fiesta privada en una casa, conoce a David y la lujuria surge a primera vista. Poco después, mientras Leila practica sexo con un desconocido en la parte trasera de la casa, David y su novia hacen lo mismo pero en su coche. Leila y David se miran fijamente mientras hacen el amor con otras personas, iniciándose así un ritual de cortejo que dará paso a una aventura sexual entre ambos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rRJ5hiOp7zegUp8MPh25filAVzy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oue6rCeMtZ3tpFzS5Hqg98QYKwH.png",
+      "runtime": "93 min",
+      "director": [
+        "Clement Virgo"
+      ],
+      "cast": [
+        "Lauren Lee Smith",
+        "Eric Balfour",
+        "Polly Shannon",
+        "Kate Lynch",
+        "Michael Facciolo",
+        "Kristin Lehman",
+        "Ron White",
+        "Mayko Nguyen"
       ],
       "rank": 5,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
-      "year": 2025,
+      "id": "tt0418832",
+      "name": "Lie with Me, el diario íntimo de Leila",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lLsKWqDLBlRgRC0saZlanzzNDlx.jpg",
+      "rating": 5.2,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -215,113 +220,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 7,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
-      "director": [
-        "Kristoffer Borgli"
-      ],
-      "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
-      ],
-      "rank": 8,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
-      "runtime": "107 min",
-      "director": [
-        "Matt Johnson"
-      ],
-      "cast": [
-        "Dominic Sessa",
-        "Antonio Banderas",
-        "Emilia Jones",
-        "Leo Woodall",
-        "Stavros Halkias",
-        "Michael Jibrin",
-        "Monica Raymund",
-        "Rich Sommer"
-      ],
-      "rank": 9,
-      "id": "tt33095251",
-      "name": "Tony",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
       "genres": [
         "Acción",
@@ -344,12 +242,114 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.3,
+      "rating": 7.256,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra una historia de amor no convencional, ambientada en un mundo distópico, en el que según las reglas establecidas, los solteros son arrestados y enviados a un lugar donde tienen que encontrar pareja en un plazo de 45 días. El tema central es la soledad, el temor a morir solo, a vivir solo, y también al temor a vivir con alguien.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v2tbCPD2usCRioqhRKGY34CH4ei.png",
+      "runtime": "118 min",
+      "director": [
+        "Yorgos Lánthimos"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Rachel Weisz",
+        "Olivia Colman",
+        "Léa Seydoux",
+        "Michael Smiley",
+        "Ariane Labed",
+        "John C. Reilly",
+        "Ben Whishaw"
+      ],
+      "rank": 8,
+      "id": "tt3464902",
+      "name": "Langosta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uGJ7JNSwvt9wr4XO2uoNGtXIdrq.jpg",
+      "rating": 7,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
+      "runtime": "140 min",
+      "director": [
+        "Sebastian Schipper"
+      ],
+      "cast": [
+        "Laia Costa",
+        "Frederick Lau",
+        "Franz Rogowski",
+        "Max Mauff",
+        "Burak Yiğit",
+        "André Hennicke",
+        "Lena Klenke",
+        "Philipp Kubitza"
+      ],
+      "rank": 9,
+      "id": "tt4226388",
+      "name": "Victoria",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
+      "rating": 7.6,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
+      "runtime": "82 min",
+      "director": [
+        "Cesc Gay"
+      ],
+      "cast": [
+        "Javier Cámara",
+        "Belén Cuesta",
+        "Alberto San Juan",
+        "Griselda Siciliani"
+      ],
+      "rank": 10,
+      "id": "tt11028768",
+      "name": "Sentimental",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
+      "rating": 6.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.311,
+      "rating": 8.315,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,8 +61,38 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.993,
+      "rating": 7.992,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
+      "director": [],
+      "cast": [
+        "Elijah Wood",
+        "Collin Dean",
+        "Melanie Lynskey"
+      ],
+      "rank": 3,
+      "id": "tt3718778",
+      "name": "Más allá del jardín",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "rating": 8.568,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,7 +119,7 @@
         "Robyn Cara",
         "John Slattery"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
@@ -122,42 +152,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.081,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
-      "director": [],
-      "cast": [
-        "Elijah Wood",
-        "Collin Dean",
-        "Melanie Lynskey"
-      ],
-      "rank": 5,
-      "id": "tt3718778",
-      "name": "Más allá del jardín",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -189,6 +189,36 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "director": [],
+      "cast": [
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
+      ],
+      "rank": 7,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.129,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
       "genres": [
         "Drama",
@@ -203,7 +233,7 @@
         "Jensen Ackles",
         "Misha Collins"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0460681",
       "name": "Sobrenatural",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
@@ -235,11 +265,11 @@
         "Jasper Jones",
         "Emily Mitchell"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.091,
+      "rating": 8.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -249,61 +279,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
-      "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
-      ],
-      "rank": 9,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.13,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Doscientos años en el futuro, en un sistema solar totalmente colonizado, el detective de la policía Miller, nacido en el Cinturón de Asteroides, es encargado con la misión de encontrar a una joven mujer desaparecida llamada Julie Mao.  Acompañando a Miller en su misión se encuentra James Holden, anteriormente primer oficial en un carguero de hielo, y quien estuvo involucrado en un incidente causado por las tensas relaciones entre la Tierra, Marte y el Cinturón. Pronto, ambos descubrirán que la mujer desaparecida es solo la punta del iceberg de una conspiración de inmensa magnitud que atentará contra la historia y la existencia de la Humanidad.\n\n'The Expanse' es un 'thriller' futurista de ciencia ficción, escrito por Mark Fergus y Hawk Ostby, basado en la serie de novelas del mismo nombre. El proyecto ha sido desarrollado por la cadena SyFy US en colaboración con Alcon Entertainment.",
-      "genres": [
+        "Crimen",
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uUwnClwdMA12bpHgeKgkQrbu5Oe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2O44nO22UQ8pF0RXKhBtU6DLCi2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
       "director": [],
       "cast": [
-        "Steven Strait",
-        "Dominique Tipper",
-        "Wes Chatham",
-        "Shohreh Aghdashloo",
-        "Frankie Adams",
-        "Cara Gee",
-        "Nadine Nicole",
-        "Keon Alexander"
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa",
+        "James Remar",
+        "Brian Cox"
       ],
       "rank": 10,
-      "id": "tt3230854",
-      "name": "The Expanse",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
-      "rating": 8.1,
-      "year": 2015,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "rating": 8.5,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }

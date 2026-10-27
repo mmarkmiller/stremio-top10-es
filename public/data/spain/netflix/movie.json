@@ -2,8 +2,46 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Ciencia ficción",
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
+      "runtime": "110 min",
+      "director": [
+        "Charlie McDowell"
+      ],
+      "cast": [
+        "Jason Segel",
+        "Rooney Mara",
+        "Robert Redford",
+        "Jesse Plemons",
+        "Riley Keough",
+        "Ron Canada",
+        "Brian McCarthy",
+        "Kimleigh Smith"
+      ],
+      "rank": 1,
+      "id": "tt5155780",
+      "name": "The Discovery",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+      "rating": 6.254,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
@@ -23,7 +61,7 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
@@ -58,12 +96,47 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
       "rating": 7.264,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
+      ],
+      "rank": 4,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.4,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -94,11 +167,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.619,
+      "rating": 6.614,
       "year": 2026,
       "days": null,
       "trend": {
@@ -131,12 +204,47 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.971,
+      "rating": 6.977,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dicen que el perro es el mejor amigo del hombre, pero ¿qué pasa cuando el humano en cuestión es un malnacido? En tal caso, puede que se merezca sufrir una dulce y perruna venganza. Reggie, un border terrier ingenuo y optimista hasta la médula, acaba abandonado en las despiadadas calles de la ciudad por su despreciable dueño, Doug, totalmente convencido de que todo ha sido un malentendido y que su adorado compañero de vida nunca se desentendería así de él.",
+      "genres": [
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1HzL603WOer58xtnrRYdSIL5K04.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/LmiL50F1UxmhpJu2O2FkOHLIod.png",
+      "runtime": "93 min",
+      "director": [
+        "Josh Greenbaum"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "Jamie Foxx",
+        "Isla Fisher",
+        "Randall Park",
+        "Will Forte",
+        "Brett Gelman",
+        "Rob Riggle",
+        "Josh Gad"
+      ],
+      "rank": 7,
+      "id": "tt15153532",
+      "name": "Vida perra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLEvem4noAw83zoLRaSyeQEYQ2o.jpg",
+      "rating": 7.172,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,7 +274,7 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
@@ -180,139 +288,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
       "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
-      "runtime": "139 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Helena Bonham Carter",
-        "Meat Loaf",
-        "Jared Leto",
-        "Zach Grenier",
-        "Holt McCallany",
-        "Eion Bailey"
-      ],
-      "rank": 6,
-      "id": "tt0137523",
-      "name": "El club de la lucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.438,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
-      "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+      "runtime": "97 min",
       "director": [
-        "Anne Sewitsky"
+        "Hernán Goldfrid"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
-      ],
-      "rank": 7,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.2,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hermosa, glamurosa y adorada por el pueblo, Georgiana Spencer fue, como su descendiente Diana de Gales, la mujer más fascinante de su época. Pero mientras que su belleza y su carisma le forjó un nombre en la historia, el amor siempre se le escapó. Casada muy joven con uno de los hombres más ricos de Inglaterra, el duque de Devonshire, fue confidente íntima de ministros y de la Casa Real, llegando a ser un icono de la moda, madre adorada e influyente política para el partido liberal. Sin embargo, en el núcleo de su historia está la búsqueda desesperada de afecto y amor. Desde el apasionado pero fatídico romance con Charles Grey hasta el complicado triángulo amoroso con su marido y su mejor amiga lady Foster.",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lF0QxtGJ0zkwkBHGAI6FNBQ9n3y.png",
-      "runtime": "111 min",
-      "director": [
-        "Saul Dibb"
-      ],
-      "cast": [
-        "Keira Knightley",
-        "Ralph Fiennes",
-        "Charlotte Rampling",
-        "Dominic Cooper",
-        "Hayley Atwell",
-        "Simon McBurney",
-        "Aidan McArdle",
-        "John Shrapnel"
-      ],
-      "rank": 8,
-      "id": "tt0864761",
-      "name": "La duquesa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pC3vFdud0POGjxdJ70ocg9iedj.jpg",
-      "rating": 7,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos John y Charlie Foster trabajan como policías en el metro de Nueva York. Mientras a uno la vida le va bien, el otro no levanta cabeza y acaba siendo despedido de su trabajo. Se le ocurre entonces asaltar un tren que transporta las recaudaciones del metro. Su principal obstáculo será Donald Patterson, el implacable jefe de seguridad del suburbano.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3M9Wq3Uwelmc9JmjhIFVC86FnII.png",
-      "runtime": "110 min",
-      "director": [
-        "Joseph Ruben"
-      ],
-      "cast": [
-        "Wesley Snipes",
-        "Woody Harrelson",
-        "Jennifer Lopez",
-        "Robert Blake",
-        "Chris Cooper",
-        "Joe Grifasi",
-        "Scott Sowers",
-        "Skipp Sudduth"
+        "Ricardo Darín",
+        "Diego Peretti",
+        "Inés Efrón",
+        "Carlos Santamaría",
+        "Miriam Odorico",
+        "Antonia Bengochea",
+        "Andrea Politti",
+        "Patricia Echegoyen"
       ],
       "rank": 9,
-      "id": "tt0113845",
-      "name": "Asalto al tren del dinero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/um0DjdiCWm0IdKqySjQAlkV6rvv.jpg",
-      "rating": 5.871,
-      "year": 1995,
+      "id": "tt37027309",
+      "name": "Lo dejamos acá",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+      "rating": 7.65,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,32 +322,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
+      "runtime": "146 min",
       "director": [
-        "Gus Van Sant"
+        "Stanley Kubrick"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "Philip Stone",
+        "Joe Turkel",
+        "Anne Jackson"
       ],
       "rank": 10,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.167,
-      "year": 1997,
+      "id": "tt0081505",
+      "name": "El resplandor",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+      "rating": 8.2,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }

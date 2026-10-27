@@ -2,40 +2,8 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
-      ],
-      "rank": 1,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.6,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
@@ -57,12 +25,44 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.5,
+      "rating": 8.489,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
+      ],
+      "rank": 2,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.6,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,7 +89,7 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.3,
+      "rating": 7.317,
       "year": 2024,
       "days": null,
       "trend": {
@@ -99,25 +99,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "description": "En esta serie, basada en los famosos cortos virales, unos adolescentes intentan dirigir una pizzería local compaginando los estudios, un jefe maníaco y el salario mínimo.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/okGxvifOhLEJvj85zSbpQMfLwy8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ixXavDLqHfiVDn26thx1SWhQl2.png",
       "director": [],
       "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
+        "Aidan Micho",
+        "Grace Reiter",
+        "Hyde Healy",
+        "Julia DiCesare",
+        "Luke Burke",
+        "Ryan Micho",
+        "Tommy Armstrong"
       ],
       "rank": 4,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "id": "tt42220724",
+      "name": "Salario mínimo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "rating": 9.333,
       "year": 2026,
       "days": null,
       "trend": {
@@ -158,6 +160,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
       "genres": [
         "Crimen",
@@ -176,7 +206,7 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
@@ -190,62 +220,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "description": "Esta comedia de una sola cámara sigue a un grupo de trabajadores locales de Control de Animales cuyas vidas se complican por el hecho de que los animales son simples, pero los humanos no lo son.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "background": "https://image.tmdb.org/t/p/w1280/zI289OXhJuhyKY8cqvOVzV7lVkA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uGO1xGZNiNhBWMAIAwMAcijg3zJ.png",
       "director": [],
       "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts",
-        "Stephen Spinella",
-        "Jason Veasey",
-        "Eliza Coupe"
-      ],
-      "rank": 7,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
-      "director": [],
-      "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
+        "Joel McHale",
+        "Vella Lovell",
+        "Michael Rowland",
+        "Ravi Patel",
+        "Grace Palmer"
       ],
       "rank": 8,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.9,
-      "year": 2024,
+      "id": "tt21376524",
+      "name": "Animal Control",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
+      "rating": 6.2,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,7 +270,7 @@
       "id": "tt38732131",
       "name": "Criminales organizados",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
-      "rating": 5.8,
+      "rating": 5.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -286,29 +280,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "description": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "genres": [
-        "Drama"
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
       "director": [],
       "cast": [
-        "Ellen Pompeo",
-        "Chandra Wilson",
-        "James Pickens Jr.",
-        "Caterina Scorsone",
-        "Camilla Luddington",
-        "Jason George",
-        "Chris Carmack",
-        "Anthony Hill"
+        "Koki Uchiyama",
+        "Momoka Terasawa",
+        "Akari Kito",
+        "Kentaro Tone"
       ],
       "rank": 10,
-      "id": "tt0413573",
-      "name": "Anatomía de Grey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "rating": 8.2,
-      "year": 2005,
+      "id": "tt12590266",
+      "name": "Cyberpunk: Edgerunners",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "rating": 8.507,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +310,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }

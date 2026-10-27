@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610262048",
+  "date": "202610272018",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
+      "rating": 8.634,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,8 +67,43 @@
       "id": "tt34494076",
       "name": "La Bestia del Pantano",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
-      "rating": 6.794,
+      "rating": 6.804,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un desventurado soñador y aspirante a filósofo pasa los días cuidando la piscina del bloque de apartamentos Tahitian Tiki, en la soleada Los Ángeles. Cuando descubre el mayor robo de agua, hace lo que puede para proteger su preciosa ciudad.",
+      "genres": [
+        "Misterio",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Aog8Fq5T3RZNENncxrnS7JLn6S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wxAPAVwdtPgjusOh0yzPzc7YzJo.png",
+      "runtime": "100 min",
+      "director": [
+        "Chris Pine"
+      ],
+      "cast": [
+        "Chris Pine",
+        "Annette Bening",
+        "Danny DeVito",
+        "DeWanda Wise",
+        "Jennifer Jason Leigh",
+        "Stephen Tobolowsky",
+        "Clancy Brown",
+        "John Ortiz"
+      ],
+      "rank": 3,
+      "id": "tt18077924",
+      "name": "Un afortunado soñador",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg",
+      "rating": 4.2,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,47 +134,12 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
       "rating": 8.074,
       "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un desventurado soñador y aspirante a filósofo pasa los días cuidando la piscina del bloque de apartamentos Tahitian Tiki, en la soleada Los Ángeles. Cuando descubre el mayor robo de agua, hace lo que puede para proteger su preciosa ciudad.",
-      "genres": [
-        "Misterio",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Aog8Fq5T3RZNENncxrnS7JLn6S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wxAPAVwdtPgjusOh0yzPzc7YzJo.png",
-      "runtime": "100 min",
-      "director": [
-        "Chris Pine"
-      ],
-      "cast": [
-        "Chris Pine",
-        "Annette Bening",
-        "Danny DeVito",
-        "DeWanda Wise",
-        "Jennifer Jason Leigh",
-        "Stephen Tobolowsky",
-        "Clancy Brown",
-        "John Ortiz"
-      ],
-      "rank": 4,
-      "id": "tt18077924",
-      "name": "Un afortunado soñador",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg",
-      "rating": 4.2,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -173,7 +173,7 @@
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.3,
+      "rating": 7.343,
       "year": 1976,
       "days": null,
       "trend": {
@@ -183,31 +183,70 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
       "genres": [
+        "Fantasía",
         "Drama",
-        "Romance"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png",
+      "runtime": "113 min",
       "director": [
-        "Jaron Lockridge"
+        "Richard Kelly"
       ],
       "cast": [
-        "Ketrick \"Jazz\" Copeland",
-        "Shi Smith",
-        "Jeremy Shaw",
-        "Jalen Moffitt",
-        "Timberly Hope",
-        "Jeff Haltom",
-        "Tymika Chambliss",
-        "Steve Haltom"
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal",
+        "Mary McDonnell",
+        "Holmes Osborne"
       ],
       "rank": 6,
-      "id": "tt27553457",
-      "name": "Betray",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
-      "rating": 4.8,
-      "year": 2023,
+      "id": "tt0246578",
+      "name": "Donnie Darko",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+      "rating": 7.76,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mary Henry es víctima de un accidente automovilístico; desde un puente colgante, su vehículo se ha precipitado a un río. Horas después, Mary aparece sola y desorientada en un banco de arena. Enseguida notará que el mundo que la rodea ha cambiado. La línea que separa a los vivos de los muertos se hace cada vez más borrosa. Es entonces cuando aparecen… ellos.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zCGwFjnd1KQxWTt7YeLcMHg8iJ8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qVJTcSmFAW6yXPbT24eQzdTtVlA.png",
+      "runtime": "78 min",
+      "director": [
+        "Herk Harvey"
+      ],
+      "cast": [
+        "Candace Hilligoss",
+        "Herk Harvey",
+        "Sidney Berger",
+        "Frances Feist",
+        "Art Ellison",
+        "Stan Levitt",
+        "Tom McGinnis",
+        "Forbes Caldwell"
+      ],
+      "rank": 7,
+      "id": "tt0055830",
+      "name": "El carnaval de las almas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xN95f8ZNIfReC5z0R7mW1fwxQai.jpg",
+      "rating": 6.9,
+      "year": 1962,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,84 +277,12 @@
         "Anna Camp",
         "Joel McHale"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt27047903",
       "name": "Scream 7",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
-      "runtime": "126 min",
-      "director": [
-        "Ari Aster"
-      ],
-      "cast": [
-        "Toni Collette",
-        "Alex Wolff",
-        "Gabriel Byrne",
-        "Milly Shapiro",
-        "Ann Dowd",
-        "Mallory Bechtel",
-        "Brock McKinney",
-        "Jake Brown"
-      ],
-      "rank": 8,
-      "id": "tt7784604",
-      "name": "Hereditary",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.298,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los Bowden son una pareja feliz: Sam es un abogado de éxito y Leig diseñadora gráfica. Tienen una hija de 15 años, Danielle, y acaban de trasladarse a una preciosa casa en una tranquila ciudad. Max Cady acaba de salir de la cárcel, trás pasar en ella 14 años, acusado de violar y apalear a una adolescente. En prisión ha estudiado leyes, y ha llegado a la conclusión de que el responsable directo de su condena fue su abogado, Sam Bowden. Ahora va a dedicar cada minuto de su existencia a hacerle pagar su error. Candy ejecutará su terrible venganza, aterrorizando a la familia Bowden y convirtiendo su vida en una pesadilla.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wYvgaVmUioMTrTowBDvnQeNJ6Wf.png",
-      "runtime": "128 min",
-      "director": [
-        "Martin Scorsese"
-      ],
-      "cast": [
-        "Nick Nolte",
-        "Robert De Niro",
-        "Jessica Lange",
-        "Juliette Lewis",
-        "Joe Don Baker",
-        "Robert Mitchum",
-        "Gregory Peck",
-        "Martin Balsam"
-      ],
-      "rank": 9,
-      "id": "tt0101540",
-      "name": "El cabo del miedo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rEhLntnS2qqZ57O7k5T5XhJvavb.jpg",
-      "rating": 7.258,
-      "year": 1991,
       "days": null,
       "trend": {
         "dir": "same",
@@ -345,12 +312,37 @@
         "Lorene Scafaria",
         "Alex Manugian"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt2866360",
       "name": "Coherence",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
-      "rating": 7.209,
+      "rating": 7.2,
       "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aDtEhFObnUnwdjdlSOZ5lTQAIE1.jpg",
+      "runtime": "74 min",
+      "director": [
+        "Albert Edgar Wilson"
+      ],
+      "cast": [
+        "Silas James Rowland"
+      ],
+      "rank": 10,
+      "id": "tt43710022",
+      "name": "Reptilians: They Walk Among Us",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2v0xqxHdX0gpsUrAsEKJm3ylQ09.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +351,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-26T17:39:11.592Z"
+  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
 }
