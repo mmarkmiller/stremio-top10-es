@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -61,7 +61,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.6,
+      "rating": 7.623,
       "year": 2023,
       "days": null,
       "trend": {
@@ -89,7 +89,7 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.317,
+      "rating": 7.315,
       "year": 2024,
       "days": null,
       "trend": {
@@ -119,7 +119,59 @@
       "id": "tt42220724",
       "name": "Salario mínimo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
-      "rating": 9.333,
+      "rating": 9.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 5,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8.008,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta serie documental narra el éxito en Hollywood, el activismo y la trágica muerte de la popular estrella de ‘Friends’ según lo cuentan sus allegados.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zHtVdACVp0Skq17w1lU9BSJ7rhO.png",
+      "director": [],
+      "cast": [
+        "Matthew Perry"
+      ],
+      "rank": 6,
+      "id": "tt44941753",
+      "name": "El de Matthew Perry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -146,11 +198,11 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.2,
+      "rating": 7.169,
       "year": 2026,
       "days": null,
       "trend": {
@@ -160,25 +212,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
       "director": [],
       "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts",
+        "Stephen Spinella",
+        "Jason Veasey",
+        "Eliza Coupe"
       ],
-      "rank": 6,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
+      "rank": 8,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -206,40 +262,12 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
       "rating": 7.7,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esta comedia de una sola cámara sigue a un grupo de trabajadores locales de Control de Animales cuyas vidas se complican por el hecho de que los animales son simples, pero los humanos no lo son.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zI289OXhJuhyKY8cqvOVzV7lVkA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGO1xGZNiNhBWMAIAwMAcijg3zJ.png",
-      "director": [],
-      "cast": [
-        "Joel McHale",
-        "Vella Lovell",
-        "Michael Rowland",
-        "Ravi Patel",
-        "Grace Palmer"
-      ],
-      "rank": 8,
-      "id": "tt21376524",
-      "name": "Animal Control",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
-      "rating": 6.2,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -266,42 +294,12 @@
         "Burcu Özberk",
         "Uraz Kaygılaroğlu"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt38732131",
       "name": "Criminales organizados",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
-      "rating": 5.6,
+      "rating": 5.111,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7UbhdYvwzaurht3ZLUyXrmsOVDr.png",
-      "director": [],
-      "cast": [
-        "Koki Uchiyama",
-        "Momoka Terasawa",
-        "Akari Kito",
-        "Kentaro Tone"
-      ],
-      "rank": 10,
-      "id": "tt12590266",
-      "name": "Cyberpunk: Edgerunners",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "rating": 8.507,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

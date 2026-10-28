@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
-      "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
-      "runtime": "75 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 1,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.855,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
@@ -64,11 +28,47 @@
         "Tobias Jelinek",
         "Larry Bagby"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt0107120",
       "name": "El retorno de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.047,
+      "rating": 7,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
+      "runtime": "75 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 2,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.856,
       "year": 1993,
       "days": null,
       "trend": {
@@ -105,7 +105,43 @@
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.277,
+      "rating": 8.278,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
+      "runtime": "108 min",
+      "director": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ],
+      "cast": [
+        "Samara Weaving",
+        "Kathryn Newton",
+        "Sarah Michelle Gellar",
+        "Shawn Hatosy",
+        "Elijah Wood",
+        "Nestor Carbonell",
+        "Maia Jae",
+        "Juan Pablo Romero"
+      ],
+      "rank": 4,
+      "id": "tt33978029",
+      "name": "Noche de bodas 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "rating": 7.52,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,48 +173,12 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.462,
+      "rating": 7.459,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
-      ],
-      "rank": 5,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.603,
-      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,7 +214,7 @@
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.497,
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -224,34 +224,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
       "genres": [
-        "Terror",
-        "Comedia"
+        "Comedia",
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
       "director": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
+        "Gil Junger"
       ],
       "cast": [
-        "Samara Weaving",
-        "Kathryn Newton",
-        "Sarah Michelle Gellar",
-        "Shawn Hatosy",
-        "Elijah Wood",
-        "Nestor Carbonell",
-        "Maia Jae",
-        "Juan Pablo Romero"
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
       ],
       "rank": 7,
-      "id": "tt33978029",
-      "name": "Noche de bodas 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.52,
-      "year": 2026,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.603,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,45 +287,8 @@
       "id": "tt0173886",
       "name": "Halloweentown: ¡Qué familia la mía!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
-      "rating": 6.843,
+      "rating": 6.84,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Después de buscar fortuna durante cinco años, Westley retorna a su tierra para casarse con su amada, la bella Buttercup, a la que había jurado amor eterno. Sin embargo, para recuperarla habrá de enfrentarse a Vizzini y sus esbirros. Una vez derrotados éstos, tendrá que superar el peor de los obstáculos: el príncipe Humperdinck pretende desposar a la desdichada Buttercup, pese a que ella no lo ama, ya que sigue enamorada de Westley.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Romance",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png",
-      "runtime": "98 min",
-      "director": [
-        "Rob Reiner"
-      ],
-      "cast": [
-        "Cary Elwes",
-        "Robin Wright",
-        "Mandy Patinkin",
-        "Chris Sarandon",
-        "Christopher Guest",
-        "Wallace Shawn",
-        "André Roussimoff",
-        "Fred Savage"
-      ],
-      "rank": 9,
-      "id": "tt0093779",
-      "name": "La princesa prometida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
-      "rating": 7.71,
-      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",
@@ -356,7 +319,7 @@
         "Maceo Smedley",
         "Diana Maria Riva"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt5097410",
       "name": "Noelle",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
@@ -367,8 +330,45 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "runtime": "109 min",
+      "director": [
+        "Lee Unkrich"
+      ],
+      "cast": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Arau",
+        "Herbert Siguenza"
+      ],
+      "rank": 10,
+      "id": "tt2380307",
+      "name": "Coco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "rating": 8.202,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.067,
+      "rating": 8.07,
       "year": 2022,
       "days": null,
       "trend": {
@@ -69,38 +69,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 3,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.367,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
         "Drama",
@@ -118,11 +86,11 @@
         "Kingston Rumi Southwick",
         "Stephen Root"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.013,
+      "rating": 8.011,
       "year": 2026,
       "days": null,
       "trend": {
@@ -151,12 +119,44 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
       "rating": 8,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
+      ],
+      "rank": 5,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.368,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -197,6 +197,29 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
+      "director": [],
+      "cast": [],
+      "rank": 7,
+      "id": "tt29011445",
+      "name": "Buscando a Wanda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+      "rating": 6.6,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
       "genres": [
         "Comedia"
@@ -214,11 +237,44 @@
         "Noah Carganilla",
         "Highdee Kuan"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
       "rating": 7.533,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1562e8QwwpFCxQAnJTUQrth5VrI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cu4k3r4JMb4tqSiwgM64X88xmK1.png",
+      "director": [],
+      "cast": [
+        "Patrick Brammall",
+        "Chloe Jean Lourdes",
+        "Brendan Cowell",
+        "Maxine Peake",
+        "Daniel Henshall",
+        "Jessica Wren",
+        "Zahra Newman",
+        "James Saunders"
+      ],
+      "rank": 9,
+      "id": "tt6037988",
+      "name": "Causa abierta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "rating": 7.615,
       "year": 2026,
       "days": null,
       "trend": {
@@ -244,7 +300,7 @@
         "Marc Maron",
         "Rhea Seehorn"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt31710249",
       "name": "Sticks: Cracks del golf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
@@ -255,69 +311,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jimmy trata de asimilar la muerte de su esposa mientras ejerce de padre, amigo y terapeuta. Decide cambiar su forma de ser con la gente y volverse una persona completamente honesta, sin ningún tipo de filtro. ¿Conseguirá que las cosas mejoren o desatará el caos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8lWcmMKvIbilcIMaTNTk5nEcYYS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bxcE5bPOibbuG8kTtLaSBQEGUuT.png",
-      "director": [],
-      "cast": [
-        "Jason Segel",
-        "Harrison Ford",
-        "Jessica Williams",
-        "Luke Tennie",
-        "Michael Urie",
-        "Lukita Maxwell",
-        "Christa Miller",
-        "Ted McGinley"
-      ],
-      "rank": 9,
-      "id": "tt15677150",
-      "name": "Terapia sin filtro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
-      "rating": 7.8,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
-      "director": [],
-      "cast": [
-        "Anya Taylor-Joy",
-        "Annette Bening",
-        "Clifton Collins Jr.",
-        "Aunjanue Ellis-Taylor",
-        "Timothy Olyphant"
-      ],
-      "rank": 10,
-      "id": "tt34866681",
-      "name": "Lucky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
-      "rating": 7.339,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

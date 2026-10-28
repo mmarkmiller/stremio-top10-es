@@ -2,8 +2,77 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oZ90HWqkkpL42ghX1T9zhGZgBeb.png",
+      "runtime": "89 min",
+      "director": [
+        "Sacha Baron Cohen"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Morgana Robinson",
+        "C. Stewart Rodeheaver",
+        "Allan Lichtman",
+        "George Santos",
+        "Clive Russell",
+        "Tiffany Haddish",
+        "DJ Jazzy Jeff"
+      ],
+      "rank": 1,
+      "id": "tt43655467",
+      "name": "Ali G: Kién es yo?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png",
+      "runtime": "129 min",
+      "director": [
+        "Michael Haneke"
+      ],
+      "cast": [
+        "Isabelle Huppert",
+        "Annie Girardot",
+        "Benoît Magimel",
+        "Susanne Lothar",
+        "Udo Samel",
+        "Anna Sigalevitch",
+        "Cornelia Köndgen",
+        "Thomas Weinhappel"
+      ],
+      "rank": 2,
+      "id": "tt0254686",
+      "name": "La pianista",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
+      "rating": 7.3,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
@@ -27,82 +96,11 @@
         "Monica Raymund",
         "Rich Sommer"
       ],
-      "rank": 1,
+      "rank": 3,
       "id": "tt33095251",
       "name": "Tony",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 2,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.771,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
-      "director": [
-        "Ben Wheatley"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
-      ],
-      "rank": 3,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.256,
+      "rating": 7.464,
       "year": 2026,
       "days": null,
       "trend": {
@@ -138,7 +136,7 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.633,
       "year": 2026,
       "days": null,
       "trend": {
@@ -148,33 +146,16 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
-      "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
-      "runtime": "112 min",
-      "director": [
-        "Jan Komasa"
-      ],
-      "cast": [
-        "Kyle Chandler",
-        "Diane Lane",
-        "Zoey Deutch",
-        "Daryl McCormack",
-        "Phoebe Dynevor",
-        "Dylan O'Brien",
-        "Mckenna Grace",
-        "Madeline Brewer"
-      ],
+      "genres": [],
+      "runtime": "81 min",
+      "director": [],
+      "cast": [],
       "rank": 5,
-      "id": "tt12583926",
-      "name": "Aniversario",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
-      "rating": 6.951,
-      "year": 2025,
+      "id": "tt34581665",
+      "name": "Jet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bxyeXxLpXTECqB823thmRXbwOvi.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,136 +164,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
+      "description": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
       "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png",
-      "runtime": "129 min",
-      "director": [
-        "Michael Haneke"
-      ],
-      "cast": [
-        "Isabelle Huppert",
-        "Annie Girardot",
-        "Benoît Magimel",
-        "Susanne Lothar",
-        "Udo Samel",
-        "Anna Sigalevitch",
-        "Cornelia Köndgen",
-        "Thomas Weinhappel"
-      ],
-      "rank": 6,
-      "id": "tt0254686",
-      "name": "La pianista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
-      "rating": 7.3,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un niño y su madrastra temen por su seguridad después de que una misteriosa criatura parecida al padre del niño, recientemente fallecido, los visite.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z8muwOfNZ4qivqgASnIkeeHSSX3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8OJQEFpNLrUAPhrGhTHRW4jaJdU.png",
-      "runtime": "92 min",
-      "director": [
-        "Benjamin Barfoot"
-      ],
-      "cast": [
-        "Julia Brown",
-        "Nathaniel Martello-White",
-        "Charles Aitken",
-        "Mary Woodvine",
-        "Rupert Turnbull",
-        "Kaisa Hammarlund",
-        "Stevie Abrahms",
-        "Nila Aalia"
-      ],
-      "rank": 7,
-      "id": "tt26682012",
-      "name": "Daddy's Head",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nEWbEBs8BalwasA4Un8rll3kauT.jpg",
-      "rating": 5.9,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "124 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 8,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.819,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "genres": [
-        "Misterio",
+        "Romance",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
+      "runtime": "103 min",
       "director": [
-        "Paul Feig"
+        "Sergej Moya"
       ],
       "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
+        "Lisa-Marie Koroll",
+        "Amin Baahmed",
+        "Gustav Schmidt",
+        "Mišel Matičević",
+        "Lucie Heinze",
+        "Frederic Linkemann",
+        "Inka Friedrich",
+        "Jeanette Hain"
       ],
-      "rank": 9,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.25,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt37180686",
+      "name": "Drive: Los farsantes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "rating": 7.409,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,31 +199,139 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jérémy, atrapado tras el mostrador de un videoclub en Amiens, y Bouna, limpiador en el aeropuerto de Orly. Sin contactos, sin dinero y con un nivel de inglés muy bajo, nadie habría predicho que acabarían como agentes de renombre en la NBA. Estos dos marginados, gracias a su pasión absoluta por el baloncesto y su inquebrantable amistad, superaron todos los obstáculos para alcanzar su sueño americano. La historia de años de dificultades que los llevaron a su primera gran oportunidad: el nuevo contrato de Nicolas Batum con los Portland Trail Blazers en 2012, por 46 millones de dólares durante cuatro años.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Comedia"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7mSLP3Bpbc1xxgEd8oJizZnqegA.jpg",
-      "runtime": "122 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Anthony Marciano"
+        "Rachel Morrison"
       ],
       "cast": [
-        "Jean-Pascal Zadi",
-        "Raphaël Quenard",
-        "Gregory Defleur",
-        "David Clark",
-        "Josh Casaubon",
-        "Etienne Guillou-Kervern",
-        "Gabriel Caballero",
-        "Momar Sakanoko"
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 7,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.792,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante las vacaciones de verano de 1983, Shaun, un niño solitario cuyo padre ha muerto en la guerra de Las Malvinas, es adoptado por un grupo de cabezas rapadas (skinheads). Con sus nuevos amigos, Shaun descubre las fiestas, su primer amor y las botas Dr. Martins. Uno de sus amigos es Combo, un skin racista que acaba de salir de la cárcel.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9JpS3EPGWVidpVW6LjTlXJ6jrKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34MwS0ySpMiNhhDehiEoQ2xjDbo.png",
+      "runtime": "100 min",
+      "director": [
+        "Shane Meadows"
+      ],
+      "cast": [
+        "Thomas Turgoose",
+        "Stephen Graham",
+        "Jo Hartley",
+        "Andrew Shim",
+        "Vicky McClure",
+        "Joseph Gilgun",
+        "Rosamund Hanson",
+        "Andrew Ellis"
+      ],
+      "rank": 8,
+      "id": "tt0480025",
+      "name": "This Is England",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bmhVn89BoAAIziFklH3TusE26H0.jpg",
+      "rating": 7.5,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
+      "runtime": "91 min",
+      "director": [
+        "Ben Wheatley"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
+      ],
+      "rank": 9,
+      "id": "tt31195136",
+      "name": "Normal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+      "rating": 7.253,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Al Fountain se ha trasladado a un remoto pueblecito con el fin de supervisar la construcción de una nueva planta para la fábrica de limpiaparabrisas en la que trabaja. Al es un tipo metódico cuya vida se rige por horarios y rutinas estrictas, pero sin embargo las cosas no acaban de marchar bien: sufre una serie de alucinaciones que evidencian la crisis que atraviesa. Los hechos se precipitan cuando cancelan su trabajo y conoce a Kid, un tipo excéntrico que se ha ido al campo para vivir sin ataduras.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ypaWcRK1K4gvBaOIFmxfwY31tzZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bV7I0E20jsGZoHKJaLRFm1eH8To.png",
+      "runtime": "111 min",
+      "director": [
+        "Tom DiCillo"
+      ],
+      "cast": [
+        "John Turturro",
+        "Sam Rockwell",
+        "Catherine Keener",
+        "Dermot Mulroney",
+        "Lisa Blount",
+        "Annie Corley",
+        "Alexander Goodwin",
+        "Mike Stanley"
       ],
       "rank": 10,
-      "id": "tt36313062",
-      "name": "El sueño americano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8e3GGEt6za1ksDZLKTWCOhULWcp.jpg",
-      "rating": 7.404,
-      "year": 2026,
+      "id": "tt0115738",
+      "name": "Caja de luz de luna",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ibDb9U1JsPXJYycSgq6ssSOz1W4.jpg",
+      "rating": 6.8,
+      "year": 1996,
       "days": null,
       "trend": {
         "dir": "same",
@@ -354,5 +340,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

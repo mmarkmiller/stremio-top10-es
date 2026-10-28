@@ -2,8 +2,42 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oZ90HWqkkpL42ghX1T9zhGZgBeb.png",
+      "runtime": "89 min",
+      "director": [
+        "Sacha Baron Cohen"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Morgana Robinson",
+        "C. Stewart Rodeheaver",
+        "Allan Lichtman",
+        "George Santos",
+        "Clive Russell",
+        "Tiffany Haddish",
+        "DJ Jazzy Jeff"
+      ],
+      "rank": 1,
+      "id": "tt43655467",
+      "name": "Ali G: Kién es yo?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -28,82 +62,12 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.634,
+      "rating": 8.633,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de turistas deben luchar por sus vidas contra un hipopótamo desbocado, que anda suelto tras perderse en los pantanos de Luisiana.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sUfwD6yMR740c2xvYopzv6JqOL3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
-      "runtime": "93 min",
-      "director": [
-        "James Nunn"
-      ],
-      "cast": [
-        "Madison Davenport",
-        "Tracey Bonner",
-        "Joaquim de Almeida",
-        "Michel Curiel",
-        "Samantha Coughlan",
-        "Olivia Bernstone",
-        "Jim Meskimen",
-        "River Codack"
-      ],
-      "rank": 2,
-      "id": "tt34494076",
-      "name": "La Bestia del Pantano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
-      "rating": 6.804,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un desventurado soñador y aspirante a filósofo pasa los días cuidando la piscina del bloque de apartamentos Tahitian Tiki, en la soleada Los Ángeles. Cuando descubre el mayor robo de agua, hace lo que puede para proteger su preciosa ciudad.",
-      "genres": [
-        "Misterio",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Aog8Fq5T3RZNENncxrnS7JLn6S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wxAPAVwdtPgjusOh0yzPzc7YzJo.png",
-      "runtime": "100 min",
-      "director": [
-        "Chris Pine"
-      ],
-      "cast": [
-        "Chris Pine",
-        "Annette Bening",
-        "Danny DeVito",
-        "DeWanda Wise",
-        "Jennifer Jason Leigh",
-        "Stephen Tobolowsky",
-        "Clancy Brown",
-        "John Ortiz"
-      ],
-      "rank": 3,
-      "id": "tt18077924",
-      "name": "Un afortunado soñador",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg",
-      "rating": 4.2,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,12 +98,156 @@
         "Charles Hallahan",
         "Peter Maloney"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0084787",
       "name": "La cosa (El enigma de otro mundo)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
       "rating": 8.074,
       "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Enloquecido por el poder, el brutal rey Hiperión ha declarado la guerra a los hombres. Después de reunir a un ejército sediento de sangre formado por soldados que él mismo mandó desfigurar, Hiperión quema Grecia mientras busca un arma de poder inconcebible: el legendario arco Epiro, hecho por Ares en el Olimpo. El hombre que posea ese arco podrá liberar a los Titanes, que están encerrados en el monte Tártaro desde el principio de los tiempos, y claman venganza. Sin embargo, en manos de Hiperión, el arco significaría la destrucción de la raza humana y la aniquilación de los dioses. La ley prohíbe que los dioses se entrometan en los conflictos humanos, y nada pueden hacer para detener al rey. Pero la esperanza renace cuando Zeus encomienda al campesino Teseo la misión de acabar con Hiperión.",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dwqibq6mExnzjLKL0hlY94YiLQP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWzOXG0ACK4OD2p5ynKduvoiCa.png",
+      "runtime": "110 min",
+      "director": [
+        "Tarsem Singh"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Mickey Rourke",
+        "Stephen Dorff",
+        "Freida Pinto",
+        "Luke Evans",
+        "John Hurt",
+        "Joseph Morgan",
+        "Isabel Lucas"
+      ],
+      "rank": 4,
+      "id": "tt1253864",
+      "name": "Immortals",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnKAKwyMhBc2dhaWQLPrrSsBlYl.jpg",
+      "rating": 6.1,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las pesadillas se vuelven realidad cuando un maníaco y propietario de una tienda de juguetes, Conal Cochran, empieza a fabricar unas máscaras que convierten las almas y los cuerpos de los niños en seres diabólicos.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/udjX5hzLCyt7yuSGFMNkqkOU4Tx.png",
+      "runtime": "98 min",
+      "director": [
+        "Tommy Lee Wallace"
+      ],
+      "cast": [
+        "Tom Atkins",
+        "Stacey Nelkin",
+        "Dan O'Herlihy",
+        "Michael Currie",
+        "Ralph Strait",
+        "Jadeen Barbor",
+        "Brad Schacter",
+        "Garn Stephens"
+      ],
+      "rank": 5,
+      "id": "tt0085636",
+      "name": "Halloween III: El día de la bruja",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbnLPuazrrUqHxbm2Tsd22tHdHQ.jpg",
+      "rating": 5.257,
+      "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Greta es una joven americana que acepta trabajar como niñera en Inglaterra huyendo de su pasado. Para su sorpresa, el niño al que tiene que cuidar es un muñeco a tamaño real. Además, en el cumplimiento de su trabajo tiene que seguir unas reglas muy estrictas. Cuando se queda sola, Greta desobedece las normas, lo que desencadena una serie de eventos perturbadores que le llevarán a convencerse de que el muñeco podría estar vivo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mRUW8rmpCS2kH22eihPbbMIbFxU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jN4pLxhZ4EAiqDtDWPHcgAQMusB.png",
+      "runtime": "97 min",
+      "director": [
+        "William Brent Bell"
+      ],
+      "cast": [
+        "Lauren Cohan",
+        "Rupert Evans",
+        "James Russell",
+        "Jim Norton",
+        "Diana Hardcastle",
+        "Ben Robson",
+        "Jett Klyne",
+        "Lily Pater"
+      ],
+      "rank": 6,
+      "id": "tt3882082",
+      "name": "The Boy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8BexaL67WNDhUMNN6XK3QSTumA.jpg",
+      "rating": 6,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de turistas deben luchar por sus vidas contra un hipopótamo desbocado, que anda suelto tras perderse en los pantanos de Luisiana.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sUfwD6yMR740c2xvYopzv6JqOL3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
+      "runtime": "93 min",
+      "director": [
+        "James Nunn"
+      ],
+      "cast": [
+        "Madison Davenport",
+        "Tracey Bonner",
+        "Joaquim de Almeida",
+        "Michel Curiel",
+        "Samantha Coughlan",
+        "Olivia Bernstone",
+        "Jim Meskimen",
+        "River Codack"
+      ],
+      "rank": 7,
+      "id": "tt34494076",
+      "name": "La Bestia del Pantano",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+      "rating": 6.781,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,11 +277,11 @@
         "Betty Buckley",
         "P. J. Soles"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.343,
+      "rating": 7.3,
       "year": 1976,
       "days": null,
       "trend": {
@@ -183,141 +291,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
-      "genres": [
-        "Fantasía",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png",
-      "runtime": "113 min",
-      "director": [
-        "Richard Kelly"
-      ],
-      "cast": [
-        "Jake Gyllenhaal",
-        "Jena Malone",
-        "James Duval",
-        "Drew Barrymore",
-        "Beth Grant",
-        "Maggie Gyllenhaal",
-        "Mary McDonnell",
-        "Holmes Osborne"
-      ],
-      "rank": 6,
-      "id": "tt0246578",
-      "name": "Donnie Darko",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
-      "rating": 7.76,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mary Henry es víctima de un accidente automovilístico; desde un puente colgante, su vehículo se ha precipitado a un río. Horas después, Mary aparece sola y desorientada en un banco de arena. Enseguida notará que el mundo que la rodea ha cambiado. La línea que separa a los vivos de los muertos se hace cada vez más borrosa. Es entonces cuando aparecen… ellos.",
+      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
       "genres": [
         "Terror",
         "Misterio",
-        "Fantasía"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zCGwFjnd1KQxWTt7YeLcMHg8iJ8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qVJTcSmFAW6yXPbT24eQzdTtVlA.png",
-      "runtime": "78 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
+      "runtime": "126 min",
       "director": [
-        "Herk Harvey"
+        "Ari Aster"
       ],
       "cast": [
-        "Candace Hilligoss",
-        "Herk Harvey",
-        "Sidney Berger",
-        "Frances Feist",
-        "Art Ellison",
-        "Stan Levitt",
-        "Tom McGinnis",
-        "Forbes Caldwell"
-      ],
-      "rank": 7,
-      "id": "tt0055830",
-      "name": "El carnaval de las almas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xN95f8ZNIfReC5z0R7mW1fwxQai.jpg",
-      "rating": 6.9,
-      "year": 1962,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png",
-      "runtime": "114 min",
-      "director": [
-        "Kevin Williamson"
-      ],
-      "cast": [
-        "Neve Campbell",
-        "Courteney Cox",
-        "Isabel May",
-        "Jasmin Savoy Brown",
-        "Mason Gooding",
-        "Roger L. Jackson",
-        "Anna Camp",
-        "Joel McHale"
-      ],
-      "rank": 8,
-      "id": "tt27047903",
-      "name": "Scream 7",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
-      "genres": [
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
-      "runtime": "89 min",
-      "director": [
-        "James Ward Byrkit"
-      ],
-      "cast": [
-        "Emily Baldoni",
-        "Maury Sterling",
-        "Nicholas Brendon",
-        "Lauren Maher",
-        "Elizabeth Gracen",
-        "Hugo Armstrong",
-        "Lorene Scafaria",
-        "Alex Manugian"
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel",
+        "Brock McKinney",
+        "Jake Brown"
       ],
       "rank": 9,
-      "id": "tt2866360",
-      "name": "Coherence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
-      "rating": 7.2,
-      "year": 2014,
+      "id": "tt7784604",
+      "name": "Hereditary",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
+      "rating": 7.298,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,23 +327,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
       "genres": [
-        "Documental"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aDtEhFObnUnwdjdlSOZ5lTQAIE1.jpg",
-      "runtime": "74 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
+      "runtime": "90 min",
       "director": [
-        "Albert Edgar Wilson"
+        "Clive Barker"
       ],
       "cast": [
-        "Silas James Rowland"
+        "Andrew Robinson",
+        "Clare Higgins",
+        "Ashley Laurence",
+        "Oliver Smith",
+        "Sean Chapman",
+        "Robert Hines",
+        "Doug Bradley",
+        "Nicholas Vince"
       ],
       "rank": 10,
-      "id": "tt43710022",
-      "name": "Reptilians: They Walk Among Us",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2v0xqxHdX0gpsUrAsEKJm3ylQ09.jpg",
-      "rating": null,
-      "year": 2026,
+      "id": "tt0093177",
+      "name": "Hellraiser",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
+      "rating": 6.885,
+      "year": 1987,
       "days": null,
       "trend": {
         "dir": "same",
@@ -351,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

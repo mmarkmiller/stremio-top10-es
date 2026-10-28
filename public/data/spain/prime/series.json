@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,40 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.583,
+      "rating": 8.59,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
+      ],
+      "rank": 2,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 7.992,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,44 +89,12 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.315,
+      "rating": 8.288,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt",
-        "Constance Wu",
-        "Tom Hopper",
-        "Dar Salim",
-        "Ольга Куриленко",
-        "Yul Vazquez",
-        "Costa Ronin",
-        "Jeremy Bobb"
-      ],
-      "rank": 3,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.992,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -125,7 +125,7 @@
       "id": "tt20883126",
       "name": "Reina roja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "rating": 7.036,
+      "rating": 7,
       "year": 2024,
       "days": null,
       "trend": {
@@ -165,18 +165,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los Hilos del Miedo es una miniserie de suspense psicológico que convierte situaciones cotidianas en experiencias inquietantes y perturbadoras. A través de ocho episodios, explora cómo el miedo puede surgir en los lugares más inesperados, transformando lo familiar en una auténtica pesadilla.",
+      "description": "Un Sherlock Holmes de 19 años se ve enredado en un asesinato en Oxford que pone en peligro su libertad. Su primer caso, abordado imprudentemente, le lleva a descubrir una conspiración de gran alcance que altera su camino para siempre.",
       "genres": [
+        "Action & Adventure",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kGagOgOWpsxvbNezuGDtNKZoeSh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fWBgJxuHXRDBrUq0RFuG6DG22rt.png",
       "director": [],
-      "cast": [],
+      "cast": [
+        "Hero Fiennes Tiffin",
+        "Dónal Finn",
+        "Zine Tseng",
+        "Natascha McElhone",
+        "Max Irons"
+      ],
       "rank": 6,
-      "id": "tt43707668",
-      "name": "Los Hilos del Miedo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mDhtYLJpN69liz09bmniIscgjWk.jpg",
-      "rating": 10,
+      "id": "tt8599532",
+      "name": "El joven Sherlock",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
+      "rating": 7.764,
       "year": 2026,
       "days": null,
       "trend": {
@@ -203,7 +211,7 @@
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
+      "rating": 8.584,
       "year": 2005,
       "days": null,
       "trend": {
@@ -213,56 +221,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
       "genres": [
         "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
       "director": [],
       "cast": [
-        "Juno Temple",
-        "Jennifer Jason Leigh",
-        "David Rysdahl",
-        "Joe Keery",
-        "Lamorne Morris",
-        "Richa Shukla Moorjani",
-        "Sam Spruell",
-        "Sienna King"
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
       ],
       "rank": 8,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.29,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 9,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.844,
-      "year": 2019,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
+      "rating": 7.962,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,7 +272,7 @@
         "Yui Ishikawa",
         "Yoshimasa Hosoya"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt2560140",
       "name": "Ataque a los Titanes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
@@ -301,8 +283,41 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "1977. Han pasado dos años después del asesinato del capataz de la finca y su mujer, dos tractoristas y la esposa de uno de ellos. Onofre, un periodista, decide volver al lugar de los hechos, que además es su pueblo, para realizar un reportaje. A su llegada al pueblo de Paradas (Sevilla), se da cuenta de que su amiga Chelo no le dirige la palabra, ya que su tío fue acusado de matar en aquel asesinato múltiple a la tía del periodista. En el pasado, siete semanas antes del asesinato, se observa cómo ninguna de las personas que se vieron afectadas por el caso sabía lo que estaba a punto de ocurrir.",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qAmUwIENN2CYbjJ793OI9ajnHpx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9QvLH2ZO5fPuNFWbomkfekret3L.png",
+      "director": [],
+      "cast": [
+        "Víctor Clavijo Cobos",
+        "José Pastor",
+        "Juan Fernández",
+        "Lara Grube",
+        "Paco Tous",
+        "Laura Baena",
+        "Cinta Ramírez",
+        "Óscar de la Fuente"
+      ],
+      "rank": 10,
+      "id": "tt29515825",
+      "name": "El Marqués",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m7pqSTLIDWtaAyeu4uAQSIanNUR.jpg",
+      "rating": 6.333,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.289,
+      "rating": 8.288,
       "year": 2025,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.946,
+      "rating": 7.947,
       "year": 2009,
       "days": null,
       "trend": {
@@ -113,6 +113,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Durante las vacaciones de verano de 1983, Shaun, un niño solitario cuyo padre ha muerto en la guerra de Las Malvinas, es adoptado por un grupo de cabezas rapadas (skinheads). Con sus nuevos amigos, Shaun descubre las fiestas, su primer amor y las botas Dr. Martins. Uno de sus amigos es Combo, un skin racista que acaba de salir de la cárcel.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9JpS3EPGWVidpVW6LjTlXJ6jrKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34MwS0ySpMiNhhDehiEoQ2xjDbo.png",
+      "runtime": "100 min",
+      "director": [
+        "Shane Meadows"
+      ],
+      "cast": [
+        "Thomas Turgoose",
+        "Stephen Graham",
+        "Jo Hartley",
+        "Andrew Shim",
+        "Vicky McClure",
+        "Joseph Gilgun",
+        "Rosamund Hanson",
+        "Andrew Ellis"
+      ],
+      "rank": 4,
+      "id": "tt0480025",
+      "name": "This Is England",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bmhVn89BoAAIziFklH3TusE26H0.jpg",
+      "rating": 7.5,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Hae-Joon, un veterano detective, investiga la sospechosa muerte de un hombre en la cima de una montaña. Pronto, comenzará a sospechar de Sore, la mujer del difunto, mientras la atracción que siente por ella le desestabilizará.",
       "genres": [
         "Suspense",
@@ -135,11 +170,11 @@
         "Yoo Seung-mok",
         "Jung Yi-seo"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt12477480",
       "name": "Decision to Leave",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9Tk2tkXL2zmbAuYr8staL0SZWO.jpg",
-      "rating": 7.322,
+      "rating": 7.3,
       "year": 2022,
       "days": null,
       "trend": {
@@ -170,11 +205,11 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
+      "rating": 7.266,
       "year": 2025,
       "days": null,
       "trend": {
@@ -184,69 +219,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kubo es un joven desaliñado y bondadoso que se gana la vida humildemente y cuida de su madre en una apacible aldea costera. Tiene una tranquila existencia hasta que un espíritu del pasado vuelve para llevar a cabo una vieja venganza. De repente, rodeado por dioses y monstruos, Kubo verá que su supervivencia pasa por encontrar la armadura mágica de su caído padre, el más grande samurai que el mundo ha conocido. Llenándose de coraje, Kubo se embarca en una emocionante odisea enfrentándose a su historia familiar, navegando entre los elementos y luchando valientemente por la Tierra y las estrellas.",
+      "description": "El Centro de Ocio John Nike en West Staines va a cerrar por falta de fondos. A Ali G le preocupa el destino del club alternativo de boy scouts que ha estado dirigiendo hasta ese momento. Decidido a salvar el centro se encadena a una estación de autobuses de Staines. Así­ consigue llamar la atención del primer ministro, que andaba buscando a un joven intelectual que le ayudase a ganar las elecciones en Staines, y que cree haber encontrado en él al hombre que necesitaba. El político convence a Ali de que la mejor forma de salvar el centro es presentarse a las elecciones para el Gobierno, y Ali le toma la palabra.",
       "genres": [
-        "Animación",
-        "Aventura",
-        "Familia"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2nGKhDksmoDdkllXm5D5gy2urCg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/frdebhj3FvHxvz2qeSUD4uevok7.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gzaSxlMCrQaFTjYc8MNmYAv092.png",
+      "runtime": "84 min",
       "director": [
-        "Travis Knight"
+        "Mark Mylod"
       ],
       "cast": [
-        "Art Parkinson",
-        "Charlize Theron",
-        "Matthew McConaughey",
-        "Brenda Vaccaro",
-        "Ralph Fiennes",
-        "Rooney Mara",
-        "George Takei",
-        "Cary-Hiroyuki Tagawa"
-      ],
-      "rank": 6,
-      "id": "tt4302938",
-      "name": "Kubo y las dos cuerdas mágicas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9L5BomkYAHwiRaVNp14WibZhHs.jpg",
-      "rating": 7.7,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g1e4eGYySgxwAV6Uu1R7f6eOwsr.jpg",
-      "runtime": "113 min",
-      "director": [
-        "Aina Clotet"
-      ],
-      "cast": [
-        "Aina Clotet",
-        "Marc Soler Rull",
-        "Naby Dakhli",
-        "Guillermo Toledo",
-        "Lloll Bertran",
-        "Mohamed Lamine",
-        "Zaïra Pérez",
-        "Josh Zuckerman"
+        "Sacha Baron Cohen",
+        "Michael Gambon",
+        "Charles Dance",
+        "Kellie Bright",
+        "Martin Freeman",
+        "Paul Clayton",
+        "Rhona Mitra",
+        "Tony Way"
       ],
       "rank": 7,
-      "id": "tt36822560",
-      "name": "Viva",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
-      "rating": 5.8,
-      "year": 2026,
+      "id": "tt0284837",
+      "name": "Ali G anda suelto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zcXqLPY9KPTLzFf5SgpkyfGWjKa.jpg",
+      "rating": 6.1,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,7 +278,7 @@
       "id": "tt0077651",
       "name": "La noche de Halloween",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.6,
+      "rating": 7.56,
       "year": 1978,
       "days": null,
       "trend": {
@@ -290,33 +288,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
       "genres": [
         "Terror",
+        "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
+      "runtime": "126 min",
       "director": [
-        "Stanley Kubrick"
+        "Ari Aster"
       ],
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel",
+        "Brock McKinney",
+        "Jake Brown"
       ],
       "rank": 9,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.2,
-      "year": 1980,
+      "id": "tt7784604",
+      "name": "Hereditary",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
+      "rating": 7.298,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,34 +324,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Controvertido y célebre flim sobre un clérigo, en la Francia del XVII, acusado de herejía. Basada libremente en hechos reales ocurridos en el convento de Laudun, en Francia, en el que supuestamente unas  monjas Ursulinas fueron poseídas por el diablo en 1634.",
+      "description": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
       "genres": [
-        "Drama",
-        "Historia",
-        "Terror"
+        "Acción",
+        "Aventura",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BSsugMxJGCRWD8qxqBPWhH71H3.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png",
+      "runtime": "148 min",
       "director": [
-        "Ken Russell"
+        "Ridley Scott"
       ],
       "cast": [
-        "Vanessa Redgrave",
-        "Oliver Reed",
-        "Dudley Sutton",
-        "Max Adrian",
-        "Gemma Jones",
-        "Murray Melvin",
-        "Michael Gothard",
-        "Georgina Hale"
+        "Paul Mescal",
+        "Denzel Washington",
+        "Pedro Pascal",
+        "Connie Nielsen",
+        "Joseph Quinn",
+        "Fred Hechinger",
+        "ליאור רז",
+        "Derek Jacobi"
       ],
       "rank": 10,
-      "id": "tt0066993",
-      "name": "Los demonios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pJIx17hCWq3CEhc8UzioBngrMJc.jpg",
-      "rating": 7.5,
-      "year": 1971,
+      "id": "tt9218128",
+      "name": "Gladiator II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ckTXrwlr4cRVxpBFEZcEmDzrmea.jpg",
+      "rating": 6.587,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

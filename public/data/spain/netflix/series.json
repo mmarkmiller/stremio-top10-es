@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -44,6 +44,7 @@
         "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
       "director": [
         "Juan Cavestany",
         "Álvaro Fernández Armero"
@@ -53,14 +54,14 @@
         "Alexandra Jiménez",
         "Enric Benavent",
         "Fernando Andina",
-        "Mercedes Sampietro",
         "Celia de Molina",
-        "Teresa Rabal"
+        "Teresa Rabal",
+        "Mercedes Sampietro"
       ],
       "rank": 2,
       "id": "tt39387986",
       "name": "Grande de España",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
       "rating": 5,
       "year": 2026,
       "days": null,
@@ -92,8 +93,36 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.2,
+      "rating": 7.169,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+      "director": [],
+      "cast": [
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
+      ],
+      "rank": 4,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.315,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,68 +149,12 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.6,
+      "rating": 7.623,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
-      ],
-      "rank": 5,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.317,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
-      ],
-      "rank": 6,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -208,12 +181,64 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.882,
+      "rating": 7.881,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 7,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8.008,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta serie documental narra el éxito en Hollywood, el activismo y la trágica muerte de la popular estrella de ‘Friends’ según lo cuentan sus allegados.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zHtVdACVp0Skq17w1lU9BSJ7rhO.png",
+      "director": [],
+      "cast": [
+        "Matthew Perry"
+      ],
+      "rank": 8,
+      "id": "tt44941753",
+      "name": "El de Matthew Perry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "rating": 7.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,11 +265,11 @@
         "Rebecca Wisocky",
         "Devan Chandler Long"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.147,
+      "rating": 8.149,
       "year": 2021,
       "days": null,
       "trend": {
@@ -254,58 +279,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Adorada por su carisma y su forma de expresarse libre, deslenguada y divertida, la Veneno alcanzó la popularidad gracias a sus apariciones televisivas en los años noventa. Sin embargo, su vida, y sobre todo su muerte, siguen siendo un enigma. La historia de una mujer luchadora.",
+      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
       "genres": [
-        "Drama"
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL7Ts01PYv7SStDzlCTT5fukD6A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
       "director": [],
       "cast": [
-        "Lola Rodríguez",
-        "Isabel Torres",
-        "Daniela Santiago",
-        "Jedet",
-        "Paca la Piraña",
-        "Israel Elejalde",
-        "Sophia Lamar",
-        "Mariona Terés"
-      ],
-      "rank": 9,
-      "id": "tt10383046",
-      "name": "Veneno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cXVbEJ88JmIkibl84F80irRVe6.jpg",
-      "rating": 8.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta serie, basada en los famosos cortos virales, unos adolescentes intentan dirigir una pizzería local compaginando los estudios, un jefe maníaco y el salario mínimo.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/okGxvifOhLEJvj85zSbpQMfLwy8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ixXavDLqHfiVDn26thx1SWhQl2.png",
-      "director": [],
-      "cast": [
-        "Aidan Micho",
-        "Grace Reiter",
-        "Hyde Healy",
-        "Julia DiCesare",
-        "Luke Burke",
-        "Ryan Micho",
-        "Tommy Armstrong"
+        "Masako Nozawa",
+        "Ryo Horikawa",
+        "Naoko Watanabe",
+        "Unsho Ishizuka",
+        "Koichi Yamadera"
       ],
       "rank": 10,
-      "id": "tt42220724",
-      "name": "Salario mínimo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
-      "rating": 9.333,
+      "id": "tt39395275",
+      "name": "Dragon Ball Super: Beerus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "rating": 9.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -315,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

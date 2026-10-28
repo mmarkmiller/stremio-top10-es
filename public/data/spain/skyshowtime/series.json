@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,40 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.583,
+      "rating": 8.59,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "director": [],
+      "cast": [
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable",
+        "Jill Wagner",
+        "LaMonica Garrett",
+        "James Jordan",
+        "Genesis Rodriguez",
+        "Michael Kelly"
+      ],
+      "rank": 2,
+      "id": "tt13111078",
+      "name": "Operaciones Especiales: Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "rating": 8.269,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,11 +89,11 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.306,
+      "rating": 8.307,
       "year": 2022,
       "days": null,
       "trend": {
@@ -71,30 +103,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
       "genres": [
         "Drama",
-        "War & Politics"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
       "director": [],
       "cast": [
-        "Zoe Saldaña",
-        "Laysla De Oliveira",
-        "Dave Annable",
-        "Jill Wagner",
-        "LaMonica Garrett",
-        "James Jordan",
-        "Genesis Rodriguez",
-        "Michael Kelly"
+        "Kyle MacLachlan"
       ],
-      "rank": 3,
-      "id": "tt13111078",
-      "name": "Operaciones Especiales: Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.3,
-      "year": 2023,
+      "rank": 4,
+      "id": "tt0098936",
+      "name": "Twin Peaks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "rating": 8.335,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -116,11 +141,11 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
+      "rating": 8.584,
       "year": 2005,
       "days": null,
       "trend": {
@@ -130,121 +155,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
       "genres": [
+        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
       "director": [],
       "cast": [
-        "Kyle MacLachlan"
-      ],
-      "rank": 5,
-      "id": "tt0098936",
-      "name": "Twin Peaks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "rating": 8.3,
-      "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Logan Marshall-Green",
-        "Arielle Kebbel",
-        "Ash Santos",
-        "Tatanka Means",
-        "Brecken Merrill",
-        "Mo Brings Plenty",
-        "Gil Birmingham"
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
       ],
       "rank": 6,
-      "id": "tt36849871",
-      "name": "Marshals: Una historia de Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.979,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rzAzvWJoZSwVSswvWsKx1lqT63m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
-      "director": [],
-      "cast": [
-        "Anson Mount",
-        "Ethan Peck",
-        "Jess Bush",
-        "Christina Chong",
-        "Celia Rose Gooding",
-        "Melissa Navia",
-        "Babs Olusanmokun",
-        "Martin Quinn"
-      ],
-      "rank": 7,
-      "id": "tt12327578",
-      "name": "Star Trek: Strange New Worlds",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
-      "rating": 7.9,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Jennifer Carpenter",
-        "Geoff Pierson",
-        "David Zayas",
-        "James Remar",
-        "Aimee Garcia",
-        "Desmond Harrington",
-        "C.S. Lee"
-      ],
-      "rank": 8,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.242,
-      "year": 2006,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
+      "rating": 7.962,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -272,11 +206,11 @@
         "James Remar",
         "Brian Cox"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.5,
+      "rating": 8.515,
       "year": 2025,
       "days": null,
       "trend": {
@@ -286,29 +220,95 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
+      "description": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
       "genres": [
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rzAzvWJoZSwVSswvWsKx1lqT63m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
       "director": [],
       "cast": [
-        "Maggie Smith",
-        "Michelle Dockery",
-        "Laura Carmichael",
-        "Joanne Froggatt",
-        "Hugh Bonneville",
-        "Phyllis Logan",
-        "Elizabeth McGovern",
-        "Jim Carter"
+        "Anson Mount",
+        "Ethan Peck",
+        "Jess Bush",
+        "Christina Chong",
+        "Celia Rose Gooding",
+        "Melissa Navia",
+        "Babs Olusanmokun",
+        "Martin Quinn"
+      ],
+      "rank": 8,
+      "id": "tt12327578",
+      "name": "Star Trek: Strange New Worlds",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
+      "rating": 7.86,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
+      ],
+      "rank": 9,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.278,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Jennifer Carpenter",
+        "Geoff Pierson",
+        "David Zayas",
+        "James Remar",
+        "Aimee Garcia",
+        "Desmond Harrington",
+        "C.S. Lee"
       ],
       "rank": 10,
-      "id": "tt1606375",
-      "name": "Downton Abbey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
-      "rating": 8.116,
-      "year": 2010,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+      "rating": 8.2,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

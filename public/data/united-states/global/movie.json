@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.207,
+      "rating": 7.202,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,7 +64,7 @@
       "id": "tt32358390",
       "name": "El ciclo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "rating": 7.172,
+      "rating": 6.776,
       "year": 2026,
       "days": null,
       "trend": {
@@ -99,7 +99,7 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.2,
+      "rating": 8.168,
       "year": 2026,
       "days": null,
       "trend": {
@@ -109,32 +109,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un soldado estadounidense gravemente herido lucha por sobrevivir, durante la II Guerra Mundial, detrás de las líneas enemigas en la Bélgica devastada por la guerra durante la brutal Batalla de las Ardenas. Aislado y obligado a afrontar unas condiciones extremas, debe confiar en su ingenio, su entrenamiento militar y una radio dañada como su única esperanza para evadir a las tropas enemigas que lo buscan. Mientras enfrenta el peligro constante, su objetivo es desesperadamente restablecer contacto con su unidad antes de que sea demasiado tarde.",
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
       "genres": [
-        "Acción",
-        "Bélica"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x4INF1gBDdZw0maITchT8WgoDvu.png",
-      "runtime": "102 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
       "director": [
-        "Rod Lurie"
+        "Kane Parsons"
       ],
       "cast": [
-        "Scott Eastwood",
-        "Colin Hanks",
-        "Aunjanue Ellis-Taylor",
-        "Taylor John Smith",
-        "Lorne MacFadyen",
-        "Atanas Srebrev",
-        "Alfie Stewart",
-        "Jonathan Yunger"
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
       ],
       "rank": 4,
-      "id": "tt19035928",
-      "name": "Lucky Strike",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c4az2YuhUDmGTRYjsYdD3tFjwuG.jpg",
-      "rating": 6.5,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 7.01,
       "year": 2026,
       "days": null,
       "trend": {
@@ -169,113 +170,8 @@
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.433,
+      "rating": 7.431,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 6,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.011,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
-      "runtime": "108 min",
-      "director": [
-        "Damian McCarthy"
-      ],
-      "cast": [
-        "Adam Scott",
-        "Peter Coonan",
-        "David Wilmot",
-        "Florence Ordesh",
-        "Michael Patric",
-        "Will O'Connell",
-        "Brendan Conroy",
-        "Ezra Carlisle"
-      ],
-      "rank": 7,
-      "id": "tt35672862",
-      "name": "Hokum",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.82,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/OyrL7LifPjrj7eDm5FtF8qPH8R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/36ISV2Gj1JwwJwy6REviGiAVEKT.png",
-      "runtime": "91 min",
-      "director": [
-        "Wes Craven"
-      ],
-      "cast": [
-        "Heather Langenkamp",
-        "Robert Englund",
-        "Johnny Depp",
-        "Amanda Wyss",
-        "Jsu Garcia",
-        "John Saxon",
-        "Ronee Blakley",
-        "Charles Fleischer"
-      ],
-      "rank": 8,
-      "id": "tt0087800",
-      "name": "Pesadilla en Elm Street",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
-      "rating": 7.357,
-      "year": 1984,
       "days": null,
       "trend": {
         "dir": "same",
@@ -305,11 +201,11 @@
         "Brian Andrews",
         "John Michael Graham"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt0077651",
       "name": "La noche de Halloween",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.6,
+      "rating": 7.56,
       "year": 1978,
       "days": null,
       "trend": {
@@ -319,34 +215,137 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
       "genres": [
-        "Comedia",
-        "Terror",
-        "Romance"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qNAG8RHWfpS1ZsK2Z9oygVN9uuE.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/OyrL7LifPjrj7eDm5FtF8qPH8R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/36ISV2Gj1JwwJwy6REviGiAVEKT.png",
+      "runtime": "91 min",
       "director": [
-        "Jane Schoenbrun"
+        "Wes Craven"
       ],
       "cast": [
-        "Hannah Einbinder",
-        "Gillian Anderson",
-        "Amanda Fix",
-        "Arthur Conti",
-        "Eva Victor",
-        "Zach Cherry",
-        "Sarah Sherman",
-        "Patrick Fischler"
+        "Heather Langenkamp",
+        "Robert Englund",
+        "Johnny Depp",
+        "Amanda Wyss",
+        "Jsu Garcia",
+        "John Saxon",
+        "Ronee Blakley",
+        "Charles Fleischer"
+      ],
+      "rank": 7,
+      "id": "tt0087800",
+      "name": "Pesadilla en Elm Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+      "rating": 7.357,
+      "year": 1984,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
+      "runtime": "108 min",
+      "director": [
+        "Damian McCarthy"
+      ],
+      "cast": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Michael Patric",
+        "Will O'Connell",
+        "Brendan Conroy",
+        "Ezra Carlisle"
+      ],
+      "rank": 8,
+      "id": "tt35672862",
+      "name": "Hokum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "rating": 6.82,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oZ90HWqkkpL42ghX1T9zhGZgBeb.png",
+      "runtime": "89 min",
+      "director": [
+        "Sacha Baron Cohen"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Morgana Robinson",
+        "C. Stewart Rodeheaver",
+        "Allan Lichtman",
+        "George Santos",
+        "Clive Russell",
+        "Tiffany Haddish",
+        "DJ Jazzy Jeff"
+      ],
+      "rank": 9,
+      "id": "tt43655467",
+      "name": "Ali G: Kién es yo?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el año 2047 una nave de rescate, la \"Lewis & Clark\", es enviada a investigar la misteriosa reaparición en la órbita de Neptuno de una nave experimental, la \"Horizonte Final\", desaparecida años antes junto a toda su tripulación. En el año 2040 la nave \"Horizonte Final\" fue lanzada al espacio para investigar los confines del universo, pero desapareció sin dejar rastro. Sucesos extraños comienzan a ocurrir a bordo mientras la misión de rescate intenta averiguar cuál ha sido el destino de los desaparecidos...",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vnGsBnkz8b1LtJXktD4rZqkOvKO.png",
+      "runtime": "96 min",
+      "director": [
+        "Paul W. S. Anderson"
+      ],
+      "cast": [
+        "Laurence Fishburne",
+        "Sam Neill",
+        "Kathleen Quinlan",
+        "Joely Richardson",
+        "Richard T. Jones",
+        "Jack Noseworthy",
+        "Jason Isaacs",
+        "Sean Pertwee"
       ],
       "rank": 10,
-      "id": "tt35298123",
-      "name": "Adolescencia, sexo y muerte en campamento Miasma",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.125,
-      "year": 2026,
+      "id": "tt0119081",
+      "name": "Horizonte Final",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg",
+      "rating": 6.6,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +354,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,39 +28,8 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.067,
+      "rating": 8.07,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
-      "director": [],
-      "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
-      ],
-      "rank": 2,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.822,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -87,12 +56,43 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.367,
+      "rating": 8.368,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 3,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.822,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -133,37 +133,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 5,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.013,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
       "genres": [
         "Comedia",
@@ -183,7 +152,7 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
@@ -197,31 +166,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Comedia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
       "director": [],
       "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
       ],
-      "rank": 7,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.39,
-      "year": 2022,
+      "rank": 6,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.011,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -230,30 +197,52 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
+      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
       "genres": [
         "Drama",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2OasrKGxo1RHOHQS7zIzw3qoWtw.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
+      "director": [],
+      "cast": [],
+      "rank": 7,
+      "id": "tt29011445",
+      "name": "Buscando a Wanda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+      "rating": 6.6,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
       "director": [],
       "cast": [
-        "Jon Hamm",
-        "Amanda Peet",
-        "Olivia Munn",
-        "Hoon Lee",
-        "Mark Tallman",
-        "Lena Hall",
-        "Aimee Carrero",
-        "Eunice Bae"
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Natalie Martinez",
+        "Brittany Ishibashi",
+        "Nolan Almeida",
+        "Ella Grace Helton",
+        "Noah Carganilla",
+        "Highdee Kuan"
       ],
       "rank": 8,
-      "id": "tt30459041",
-      "name": "Vicios ocultos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
-      "rating": 7.8,
-      "year": 2025,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "rating": 7.533,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,24 +282,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2OasrKGxo1RHOHQS7zIzw3qoWtw.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "Jon Hamm",
+        "Amanda Peet",
+        "Olivia Munn",
+        "Hoon Lee",
+        "Mark Tallman",
+        "Lena Hall",
+        "Aimee Carrero",
+        "Eunice Bae"
       ],
       "rank": 10,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.9,
+      "id": "tt30459041",
+      "name": "Vicios ocultos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
+      "rating": 7.8,
       "year": 2025,
       "days": null,
       "trend": {
@@ -320,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }

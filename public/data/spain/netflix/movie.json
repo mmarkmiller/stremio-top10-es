@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610272018",
+  "date": "202610282040",
   "entries": [
     {
       "artworkVersion": 4,
@@ -34,7 +34,7 @@
       "id": "tt5155780",
       "name": "The Discovery",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
-      "rating": 6.254,
+      "rating": 6.261,
       "year": 2017,
       "days": null,
       "trend": {
@@ -75,33 +75,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "Zach Cregger"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 3,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
-      "year": 2025,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.2,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,8 +134,79 @@
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.4,
+      "rating": 8.438,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 5,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.266,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 6,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.607,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,11 +237,11 @@
         "Steven Ogg",
         "Mark Camacho"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt6933238",
       "name": "Unabomber",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.614,
+      "rating": 6.612,
       "year": 2026,
       "days": null,
       "trend": {
@@ -204,11 +274,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.977,
+      "rating": 6.974,
       "year": 2026,
       "days": null,
       "trend": {
@@ -218,102 +288,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dicen que el perro es el mejor amigo del hombre, pero ¿qué pasa cuando el humano en cuestión es un malnacido? En tal caso, puede que se merezca sufrir una dulce y perruna venganza. Reggie, un border terrier ingenuo y optimista hasta la médula, acaba abandonado en las despiadadas calles de la ciudad por su despreciable dueño, Doug, totalmente convencido de que todo ha sido un malentendido y que su adorado compañero de vida nunca se desentendería así de él.",
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
       "genres": [
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1HzL603WOer58xtnrRYdSIL5K04.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/LmiL50F1UxmhpJu2O2FkOHLIod.png",
-      "runtime": "93 min",
-      "director": [
-        "Josh Greenbaum"
-      ],
-      "cast": [
-        "Will Ferrell",
-        "Jamie Foxx",
-        "Isla Fisher",
-        "Randall Park",
-        "Will Forte",
-        "Brett Gelman",
-        "Rob Riggle",
-        "Josh Gad"
-      ],
-      "rank": 7,
-      "id": "tt15153532",
-      "name": "Vida perra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bLEvem4noAw83zoLRaSyeQEYQ2o.jpg",
-      "rating": 7.172,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 8,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
-      "genres": [
-        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
       "director": [
-        "Hernán Goldfrid"
+        "Gus Van Sant"
       ],
       "cast": [
-        "Ricardo Darín",
-        "Diego Peretti",
-        "Inés Efrón",
-        "Carlos Santamaría",
-        "Miriam Odorico",
-        "Antonia Bengochea",
-        "Andrea Politti",
-        "Patricia Echegoyen"
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
       "rank": 9,
-      "id": "tt37027309",
-      "name": "Lo dejamos acá",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-      "rating": 7.65,
-      "year": 2026,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.167,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,33 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+      "description": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Acción",
+        "Aventura",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png",
+      "runtime": "148 min",
       "director": [
-        "Stanley Kubrick"
+        "Ridley Scott"
       ],
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
+        "Paul Mescal",
+        "Denzel Washington",
+        "Pedro Pascal",
+        "Connie Nielsen",
+        "Joseph Quinn",
+        "Fred Hechinger",
+        "ליאור רז",
+        "Derek Jacobi"
       ],
       "rank": 10,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.2,
-      "year": 1980,
+      "id": "tt9218128",
+      "name": "Gladiator II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ckTXrwlr4cRVxpBFEZcEmDzrmea.jpg",
+      "rating": 6.587,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-27T17:38:18.632Z"
+  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
 }
