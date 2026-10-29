@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.489,
+      "rating": 8.49,
       "year": 2022,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.623,
+      "rating": 7.622,
       "year": 2023,
       "days": null,
       "trend": {
@@ -89,38 +89,8 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.315,
+      "rating": 7.3,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta serie, basada en los famosos cortos virales, unos adolescentes intentan dirigir una pizzería local compaginando los estudios, un jefe maníaco y el salario mínimo.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/okGxvifOhLEJvj85zSbpQMfLwy8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ixXavDLqHfiVDn26thx1SWhQl2.png",
-      "director": [],
-      "cast": [
-        "Aidan Micho",
-        "Grace Reiter",
-        "Hyde Healy",
-        "Julia DiCesare",
-        "Luke Burke",
-        "Ryan Micho",
-        "Tommy Armstrong"
-      ],
-      "rank": 4,
-      "id": "tt42220724",
-      "name": "Salario mínimo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
-      "rating": 9.6,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -131,8 +101,7 @@
       "artworkVersion": 4,
       "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
@@ -143,35 +112,11 @@
         "Mike Faist",
         "Joseph Zada"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.008,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esta serie documental narra el éxito en Hollywood, el activismo y la trágica muerte de la popular estrella de ‘Friends’ según lo cuentan sus allegados.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zHtVdACVp0Skq17w1lU9BSJ7rhO.png",
-      "director": [],
-      "cast": [
-        "Matthew Perry"
-      ],
-      "rank": 6,
-      "id": "tt44941753",
-      "name": "El de Matthew Perry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
-      "rating": 7.3,
+      "rating": 8.025,
       "year": 2026,
       "days": null,
       "trend": {
@@ -198,11 +143,105 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.169,
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "director": [],
+      "cast": [
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
+      ],
+      "rank": 6,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.6,
+      "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
+      "director": [],
+      "cast": [
+        "Omar Sy",
+        "Ludivine Sagnier",
+        "Antoine Gouy",
+        "Soufiane Guerrab",
+        "Shirine Boutella",
+        "Théo Christine",
+        "Laïka Blanc-Francard"
+      ],
+      "rank": 7,
+      "id": "tt2531336",
+      "name": "Lupin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "rating": 7.673,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En esta serie, basada en los famosos cortos virales, unos adolescentes intentan dirigir una pizzería local compaginando los estudios, un jefe maníaco y el salario mínimo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/okGxvifOhLEJvj85zSbpQMfLwy8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ixXavDLqHfiVDn26thx1SWhQl2.png",
+      "director": [],
+      "cast": [
+        "Aidan Micho",
+        "Grace Reiter",
+        "Hyde Healy",
+        "Julia DiCesare",
+        "Luke Burke",
+        "Ryan Micho",
+        "Tommy Armstrong"
+      ],
+      "rank": 8,
+      "id": "tt42220724",
+      "name": "Salario mínimo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "rating": 9.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -230,44 +269,12 @@
         "Jason Veasey",
         "Eliza Coupe"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
       "rating": 7.1,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
-      "director": [],
-      "cast": [
-        "Omar Sy",
-        "Ludivine Sagnier",
-        "Antoine Gouy",
-        "Soufiane Guerrab",
-        "Shirine Boutella",
-        "Théo Christine",
-        "Laïka Blanc-Francard"
-      ],
-      "rank": 9,
-      "id": "tt2531336",
-      "name": "Lupin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.7,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -42,6 +42,116 @@
     },
     {
       "artworkVersion": 4,
+      "description": "es una comedia navideña ambientada en el Polo Norte, en una época en la que Santa se prepara para retirarse y transmitir los reinados a su hijo Nick Claus. Sin embargo, el estrés de su futuro papel comienza a afectar a Nick, que no siente tan arraigado el espíritu navideño como los demás miembros de su familia.",
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dVM0ZSzbMbz7b0LxrNRz1gdhcGM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8WQXFAYFjTolQj1NLhMt9FNyZMh.png",
+      "runtime": "100 min",
+      "director": [
+        "Marc Lawrence"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Shirley MacLaine",
+        "Bill Hader",
+        "Kingsley Ben-Adir",
+        "Julie Hagerty",
+        "Billy Eichner",
+        "Maceo Smedley",
+        "Diana Maria Riva"
+      ],
+      "rank": 2,
+      "id": "tt5097410",
+      "name": "Noelle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
+      "rating": 6.59,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "genres": [
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jcyz89Ues6pi1QoDzhFN4YlXkqq.png",
+      "runtime": "144 min",
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "غسان مسعود",
+        "Liam Neeson",
+        "Brendan Gleeson",
+        "Marton Csokas"
+      ],
+      "rank": 3,
+      "id": "tt0320661",
+      "name": "El reino de los cielos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
+      "rating": 7.103,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Philadelphia. Año 1961. Un niño negro acaba de nacer en unos grandes almacenes. Un médico acude a ver como se encuentran tanto la madre como el bebé, y horrorizado le pregunta a la mujer si se le ha caído el niño, ya que tiene tanto los brazos como las piernas fracturadas. Philadelphia. Año 2000. Un hombre llamado David Dunn está en el expreso que va de Nueva York a Philadelphia camino de su casa después de una entrevista de trabajo en la ciudad de los rascacielos. En el tren entabla conversación con una atractiva mujer, pero ésta cree que quiere ligar y se cambia de asiento. Un momento después se produce un dramático accidente.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjPirVLui7vWD4AsOQPV9kjg7pg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9uQVifG0bohAvSyZySzgnsPxSSm.png",
+      "runtime": "108 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Samuel L. Jackson",
+        "Robin Wright",
+        "Spencer Treat Clark",
+        "Charlayne Woodard",
+        "Eamonn Walker",
+        "Leslie Stefanson",
+        "Johnny Hiram Jamison"
+      ],
+      "rank": 4,
+      "id": "tt0217869",
+      "name": "El protegido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5SlS9jMrLRB4ZhoWUmLnC5GK7aC.jpg",
+      "rating": 7.144,
+      "year": 2000,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "genres": [
         "Animación",
@@ -65,7 +175,7 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
@@ -79,107 +189,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
       "genres": [
-        "Familia",
-        "Animación",
-        "Música",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
-      "runtime": "109 min",
-      "director": [
-        "Lee Unkrich"
-      ],
-      "cast": [
-        "Anthony Gonzalez",
-        "Gael García Bernal",
-        "Benjamin Bratt",
-        "Alanna Ubach",
-        "Renée Victor",
-        "Jaime Camil",
-        "Alfonso Arau",
-        "Herbert Siguenza"
-      ],
-      "rank": 4,
-      "id": "tt2380307",
-      "name": "Coco",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
-      "rating": 8.202,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 5,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.957,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "es una comedia navideña ambientada en el Polo Norte, en una época en la que Santa se prepara para retirarse y transmitir los reinados a su hijo Nick Claus. Sin embargo, el estrés de su futuro papel comienza a afectar a Nick, que no siente tan arraigado el espíritu navideño como los demás miembros de su familia.",
-      "genres": [
-        "Familia",
+        "Fantasía",
         "Comedia",
-        "Fantasía"
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dVM0ZSzbMbz7b0LxrNRz1gdhcGM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WQXFAYFjTolQj1NLhMt9FNyZMh.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
+      "runtime": "96 min",
       "director": [
-        "Marc Lawrence"
+        "Kenny Ortega"
       ],
       "cast": [
-        "Anna Kendrick",
-        "Shirley MacLaine",
-        "Bill Hader",
-        "Kingsley Ben-Adir",
-        "Julie Hagerty",
-        "Billy Eichner",
-        "Maceo Smedley",
-        "Diana Maria Riva"
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Tobias Jelinek",
+        "Larry Bagby"
       ],
       "rank": 6,
-      "id": "tt5097410",
-      "name": "Noelle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
-      "rating": 6.6,
-      "year": 2019,
+      "id": "tt0107120",
+      "name": "El retorno de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
+      "rating": 7.048,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -188,34 +225,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
       "genres": [
-        "Aventura",
-        "Fantasía",
-        "Acción"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
-      "runtime": "179 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ev0PWpXvWWoWsg69hOcXjZs2Ayn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xSfU0bsDvoDsTAENYYKlI6UgDFn.png",
+      "runtime": "115 min",
       "director": [
-        "Peter Jackson"
+        "Parker Finn"
       ],
       "cast": [
-        "Elijah Wood",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "Sean Astin",
-        "Ian Holm",
-        "Liv Tyler",
-        "Christopher Lee",
-        "Sean Bean"
+        "Sosie Bacon",
+        "Kyle Gallner",
+        "Jessie T. Usher",
+        "Robin Weigert",
+        "Caitlin Stasey",
+        "Kal Penn",
+        "Rob Morgan",
+        "Gillian Zinser"
       ],
       "rank": 7,
-      "id": "tt0120737",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "rating": 8.448,
-      "year": 2001,
+      "id": "tt15474916",
+      "name": "Smile",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+      "rating": 6.665,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -250,7 +286,7 @@
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.459,
+      "rating": 7.46,
       "year": 2026,
       "days": null,
       "trend": {
@@ -260,34 +296,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
       "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "runtime": "109 min",
       "director": [
-        "Griffin Dunne"
+        "Lee Unkrich"
       ],
       "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Arau",
+        "Herbert Siguenza"
       ],
       "rank": 9,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
-      "year": 1998,
+      "id": "tt2380307",
+      "name": "Coco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "rating": 8.203,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -296,34 +333,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
       "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
+        "Misterio",
+        "Suspense",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
       "director": [
-        "Kenny Ortega"
+        "M. Night Shyamalan"
       ],
       "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
       ],
       "rank": 10,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7,
-      "year": 1993,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.957,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -332,5 +369,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

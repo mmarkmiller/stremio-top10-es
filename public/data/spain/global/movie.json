@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -11,7 +11,7 @@
         "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oZ90HWqkkpL42ghX1T9zhGZgBeb.png",
+      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
       "runtime": "89 min",
       "director": [
         "Sacha Baron Cohen"
@@ -19,18 +19,53 @@
       "cast": [
         "Sacha Baron Cohen",
         "Morgana Robinson",
-        "C. Stewart Rodeheaver",
-        "Allan Lichtman",
-        "George Santos",
+        "Alpha Miknas",
         "Clive Russell",
+        "A$AP Rocky",
+        "Rihanna",
         "Tiffany Haddish",
         "DJ Jazzy Jeff"
       ],
       "rank": 1,
       "id": "tt43655467",
       "name": "Ali G: Kién es yo?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
-      "rating": 6.7,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
+      "rating": 5.964,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
+      "runtime": "103 min",
+      "director": [
+        "Sergej Moya"
+      ],
+      "cast": [
+        "Lisa-Marie Koroll",
+        "Amin Baahmed",
+        "Gustav Schmidt",
+        "Mišel Matičević",
+        "Lucie Heinze",
+        "Frederic Linkemann",
+        "Inka Friedrich",
+        "Jeanette Hain"
+      ],
+      "rank": 2,
+      "id": "tt37180686",
+      "name": "Drive: Los farsantes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,82 +96,12 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.288,
+      "rating": 8.29,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png",
-      "runtime": "129 min",
-      "director": [
-        "Michael Haneke"
-      ],
-      "cast": [
-        "Isabelle Huppert",
-        "Annie Girardot",
-        "Benoît Magimel",
-        "Susanne Lothar",
-        "Udo Samel",
-        "Anna Sigalevitch",
-        "Cornelia Köndgen",
-        "Thomas Weinhappel"
-      ],
-      "rank": 3,
-      "id": "tt0254686",
-      "name": "La pianista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
-      "rating": 7.3,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
-      "runtime": "107 min",
-      "director": [
-        "Matt Johnson"
-      ],
-      "cast": [
-        "Dominic Sessa",
-        "Antonio Banderas",
-        "Emilia Jones",
-        "Leo Woodall",
-        "Stavros Halkias",
-        "Michael Jibrin",
-        "Monica Raymund",
-        "Rich Sommer"
-      ],
-      "rank": 4,
-      "id": "tt33095251",
-      "name": "Tony",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.464,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,85 +133,12 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.947,
+      "rating": 7.948,
       "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Ciencia ficción",
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
-      "runtime": "110 min",
-      "director": [
-        "Charlie McDowell"
-      ],
-      "cast": [
-        "Jason Segel",
-        "Rooney Mara",
-        "Robert Redford",
-        "Jesse Plemons",
-        "Riley Keough",
-        "Ron Canada",
-        "Brian McCarthy",
-        "Kimleigh Smith"
-      ],
-      "rank": 6,
-      "id": "tt5155780",
-      "name": "The Discovery",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
-      "rating": 6.261,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
-      ],
-      "rank": 7,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.6,
-      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,7 +169,7 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
@@ -308,7 +200,7 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
@@ -344,7 +236,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -355,8 +247,113 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Centro de Ocio John Nike en West Staines va a cerrar por falta de fondos. A Ali G le preocupa el destino del club alternativo de boy scouts que ha estado dirigiendo hasta ese momento. Decidido a salvar el centro se encadena a una estación de autobuses de Staines. Así­ consigue llamar la atención del primer ministro, que andaba buscando a un joven intelectual que le ayudase a ganar las elecciones en Staines, y que cree haber encontrado en él al hombre que necesitaba. El político convence a Ali de que la mejor forma de salvar el centro es presentarse a las elecciones para el Gobierno, y Ali le toma la palabra.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gzaSxlMCrQaFTjYc8MNmYAv092.png",
+      "runtime": "84 min",
+      "director": [
+        "Mark Mylod"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Michael Gambon",
+        "Charles Dance",
+        "Kellie Bright",
+        "Martin Freeman",
+        "Paul Clayton",
+        "Rhona Mitra",
+        "Tony Way"
+      ],
+      "rank": 8,
+      "id": "tt0284837",
+      "name": "Ali G anda suelto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zcXqLPY9KPTLzFf5SgpkyfGWjKa.jpg",
+      "rating": 6.1,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra una historia de amor no convencional, ambientada en un mundo distópico, en el que según las reglas establecidas, los solteros son arrestados y enviados a un lugar donde tienen que encontrar pareja en un plazo de 45 días. El tema central es la soledad, el temor a morir solo, a vivir solo, y también al temor a vivir con alguien.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v2tbCPD2usCRioqhRKGY34CH4ei.png",
+      "runtime": "118 min",
+      "director": [
+        "Yorgos Lánthimos"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Rachel Weisz",
+        "Olivia Colman",
+        "Léa Seydoux",
+        "Michael Smiley",
+        "Ariane Labed",
+        "John C. Reilly",
+        "Ben Whishaw"
+      ],
+      "rank": 9,
+      "id": "tt3464902",
+      "name": "Langosta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uGJ7JNSwvt9wr4XO2uoNGtXIdrq.jpg",
+      "rating": 7.017,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Leo Woodall",
+        "Stavros Halkias",
+        "Michael Jibrin",
+        "Monica Raymund",
+        "Rich Sommer"
+      ],
+      "rank": 10,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.436,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

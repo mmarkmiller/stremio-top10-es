@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.202,
+      "rating": 7.203,
       "year": 2026,
       "days": null,
       "trend": {
@@ -98,44 +98,8 @@
       "id": "tt0087800",
       "name": "Pesadilla en Elm Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
-      "rating": 7.357,
+      "rating": 7.358,
       "year": 1984,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
-      "genres": [
-        "Terror",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
-      "runtime": "82 min",
-      "director": [
-        "Michael Dougherty"
-      ],
-      "cast": [
-        "Brian Cox",
-        "Quinn Lord",
-        "Anna Paquin",
-        "Dylan Baker",
-        "Leslie Bibb",
-        "Tahmoh Penikett",
-        "Rochelle Aytes",
-        "Britt McKillip"
-      ],
-      "rank": 4,
-      "id": "tt0862856",
-      "name": "Truco o trato: Terror en Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
-      "rating": 6.986,
-      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,11 +131,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.947,
+      "rating": 7.948,
       "year": 2009,
       "days": null,
       "trend": {
@@ -181,33 +145,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
       "genres": [
-        "Misterio",
-        "Suspense"
+        "Terror",
+        "Fantasía",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
+      "runtime": "82 min",
       "director": [
-        "Paul Feig"
+        "Michael Dougherty"
       ],
       "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
+        "Brian Cox",
+        "Quinn Lord",
+        "Anna Paquin",
+        "Dylan Baker",
+        "Leslie Bibb",
+        "Tahmoh Penikett",
+        "Rochelle Aytes",
+        "Britt McKillip"
       ],
-      "rank": 6,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.251,
-      "year": 2025,
+      "rank": 5,
+      "id": "tt0862856",
+      "name": "Truco o trato: Terror en Halloween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
+      "rating": 6.989,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,47 +203,12 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
+      "rating": 6.83,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Sgr19oWCPh9m3LRWScNqWrqGDF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4QexYP92sCpGK1PeBwN3mhyrD6H.png",
-      "runtime": "92 min",
-      "director": [
-        "Tim Burton"
-      ],
-      "cast": [
-        "Alec Baldwin",
-        "Geena Davis",
-        "Winona Ryder",
-        "Catherine O'Hara",
-        "Jeffrey Jones",
-        "Michael Keaton",
-        "Glenn Shadix",
-        "Sylvia Sidney"
-      ],
-      "rank": 8,
-      "id": "tt0094721",
-      "name": "Bitelchús",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
-      "rating": 7.367,
-      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,12 +238,82 @@
         "Joe Turkel",
         "Anne Jackson"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0081505",
       "name": "El resplandor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
       "rating": 8.2,
       "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
+      "director": [
+        "Paul Feig"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 8,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.251,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Sgr19oWCPh9m3LRWScNqWrqGDF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QexYP92sCpGK1PeBwN3mhyrD6H.png",
+      "runtime": "92 min",
+      "director": [
+        "Tim Burton"
+      ],
+      "cast": [
+        "Alec Baldwin",
+        "Geena Davis",
+        "Winona Ryder",
+        "Catherine O'Hara",
+        "Jeffrey Jones",
+        "Michael Keaton",
+        "Glenn Shadix",
+        "Sylvia Sidney"
+      ],
+      "rank": 9,
+      "id": "tt0094721",
+      "name": "Bitelchús",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
+      "rating": 7.367,
+      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -347,7 +347,7 @@
       "id": "tt0074285",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.3,
+      "rating": 7.343,
       "year": 1976,
       "days": null,
       "trend": {
@@ -357,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
-      "director": [
-        "Kenny Ortega"
-      ],
-      "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
-      ],
-      "rank": 1,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
@@ -64,12 +28,84 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
       "rating": 7.856,
       "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
+      "runtime": "96 min",
+      "director": [
+        "Kenny Ortega"
+      ],
+      "cast": [
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Tobias Jelinek",
+        "Larry Bagby"
+      ],
+      "rank": 2,
+      "id": "tt0107120",
+      "name": "El retorno de las brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
+      "rating": 7.048,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
+      "runtime": "108 min",
+      "director": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ],
+      "cast": [
+        "Samara Weaving",
+        "Kathryn Newton",
+        "Sarah Michelle Gellar",
+        "Shawn Hatosy",
+        "Elijah Wood",
+        "Nestor Carbonell",
+        "Maia Jae",
+        "Juan Pablo Romero"
+      ],
+      "rank": 3,
+      "id": "tt33978029",
+      "name": "Noche de bodas 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "rating": 7.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -101,120 +137,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "rating": 8.278,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
-      "runtime": "108 min",
-      "director": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
-      ],
-      "cast": [
-        "Samara Weaving",
-        "Kathryn Newton",
-        "Sarah Michelle Gellar",
-        "Shawn Hatosy",
-        "Elijah Wood",
-        "Nestor Carbonell",
-        "Maia Jae",
-        "Juan Pablo Romero"
-      ],
-      "rank": 4,
-      "id": "tt33978029",
-      "name": "Noche de bodas 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
-      "rating": 7.52,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 5,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.459,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql3fKqsD2DIMLhZe29T9AxnQpTx.png",
-      "runtime": "115 min",
-      "director": [
-        "Thomas Kail"
-      ],
-      "cast": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
-      ],
-      "rank": 6,
-      "id": "tt27419466",
-      "name": "Vaiana",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -246,12 +173,79 @@
         "Susan May Pratt",
         "Gabrielle Union"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt0147800",
       "name": "10 razones para odiarte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
       "rating": 7.603,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "James Cameron y Simcha Jacobovici van a la aventura de encontrar la ciudad perdida de Atlantis utilizando al filósofo griego Platón como un mapa del tesoro virtual.",
+      "genres": [
+        "Documental",
+        "Aventura",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yxv2rcOOQozB4LlfbL0AKsY8xzk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xEMx9LAYcbcLOyCT9m0VX7ilRP.png",
+      "runtime": "93 min",
+      "director": [
+        "Simcha Jacobovici"
+      ],
+      "cast": [
+        "James Cameron",
+        "Simcha Jacobovici",
+        "Charles Pellegrino"
+      ],
+      "rank": 6,
+      "id": "tt6467274",
+      "name": "El Resurgir de la Atlántida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uheYyCgkmLpgbfqwlmlaqF4GcZh.jpg",
+      "rating": 6.4,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 7,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.46,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,7 +281,7 @@
       "id": "tt0173886",
       "name": "Halloweentown: ¡Qué familia la mía!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
-      "rating": 6.84,
+      "rating": 6.8,
       "year": 1998,
       "days": null,
       "trend": {
@@ -297,34 +291,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "es una comedia navideña ambientada en el Polo Norte, en una época en la que Santa se prepara para retirarse y transmitir los reinados a su hijo Nick Claus. Sin embargo, el estrés de su futuro papel comienza a afectar a Nick, que no siente tan arraigado el espíritu navideño como los demás miembros de su familia.",
+      "description": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "genres": [
         "Familia",
+        "Fantasía",
         "Comedia",
-        "Fantasía"
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dVM0ZSzbMbz7b0LxrNRz1gdhcGM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WQXFAYFjTolQj1NLhMt9FNyZMh.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ql3fKqsD2DIMLhZe29T9AxnQpTx.png",
+      "runtime": "115 min",
       "director": [
-        "Marc Lawrence"
+        "Thomas Kail"
       ],
       "cast": [
-        "Anna Kendrick",
-        "Shirley MacLaine",
-        "Bill Hader",
-        "Kingsley Ben-Adir",
-        "Julie Hagerty",
-        "Billy Eichner",
-        "Maceo Smedley",
-        "Diana Maria Riva"
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams",
+        "Jemaine Clement",
+        "Emma Puahi-Shapazian",
+        "Amaya Masoli"
       ],
       "rank": 9,
-      "id": "tt5097410",
-      "name": "Noelle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
-      "rating": 6.6,
-      "year": 2019,
+      "id": "tt27419466",
+      "name": "Vaiana",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
+      "rating": 7.491,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,7 +355,7 @@
       "id": "tt2380307",
       "name": "Coco",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
-      "rating": 8.202,
+      "rating": 8.203,
       "year": 2017,
       "days": null,
       "trend": {
@@ -370,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

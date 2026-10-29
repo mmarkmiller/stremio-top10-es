@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -11,7 +11,7 @@
         "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oZ90HWqkkpL42ghX1T9zhGZgBeb.png",
+      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
       "runtime": "89 min",
       "director": [
         "Sacha Baron Cohen"
@@ -19,18 +19,18 @@
       "cast": [
         "Sacha Baron Cohen",
         "Morgana Robinson",
-        "C. Stewart Rodeheaver",
-        "Allan Lichtman",
-        "George Santos",
+        "Alpha Miknas",
         "Clive Russell",
+        "A$AP Rocky",
+        "Rihanna",
         "Tiffany Haddish",
         "DJ Jazzy Jeff"
       ],
       "rank": 1,
       "id": "tt43655467",
       "name": "Ali G: Kién es yo?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
-      "rating": 6.7,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
+      "rating": 5.964,
       "year": 2026,
       "days": null,
       "trend": {
@@ -112,34 +112,66 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Enloquecido por el poder, el brutal rey Hiperión ha declarado la guerra a los hombres. Después de reunir a un ejército sediento de sangre formado por soldados que él mismo mandó desfigurar, Hiperión quema Grecia mientras busca un arma de poder inconcebible: el legendario arco Epiro, hecho por Ares en el Olimpo. El hombre que posea ese arco podrá liberar a los Titanes, que están encerrados en el monte Tártaro desde el principio de los tiempos, y claman venganza. Sin embargo, en manos de Hiperión, el arco significaría la destrucción de la raza humana y la aniquilación de los dioses. La ley prohíbe que los dioses se entrometan en los conflictos humanos, y nada pueden hacer para detener al rey. Pero la esperanza renace cuando Zeus encomienda al campesino Teseo la misión de acabar con Hiperión.",
       "genres": [
-        "Fantasía",
-        "Acción",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dwqibq6mExnzjLKL0hlY94YiLQP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kWzOXG0ACK4OD2p5ynKduvoiCa.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
+      "runtime": "106 min",
       "director": [
-        "Tarsem Singh"
+        "Jaron Lockridge"
       ],
       "cast": [
-        "Henry Cavill",
-        "Mickey Rourke",
-        "Stephen Dorff",
-        "Freida Pinto",
-        "Luke Evans",
-        "John Hurt",
-        "Joseph Morgan",
-        "Isabel Lucas"
+        "Ketrick \"Jazz\" Copeland",
+        "Shi Smith",
+        "Jeremy Shaw",
+        "Jalen Moffitt",
+        "Timberly Hope",
+        "Jeff Haltom",
+        "Tymika Chambliss",
+        "Steve Haltom"
       ],
       "rank": 4,
-      "id": "tt1253864",
-      "name": "Immortals",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pnKAKwyMhBc2dhaWQLPrrSsBlYl.jpg",
-      "rating": 6.1,
-      "year": 2011,
+      "id": "tt27553457",
+      "name": "Betray",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
+      "rating": 4.8,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
+      ],
+      "rank": 5,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.343,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +203,7 @@
         "Brad Schacter",
         "Garn Stephens"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0085636",
       "name": "Halloween III: El día de la bruja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hbnLPuazrrUqHxbm2Tsd22tHdHQ.jpg",
@@ -185,104 +217,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Greta es una joven americana que acepta trabajar como niñera en Inglaterra huyendo de su pasado. Para su sorpresa, el niño al que tiene que cuidar es un muñeco a tamaño real. Además, en el cumplimiento de su trabajo tiene que seguir unas reglas muy estrictas. Cuando se queda sola, Greta desobedece las normas, lo que desencadena una serie de eventos perturbadores que le llevarán a convencerse de que el muñeco podría estar vivo.",
+      "description": "El Centro de Ocio John Nike en West Staines va a cerrar por falta de fondos. A Ali G le preocupa el destino del club alternativo de boy scouts que ha estado dirigiendo hasta ese momento. Decidido a salvar el centro se encadena a una estación de autobuses de Staines. Así­ consigue llamar la atención del primer ministro, que andaba buscando a un joven intelectual que le ayudase a ganar las elecciones en Staines, y que cree haber encontrado en él al hombre que necesitaba. El político convence a Ali de que la mejor forma de salvar el centro es presentarse a las elecciones para el Gobierno, y Ali le toma la palabra.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mRUW8rmpCS2kH22eihPbbMIbFxU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jN4pLxhZ4EAiqDtDWPHcgAQMusB.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gzaSxlMCrQaFTjYc8MNmYAv092.png",
+      "runtime": "84 min",
       "director": [
-        "William Brent Bell"
+        "Mark Mylod"
       ],
       "cast": [
-        "Lauren Cohan",
-        "Rupert Evans",
-        "James Russell",
-        "Jim Norton",
-        "Diana Hardcastle",
-        "Ben Robson",
-        "Jett Klyne",
-        "Lily Pater"
-      ],
-      "rank": 6,
-      "id": "tt3882082",
-      "name": "The Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8BexaL67WNDhUMNN6XK3QSTumA.jpg",
-      "rating": 6,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de turistas deben luchar por sus vidas contra un hipopótamo desbocado, que anda suelto tras perderse en los pantanos de Luisiana.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sUfwD6yMR740c2xvYopzv6JqOL3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
-      "runtime": "93 min",
-      "director": [
-        "James Nunn"
-      ],
-      "cast": [
-        "Madison Davenport",
-        "Tracey Bonner",
-        "Joaquim de Almeida",
-        "Michel Curiel",
-        "Samantha Coughlan",
-        "Olivia Bernstone",
-        "Jim Meskimen",
-        "River Codack"
+        "Sacha Baron Cohen",
+        "Michael Gambon",
+        "Charles Dance",
+        "Kellie Bright",
+        "Martin Freeman",
+        "Paul Clayton",
+        "Rhona Mitra",
+        "Tony Way"
       ],
       "rank": 7,
-      "id": "tt34494076",
-      "name": "La Bestia del Pantano",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
-      "rating": 6.781,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 8,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.3,
-      "year": 1976,
+      "id": "tt0284837",
+      "name": "Ali G anda suelto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zcXqLPY9KPTLzFf5SgpkyfGWjKa.jpg",
+      "rating": 6.1,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,7 +273,7 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
@@ -327,33 +287,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "description": "Los habitantes de Seúl observan sorprendidos un extraño objeto que cuelga de un puente sobre el río Han. El objeto es, en realidad, una monstruosa criatura mutante que al despertar devora a todo aquel que se cruza en su camino. En medio de tanto horror, la criatura mutante rapta a la hija del dueño de un quiosco que vive felizmente a la orilla del río. Mientras el ejército fracasa una y otra vez en sus intentos de destruir al monstruo, este hombrecillo anónimo y su familia intentan recuperar a su hija.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6qEJ53ccu1scamg6Lb93L3NiHc1.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/44F22wn408ya0sipaezfRhTiBpQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yLarFVgUB84TtF3hrIV3zmNCtZh.png",
+      "runtime": "119 min",
       "director": [
-        "Clive Barker"
+        "Bong Joon-ho"
       ],
       "cast": [
-        "Andrew Robinson",
-        "Clare Higgins",
-        "Ashley Laurence",
-        "Oliver Smith",
-        "Sean Chapman",
-        "Robert Hines",
-        "Doug Bradley",
-        "Nicholas Vince"
+        "Song Kang-ho",
+        "변희봉",
+        "박해일",
+        "Bae Doona",
+        "Ko A-sung",
+        "오달수",
+        "이재응",
+        "Lee Dong-ho"
+      ],
+      "rank": 9,
+      "id": "tt0468492",
+      "name": "The Host",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i7nBba1XE6hVLzZZnGBkorkupBa.jpg",
+      "rating": 7,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
+      "runtime": "89 min",
+      "director": [
+        "James Ward Byrkit"
+      ],
+      "cast": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon",
+        "Lauren Maher",
+        "Elizabeth Gracen",
+        "Hugo Armstrong",
+        "Lorene Scafaria",
+        "Alex Manugian"
       ],
       "rank": 10,
-      "id": "tt0093177",
-      "name": "Hellraiser",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
-      "rating": 6.885,
-      "year": 1987,
+      "id": "tt2866360",
+      "name": "Coherence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
+      "rating": 7.208,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }

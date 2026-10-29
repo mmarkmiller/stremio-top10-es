@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202610282040",
+  "date": "202610292043",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.07,
+      "rating": 8.068,
       "year": 2022,
       "days": null,
       "trend": {
@@ -70,29 +70,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Comedia",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
       "director": [],
       "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
+        "Pearce Quigley",
+        "Michael Palin",
+        "Lauren Patel",
+        "Mackenzie Crook",
+        "Shola Adewusi",
+        "Paul Kaye",
+        "Jon Pointing",
+        "Sophie Willan"
       ],
       "rank": 3,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.822,
-      "year": 2024,
+      "id": "tt38504111",
+      "name": "Pequeños profetas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -123,7 +125,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.228,
+      "rating": 8.23,
       "year": 2023,
       "days": null,
       "trend": {
@@ -133,31 +135,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
       "director": [],
       "cast": [
-        "Pearce Quigley",
-        "Michael Palin",
-        "Lauren Patel",
-        "Mackenzie Crook",
-        "Shola Adewusi",
-        "Paul Kaye",
-        "Jon Pointing",
-        "Sophie Willan"
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
       ],
       "rank": 5,
-      "id": "tt38504111",
-      "name": "Pequeños profetas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8,
-      "year": 2026,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.828,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -197,29 +197,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
-      "director": [],
-      "cast": [],
-      "rank": 7,
-      "id": "tt29011445",
-      "name": "Buscando a Wanda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
-      "rating": 6.6,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
       "genres": [
         "Comedia"
@@ -237,42 +214,11 @@
         "Noah Carganilla",
         "Highdee Kuan"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 7.533,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El caos se cierne sobre una pareja de abogados felizmente casados cuando un famoso asesino de su pasado sale de la cárcel.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png",
-      "director": [],
-      "cast": [
-        "Amy Adams",
-        "Javier Bardem",
-        "Patrick Wilson",
-        "Joe Anders",
-        "Lily Collias",
-        "Malia Pyles",
-        "CCH Pounder"
-      ],
-      "rank": 9,
-      "id": "tt34675596",
-      "name": "Cape Fear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "rating": 7.2,
+      "rating": 7.563,
       "year": 2026,
       "days": null,
       "trend": {
@@ -300,7 +246,7 @@
         "Aimee Carrero",
         "Eunice Bae"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt30459041",
       "name": "Vicios ocultos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nnhMYhoIZl997vJ03YWkulhUlQO.jpg",
@@ -311,8 +257,68 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "director": [],
+      "cast": [
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
+      ],
+      "rank": 9,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.917,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
+      ],
+      "rank": 10,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.391,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-28T17:40:02.442Z"
+  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
 }
