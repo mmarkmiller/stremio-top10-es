@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.652,
+      "rating": 8.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -58,98 +58,8 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.568,
+      "rating": 8.569,
       "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
-      "director": [],
-      "cast": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Hank Azaria",
-        "Harry Shearer"
-      ],
-      "rank": 3,
-      "id": "tt0096697",
-      "name": "Los Simpson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.026,
-      "year": 1989,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Reality",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
-      "director": [],
-      "cast": [
-        "Alfonso Ribeiro",
-        "Julianne Hough",
-        "Derek Hough",
-        "Carrie Ann Inaba",
-        "Bruno Tonioli"
-      ],
-      "rank": 4,
-      "id": "tt0463398",
-      "name": "Dancing with the Stars",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-      "rating": 6.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 5,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.159,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -175,12 +85,42 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 6,
+      "rank": 3,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
       "rating": 8.203,
       "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png",
+      "director": [],
+      "cast": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer"
+      ],
+      "rank": 4,
+      "id": "tt0096697",
+      "name": "Los Simpson",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "rating": 8.027,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -208,11 +148,11 @@
         "Corinne Massiah",
         "Gavin McHugh"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.224,
+      "rating": 8.2,
       "year": 2018,
       "days": null,
       "trend": {
@@ -223,50 +163,25 @@
     {
       "artworkVersion": 4,
       "genres": [
-        "Documental"
+        "Reality",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rPbTluocmNkA5DRpD3zBiTuGU73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9TCr3hJTSuoJNOuxmosYUm793Yx.png",
+      "background": "https://image.tmdb.org/t/p/w1280/acDIozZUCXohK5NQYTiuZUJ2Yfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nq4peUCrj8B6GbPsLBzC3sXRzbA.png",
       "director": [],
       "cast": [
-        "Nick Saban",
-        "Terry Saban"
+        "Alfonso Ribeiro",
+        "Julianne Hough",
+        "Derek Hough",
+        "Carrie Ann Inaba",
+        "Bruno Tonioli"
       ],
-      "rank": 8,
-      "id": "tt39380586",
-      "name": "SABAN",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4NchWVzqtaxN1ZLdT5UumKz20bI.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
-      "director": [],
-      "cast": [
-        "松本梨香",
-        "Ikue Otani",
-        "Daiki Yamashita",
-        "Kenyu Horiuchi"
-      ],
-      "rank": 9,
-      "id": "tt0168366",
-      "name": "Pokémon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
-      "rating": 7.984,
-      "year": 1997,
+      "rank": 6,
+      "id": "tt0463398",
+      "name": "Dancing with the Stars",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "rating": 6.181,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,7 +205,7 @@
         "Cobie Smulders",
         "Cristin Milioti"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt0460649",
       "name": "Cómo conocí a vuestra madre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
@@ -301,8 +216,93 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png",
+      "director": [],
+      "cast": [
+        "Zach Braff",
+        "Donald Faison",
+        "John C. McGinley",
+        "Eliza Coupe",
+        "Kerry Bishé",
+        "Michael Mosley",
+        "Dave Franco"
+      ],
+      "rank": 9,
+      "id": "tt0285403",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "rating": 8.184,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia",
+        "Talk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yRfroDcvczmBqyoM0VpTggBG7kO.jpg",
+      "director": [],
+      "cast": [
+        "Hasan Can Kaya"
+      ],
+      "rank": 10,
+      "id": "tt13667230",
+      "name": "Konuşanlar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eH7TNhmGtpassN9O7GfZGNY8Czb.jpg",
+      "rating": 6,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

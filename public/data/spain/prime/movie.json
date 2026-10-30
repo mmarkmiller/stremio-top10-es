@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -10,7 +10,7 @@
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
       "runtime": "89 min",
       "director": [
@@ -30,7 +30,7 @@
       "id": "tt43655467",
       "name": "Ali G: Kién es yo?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 5.964,
+      "rating": 6.225,
       "year": 2026,
       "days": null,
       "trend": {
@@ -40,32 +40,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+      "description": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
       "genres": [
-        "Romance",
-        "Suspense"
+        "Acción",
+        "Suspense",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i9qka7Zx7QUvmhhEeR945k4H4iV.png",
+      "runtime": "96 min",
       "director": [
-        "Sergej Moya"
+        "Carles Torrens"
       ],
       "cast": [
-        "Lisa-Marie Koroll",
-        "Amin Baahmed",
-        "Gustav Schmidt",
-        "Mišel Matičević",
-        "Lucie Heinze",
-        "Frederic Linkemann",
-        "Inka Friedrich",
-        "Jeanette Hain"
+        "Carlos Alcaide",
+        "Julia Martínez",
+        "Mónica López",
+        "Tamara Casellas",
+        "Santiago Vaca Narvaja",
+        "José María Yázpik",
+        "Berta Vázquez",
+        "Axel Medrano"
       ],
       "rank": 2,
-      "id": "tt37180686",
-      "name": "Drive: Los farsantes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "rating": 8,
+      "id": "tt37522541",
+      "name": "Apocalipsis Z: Nuevo mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+      "rating": 6.875,
       "year": 2026,
       "days": null,
       "trend": {
@@ -111,6 +112,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2WuRafP7aBN0HKBBsDg3b5g7eDq.png",
+      "runtime": "103 min",
+      "director": [
+        "Sergej Moya"
+      ],
+      "cast": [
+        "Lisa-Marie Koroll",
+        "Amin Baahmed",
+        "Gustav Schmidt",
+        "Mišel Matičević",
+        "Lucie Heinze",
+        "Frederic Linkemann",
+        "Inka Friedrich",
+        "Jeanette Hain"
+      ],
+      "rank": 4,
+      "id": "tt37180686",
+      "name": "Drive: Los farsantes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "rating": 7.9,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
       "genres": [
         "Drama",
@@ -132,7 +168,7 @@
         "Monica Raymund",
         "Rich Sommer"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt33095251",
       "name": "Tony",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
@@ -146,99 +182,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Sixto Rodríguez fue un cantante de folk de Detroit que tuvo una carrera discográfica de corta duración, teniendo dos álbumes reconocidos, pero que no salieron a la venta, a principios de 1970.  Rodríguez continuó su carrera musical en el sur de África, convirtiéndose en un icono de la música pop, siendo un referente y sirviendo de inspiración a las futuras generaciones.  El largo rumor de que estaba muerto por suicidio, hizo que algunos fans de la década de los 90 buscaran la verdad del destino de su héroe.",
       "genres": [
-        "Western"
+        "Música",
+        "Documental"
       ],
-      "runtime": "81 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8RafTGqYqAN9FJzvC75USKmJCso.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hIrYuwOFBBuAfUXhgWLoOrcJ3PB.png",
+      "runtime": "87 min",
       "director": [
-        "Mark Allen Michaels"
+        "Malik Bendjelloul"
       ],
       "cast": [
-        "Dallas Valdez",
-        "Carrie Keagan",
-        "William Carr",
-        "Seamus Cattaneo",
-        "Paul Kirwin",
-        "Curt Lambert",
-        "John Marrs",
-        "Joe Whitemore"
-      ],
-      "rank": 5,
-      "id": "tt34581665",
-      "name": "Jet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bxyeXxLpXTECqB823thmRXbwOvi.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png",
-      "runtime": "129 min",
-      "director": [
-        "Michael Haneke"
-      ],
-      "cast": [
-        "Isabelle Huppert",
-        "Annie Girardot",
-        "Benoît Magimel",
-        "Susanne Lothar",
-        "Udo Samel",
-        "Anna Sigalevitch",
-        "Cornelia Köndgen",
-        "Thomas Weinhappel"
+        "Stephen Segerman",
+        "Rodriguez",
+        "Regan Rodriguez",
+        "Eva Rodriguez",
+        "Mike Theodore",
+        "Dennis Coffey",
+        "Sandra Rodriguez-Kennedy",
+        "Clarence Avant"
       ],
       "rank": 6,
-      "id": "tt0254686",
-      "name": "La pianista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
-      "rating": 7.259,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 7,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.814,
-      "year": 2026,
+      "id": "tt2125608",
+      "name": "Searching for Sugar Man",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "rating": 7.865,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -269,11 +239,11 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.247,
+      "rating": 7.251,
       "year": 2026,
       "days": null,
       "trend": {
@@ -283,33 +253,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las vacaciones de verano de 1983, Shaun, un niño solitario cuyo padre ha muerto en la guerra de Las Malvinas, es adoptado por un grupo de cabezas rapadas (skinheads). Con sus nuevos amigos, Shaun descubre las fiestas, su primer amor y las botas Dr. Martins. Uno de sus amigos es Combo, un skin racista que acaba de salir de la cárcel.",
+      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Ciencia ficción",
+        "Acción",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9JpS3EPGWVidpVW6LjTlXJ6jrKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/34MwS0ySpMiNhhDehiEoQ2xjDbo.png",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
+      "runtime": "134 min",
       "director": [
-        "Shane Meadows"
+        "Gore Verbinski"
       ],
       "cast": [
-        "Thomas Turgoose",
-        "Stephen Graham",
-        "Jo Hartley",
-        "Andrew Shim",
-        "Vicky McClure",
-        "Joseph Gilgun",
-        "Rosamund Hanson",
-        "Andrew Ellis"
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson",
+        "Michael Peña",
+        "Zazie Beetz",
+        "Asim Chaudhry",
+        "Tom Taylor",
+        "Georgia Goodman"
       ],
-      "rank": 9,
-      "id": "tt0480025",
-      "name": "This Is England",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bmhVn89BoAAIziFklH3TusE26H0.jpg",
-      "rating": 7.488,
-      "year": 2007,
+      "rank": 8,
+      "id": "tt1341338",
+      "name": "Buena suerte, pásalo bien, no mueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "rating": 7.106,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -318,33 +289,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "description": "Cuando el patriarca de la familia muere, una madre y una hija afligidas arriesgan sus vidas para llevar a cabo un brutal ritual de resurrección y resucitarlo de entre los muertos.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Drama",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/adSehPPtjXnw0bOzzESkyPnosqs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKsS1xD2XDwfWPBX7pnQ9krL4Ys.png",
+      "runtime": "85 min",
       "director": [
-        "Denis Villeneuve"
+        "Julia Max"
       ],
       "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
+        "Kate Burton",
+        "Colby Minifie",
+        "Neil Sandilands",
+        "Vaughn Armstrong",
+        "Mia Ellis",
+        "Pete Ploszek",
+        "Chelsea Alden",
+        "Riley Rose Critchlow"
+      ],
+      "rank": 9,
+      "id": "tt33270263",
+      "name": "The Surrender",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5rQUk8ePj8ggSebtOfF5lFh01my.jpg",
+      "rating": 5.947,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores. Los bomberos derriban la puerta y, seguidos por Ángela y el cámara, encuentran a la anciana semiinconsciente, rodeada por decenas de gatos. De pronto, la mujer se lanza sobre un bombero y le muerde salvajemente. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MTHVfhHBgXrqTNHs83rQiSfBYh.png",
+      "runtime": "78 min",
+      "director": [
+        "Jaume Balagueró",
+        "Paco Plaza"
+      ],
+      "cast": [
+        "Manuela Velasco",
+        "Pablo Rosso",
+        "Javier Coromina",
+        "Ferrán Terraza",
+        "Martha Carbonell",
+        "David Vert",
+        "Carlos Lasarte",
+        "Vicente Gil"
       ],
       "rank": 10,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
-      "rating": 7.786,
-      "year": 2021,
+      "id": "tt1038988",
+      "name": "[•REC]",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg",
+      "rating": 7.238,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

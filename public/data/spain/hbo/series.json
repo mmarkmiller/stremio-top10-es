@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.682,
+      "rating": 8.697,
       "year": 2026,
       "days": null,
       "trend": {
@@ -35,25 +35,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
       "genres": [
         "Drama",
-        "Misterio",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Noah Reid",
+        "Clark Backo",
+        "Hudson Williams",
+        "Carrie-Anne Moss"
       ],
       "rank": 2,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.234,
+      "id": "tt39980704",
+      "name": "Yaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -128,119 +128,56 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 5,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 7.02,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
         "Drama",
+        "Misterio",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zTGxRtGIFRVrrSXpcLHoNcKrobg.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
       "director": [],
       "cast": [
-        "Noah Reid",
-        "Clark Backo",
-        "Hudson Williams",
-        "Carrie-Anne Moss"
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 5,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.227,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
+      "director": [],
+      "cast": [
+        "Elijah Wood",
+        "Collin Dean",
+        "Melanie Lynskey"
       ],
       "rank": 6,
-      "id": "tt39980704",
-      "name": "Yaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 6.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
-      "director": [],
-      "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
-      ],
-      "rank": 7,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.4,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
-      "director": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
-      ],
-      "rank": 8,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 6.9,
-      "year": 2026,
+      "id": "tt3718778",
+      "name": "Más allá del jardín",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "rating": 8.569,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -266,11 +203,11 @@
         "Isa Briones",
         "Gerran Howell"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt31938062",
       "name": "The Pitt",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.7,
+      "rating": 8.737,
       "year": 2025,
       "days": null,
       "trend": {
@@ -280,27 +217,90 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
+      "director": [],
+      "cast": [
+        "Alan Cumming",
+        "David Morrissey",
+        "Elizabeth Berrington",
+        "Pooky Quesnel",
+        "Iz Hesketh",
+        "Paul Rhys",
+        "Jackson Connor",
+        "Joseph William Evans"
+      ],
+      "rank": 8,
+      "id": "tt35768911",
+      "name": "De puntillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
+      "rating": 7.02,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+      "director": [],
+      "cast": [
+        "Margarita Rosa de Francisco",
+        "Macarena Achaga",
+        "Diego Klein",
+        "Christian Vázquez",
+        "Juan Pablo Castaneda",
+        "Ana Belén Aguilar",
+        "Armando Espitia",
+        "Leonardo Daniel"
+      ],
+      "rank": 9,
+      "id": "tt38116565",
+      "name": "Colisión",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wPG2QWYx6pVa2ich4ATFoQxngVW.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "background": "https://image.tmdb.org/t/p/w1280/7RySzFeK3LPVMXcPtqfZnl6u4p1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png",
       "director": [],
       "cast": [
-        "Jennifer Aniston",
-        "Courteney Cox",
-        "Lisa Kudrow",
-        "Matt LeBlanc",
-        "Matthew Perry",
-        "David Schwimmer"
+        "Johnny Galecki",
+        "Jim Parsons",
+        "Kaley Cuoco",
+        "Simon Helberg",
+        "Kunal Nayyar",
+        "Melissa Rauch",
+        "Mayim Bialik"
       ],
       "rank": 10,
-      "id": "tt0108778",
-      "name": "Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "rating": 8.408,
-      "year": 1994,
+      "id": "tt0898266",
+      "name": "Big Bang",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "rating": 7.928,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

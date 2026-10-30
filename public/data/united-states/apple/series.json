@@ -2,8 +2,41 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
+      "director": [],
+      "cast": [
+        "Liev Schreiber",
+        "Zazie Beetz",
+        "Stephen Graham",
+        "Bill Camp",
+        "Rory Culkin",
+        "Chrissy Metz",
+        "Poorna Jagannathan",
+        "Gary Carr"
+      ],
+      "rank": 1,
+      "id": "tt26598805",
+      "name": "Nocturno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "rating": 5.818,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
@@ -24,45 +57,12 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.068,
+      "rating": 8.066,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
-      "director": [],
-      "cast": [
-        "Pearce Quigley",
-        "Michael Palin",
-        "Lauren Patel",
-        "Mackenzie Crook",
-        "Shola Adewusi",
-        "Paul Kaye",
-        "Jon Pointing",
-        "Sophie Willan"
-      ],
-      "rank": 2,
-      "id": "tt38504111",
-      "name": "Pequeños profetas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 8,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -92,8 +92,41 @@
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.828,
+      "rating": 7.827,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lO4j49i7BvRoyHonVbzypTradMK.png",
+      "director": [],
+      "cast": [
+        "Pearce Quigley",
+        "Michael Palin",
+        "Lauren Patel",
+        "Mackenzie Crook",
+        "Shola Adewusi",
+        "Paul Kaye",
+        "Jon Pointing",
+        "Sophie Willan"
+      ],
+      "rank": 4,
+      "id": "tt38504111",
+      "name": "Pequeños profetas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -119,11 +152,11 @@
         "Kingston Rumi Southwick",
         "Stephen Root"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.011,
+      "rating": 8.015,
       "year": 2026,
       "days": null,
       "trend": {
@@ -151,7 +184,7 @@
         "Tanya Reynolds",
         "Rex Hayes"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
@@ -182,35 +215,12 @@
         "Noah Carganilla",
         "Highdee Kuan"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
       "rating": 7.563,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
-      "director": [],
-      "cast": [],
-      "rank": 7,
-      "id": "tt29011445",
-      "name": "Buscando a Wanda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
-      "rating": 6.585,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +251,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.23,
+      "rating": 8.2,
       "year": 2023,
       "days": null,
       "trend": {
@@ -251,25 +261,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "Un thriller psicológico ambientado en Manhattan en el verano de 1979, cuando arrestan a un joven por un crimen espeluznante y una insólita investigadora debe resolver el misterio que se esconde tras él.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Crimen",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vemSq7lIjs4X0GQBbb4pC833P3j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sJ1C3EyW3Jb4UxRYJXXX64BTk73.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "Tom Holland",
+        "Amanda Seyfried",
+        "Sasha Lane",
+        "Will Chase",
+        "ליאור רז",
+        "Emmy Rossum",
+        "Thomas Sadoski"
       ],
       "rank": 9,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.917,
-      "year": 2025,
+      "id": "tt14417718",
+      "name": "The Crowded Room",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ycvMXrRjpWBKB59n8hbyLuGtuNB.jpg",
+      "rating": 7.673,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -278,28 +293,21 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qlQdtKyyjkq3kv5hHZeEcVrttvh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
       "director": [],
-      "cast": [
-        "Owen Wilson",
-        "Peter Dager",
-        "Lilli Kay",
-        "Mariana Treviño",
-        "Marc Maron",
-        "Rhea Seehorn"
-      ],
+      "cast": [],
       "rank": 10,
-      "id": "tt31710249",
-      "name": "Sticks: Cracks del golf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
-      "rating": 7.3,
-      "year": 2025,
+      "id": "tt29011445",
+      "name": "Buscando a Wanda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+      "rating": 6.585,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -308,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

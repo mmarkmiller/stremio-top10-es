@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.652,
+      "rating": 8.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -38,31 +38,60 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "description": "En el año 2024, unos monstruos de lo más extraños merodean por las ruinas de Japón mientras las personas que quedan reúnen cuanto pueden para seguir con vida. Kiruko acepta la última voluntad de una misteriosa mujer: llevar a un chaval llamado Maru a un lugar conocido como el Edén.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
+        "Animación",
+        "Misterio",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "background": "https://image.tmdb.org/t/p/w1280/p3NtYk9lW1O1gidnfDaIB2NtpNc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eTfNm4f3nIdYTil5vOJ28Xx8GpP.png",
       "director": [],
       "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park",
-        "Elijah Fox"
+        "Gen Sato",
+        "Sayaka Senbongi",
+        "Hibiku Yamamura",
+        "Toshiyuki Toyonaga",
+        "Misato Fukuen",
+        "Shunsuke Takeuchi",
+        "Tomoyo Kurosawa",
+        "Misato Matsuoka"
       ],
       "rank": 2,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-      "rating": 7.5,
-      "year": 2026,
+      "id": "tt22817632",
+      "name": "TENGOKU-DAIMAKYO",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
+      "rating": 8.013,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 3,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.5,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -90,7 +119,7 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
@@ -104,177 +133,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
       "genres": [
+        "Comedia",
         "Drama",
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 4,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.159,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
       ],
       "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
-      "director": [],
-      "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
-      ],
-      "rank": 6,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "rating": 7.485,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.5,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
-      "director": [],
-      "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
-      ],
-      "rank": 7,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.655,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
-      "director": [],
-      "cast": [
-        "Ellen Pompeo",
-        "Chandra Wilson",
-        "James Pickens Jr.",
-        "Caterina Scorsone",
-        "Camilla Luddington",
-        "Jason George",
-        "Chris Carmack",
-        "Anthony Hill"
-      ],
-      "rank": 8,
-      "id": "tt0413573",
-      "name": "Anatomía de Grey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
-      "rating": 8.203,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png",
-      "director": [],
-      "cast": [
-        "Ed O'Neill",
-        "Sofía Vergara",
-        "Julie Bowen",
-        "Ty Burrell",
-        "Jesse Tyler Ferguson",
-        "Eric Stonestreet",
-        "Sarah Hyland",
-        "Ariel Winter"
-      ],
-      "rank": 9,
-      "id": "tt1442437",
-      "name": "Modern Family",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gabjqvbqXsg4KL5JaBoPKPipiys.jpg",
-      "rating": 7.911,
-      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,12 +185,125 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.754,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png",
+      "director": [],
+      "cast": [
+        "David Duchovny",
+        "Gillian Anderson"
+      ],
+      "rank": 7,
+      "id": "tt0106179",
+      "name": "Expediente X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
+      "rating": 8.367,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
+      "director": [],
+      "cast": [
+        "Lauren Graham",
+        "Alexis Bledel",
+        "Scott Patterson",
+        "Melissa McCarthy",
+        "Keiko Agena",
+        "Yanic Truesdale",
+        "Liza Weil",
+        "Sean Gunn"
+      ],
+      "rank": 8,
+      "id": "tt0238784",
+      "name": "Las chicas Gilmore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "rating": 7.877,
+      "year": 2000,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 9,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.584,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/em2Jzx5QyBTVI7gKipCoE0kG4ot.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
+      "director": [],
+      "cast": [
+        "Zach Braff",
+        "Donald Faison",
+        "Sarah Chalke",
+        "Ava Bunn"
+      ],
+      "rank": 10,
+      "id": "tt40197357",
+      "name": "Scrubs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "rating": 7.7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

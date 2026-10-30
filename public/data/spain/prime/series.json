@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.599,
+      "rating": 8.602,
       "year": 2025,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.272,
+      "rating": 8.267,
       "year": 2026,
       "days": null,
       "trend": {
@@ -93,7 +93,7 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.993,
+      "rating": 8,
       "year": 2022,
       "days": null,
       "trend": {
@@ -165,88 +165,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "1977. Han pasado dos años después del asesinato del capataz de la finca y su mujer, dos tractoristas y la esposa de uno de ellos. Onofre, un periodista, decide volver al lugar de los hechos, que además es su pueblo, para realizar un reportaje. A su llegada al pueblo de Paradas (Sevilla), se da cuenta de que su amiga Chelo no le dirige la palabra, ya que su tío fue acusado de matar en aquel asesinato múltiple a la tía del periodista. En el pasado, siete semanas antes del asesinato, se observa cómo ninguna de las personas que se vieron afectadas por el caso sabía lo que estaba a punto de ocurrir.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Misterio",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qAmUwIENN2CYbjJ793OI9ajnHpx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9QvLH2ZO5fPuNFWbomkfekret3L.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Víctor Clavijo Cobos",
+        "José Pastor",
+        "Juan Fernández",
+        "Lara Grube",
+        "Paco Tous",
+        "Laura Baena",
+        "Cinta Ramírez",
+        "Óscar de la Fuente"
       ],
       "rank": 6,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
-      "director": [],
-      "cast": [
-        "Taylor Kinney",
-        "David Eigenberg",
-        "Christian Stolte",
-        "Miranda Rae Mayo",
-        "Hanako Greensmith",
-        "Jocelyn Hudon",
-        "Brandon Larracuente",
-        "Da'Vinchi"
-      ],
-      "rank": 7,
-      "id": "tt2261391",
-      "name": "Chicago Fire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-      "rating": 8.411,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
-      ],
-      "rank": 8,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.3,
-      "year": 2018,
+      "id": "tt29515825",
+      "name": "El Marqués",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m7pqSTLIDWtaAyeu4uAQSIanNUR.jpg",
+      "rating": 6.333,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -268,11 +211,11 @@
         "Sian Clifford",
         "Andrew Scott"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt5687612",
       "name": "Fleabag",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
-      "rating": 8.277,
+      "rating": 8.3,
       "year": 2016,
       "days": null,
       "trend": {
@@ -282,29 +225,84 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el infierno, el diablillo Blitzø (la 'o' es silenciosa) dirige un negocio de asesinos que apunta al mundo de los vivos, utilizando un libro de hechizos prestado de un príncipe del inframundo. Con los empleados Moxxie, Millie y Loona, intentan sobrevivir el uno al otro mientras mantienen el negocio a flote.",
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
       "genres": [
         "Animación",
-        "Comedia",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/biwM7pe2xzbSSo2RKNOjLqX95jV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
       "director": [],
       "cast": [
-        "Brandon Rogers",
-        "Richard Steven Horvitz",
-        "Vivian Nixon",
-        "Erica Lindbeck",
-        "Bryce Pinkham"
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
+      ],
+      "rank": 8,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.7,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 9,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.845,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png",
+      "director": [],
+      "cast": [
+        "David Duchovny",
+        "Gillian Anderson"
       ],
       "rank": 10,
-      "id": "tt10691770",
-      "name": "Helluva Boss",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-      "rating": 7.6,
-      "year": 2020,
+      "id": "tt0106179",
+      "name": "Expediente X",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
+      "rating": 8.367,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }

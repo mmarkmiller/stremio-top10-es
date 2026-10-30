@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610292043",
+  "date": "202610302014",
   "entries": [
     {
       "artworkVersion": 4,
@@ -12,7 +12,7 @@
         "Misterio",
         "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
       "runtime": "111 min",
       "director": [
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.01,
+      "rating": 7.007,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,8 +68,43 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.9,
+      "rating": 6.902,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "genres": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
+      "runtime": "152 min",
+      "director": [
+        "Chris Columbus"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
+      ],
+      "rank": 3,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.906,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,12 +135,48 @@
         "Nissan Sakira",
         "Gil Cohen"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.584,
+      "rating": 7.587,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dQ4avVp5YLwQchY2REA3eo8tXq8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png",
+      "runtime": "101 min",
+      "director": [
+        "Alejandro Amenábar"
+      ],
+      "cast": [
+        "Nicole Kidman",
+        "Alakina Mann",
+        "James Bentley",
+        "Fionnula Flanagan",
+        "Christopher Eccleston",
+        "Eric Sykes",
+        "Elaine Cassidy",
+        "Keith Allen"
+      ],
+      "rank": 5,
+      "id": "tt0230600",
+      "name": "Los otros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+      "rating": 7.619,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,11 +205,11 @@
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.405,
+      "rating": 6.401,
       "year": 1980,
       "days": null,
       "trend": {
@@ -169,7 +240,7 @@
         "Josh Brolin",
         "Javier Bardem"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
@@ -203,7 +274,7 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
@@ -217,68 +288,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
       "genres": [
-        "Suspense",
-        "Crimen",
-        "Comedia"
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
-      "runtime": "154 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
+      "runtime": "141 min",
       "director": [
-        "Quentin Tarantino"
+        "Coralie Fargeat"
       ],
       "cast": [
-        "John Travolta",
-        "Samuel L. Jackson",
-        "Uma Thurman",
-        "Bruce Willis",
-        "Ving Rhames",
-        "Harvey Keitel",
-        "Eric Stoltz",
-        "Tim Roth"
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams",
+        "Oscar Lesage",
+        "Christian Erickson",
+        "Robin Greer"
       ],
-      "rank": 7,
-      "id": "tt0110912",
-      "name": "Pulp Fiction",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "rating": 8.481,
-      "year": 1994,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un padre y su hija adolescente asisten a un concierto de música pop, donde se dan cuenta de que están en el centro de un oscuro y siniestro suceso.",
-      "genres": [
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2m3ZkLITwm1OA1ScrgKYX4JRQuH.png",
-      "runtime": "105 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Josh Hartnett",
-        "Ariel Donoghue",
-        "Saleka",
-        "Hayley Mills",
-        "Jonathan Langdon",
-        "Alison Pill",
-        "Mark Bacolcol",
-        "Marnie McPhail"
-      ],
-      "rank": 8,
-      "id": "tt26753003",
-      "name": "La trampa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j81fGYj8hjDhpdNSHzREWMaE8p8.jpg",
-      "rating": 6.206,
+      "rank": 9,
+      "id": "tt17526714",
+      "name": "La sustancia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
+      "rating": 7.13,
       "year": 2024,
       "days": null,
       "trend": {
@@ -288,64 +323,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "El profesor Albus Dumbledore sabe que el poderoso mago oscuro Gellert Grindelwald está haciendo planes para apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en el Magizoólogo Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legión cada vez más numerosa de seguidores de Grindelwald.",
       "genres": [
-        "Documental"
+        "Fantasía",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/50PTwaZz37eCd6eQr6aAs8tKlNH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/as4s6IwG2IuGggHfw9dtdvdrxxm.png",
-      "runtime": "40 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uQ3G9IFHcBsts67ifZQAiIOaUg3.png",
+      "runtime": "143 min",
       "director": [
-        "Brian Rivera"
+        "David Yates"
       ],
       "cast": [
-        "Kordell Stewart",
-        "Bill Cowher",
-        "Jerome Bettis",
-        "Mike Mularkey",
-        "Bob Pompeani",
-        "LZ Granderson"
-      ],
-      "rank": 9,
-      "id": "tt49164308",
-      "name": "Kordell Stewart / Slash & Burn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "genres": [
-        "Aventura",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
-      "runtime": "152 min",
-      "director": [
-        "Chris Columbus"
-      ],
-      "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
+        "Eddie Redmayne",
+        "Jude Law",
+        "Mads Mikkelsen",
+        "Ezra Miller",
+        "Dan Fogler",
+        "Alison Sudol",
+        "Callum Turner",
+        "Jessica Williams"
       ],
       "rank": 10,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.906,
-      "year": 2001,
+      "id": "tt4123432",
+      "name": "Animales fantásticos III. Los secretos de Dumbledore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg",
+      "rating": 6.6,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -354,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-29T17:39:45.344Z"
+  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
 }
