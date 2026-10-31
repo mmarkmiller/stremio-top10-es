@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,41 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.7,
+      "rating": 8.649,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
+      "director": [],
+      "cast": [
+        "Sarah Paulson",
+        "Evan Peters",
+        "Angela Bassett",
+        "Kathy Bates",
+        "Emma Roberts",
+        "Billie Lourd",
+        "Gabourey Sidibe",
+        "Leslie Grossman"
+      ],
+      "rank": 2,
+      "id": "tt1844624",
+      "name": "American Horror Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "rating": 8.081,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -58,7 +91,7 @@
         "Tomoyo Kurosawa",
         "Misato Matsuoka"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt22817632",
       "name": "TENGOKU-DAIMAKYO",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
@@ -86,45 +119,12 @@
         "Amita Rao",
         "Owen Thiele"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt33049767",
       "name": "Adults",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
       "rating": 6.5,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
-      "director": [],
-      "cast": [
-        "Sarah Paulson",
-        "Evan Peters",
-        "Angela Bassett",
-        "Kathy Bates",
-        "Emma Roberts",
-        "Billie Lourd",
-        "Gabourey Sidibe",
-        "Leslie Grossman"
-      ],
-      "rank": 4,
-      "id": "tt1844624",
-      "name": "American Horror Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.081,
-      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,90 +166,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
       "genres": [
-        "Action & Adventure",
-        "Comedia",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
-      "director": [],
-      "cast": [
-        "Mayumi Tanaka",
-        "Kazuya Nakai",
-        "矢口真里",
-        "Akemi Okamura",
-        "Kappei Yamaguchi",
-        "Hiroaki Hirata",
-        "Ikue Otani",
-        "Yuriko Yamaguchi"
-      ],
-      "rank": 6,
-      "id": "tt0388629",
-      "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.754,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
+        "Drama",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
       "director": [],
       "cast": [
-        "David Duchovny",
-        "Gillian Anderson"
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
       ],
-      "rank": 7,
-      "id": "tt0106179",
-      "name": "Expediente X",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
-      "rating": 8.367,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
-      "director": [],
-      "cast": [
-        "Lauren Graham",
-        "Alexis Bledel",
-        "Scott Patterson",
-        "Melissa McCarthy",
-        "Keiko Agena",
-        "Yanic Truesdale",
-        "Liza Weil",
-        "Sean Gunn"
-      ],
-      "rank": 8,
-      "id": "tt0238784",
-      "name": "Las chicas Gilmore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "rating": 7.877,
-      "year": 2000,
+      "rank": 6,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "rating": 7.485,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -271,11 +207,11 @@
         "Jenna Fischer",
         "Ed Helms"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0386676",
       "name": "The Office",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
+      "rating": 8.6,
       "year": 2005,
       "days": null,
       "trend": {
@@ -285,25 +221,93 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "description": "Javier Giner, de treinta años, decide ingresar voluntariamente en un centro de desintoxicación por consumo de alcohol y cocaína. Armado de su diario personal y la absoluta determinación de revertir su presente, Javier encara el que, sin duda, es el periodo clave de su vida. Los meses de recuperación en el centro, rodeado de naturaleza y acompañado de una galería de personajes memorables, cambian totalmente la vida de Javier Giner.",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/em2Jzx5QyBTVI7gKipCoE0kG4ot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/pylB28qiQUB6DJTdoQzUXAGD7yn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g3fSOwlM9vR6zGqU6kyZ7WKUu0t.png",
       "director": [],
       "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "Sarah Chalke",
-        "Ava Bunn"
+        "Oriol Pla",
+        "Nora Navas",
+        "Ramón Barea",
+        "Marina Salas",
+        "Itziar Lazkano",
+        "Bernabé Fernández",
+        "Catalina Sopelana",
+        "Victoria Luengo"
+      ],
+      "rank": 8,
+      "id": "tt27705913",
+      "name": "Yo, adicto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h32u5TzYBafL4OqDBpZDasa5EWi.jpg",
+      "rating": 7.3,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Drama de época cuyos protagonistas son un matrimonio de espías del KGB que, en los años 80, viven cerca de Washington DC y se hacen pasar por estadounidenses. Phillip y Elizabeth Jennings tienen dos hijos que no saben nada sobre la verdadera identidad de sus padres. Tendrán que afrontar situaciones muy difícles debido al recrudecimiento de la Guerra Fría durante la presidencia de Ronald Reagan. Otro problema no menor es la creciente afinidad que siente Phillip por el modo de vida americano.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tLwEXm2nG64Tce00d59rPNI8ePh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x2sqYIeYaVMdI1mjl64MgI0vN1o.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Matthew Rhys",
+        "Holly Taylor",
+        "Keidrich Sellati",
+        "Noah Emmerich",
+        "Costa Ronin",
+        "Margo Martindale"
+      ],
+      "rank": 9,
+      "id": "tt2149175",
+      "name": "The Americans",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+      "rating": 7.893,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
       ],
       "rank": 10,
-      "id": "tt40197357",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-      "rating": 7.7,
-      "year": 2026,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "rating": 8.754,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt5215952",
       "name": "El Extraño",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg",
-      "rating": 7.4,
+      "rating": 7.396,
       "year": 2016,
       "days": null,
       "trend": {
@@ -41,31 +41,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "description": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de infectados y lealtades divididas, deberán luchar por sobrevivir mientras afrontan un dilema moral: salvarse a sí mismos o arriesgarlo todo por lo que queda de humanidad.",
       "genres": [
-        "Comedia"
+        "Acción",
+        "Suspense",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTUDobBtaexjmeyQA4S96Sg1v4V.png",
+      "runtime": "96 min",
       "director": [
-        "Sacha Baron Cohen"
+        "Carles Torrens"
       ],
       "cast": [
-        "Sacha Baron Cohen",
-        "Morgana Robinson",
-        "Alpha Miknas",
-        "Clive Russell",
-        "A$AP Rocky",
-        "Rihanna",
-        "Tiffany Haddish",
-        "DJ Jazzy Jeff"
+        "Carlos Alcaide",
+        "Julia Martínez",
+        "Mario Mayo",
+        "Mónica López",
+        "Tamara Casellas",
+        "Santiago Vaca Narvaja",
+        "José María Yázpik",
+        "Berta Vázquez"
       ],
       "rank": 2,
-      "id": "tt43655467",
-      "name": "Ali G: Kién es yo?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 6.225,
+      "id": "tt37522541",
+      "name": "Apocalipsis Z: Nuevo mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
+      "rating": 6.259,
       "year": 2026,
       "days": null,
       "trend": {
@@ -75,34 +77,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
+      "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
       "genres": [
+        "Drama",
         "Acción",
-        "Suspense",
-        "Terror"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i9qka7Zx7QUvmhhEeR945k4H4iV.png",
-      "runtime": "96 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6UKEo5f72vf67xp60aNhyNLjIMk.png",
+      "runtime": "122 min",
       "director": [
-        "Carles Torrens"
+        "Daniel Sánchez Arévalo"
       ],
       "cast": [
-        "Carlos Alcaide",
-        "Julia Martínez",
-        "Mónica López",
-        "Tamara Casellas",
-        "Santiago Vaca Narvaja",
-        "José María Yázpik",
-        "Berta Vázquez",
-        "Axel Medrano"
+        "Laia Costa",
+        "Karra Elejalde",
+        "Luis Zahera",
+        "Tamar Novas",
+        "Álvaro Cervantes",
+        "Lluís Homar",
+        "Luz Valdenebro",
+        "Víctor Duplá"
       ],
       "rank": 3,
-      "id": "tt37522541",
-      "name": "Apocalipsis Z: Nuevo mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
-      "rating": 6.875,
+      "id": "tt38793125",
+      "name": "Colisión",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+      "rating": 7.167,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 4,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.264,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,43 +171,12 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
+      "rating": 7.949,
       "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 5,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.401,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,7 +211,77 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.007,
+      "rating": 7.001,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
+      "runtime": "75 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 7,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.856,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
+      "runtime": "89 min",
+      "director": [
+        "Sacha Baron Cohen"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Morgana Robinson",
+        "Alpha Miknas",
+        "Clive Russell",
+        "A$AP Rocky",
+        "Rihanna",
+        "Tiffany Haddish",
+        "DJ Jazzy Jeff"
+      ],
+      "rank": 8,
+      "id": "tt43655467",
+      "name": "Ali G: Kién es yo?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
+      "rating": 6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -236,7 +312,7 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
@@ -250,105 +326,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra una historia de amor no convencional, ambientada en un mundo distópico, en el que según las reglas establecidas, los solteros son arrestados y enviados a un lugar donde tienen que encontrar pareja en un plazo de 45 días. El tema central es la soledad, el temor a morir solo, a vivir solo, y también al temor a vivir con alguien.",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v2tbCPD2usCRioqhRKGY34CH4ei.png",
-      "runtime": "118 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "Yorgos Lánthimos"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "Colin Farrell",
-        "Rachel Weisz",
-        "Olivia Colman",
-        "Léa Seydoux",
-        "Michael Smiley",
-        "Ariane Labed",
-        "John C. Reilly",
-        "Ben Whishaw"
-      ],
-      "rank": 8,
-      "id": "tt3464902",
-      "name": "Langosta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uGJ7JNSwvt9wr4XO2uoNGtXIdrq.jpg",
-      "rating": 7.017,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 9,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.633,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El exitoso abogado Youngiak vive atrapado en un matrimonio que no desea. Su mujer, la retirada bailarina Hojung, le espera cada día en casa mientras él comparte unas copas con sus amigos o se acuesta con su amante, la modelo Yeon. El deseo sexual de Hojung despierta sorprendentemente de su letargo cuando su vecino adolescente se obsesiona con ella. Al principio, ella se muestra reticente, pero al asumir la infidelidad de su marido se lanza a una aventura erótica y sensual que desentierra los secretos más íntimos de su sexualidad, mientras su estabilidad familiar se tambalea. (FILMAFFINITY)",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sSDRNbPa7eUv5yN7cAVSCwn8FEq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1tdFtqiamzFCiRjGnOfN7BInEYw.png",
-      "runtime": "105 min",
-      "director": [
-        "임상수"
-      ],
-      "cast": [
-        "문소리",
-        "황정민",
-        "윤여정",
-        "김인문",
-        "봉태규",
-        "Baek Jeong-rim",
-        "성지루",
-        "김여진"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 10,
-      "id": "tt0372782",
-      "name": "La mujer del abogado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h4ibYJYZPzovDWJd6jP7dH5CIdo.jpg",
-      "rating": 5.7,
-      "year": 2003,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.2,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

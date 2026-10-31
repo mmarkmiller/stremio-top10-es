@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt0107120",
       "name": "El retorno de las brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.048,
+      "rating": 7.047,
       "year": 1993,
       "days": null,
       "trend": {
@@ -78,42 +78,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un futuro cercano, la humanidad comienza a ver aparecer una nueva raza; los mutantes. Dotados de extraños y variados poderes, están agrupados en dos bandos: los que abogan por la integración y el entendimiento con la humanidad, encabezados por el doctor Charles Xavier, y los que buscan el enfrentamiento con una raza que consideran inferior y que les odia, dirigidos por Magnus, alias Magneto, un peligroso mutante con extraordinarios poderes.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bfUbOGdmttSCvar958KkUJlEOiQ.png",
-      "runtime": "104 min",
-      "director": [
-        "Bryan Singer"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Patrick Stewart",
-        "Ian McKellen",
-        "Famke Janssen",
-        "James Marsden",
-        "Halle Berry",
-        "Anna Paquin",
-        "Tyler Mane"
-      ],
-      "rank": 3,
-      "id": "tt0120903",
-      "name": "X-Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aF170xLGytZcC0xeSlSamImgIi4.jpg",
-      "rating": 7.024,
-      "year": 2000,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
       "genres": [
         "Terror",
@@ -136,10 +100,83 @@
         "Maia Jae",
         "Juan Pablo Romero"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt33978029",
       "name": "Noche de bodas 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "rating": 7.519,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En esta frenética comedia, seguimos los pasos de Marnie que, junto a sus hermanos y su abuela, se mudan a Halloweentown, un lugar donde criaturas sobrenaturales conviven en armonía. Con la llegada de su 13 cumpleaños, Marnie descubre que, como su abuela, es una bruja. Marnie tendrá que ayudar a su madre y a su abuela para evitar que las fuerzas oscuras acaben con Halloweentown.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Película de TV"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qcAJcXtYCaXYKQKBylqnWscTa6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xKpr64DKPWE18CjdzIGVBNlqg4N.png",
+      "runtime": "84 min",
+      "director": [
+        "Duwayne Dunham"
+      ],
+      "cast": [
+        "Kimberly J. Brown",
+        "Debbie Reynolds",
+        "Joey Zimmerman",
+        "Judith Hoag",
+        "Phillip Van Dyke",
+        "Emily Roeske",
+        "Robin Thomas",
+        "Shannon Day"
+      ],
+      "rank": 4,
+      "id": "tt0173886",
+      "name": "Halloweentown: ¡Qué familia la mía!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
+      "rating": 6.8,
+      "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 5,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
       "rating": 7.5,
       "year": 2026,
       "days": null,
@@ -173,11 +210,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.28,
+      "rating": 8.278,
       "year": 2026,
       "days": null,
       "trend": {
@@ -187,174 +224,145 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sin sus poderes, por primera vez, Lobezno es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante.",
+      "description": "Érase una vez... un castillo donde vivía un inventor que dedicó parte de su vida a crear una criatura perfecta a la que llamó Edward. Pero el inventor murió de repente y dejó incompleta su creación, ya que en vez de dedos tenía unas horribles manos con hojas de tijera. El pobre Edward vivía sólo en el castillo hasta que una encantadora joven, que trabajaba para la firma Avon, lo llevó a su casa junto con su familia. Pero una criatura tan especial como Edward no estaba preparada para vivir en una ciudad tan extravagante y falsa como Suburbia.",
       "genres": [
-        "Acción",
+        "Fantasía",
         "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ekfdox6JukcoJeHIrKgHWLrntMl.png",
+      "runtime": "98 min",
+      "director": [
+        "Tim Burton"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest",
+        "Anthony Michael Hall",
+        "Kathy Baker",
+        "Robert Oliveri",
+        "Conchata Ferrell",
+        "Caroline Aaron"
+      ],
+      "rank": 7,
+      "id": "tt0099487",
+      "name": "Eduardo Manostijeras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vd8tCekihFx82bzmENaASvbhNmx.jpg",
+      "rating": 7.719,
+      "year": 1990,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Terror",
         "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qTdCfGyDisY9e8BLycszlyTsPWx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qDbxobWA4J2xVqwuDl71vg8JZxX.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t4qbhTFsG3VEVaFZ3yBFAp7FSxJ.png",
+      "runtime": "87 min",
       "director": [
-        "James Mangold"
+        "Tim Burton"
+      ],
+      "cast": [
+        "Charlie Tahan",
+        "Catherine O'Hara",
+        "Martin Short",
+        "Martin Landau",
+        "Atticus Shaffer",
+        "Winona Ryder",
+        "Robert Capron",
+        "James Hiroyuki Liao"
+      ],
+      "rank": 8,
+      "id": "tt1142977",
+      "name": "Frankenweenie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
+      "rating": 7,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "runtime": "109 min",
+      "director": [
+        "Lee Unkrich"
+      ],
+      "cast": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Arau",
+        "Herbert Siguenza"
+      ],
+      "rank": 9,
+      "id": "tt2380307",
+      "name": "Coco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "rating": 8.203,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un futuro cercano, la humanidad comienza a ver aparecer una nueva raza; los mutantes. Dotados de extraños y variados poderes, están agrupados en dos bandos: los que abogan por la integración y el entendimiento con la humanidad, encabezados por el doctor Charles Xavier, y los que buscan el enfrentamiento con una raza que consideran inferior y que les odia, dirigidos por Magnus, alias Magneto, un peligroso mutante con extraordinarios poderes.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bfUbOGdmttSCvar958KkUJlEOiQ.png",
+      "runtime": "104 min",
+      "director": [
+        "Bryan Singer"
       ],
       "cast": [
         "Hugh Jackman",
-        "Dafne Keen",
         "Patrick Stewart",
-        "Elizabeth Rodriguez",
-        "Boyd Holbrook",
-        "Stephen Merchant",
-        "Richard E. Grant",
-        "Stephen Dunlevy"
-      ],
-      "rank": 6,
-      "id": "tt3315342",
-      "name": "Logan",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0ktjN9eKww26HhM8or8iUB1I68.jpg",
-      "rating": 7.822,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "James Cameron y Simcha Jacobovici van a la aventura de encontrar la ciudad perdida de Atlantis utilizando al filósofo griego Platón como un mapa del tesoro virtual.",
-      "genres": [
-        "Documental",
-        "Aventura",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yxv2rcOOQozB4LlfbL0AKsY8xzk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3xEMx9LAYcbcLOyCT9m0VX7ilRP.png",
-      "runtime": "93 min",
-      "director": [
-        "Simcha Jacobovici"
-      ],
-      "cast": [
-        "James Cameron",
-        "Simcha Jacobovici",
-        "Charles Pellegrino"
-      ],
-      "rank": 7,
-      "id": "tt6467274",
-      "name": "El Resurgir de la Atlántida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uheYyCgkmLpgbfqwlmlaqF4GcZh.jpg",
-      "rating": 6.4,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 8,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En esta frenética comedia, seguimos los pasos de Marnie que, junto a sus hermanos y su abuela, se mudan a Halloweentown, un lugar donde criaturas sobrenaturales conviven en armonía. Con la llegada de su 13 cumpleaños, Marnie descubre que, como su abuela, es una bruja. Marnie tendrá que ayudar a su madre y a su abuela para evitar que las fuerzas oscuras acaben con Halloweentown.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Película de TV"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qcAJcXtYCaXYKQKBylqnWscTa6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xKpr64DKPWE18CjdzIGVBNlqg4N.png",
-      "runtime": "84 min",
-      "director": [
-        "Duwayne Dunham"
-      ],
-      "cast": [
-        "Kimberly J. Brown",
-        "Debbie Reynolds",
-        "Joey Zimmerman",
-        "Judith Hoag",
-        "Phillip Van Dyke",
-        "Emily Roeske",
-        "Robin Thomas",
-        "Shannon Day"
-      ],
-      "rank": 9,
-      "id": "tt0173886",
-      "name": "Halloweentown: ¡Qué familia la mía!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uMWFPTmdSI3jU56O5eCjxRQFjSO.jpg",
-      "rating": 6.8,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
-      "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
-      "director": [
-        "Gil Junger"
-      ],
-      "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Ian McKellen",
+        "Famke Janssen",
+        "James Marsden",
+        "Halle Berry",
+        "Anna Paquin",
+        "Tyler Mane"
       ],
       "rank": 10,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.603,
-      "year": 1999,
+      "id": "tt0120903",
+      "name": "X-Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aF170xLGytZcC0xeSlSamImgIi4.jpg",
+      "rating": 7.024,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +371,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

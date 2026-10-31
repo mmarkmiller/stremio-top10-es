@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.7,
+      "rating": 6.72,
       "year": 2016,
       "days": null,
       "trend": {
@@ -102,7 +102,7 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.168,
+      "rating": 8.169,
       "year": 2026,
       "days": null,
       "trend": {
@@ -134,8 +134,44 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.207,
+      "rating": 7.213,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
+      "genres": [
+        "Animación",
+        "Película de TV",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vtml6FFkXCEG7j30dkNsK5F7SdK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png",
+      "runtime": "25 min",
+      "director": [
+        "Bill Melendez"
+      ],
+      "cast": [
+        "Peter Robbins",
+        "Christopher Shea",
+        "Sally Dryer",
+        "Bill Melendez",
+        "Cathy Steinberg",
+        "Gail DeFaria",
+        "Glenn Mendelson",
+        "Ann Altieri"
+      ],
+      "rank": 5,
+      "id": "tt0060550",
+      "name": "Ésta es la gran calabaza, Charlie Brown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "rating": 7.535,
+      "year": 1966,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,11 +202,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.007,
+      "rating": 7.001,
       "year": 2026,
       "days": null,
       "trend": {
@@ -180,35 +216,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
+      "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa Cazafantasmas, dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
       "genres": [
-        "Crimen",
-        "Terror",
-        "Suspense",
-        "Misterio"
+        "Comedia",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kCgPDFyK552OtyYCLddDWqoLBZh.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJADnzciFbQXNT3CWUUSxa4ywcq.png",
+      "runtime": "107 min",
       "director": [
-        "Jordan Downey"
+        "Ivan Reitman"
       ],
       "cast": [
-        "Deborah Ann Woll",
-        "Jeffrey Donovan",
-        "Gretchen Corbett",
-        "Jack Doolan",
-        "Will Hochman",
-        "Dana Millican",
-        "Phillip Andre Botello",
-        "Don Keith Opper"
+        "Bill Murray",
+        "Dan Aykroyd",
+        "Harold Ramis",
+        "Sigourney Weaver",
+        "Rick Moranis",
+        "Ernie Hudson",
+        "Annie Potts",
+        "William Atherton"
       ],
-      "rank": 6,
-      "id": "tt32358390",
-      "name": "El ciclo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "rating": 6.732,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt0087332",
+      "name": "Los Cazafantasmas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
+      "rating": 7.497,
+      "year": 1984,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,11 +272,11 @@
         "Brendan Conroy",
         "Ezra Carlisle"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.8,
+      "rating": 6.813,
       "year": 2026,
       "days": null,
       "trend": {
@@ -252,101 +286,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
-      "runtime": "89 min",
-      "director": [
-        "Sacha Baron Cohen"
-      ],
-      "cast": [
-        "Sacha Baron Cohen",
-        "Morgana Robinson",
-        "Alpha Miknas",
-        "Clive Russell",
-        "A$AP Rocky",
-        "Rihanna",
-        "Tiffany Haddish",
-        "DJ Jazzy Jeff"
-      ],
-      "rank": 8,
-      "id": "tt43655467",
-      "name": "Ali G: Kién es yo?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 6.225,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 9,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.436,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/OyrL7LifPjrj7eDm5FtF8qPH8R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/36ISV2Gj1JwwJwy6REviGiAVEKT.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+      "runtime": "111 min",
       "director": [
         "Wes Craven"
       ],
       "cast": [
-        "Heather Langenkamp",
-        "Robert Englund",
-        "Johnny Depp",
-        "Amanda Wyss",
-        "Jsu Garcia",
-        "John Saxon",
-        "Ronee Blakley",
-        "Charles Fleischer"
+        "Neve Campbell",
+        "Skeet Ulrich",
+        "Rose McGowan",
+        "Matthew Lillard",
+        "David Arquette",
+        "Courteney Cox",
+        "Jamie Kennedy",
+        "Drew Barrymore"
       ],
       "rank": 10,
-      "id": "tt0087800",
-      "name": "Pesadilla en Elm Street",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
-      "rating": 7.358,
-      "year": 1984,
+      "id": "tt0117571",
+      "name": "Scream. Vigila quién llama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "rating": 7.4,
+      "year": 1996,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

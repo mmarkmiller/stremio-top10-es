@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.7,
+      "rating": 6.72,
       "year": 2016,
       "days": null,
       "trend": {
@@ -112,42 +112,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 4,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.606,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
       "genres": [
         "Misterio",
@@ -174,8 +138,79 @@
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.957,
+      "rating": 7.958,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 6,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.608,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eU4uwCFPl89AQ9zyFCtgBC3Ch5U.png",
+      "runtime": "105 min",
+      "director": [
+        "Gore Verbinski"
+      ],
+      "cast": [
+        "Naomi Watts",
+        "Martin Henderson",
+        "David Dorfman",
+        "Brian Cox",
+        "Jane Alexander",
+        "Lindsay Frost",
+        "Amber Tamblyn",
+        "Rachael Bella"
+      ],
+      "rank": 7,
+      "id": "tt0298130",
+      "name": "The Ring (La señal)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
+      "rating": 6.7,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,11 +242,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.97,
+      "rating": 6.978,
       "year": 2026,
       "days": null,
       "trend": {
@@ -241,11 +276,11 @@
         "Jim Siedow",
         "Gunnar Hansen"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0072271",
       "name": "La matanza de Texas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dDuWWq9VpBK0PFCDytlBpZhV6ca.jpg",
-      "rating": 7.291,
+      "rating": 7.292,
       "year": 1974,
       "days": null,
       "trend": {
@@ -255,100 +290,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rdXOJM4FUgNxlVoMqFs64SagHCO.png",
-      "runtime": "107 min",
-      "director": [
-        "Daniele Luchetti"
-      ],
-      "cast": [
-        "Elio Germano",
-        "Maria Chiara Giannetta",
-        "Lidia Vitale",
-        "Anna Bonaiuto",
-        "Diop Virginia",
-        "Francesca De Martini",
-        "Caterina Guzzanti",
-        "Sofia Luchetti"
-      ],
-      "rank": 8,
-      "id": "tt38504402",
-      "name": "Nosotros, pero un poco mejor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
-      "rating": 5.846,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Película de TV",
-        "Suspense"
-      ],
-      "runtime": "87 min",
-      "director": [
-        "Brittany Goodwin"
-      ],
-      "cast": [
-        "Alex Mitchell",
-        "Rob LaColla Jr.",
-        "Brenna Skalski",
-        "John D. Babcock III",
-        "William Brock",
-        "Tess Cline",
-        "Denise Culbreth",
-        "Anna Talakkottur"
-      ],
-      "rank": 9,
-      "id": "tt38352000",
-      "name": "Don't Trust the Couple Upstairs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIBHe9mQDJNQgZ3ZWpCAu03ofJf.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
+      "description": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
       "genres": [
         "Terror",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eU4uwCFPl89AQ9zyFCtgBC3Ch5U.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5zwhybC4AO34V6MhWjNlulwjlXW.png",
+      "runtime": "95 min",
       "director": [
-        "Gore Verbinski"
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
       ],
       "cast": [
-        "Naomi Watts",
-        "Martin Henderson",
-        "David Dorfman",
-        "Brian Cox",
-        "Jane Alexander",
-        "Lindsay Frost",
-        "Amber Tamblyn",
-        "Rachael Bella"
+        "Samara Weaving",
+        "Adam Brody",
+        "Mark O'Brien",
+        "Henry Czerny",
+        "Andie MacDowell",
+        "Melanie Scrofano",
+        "Kristian Bruun",
+        "Elyse Levesque"
       ],
       "rank": 10,
-      "id": "tt0298130",
-      "name": "The Ring (La señal)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
-      "rating": 6.713,
-      "year": 2002,
+      "id": "tt7798634",
+      "name": "Noche de bodas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
+      "rating": 7.097,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +326,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

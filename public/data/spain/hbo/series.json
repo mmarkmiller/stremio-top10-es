@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.697,
+      "rating": 8.696,
       "year": 2026,
       "days": null,
       "trend": {
@@ -38,7 +38,8 @@
       "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Misterio"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
@@ -53,7 +54,7 @@
       "id": "tt39980704",
       "name": "Yaga",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 7,
+      "rating": 7.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -128,6 +129,38 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nEvMbbSxcRO5440rhRrTEJCcf6t.png",
+      "director": [],
+      "cast": [
+        "Margarita Rosa de Francisco",
+        "Macarena Achaga",
+        "Diego Klein",
+        "Christian Vázquez",
+        "Juan Pablo Castaneda",
+        "Ana Belén Aguilar",
+        "Armando Espitia",
+        "Leonardo Daniel"
+      ],
+      "rank": 5,
+      "id": "tt38116565",
+      "name": "Colisión",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wPG2QWYx6pVa2ich4ATFoQxngVW.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
         "Drama",
@@ -142,11 +175,11 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.227,
+      "rating": 8.223,
       "year": 2026,
       "days": null,
       "trend": {
@@ -172,43 +205,12 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.569,
+      "rating": 8.571,
       "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 7,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.737,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -248,29 +250,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+      "description": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
       "genres": [
         "Drama",
-        "Soap"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png",
       "director": [],
       "cast": [
-        "Margarita Rosa de Francisco",
-        "Macarena Achaga",
-        "Diego Klein",
-        "Christian Vázquez",
-        "Juan Pablo Castaneda",
-        "Ana Belén Aguilar",
-        "Armando Espitia",
-        "Leonardo Daniel"
+        "Taylour Paige",
+        "Jovan Adepo",
+        "James Remar",
+        "Stephen Rider",
+        "Matilda Lawler",
+        "Amanda Christine",
+        "Clara Stack",
+        "Blake Cameron James"
       ],
       "rank": 9,
-      "id": "tt38116565",
-      "name": "Colisión",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wPG2QWYx6pVa2ich4ATFoQxngVW.jpg",
-      "rating": 8,
-      "year": 2026,
+      "id": "tt19244304",
+      "name": "It: Bienvenidos a Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+      "rating": 8.24,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,28 +282,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RySzFeK3LPVMXcPtqfZnl6u4p1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
       "director": [],
       "cast": [
-        "Johnny Galecki",
-        "Jim Parsons",
-        "Kaley Cuoco",
-        "Simon Helberg",
-        "Kunal Nayyar",
-        "Melissa Rauch",
-        "Mayim Bialik"
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
       ],
       "rank": 10,
-      "id": "tt0898266",
-      "name": "Big Bang",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "rating": 7.928,
-      "year": 2007,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
+      "rating": 8.054,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }

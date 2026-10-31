@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202610302014",
+  "date": "202610311937",
   "entries": [
     {
       "artworkVersion": 4,
@@ -61,7 +61,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.625,
+      "rating": 7.633,
       "year": 2023,
       "days": null,
       "trend": {
@@ -89,7 +89,7 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.329,
+      "rating": 7.327,
       "year": 2024,
       "days": null,
       "trend": {
@@ -116,7 +116,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.041,
+      "rating": 8.048,
       "year": 2026,
       "days": null,
       "trend": {
@@ -144,7 +144,7 @@
       "id": "tt39751377",
       "name": "Balaraw: La isla sangrienta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-      "rating": 7.2,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -175,7 +175,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.2,
+      "rating": 7.165,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,30 +185,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "description": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
       "genres": [
-        "Crimen",
         "Drama",
-        "Action & Adventure"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+      "director": [
+        "Kasper Barfoed"
+      ],
       "cast": [
-        "Sean Murray",
-        "Wilmer Valderrama",
-        "Katrina Law",
-        "Brian Dietzen",
-        "Diona Reasonover",
-        "Gary Cole",
-        "Michael Weatherly"
+        "Frida Gustavsson",
+        "Fares Fares",
+        "Emma Appleton",
+        "Jakob Oftebro"
       ],
       "rank": 7,
-      "id": "tt0364845",
-      "name": "Navy: Investigación criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.6,
-      "year": 2003,
+      "id": "tt42767924",
+      "name": "El intercambio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+      "rating": 4.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,30 +278,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
       "genres": [
-        "Crimen",
+        "Comedia",
         "Drama",
-        "Misterio"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
       "director": [],
       "cast": [
-        "Omar Sy",
-        "Ludivine Sagnier",
-        "Antoine Gouy",
-        "Soufiane Guerrab",
-        "Shirine Boutella",
-        "Théo Christine",
-        "Laïka Blanc-Francard"
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
       ],
       "rank": 10,
-      "id": "tt2531336",
-      "name": "Lupin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.675,
-      "year": 2021,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.887,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +310,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-30T17:38:09.891Z"
+  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
 }
