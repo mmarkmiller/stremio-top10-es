@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,7 +24,36 @@
       "id": "tt39751377",
       "name": "Balaraw: La isla sangrienta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-      "rating": 6.6,
+      "rating": 7.167,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+      "genres": [
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rg86wuCkOY2byyJhddoTfiGT6K0.png",
+      "director": [
+        "김다민"
+      ],
+      "cast": [
+        "이재욱",
+        "고민시",
+        "김민하",
+        "이희준"
+      ],
+      "rank": 2,
+      "id": "tt36458668",
+      "name": "Un trabajo maldito",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -52,46 +81,12 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.674,
+      "rating": 7.7,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rg86wuCkOY2byyJhddoTfiGT6K0.png",
-      "director": [
-        "김다민"
-      ],
-      "cast": [
-        "이재욱",
-        "고민시",
-        "김민하",
-        "이희준",
-        "최현욱",
-        "윤경호",
-        "Yoon Byung-hee",
-        "조현철"
-      ],
-      "rank": 3,
-      "id": "tt36458668",
-      "name": "Un trabajo maldito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "rating": 7.909,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -155,7 +150,7 @@
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.165,
+      "rating": 7.182,
       "year": 2026,
       "days": null,
       "trend": {
@@ -187,7 +182,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.633,
+      "rating": 7.634,
       "year": 2023,
       "days": null,
       "trend": {
@@ -219,7 +214,7 @@
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.887,
+      "rating": 7.877,
       "year": 2024,
       "days": null,
       "trend": {
@@ -247,35 +242,8 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.327,
+      "rating": 7.31,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
-      ],
-      "rank": 9,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.048,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,12 +270,39 @@
         "Rebecca Wisocky",
         "Sheila Carrasco"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.136,
+      "rating": 8.127,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 10,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 8.031,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

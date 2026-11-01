@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt0060550",
       "name": "Ésta es la gran calabaza, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
-      "rating": 7.535,
+      "rating": 7.538,
       "year": 1966,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt0167404",
       "name": "El sexto sentido",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.958,
+      "rating": 7.957,
       "year": 1999,
       "days": null,
       "trend": {
@@ -103,7 +103,7 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.3,
+      "rating": 8.264,
       "year": 2026,
       "days": null,
       "trend": {
@@ -135,12 +135,48 @@
         "Luke Mably",
         "Stuart McQuarrie"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0289043",
       "name": "28 días después",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
       "rating": 7.244,
       "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGqq5zwljVKv8KIWpAwCZh5h52H.png",
+      "runtime": "153 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis",
+        "Maria Bello",
+        "Terrence Howard",
+        "Melissa Leo",
+        "Paul Dano",
+        "Dylan Minnette"
+      ],
+      "rank": 6,
+      "id": "tt1392214",
+      "name": "Prisioneros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
+      "rating": 8.106,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,11 +207,11 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.878,
+      "rating": 7.877,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,71 +221,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "description": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
       "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
+        "Ciencia ficción",
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kqrwnukR30u8fsQL03fmkbNpGHc.png",
+      "runtime": "130 min",
       "director": [
-        "Sam Hargrave"
+        "Terry Gilliam"
       ],
       "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
+        "Bruce Willis",
+        "Madeleine Stowe",
+        "Brad Pitt",
+        "Christopher Plummer",
+        "David Morse",
+        "Jon Seda",
+        "Christopher Meloni",
+        "Joey Perillo"
       ],
-      "rank": 6,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.654,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
-      "genres": [
-        "Comedia",
-        "Bélica",
-        "Acción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
-      "runtime": "107 min",
-      "director": [
-        "Ben Stiller"
-      ],
-      "cast": [
-        "Ben Stiller",
-        "Robert Downey Jr.",
-        "Jack Black",
-        "Jay Baruchel",
-        "Brandon T. Jackson",
-        "Brandon Soo Hoo",
-        "Matthew McConaughey",
-        "Tom Cruise"
-      ],
-      "rank": 7,
-      "id": "tt0942385",
-      "name": "Tropic Thunder, ¡una guerra muy perra!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
-      "rating": 6.731,
-      "year": 2008,
+      "rank": 8,
+      "id": "tt0114746",
+      "name": "12 monos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
+      "rating": 7.614,
+      "year": 1995,
       "days": null,
       "trend": {
         "dir": "same",
@@ -278,7 +277,7 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
@@ -292,70 +291,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
       "genres": [
-        "Aventura",
         "Drama",
-        "Bélica"
+        "Ciencia ficción",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
+      "runtime": "116 min",
       "director": [
-        "Peter Weir"
+        "Denis Villeneuve"
       ],
       "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
-      ],
-      "rank": 9,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.208,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto con el principal sospechoso, Walter Finch, un novelista ermitaño.",
-      "genres": [
-        "Suspense",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mDy2fmfGOmqZUM1wWF4AY3dahrL.png",
-      "runtime": "118 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Al Pacino",
-        "Robin Williams",
-        "Hilary Swank",
-        "Maura Tierney",
-        "Martin Donovan",
-        "Nicky Katt",
-        "Paul Dooley",
-        "Jonathan Jackson"
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
       ],
       "rank": 10,
-      "id": "tt0278504",
-      "name": "Insomnio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tptisxjbdI4LInxdjrU95DYCXnT.jpg",
-      "rating": 6.957,
-      "year": 2002,
+      "id": "tt2543164",
+      "name": "La llegada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "rating": 7.638,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -364,5 +327,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

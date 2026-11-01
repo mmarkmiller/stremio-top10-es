@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.604,
+      "rating": 8.611,
       "year": 2025,
       "days": null,
       "trend": {
@@ -38,30 +38,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
       "genres": [
-        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
+      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
       "director": [],
       "cast": [
-        "Liev Schreiber",
-        "Zazie Beetz",
-        "Stephen Graham",
-        "Bill Camp",
-        "Rory Culkin",
-        "Chrissy Metz",
-        "Poorna Jagannathan",
-        "Gary Carr"
+        "Linda Cardellini",
+        "William Catlett",
+        "Gwendolyn Sundstrom",
+        "Cameron Scoggins",
+        "Devin Kessler"
       ],
       "rank": 2,
-      "id": "tt26598805",
-      "name": "Nocturno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.1,
+      "id": "tt23148340",
+      "name": "Crystal Lake",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 8.678,
       "year": 2026,
       "days": null,
       "trend": {
@@ -89,7 +85,102 @@
       "id": "tt39751377",
       "name": "Balaraw: La isla sangrienta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-      "rating": 6.6,
+      "rating": 7.167,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
+      "director": [],
+      "cast": [
+        "Liev Schreiber",
+        "Zazie Beetz",
+        "Stephen Graham",
+        "Bill Camp",
+        "Rory Culkin",
+        "Chrissy Metz",
+        "Poorna Jagannathan",
+        "Gary Carr"
+      ],
+      "rank": 4,
+      "id": "tt26598805",
+      "name": "Nocturno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "rating": 7.348,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+      "director": [],
+      "cast": [
+        "Summer H. Howell",
+        "Samantha Sloyan",
+        "Siena Agudong",
+        "Alison Thornton",
+        "Joel Oulette",
+        "Josie Totah",
+        "Arthur Conti",
+        "Thalia Dudek"
+      ],
+      "rank": 5,
+      "id": "tt11540908",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.273,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+      "genres": [
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rg86wuCkOY2byyJhddoTfiGT6K0.png",
+      "director": [
+        "김다민"
+      ],
+      "cast": [
+        "이재욱",
+        "고민시",
+        "김민하",
+        "이희준"
+      ],
+      "rank": 6,
+      "id": "tt36458668",
+      "name": "Un trabajo maldito",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -117,108 +208,12 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.674,
+      "rating": 7.7,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rg86wuCkOY2byyJhddoTfiGT6K0.png",
-      "director": [
-        "김다민"
-      ],
-      "cast": [
-        "이재욱",
-        "고민시",
-        "김민하",
-        "이희준",
-        "최현욱",
-        "윤경호",
-        "Yoon Byung-hee",
-        "조현철"
-      ],
-      "rank": 5,
-      "id": "tt36458668",
-      "name": "Un trabajo maldito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "rating": 7.909,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/btTST9hsE5flPPhO7oH5sHZY0Yh.png",
-      "director": [],
-      "cast": [
-        "Summer H. Howell",
-        "Samantha Sloyan",
-        "Siena Agudong",
-        "Alison Thornton",
-        "Joel Oulette",
-        "Josie Totah",
-        "Arthur Conti",
-        "Thalia Dudek"
-      ],
-      "rank": 6,
-      "id": "tt11540908",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
-      "director": [],
-      "cast": [
-        "Linda Cardellini",
-        "William Catlett",
-        "Gwendolyn Sundstrom",
-        "Cameron Scoggins",
-        "Devin Kessler"
-      ],
-      "rank": 7,
-      "id": "tt23148340",
-      "name": "Crystal Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.696,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -249,8 +244,41 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.989,
+      "rating": 7.992,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa",
+        "James Remar",
+        "Brian Cox"
+      ],
+      "rank": 9,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "rating": 8.542,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,39 +305,11 @@
         "Diane Morgan",
         "Henry Lewis"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.649,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qqZuLcgCGqIk8VSBEoPCIEhQeCx.png",
-      "director": [],
-      "cast": [
-        "Omar Ayuso",
-        "Laia Marull",
-        "Valentina Vidal",
-        "Raúl Arévalo"
-      ],
-      "rank": 10,
-      "id": "tt39216741",
-      "name": "El Castillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
-      "rating": 6.2,
+      "rating": 8.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -319,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

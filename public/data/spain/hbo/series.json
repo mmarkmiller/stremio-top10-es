@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,36 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.696,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
-      "director": [],
-      "cast": [
-        "Noah Reid",
-        "Clark Backo",
-        "Hudson Williams",
-        "Carrie-Anne Moss"
-      ],
-      "rank": 2,
-      "id": "tt39980704",
-      "name": "Yaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 7.2,
+      "rating": 8.678,
       "year": 2026,
       "days": null,
       "trend": {
@@ -82,11 +53,43 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.6,
+      "rating": 6.534,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png",
+      "director": [],
+      "cast": [
+        "Taylour Paige",
+        "Jovan Adepo",
+        "James Remar",
+        "Stephen Rider",
+        "Matilda Lawler",
+        "Amanda Christine",
+        "Clara Stack",
+        "Blake Cameron James"
+      ],
+      "rank": 3,
+      "id": "tt19244304",
+      "name": "It: Bienvenidos a Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+      "rating": 8.251,
       "year": 2025,
       "days": null,
       "trend": {
@@ -119,7 +122,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
+      "rating": 8.5,
       "year": 2022,
       "days": null,
       "trend": {
@@ -129,29 +132,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
       "genres": [
         "Drama",
-        "Soap"
+        "Sci-Fi & Fantasy",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nEvMbbSxcRO5440rhRrTEJCcf6t.png",
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
       "director": [],
       "cast": [
-        "Margarita Rosa de Francisco",
-        "Macarena Achaga",
-        "Diego Klein",
-        "Christian Vázquez",
-        "Juan Pablo Castaneda",
-        "Ana Belén Aguilar",
-        "Armando Espitia",
-        "Leonardo Daniel"
+        "Noah Reid",
+        "Clark Backo",
+        "Hudson Williams",
+        "Carrie-Anne Moss"
       ],
       "rank": 5,
-      "id": "tt38116565",
-      "name": "Colisión",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wPG2QWYx6pVa2ich4ATFoQxngVW.jpg",
-      "rating": 8,
+      "id": "tt39980704",
+      "name": "Yaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 7.286,
       "year": 2026,
       "days": null,
       "trend": {
@@ -179,8 +179,39 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.223,
+      "rating": 8.211,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
+      "director": [],
+      "cast": [
+        "Carrie Coon",
+        "Morgan Spector",
+        "Louisa Jacobson",
+        "Denée Benton",
+        "Taissa Farmiga",
+        "Harry Richardson",
+        "Blake Ritson",
+        "Simon Jones"
+      ],
+      "rank": 7,
+      "id": "tt4406178",
+      "name": "La edad dorada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
+      "rating": 7.727,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,11 +236,11 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.571,
+      "rating": 8.6,
       "year": 2014,
       "days": null,
       "trend": {
@@ -236,7 +267,7 @@
         "Jackson Connor",
         "Joseph William Evans"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt35768911",
       "name": "De puntillas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
@@ -250,59 +281,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png",
-      "director": [],
-      "cast": [
-        "Taylour Paige",
-        "Jovan Adepo",
-        "James Remar",
-        "Stephen Rider",
-        "Matilda Lawler",
-        "Amanda Christine",
-        "Clara Stack",
-        "Blake Cameron James"
-      ],
-      "rank": 9,
-      "id": "tt19244304",
-      "name": "It: Bienvenidos a Derry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
-      "rating": 8.24,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
       "director": [],
       "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
       ],
       "rank": 10,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.054,
-      "year": 2024,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.407,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +310,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

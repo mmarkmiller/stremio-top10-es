@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,8 @@
       "rank": 1,
       "id": "tt38793125",
       "name": "Colisión",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
-      "rating": 7.167,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,78 +67,8 @@
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.264,
+      "rating": 7.263,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
-      "director": [
-        "Anne Sewitsky"
-      ],
-      "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
-      ],
-      "rank": 3,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.2,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jong Soo es un trabajador a tiempo parcial, un día se encuentra con Hae Mi mientras hace una entrega, ellos solían vivir en el mismo vecindario. Hae Mi le pide que cuide de su gato mientras ella está en un viaje a África. Cuando Hae Mi regresa, ella le presenta a Jong Soo a un hombre misterioso que conoció en África, Ben. Después de algunos días Ben y Hae Mi visitan a Jong Soo y le confiesan su pasatiempo secreto.",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6eOq707lwWFIG96Rv9sSR6lnnT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bILH1xVdtoAPt087S0Of3dWmQma.png",
-      "runtime": "148 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "유아인",
-        "Steven Yeun",
-        "전종서",
-        "김수경",
-        "최승호",
-        "문성근",
-        "민복기",
-        "반혜라"
-      ],
-      "rank": 4,
-      "id": "tt7282468",
-      "name": "Burning",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ipSjmdgDb9RzORoJlCslh9ueRON.jpg",
-      "rating": 7.381,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -164,12 +94,47 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
       "rating": 6.401,
       "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
+      "director": [
+        "Cameron Cairnes",
+        "Colin Cairnes"
+      ],
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
+      ],
+      "rank": 4,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.1,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -199,12 +164,48 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
+      "rating": 7.396,
       "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 6,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.836,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,7 +239,7 @@
       "id": "tt0081505",
       "name": "El resplandor",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.201,
+      "rating": 8.2,
       "year": 1980,
       "days": null,
       "trend": {
@@ -248,33 +249,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
       "genres": [
-        "Terror"
+        "Crimen",
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+      "runtime": "111 min",
       "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
+        "Wes Craven"
       ],
       "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
+        "Neve Campbell",
+        "Skeet Ulrich",
+        "Rose McGowan",
+        "Matthew Lillard",
+        "David Arquette",
+        "Courteney Cox",
+        "Jamie Kennedy",
+        "Drew Barrymore"
       ],
       "rank": 8,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.079,
-      "year": 2024,
+      "id": "tt0117571",
+      "name": "Scream. Vigila quién llama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "rating": 7.439,
+      "year": 1996,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,34 +285,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Suspense",
+        "Drama",
+        "Acción",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dQ4avVp5YLwQchY2REA3eo8tXq8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
+      "runtime": "109 min",
       "director": [
-        "Alejandro Amenábar"
+        "Ben Affleck"
       ],
       "cast": [
-        "Nicole Kidman",
-        "Alakina Mann",
-        "James Bentley",
-        "Fionnula Flanagan",
-        "Christopher Eccleston",
-        "Eric Sykes",
-        "Elaine Cassidy",
-        "Keith Allen"
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
       ],
       "rank": 9,
-      "id": "tt0230600",
-      "name": "Los otros",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
-      "rating": 7.619,
-      "year": 2001,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 6.972,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,32 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "genres": [
-        "Drama"
+        "Suspense",
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fc7YOO5V0wdKzdOx9vTlbaNwHl5.png",
+      "runtime": "101 min",
       "director": [
-        "Gus Van Sant"
+        "Janus Metz"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
       ],
       "rank": 10,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.585,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

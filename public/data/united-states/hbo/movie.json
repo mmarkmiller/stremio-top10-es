@@ -2,40 +2,8 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
-      "runtime": "107 min",
-      "director": [
-        "Olivia Wilde"
-      ],
-      "cast": [
-        "Olivia Wilde",
-        "Seth Rogen",
-        "Penélope Cruz",
-        "Edward Norton"
-      ],
-      "rank": 1,
-      "id": "tt14173636",
-      "name": "La invitación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.213,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
@@ -60,11 +28,79 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.001,
+      "rating": 6.996,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+      "runtime": "111 min",
+      "director": [
+        "Wes Craven"
+      ],
+      "cast": [
+        "Neve Campbell",
+        "Skeet Ulrich",
+        "Rose McGowan",
+        "Matthew Lillard",
+        "David Arquette",
+        "Courteney Cox",
+        "Jamie Kennedy",
+        "Drew Barrymore"
+      ],
+      "rank": 2,
+      "id": "tt0117571",
+      "name": "Scream. Vigila quién llama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "rating": 7.439,
+      "year": 1996,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
+      "runtime": "107 min",
+      "director": [
+        "Olivia Wilde"
+      ],
+      "cast": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton"
+      ],
+      "rank": 3,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.205,
       "year": 2026,
       "days": null,
       "trend": {
@@ -97,11 +133,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.949,
+      "rating": 7.948,
       "year": 2009,
       "days": null,
       "trend": {
@@ -111,68 +147,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
-        "Terror",
+        "Romance",
         "Fantasía",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
-      "runtime": "82 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
       "director": [
-        "Michael Dougherty"
+        "Griffin Dunne"
       ],
       "cast": [
-        "Brian Cox",
-        "Quinn Lord",
-        "Anna Paquin",
-        "Dylan Baker",
-        "Leslie Bibb",
-        "Tahmoh Penikett",
-        "Rochelle Aytes",
-        "Britt McKillip"
-      ],
-      "rank": 4,
-      "id": "tt0862856",
-      "name": "Truco o trato: Terror en Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
-      "rating": 7,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/OyrL7LifPjrj7eDm5FtF8qPH8R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/36ISV2Gj1JwwJwy6REviGiAVEKT.png",
-      "runtime": "91 min",
-      "director": [
-        "Wes Craven"
-      ],
-      "cast": [
-        "Heather Langenkamp",
-        "Robert Englund",
-        "Johnny Depp",
-        "Amanda Wyss",
-        "Jsu Garcia",
-        "John Saxon",
-        "Ronee Blakley",
-        "Charles Fleischer"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
       ],
       "rank": 5,
-      "id": "tt0087800",
-      "name": "Pesadilla en Elm Street",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
-      "rating": 7.358,
-      "year": 1984,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.836,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,33 +183,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
       "genres": [
-        "Fantasía",
-        "Comedia"
+        "Drama",
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Sgr19oWCPh9m3LRWScNqWrqGDF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4QexYP92sCpGK1PeBwN3mhyrD6H.png",
-      "runtime": "92 min",
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
       "director": [
-        "Tim Burton"
+        "Tazbah Chavez"
       ],
       "cast": [
-        "Alec Baldwin",
-        "Geena Davis",
-        "Winona Ryder",
-        "Catherine O'Hara",
-        "Jeffrey Jones",
-        "Michael Keaton",
-        "Glenn Shadix",
-        "Sylvia Sidney"
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "Brandon Oakes",
+        "MorningStar Angeline",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
       ],
       "rank": 6,
-      "id": "tt0094721",
-      "name": "Bitelchús",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fS9uBsxTs3TWdv0wSEpwyhhvCnO.jpg",
-      "rating": 7.367,
-      "year": 1988,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.375,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -216,33 +219,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Stanley Kubrick"
+        "Zach Cregger"
       ],
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "rank": 7,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.201,
-      "year": 1980,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.263,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,102 +254,106 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una familia americana de clase media se traslada a vivir e una nueva casa en un aparentemente idílico barrio, pero dentro de la casa comienzan a suceder cosas extrañas, fenómenos paranormales para los que no hay explicación posible.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/SQYWzhqELvXJPAqu0YL3I6nODd.png",
-      "runtime": "114 min",
-      "director": [
-        "Tobe Hooper"
-      ],
-      "cast": [
-        "JoBeth Williams",
-        "Craig T. Nelson",
-        "Beatrice Straight",
-        "Dominique Dunne",
-        "Heather O'Rourke",
-        "Oliver Robins",
-        "Zelda Rubinstein",
-        "Richard Lawson"
-      ],
-      "rank": 8,
-      "id": "tt0084516",
-      "name": "Poltergeist. Fenómenos extraños",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6JcwPnultjlXSVDGJhtPSAZSEY.jpg",
-      "rating": 7.167,
-      "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9peD0W7QLQPojo9A4adgLnbVSEM.png",
-      "runtime": "132 min",
-      "director": [
-        "William Friedkin"
-      ],
-      "cast": [
-        "Ellen Burstyn",
-        "Linda Blair",
-        "Jason Miller",
-        "Max von Sydow",
-        "Lee J. Cobb",
-        "William O'Malley",
-        "Kitty Winn",
-        "Barton Heyman"
-      ],
-      "rank": 9,
-      "id": "tt0070047",
-      "name": "El exorcista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
-      "rating": 7.749,
-      "year": 1973,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+      "description": "Cinco jóvenes se preparan para pasar el fin de semana en una aislada cabaña en el bosque, sin ningún tipo de comunicación con el exterior. En el sótano encuentran una extraña colección de reliquias y entre ellas, un diario que habla de la antigua familia que ocupó la casa. Lo que no sospechan es que están siendo observados y que sus acciones marcarán el destino de algo mucho más grande que ellos.",
       "genres": [
         "Terror",
-        "Misterio",
-        "Suspense"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5iiVfPS6LsAqmVQVOzhyCHhCFgU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Ra18NOFKX1c82vgU0o6PyHkaRD.png",
+      "runtime": "95 min",
       "director": [
-        "Ari Aster"
+        "Drew Goddard"
       ],
       "cast": [
-        "Toni Collette",
-        "Alex Wolff",
-        "Gabriel Byrne",
-        "Milly Shapiro",
-        "Ann Dowd",
-        "Mallory Bechtel",
-        "Brock McKinney",
-        "Jake Brown"
+        "Kristen Connolly",
+        "Fran Kranz",
+        "Chris Hemsworth",
+        "Jesse Williams",
+        "Anna Hutchison",
+        "Richard Jenkins",
+        "Bradley Whitford",
+        "Amy Acker"
+      ],
+      "rank": 8,
+      "id": "tt1259521",
+      "name": "La cabaña en el bosque",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/40Sjxp3rXLC3UV2Wbgxxu4HwMJK.jpg",
+      "rating": 6.667,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
+      "runtime": "98 min",
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Sissy Spacek",
+        "Piper Laurie",
+        "Amy Irving",
+        "William Katt",
+        "John Travolta",
+        "Nancy Allen",
+        "Betty Buckley",
+        "P. J. Soles"
+      ],
+      "rank": 9,
+      "id": "tt0074285",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "rating": 7.344,
+      "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7GPemb4DkuxlicKiQP5V5f2Wwtg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Au8kowXvtfaNAwQDNGa8Ggt4mow.png",
+      "runtime": "92 min",
+      "director": [
+        "Sam Fell",
+        "Chris Butler"
+      ],
+      "cast": [
+        "Kodi Smit-McPhee",
+        "Tucker Albrizzi",
+        "Anna Kendrick",
+        "Casey Affleck",
+        "Christopher Mintz-Plasse",
+        "Leslie Mann",
+        "Jeff Garlin",
+        "Elaine Stritch"
       ],
       "rank": 10,
-      "id": "tt7784604",
-      "name": "Hereditary",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.298,
-      "year": 2018,
+      "id": "tt1623288",
+      "name": "El alucinante mundo de Norman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
+      "rating": 7.062,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -355,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }

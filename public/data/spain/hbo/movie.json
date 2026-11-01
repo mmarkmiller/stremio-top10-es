@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202610311937",
+  "date": "202611011956",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,78 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7.001,
+      "rating": 6.996,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
+      "director": [
+        "Tazbah Chavez"
+      ],
+      "cast": [
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "Brandon Oakes",
+        "MorningStar Angeline",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
+      ],
+      "rank": 2,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.375,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9peD0W7QLQPojo9A4adgLnbVSEM.png",
+      "runtime": "132 min",
+      "director": [
+        "William Friedkin"
+      ],
+      "cast": [
+        "Ellen Burstyn",
+        "Linda Blair",
+        "Jason Miller",
+        "Max von Sydow",
+        "Lee J. Cobb",
+        "William O'Malley",
+        "Kitty Winn",
+        "Barton Heyman"
+      ],
+      "rank": 3,
+      "id": "tt0070047",
+      "name": "El exorcista",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
+      "rating": 7.75,
+      "year": 1973,
       "days": null,
       "trend": {
         "dir": "same",
@@ -64,7 +134,7 @@
         "Hannah Gross",
         "Anna Baryshnikov"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
@@ -100,11 +170,11 @@
         "Nissan Sakira",
         "Gil Cohen"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.588,
+      "rating": 7.592,
       "year": 2026,
       "days": null,
       "trend": {
@@ -114,102 +184,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Romance",
+        "Fantasía",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dQ4avVp5YLwQchY2REA3eo8tXq8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
       "director": [
-        "Alejandro Amenábar"
+        "Griffin Dunne"
       ],
       "cast": [
+        "Sandra Bullock",
         "Nicole Kidman",
-        "Alakina Mann",
-        "James Bentley",
-        "Fionnula Flanagan",
-        "Christopher Eccleston",
-        "Eric Sykes",
-        "Elaine Cassidy",
-        "Keith Allen"
-      ],
-      "rank": 4,
-      "id": "tt0230600",
-      "name": "Los otros",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
-      "rating": 7.619,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "124 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 5,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.82,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9peD0W7QLQPojo9A4adgLnbVSEM.png",
-      "runtime": "132 min",
-      "director": [
-        "William Friedkin"
-      ],
-      "cast": [
-        "Ellen Burstyn",
-        "Linda Blair",
-        "Jason Miller",
-        "Max von Sydow",
-        "Lee J. Cobb",
-        "William O'Malley",
-        "Kitty Winn",
-        "Barton Heyman"
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
       ],
       "rank": 6,
-      "id": "tt0070047",
-      "name": "El exorcista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
-      "rating": 7.749,
-      "year": 1973,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.836,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -252,42 +254,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 8,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.832,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
       "genres": [
         "Terror",
@@ -309,7 +275,7 @@
         "Christian Erickson",
         "Robin Greer"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt17526714",
       "name": "La sustancia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
@@ -323,33 +289,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "description": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
       "genres": [
-        "Aventura",
-        "Fantasía"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
-      "runtime": "152 min",
+      "background": "https://image.tmdb.org/t/p/w1280/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hp6YoSFr4lo9aRR9g7ys5tDrFqJ.png",
+      "runtime": "112 min",
       "director": [
-        "Chris Columbus"
+        "James Wan"
       ],
       "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Lili Taylor",
+        "Ron Livingston",
+        "Hayley McFarland",
+        "Sterling Jerins",
+        "Shanley Caswell",
+        "Mackenzie Foy"
       ],
-      "rank": 10,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.906,
-      "year": 2001,
+      "rank": 9,
+      "id": "tt1457767",
+      "name": "Expediente Warren",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+      "rating": 7.546,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-10-31T17:38:32.61Z"
+  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
 }
