@@ -2,30 +2,34 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
+      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
       "genres": [
-        "Misterio",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/htrxdtrliHEcE78UYqbfcHFDYae.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
       "director": [],
       "cast": [
-        "Janine Gutierrez",
-        "Charlie Dizon",
-        "Agot Isidro",
-        "Ronnie Lazaro"
+        "Omar Sy",
+        "Ludivine Sagnier",
+        "Antoine Gouy",
+        "Soufiane Guerrab",
+        "Shirine Boutella",
+        "Théo Christine",
+        "Laïka Blanc-Francard"
       ],
       "rank": 1,
-      "id": "tt39751377",
-      "name": "Balaraw: La isla sangrienta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-      "rating": 7.167,
-      "year": 2026,
+      "id": "tt2531336",
+      "name": "Lupin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "rating": 7.674,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -53,7 +57,7 @@
       "id": "tt36458668",
       "name": "Un trabajo maldito",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "rating": 7.8,
+      "rating": 7.431,
       "year": 2026,
       "days": null,
       "trend": {
@@ -63,63 +67,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "description": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
-      "director": [],
-      "cast": [
-        "Omar Sy",
-        "Ludivine Sagnier",
-        "Antoine Gouy",
-        "Soufiane Guerrab",
-        "Shirine Boutella",
-        "Théo Christine",
-        "Laïka Blanc-Francard"
-      ],
-      "rank": 3,
-      "id": "tt2531336",
-      "name": "Lupin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.7,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
-      "genres": [
-        "Comedia",
+        "Misterio",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
-      "director": [
-        "Juan Cavestany",
-        "Álvaro Fernández Armero"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/htrxdtrliHEcE78UYqbfcHFDYae.png",
+      "director": [],
       "cast": [
-        "Antonio de la Torre",
-        "Alexandra Jiménez",
-        "Enric Benavent",
-        "Fernando Andina",
-        "Celia de Molina",
-        "Teresa Rabal",
-        "Mercedes Sampietro"
+        "Janine Gutierrez",
+        "Charlie Dizon",
+        "Agot Isidro",
+        "Ronnie Lazaro"
       ],
-      "rank": 4,
-      "id": "tt39387986",
-      "name": "Grande de España",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "rating": 5,
+      "rank": 3,
+      "id": "tt39751377",
+      "name": "Balaraw: La isla sangrienta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -146,12 +112,44 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.182,
+      "rating": 7.188,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
+      "rank": 5,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.877,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,7 +180,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.634,
+      "rating": 7.652,
       "year": 2023,
       "days": null,
       "trend": {
@@ -192,30 +190,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
       "genres": [
         "Comedia",
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
+      "director": [
+        "Juan Cavestany",
+        "Álvaro Fernández Armero"
+      ],
       "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
+        "Antonio de la Torre",
+        "Alexandra Jiménez",
+        "Enric Benavent",
+        "Fernando Andina",
+        "Celia de Molina",
+        "Teresa Rabal",
+        "Mercedes Sampietro"
       ],
       "rank": 7,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.877,
-      "year": 2024,
+      "id": "tt39387986",
+      "name": "Grande de España",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "rating": 5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,7 +242,7 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.31,
+      "rating": 7.305,
       "year": 2024,
       "days": null,
       "trend": {
@@ -274,7 +274,7 @@
       "id": "tt11379026",
       "name": "Fantasmas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.127,
+      "rating": 8.1,
       "year": 2021,
       "days": null,
       "trend": {
@@ -301,7 +301,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 8.031,
+      "rating": 8.019,
       "year": 2026,
       "days": null,
       "trend": {
@@ -311,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

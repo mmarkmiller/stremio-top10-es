@@ -2,8 +2,40 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
+      "runtime": "107 min",
+      "director": [
+        "Olivia Wilde"
+      ],
+      "cast": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton"
+      ],
+      "rank": 1,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.204,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
@@ -28,11 +60,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.996,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,65 +74,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
       "genres": [
-        "Crimen",
+        "Drama",
         "Terror",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
       "director": [
-        "Wes Craven"
+        "Tazbah Chavez"
       ],
       "cast": [
-        "Neve Campbell",
-        "Skeet Ulrich",
-        "Rose McGowan",
-        "Matthew Lillard",
-        "David Arquette",
-        "Courteney Cox",
-        "Jamie Kennedy",
-        "Drew Barrymore"
-      ],
-      "rank": 2,
-      "id": "tt0117571",
-      "name": "Scream. Vigila quién llama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
-      "rating": 7.439,
-      "year": 1996,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
-      "runtime": "107 min",
-      "director": [
-        "Olivia Wilde"
-      ],
-      "cast": [
-        "Olivia Wilde",
-        "Seth Rogen",
-        "Penélope Cruz",
-        "Edward Norton"
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
       ],
       "rank": 3,
-      "id": "tt14173636",
-      "name": "La invitación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.205,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.674,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,8 +137,151 @@
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
+      "rating": 7.949,
       "year": 2009,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+      "runtime": "111 min",
+      "director": [
+        "Wes Craven"
+      ],
+      "cast": [
+        "Neve Campbell",
+        "Skeet Ulrich",
+        "Rose McGowan",
+        "Matthew Lillard",
+        "David Arquette",
+        "Courteney Cox",
+        "Jamie Kennedy",
+        "Drew Barrymore"
+      ],
+      "rank": 5,
+      "id": "tt0117571",
+      "name": "Scream. Vigila quién llama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "rating": 7.439,
+      "year": 1996,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
+      "director": [
+        "Paul Feig"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 6,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.25,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
+      "director": [
+        "Michael Sarnoski"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
+      ],
+      "rank": 7,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
+      "runtime": "97 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart",
+        "Ed Asner",
+        "Mary Steenburgen",
+        "Zooey Deschanel",
+        "Daniel Tay",
+        "Faizon Love"
+      ],
+      "rank": 8,
+      "id": "tt0319343",
+      "name": "Elf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "rating": 6.7,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,11 +312,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.836,
+      "rating": 6.839,
       "year": 1998,
       "days": null,
       "trend": {
@@ -183,177 +326,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
       "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
-      "runtime": "30 min",
-      "director": [
-        "Tazbah Chavez"
-      ],
-      "cast": [
-        "Kiawentiio",
-        "Isabel DeRoy-Olson",
-        "Michael Podemski",
-        "Zahn McClarnon",
-        "Brandon Oakes",
-        "MorningStar Angeline",
-        "Jennifer Podemski",
-        "Kimberly Guerrero"
-      ],
-      "rank": 6,
-      "id": "tt50389959",
-      "name": "La historia de Derry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-      "rating": 6.375,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 7,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.263,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco jóvenes se preparan para pasar el fin de semana en una aislada cabaña en el bosque, sin ningún tipo de comunicación con el exterior. En el sótano encuentran una extraña colección de reliquias y entre ellas, un diario que habla de la antigua familia que ocupó la casa. Lo que no sospechan es que están siendo observados y que sus acciones marcarán el destino de algo mucho más grande que ellos.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5iiVfPS6LsAqmVQVOzhyCHhCFgU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Ra18NOFKX1c82vgU0o6PyHkaRD.png",
-      "runtime": "95 min",
-      "director": [
-        "Drew Goddard"
-      ],
-      "cast": [
-        "Kristen Connolly",
-        "Fran Kranz",
-        "Chris Hemsworth",
-        "Jesse Williams",
-        "Anna Hutchison",
-        "Richard Jenkins",
-        "Bradley Whitford",
-        "Amy Acker"
-      ],
-      "rank": 8,
-      "id": "tt1259521",
-      "name": "La cabaña en el bosque",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/40Sjxp3rXLC3UV2Wbgxxu4HwMJK.jpg",
-      "rating": 6.667,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 9,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.344,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
-      "genres": [
-        "Familia",
-        "Animación",
         "Aventura",
-        "Comedia"
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7GPemb4DkuxlicKiQP5V5f2Wwtg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Au8kowXvtfaNAwQDNGa8Ggt4mow.png",
-      "runtime": "92 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
+      "runtime": "152 min",
       "director": [
-        "Sam Fell",
-        "Chris Butler"
+        "Chris Columbus"
       ],
       "cast": [
-        "Kodi Smit-McPhee",
-        "Tucker Albrizzi",
-        "Anna Kendrick",
-        "Casey Affleck",
-        "Christopher Mintz-Plasse",
-        "Leslie Mann",
-        "Jeff Garlin",
-        "Elaine Stritch"
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
       ],
       "rank": 10,
-      "id": "tt1623288",
-      "name": "El alucinante mundo de Norman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
-      "rating": 7.062,
-      "year": 2012,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.906,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

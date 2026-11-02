@@ -2,14 +2,14 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
       "genres": [
+        "Suspense",
         "Drama",
-        "Acción",
         "Crimen"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
@@ -32,7 +32,79 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.8,
+      "rating": 6.871,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de infectados y lealtades divididas, deberán luchar por sobrevivir mientras afrontan un dilema moral: salvarse a sí mismos o arriesgarlo todo por lo que queda de humanidad.",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTUDobBtaexjmeyQA4S96Sg1v4V.png",
+      "runtime": "96 min",
+      "director": [
+        "Carles Torrens"
+      ],
+      "cast": [
+        "Carlos Alcaide",
+        "Julia Martínez",
+        "José María Yázpik",
+        "Mónica López",
+        "Tamara Casellas",
+        "Berta Vázquez",
+        "Santiago Vaca Narvaja",
+        "Mario Mayo"
+      ],
+      "rank": 2,
+      "id": "tt37522541",
+      "name": "Apocalipsis Z: Nuevo mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
+      "rating": 6.063,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 3,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -63,11 +135,117 @@
         "Brendan Conroy",
         "Ezra Carlisle"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.817,
+      "rating": 6.812,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
+      "runtime": "120 min",
+      "director": [
+        "Kirk Jones"
+      ],
+      "cast": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
+      ],
+      "rank": 5,
+      "id": "tt31514146",
+      "name": "Incontrolable (I Swear)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+      "rating": 8.288,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en una historia real. Michael White es el capitán de un equipo que participa en una carrera de 700 km durante 10 días por las selvas de la República Dominicana. Durante esta épica carrera de resistencia, un perro callejero se les une, recorriendo con ellos algunos de los terrenos más difíciles del planeta. A medida que el equipo se ve empujado al límite de su resistencia en la carrera, Arthur redefine lo que realmente significan la victoria, la lealtad y la amistad.",
+      "genres": [
+        "Aventura",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/miBTSrLQ0a9cyROXyOdY03smJMb.png",
+      "runtime": "107 min",
+      "director": [
+        "Simon Cellan Jones"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Simu Liu",
+        "Juliet Rylance",
+        "Nathalie Emmanuel",
+        "Ali Suliman",
+        "Bear Grylls",
+        "Paul Guilfoyle",
+        "Rob Collins"
+      ],
+      "rank": 6,
+      "id": "tt10720352",
+      "name": "Arthur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
+      "rating": 7.5,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
+      "director": [
+        "Tazbah Chavez"
+      ],
+      "cast": [
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
+      ],
+      "rank": 7,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.674,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,11 +278,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 3,
+      "rank": 8,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
+      "rating": 7.949,
       "year": 2009,
       "days": null,
       "trend": {
@@ -114,105 +292,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 4,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.996,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de infectados y lealtades divididas, deberán luchar por sobrevivir mientras afrontan un dilema moral: salvarse a sí mismos o arriesgarlo todo por lo que queda de humanidad.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTUDobBtaexjmeyQA4S96Sg1v4V.png",
-      "runtime": "96 min",
-      "director": [
-        "Carles Torrens"
-      ],
-      "cast": [
-        "Carlos Alcaide",
-        "José María Yázpik",
-        "Julia Martínez",
-        "Mónica López",
-        "Tamara Casellas",
-        "Berta Vázquez",
-        "Santiago Vaca Narvaja",
-        "Mario Mayo"
-      ],
-      "rank": 5,
-      "id": "tt37522541",
-      "name": "Apocalipsis Z: Nuevo mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La vida de un pueblo coreano es trastornada por una serie de asesinatos, salvajes y misteriosos, que azota por casualidad a la pequeña comunidad rural. Los rumores y las supersticiones se propagan a causa de la presencia, desde hace poco tiempo, de un anciano extranjero que vive como un ermita. Ante la incompetencia de la policía para encontrar al asesino y sin tener una explicación racional, algunos habitantes del pueblo buscan a un chamán. Jong-gu, un policía cuya familia está directamente amenazada, también cree que se trata de crímenes sobrenaturales…",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fYNUzYOHyg8EUpo3q5mVcv75lYX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
       "runtime": "156 min",
       "director": [
-        "나홍진"
+        "Phil Lord",
+        "Christopher Miller"
       ],
       "cast": [
-        "곽도원",
-        "황정민",
-        "천우희",
-        "Jun Kunimura",
-        "김환희",
-        "허진",
-        "장소연",
-        "김도윤"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
       ],
-      "rank": 6,
-      "id": "tt5215952",
-      "name": "El Extraño",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg",
-      "rating": 7.397,
-      "year": 2016,
+      "rank": 9,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,119 +351,12 @@
         "Alfonso Arau",
         "Herbert Siguenza"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt2380307",
       "name": "Coco",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
-      "rating": 8.204,
+      "rating": 8.206,
       "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
-      "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ikJwB9udfYQY0uhC9kGzBYUzqG.png",
-      "runtime": "75 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 8,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.857,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un periodista viaja con su familia a lo largo y ancho del país para investigar terribles asesinatos que luego convierte en libros. Cuando llega a una casa donde ha tenido lugar el asesinato de una familia, encuentra una cinta que desvela horribles pistas que van más allá del esclarecimiento de la tragedia.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qROEky9DX25FNDYrslqhhfT7k23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eACUNxk0iMR6dfKjzWm1qCtLVbn.png",
-      "runtime": "110 min",
-      "director": [
-        "Scott Derrickson"
-      ],
-      "cast": [
-        "Ethan Hawke",
-        "Juliet Rylance",
-        "Vincent D'Onofrio",
-        "James Ransone",
-        "Fred Thompson",
-        "Clare Foley",
-        "Michael Hall D'Addario",
-        "Victoria Leigh"
-      ],
-      "rank": 9,
-      "id": "tt1922777",
-      "name": "Sinister",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nsQTB6nIx3apZMbz9sZaEAmhJXp.jpg",
-      "rating": 6.875,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 10,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.263,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -365,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

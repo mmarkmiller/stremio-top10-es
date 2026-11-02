@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,8 +29,39 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.348,
+      "rating": 7.5,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
+      "director": [],
+      "cast": [
+        "Carrie Coon",
+        "Morgan Spector",
+        "Louisa Jacobson",
+        "Denée Benton",
+        "Taissa Farmiga",
+        "Harry Richardson",
+        "Blake Ritson",
+        "Simon Jones"
+      ],
+      "rank": 2,
+      "id": "tt4406178",
+      "name": "La edad dorada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
+      "rating": 7.7,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -58,12 +89,110 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.5,
+      "rating": 8.493,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
+      ],
+      "rank": 4,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Dan Stevens",
+        "Bokeem Woodbine",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa"
+      ],
+      "rank": 5,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "rating": 8.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
+      ],
+      "rank": 6,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.652,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -87,11 +216,11 @@
         "Cameron Scoggins",
         "Devin Kessler"
       ],
-      "rank": 3,
+      "rank": 7,
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.678,
+      "rating": 8.653,
       "year": 2026,
       "days": null,
       "trend": {
@@ -120,42 +249,12 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 4,
+      "rank": 8,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.273,
+      "rating": 8.284,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
-      "director": [],
-      "cast": [
-        "Elijah Wood",
-        "Collin Dean",
-        "Melanie Lynskey"
-      ],
-      "rank": 5,
-      "id": "tt3718778",
-      "name": "Más allá del jardín",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,45 +282,12 @@
         "Marina Sirtis",
         "Gates McFadden"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt0092455",
       "name": "Star Trek: La nueva generación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b19xiXgf47zT53j5EcSKA0UYCED.jpg",
       "rating": 8.384,
       "year": 1987,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa",
-        "James Remar",
-        "Brian Cox"
-      ],
-      "rank": 7,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.542,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -248,77 +314,12 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.611,
+      "rating": 8.617,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
-      "director": [],
-      "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
-      ],
-      "rank": 9,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.634,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
-      "director": [],
-      "cast": [
-        "Sarah Paulson",
-        "Evan Peters",
-        "Angela Bassett",
-        "Kathy Bates",
-        "Emma Roberts",
-        "Billie Lourd",
-        "Gabourey Sidibe",
-        "Leslie Grossman"
-      ],
-      "rank": 10,
-      "id": "tt1844624",
-      "name": "American Horror Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.079,
-      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +328,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

@@ -2,43 +2,8 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
-      "runtime": "91 min",
-      "director": [
-        "John Carpenter"
-      ],
-      "cast": [
-        "Donald Pleasence",
-        "Jamie Lee Curtis",
-        "Nancy Kyes",
-        "P. J. Soles",
-        "Charles Cyphers",
-        "Kyle Richards",
-        "Brian Andrews",
-        "John Michael Graham"
-      ],
-      "rank": 1,
-      "id": "tt0077651",
-      "name": "La noche de Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.561,
-      "year": 1978,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
@@ -63,7 +28,7 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
@@ -98,11 +63,11 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.168,
+      "rating": 8.17,
       "year": 2026,
       "days": null,
       "trend": {
@@ -112,69 +77,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
-      "genres": [
-        "Animación",
-        "Película de TV",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vtml6FFkXCEG7j30dkNsK5F7SdK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png",
-      "runtime": "25 min",
-      "director": [
-        "Bill Melendez"
-      ],
-      "cast": [
-        "Peter Robbins",
-        "Christopher Shea",
-        "Sally Dryer",
-        "Bill Melendez",
-        "Cathy Steinberg",
-        "Gail DeFaria",
-        "Glenn Mendelson",
-        "Ann Altieri"
-      ],
-      "rank": 4,
-      "id": "tt0060550",
-      "name": "Ésta es la gran calabaza, Charlie Brown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
-      "rating": 7.538,
-      "year": 1966,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa Cazafantasmas, dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
       "genres": [
         "Comedia",
-        "Fantasía"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJADnzciFbQXNT3CWUUSxa4ywcq.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
       "runtime": "107 min",
       "director": [
-        "Ivan Reitman"
+        "Olivia Wilde"
       ],
       "cast": [
-        "Bill Murray",
-        "Dan Aykroyd",
-        "Harold Ramis",
-        "Sigourney Weaver",
-        "Rick Moranis",
-        "Ernie Hudson",
-        "Annie Potts",
-        "William Atherton"
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton"
       ],
-      "rank": 5,
-      "id": "tt0087332",
-      "name": "Los Cazafantasmas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
-      "rating": 7.497,
-      "year": 1984,
+      "rank": 3,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.204,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,70 +109,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Filme que intercala cuatro historias en la noche de Halloween. Una de las historias se centra en un director de instituto que se convierte en un vicioso asesino en serie con la luna llena. Otra trata de una virgen en edad universitaria que se reserva para el hombre de su vida, a quien cree que acaba de conocer. La tercera versa sobre una mujer cuyo odio hacia Halloween sólo es superado por el amor que le tiene su marido a esta festividad. Por último, un grupo de adolescentes despiadados llevan a cabo una broma imperdonablemente cruel. Ha sido definida por varios críticos nortamericanos como una versión en carne y hueso de \"Pesadilla Antes de Navidad\".",
+      "description": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
       "genres": [
         "Terror",
-        "Fantasía",
-        "Comedia"
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2d17hNnGYBtjEzczpVAHj3Hyerd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tUT8M4ZYfFvuhAyeBEgrZiIeKyD.png",
-      "runtime": "82 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kCgPDFyK552OtyYCLddDWqoLBZh.png",
+      "runtime": "110 min",
       "director": [
-        "Michael Dougherty"
+        "Jordan Downey"
       ],
       "cast": [
-        "Brian Cox",
-        "Quinn Lord",
-        "Anna Paquin",
-        "Dylan Baker",
-        "Leslie Bibb",
-        "Tahmoh Penikett",
-        "Rochelle Aytes",
-        "Britt McKillip"
+        "Deborah Ann Woll",
+        "Jeffrey Donovan",
+        "Gretchen Corbett",
+        "Jack Doolan",
+        "Will Hochman",
+        "Dana Millican",
+        "Phillip Andre Botello",
+        "Don Keith Opper"
       ],
-      "rank": 6,
-      "id": "tt0862856",
-      "name": "Truco o trato: Terror en Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg",
-      "rating": 6.992,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres brujas del siglo XII son invocadas durante la noche de Halloween en la ciudad de Salem, Massachusetts, de manera accidental por unos niños. Desterradas hace 300 años por sus prácticas de brujería, este trío prometió volver algún día para sembrar el caos. Ahora aprovecharán la ocasión para cumplir su promesa.  Una comedia realizada por la factoría Disney con vistas a su exhibición en la fiesta de Halloween.",
-      "genres": [
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8au4X4V6fAqVojUTRsoaN6A2Ltv.png",
-      "runtime": "96 min",
-      "director": [
-        "Kenny Ortega"
-      ],
-      "cast": [
-        "Omri Katz",
-        "Thora Birch",
-        "Vinessa Shaw",
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy",
-        "Tobias Jelinek",
-        "Larry Bagby"
-      ],
-      "rank": 7,
-      "id": "tt0107120",
-      "name": "El retorno de las brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg",
-      "rating": 7.05,
-      "year": 1993,
+      "rank": 4,
+      "id": "tt32358390",
+      "name": "El ciclo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "rating": 6.824,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,11 +167,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 9,
+      "rank": 5,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.996,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -291,34 +181,175 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "genres": [
-        "Crimen",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
+      ],
+      "rank": 6,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.43,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "genres": [
+        "Drama",
         "Terror",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
       "director": [
-        "Wes Craven"
+        "Tazbah Chavez"
       ],
       "cast": [
-        "Neve Campbell",
-        "Skeet Ulrich",
-        "Rose McGowan",
-        "Matthew Lillard",
-        "David Arquette",
-        "Courteney Cox",
-        "Jamie Kennedy",
-        "Drew Barrymore"
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
+      ],
+      "rank": 7,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.674,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
+      "runtime": "108 min",
+      "director": [
+        "Damian McCarthy"
+      ],
+      "cast": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Michael Patric",
+        "Will O'Connell",
+        "Brendan Conroy",
+        "Ezra Carlisle"
+      ],
+      "rank": 8,
+      "id": "tt35672862",
+      "name": "Hokum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "rating": 6.812,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qNAG8RHWfpS1ZsK2Z9oygVN9uuE.png",
+      "runtime": "106 min",
+      "director": [
+        "Jane Schoenbrun"
+      ],
+      "cast": [
+        "Hannah Einbinder",
+        "Gillian Anderson",
+        "Amanda Fix",
+        "Arthur Conti",
+        "Eva Victor",
+        "Zach Cherry",
+        "Sarah Sherman",
+        "Patrick Fischler"
+      ],
+      "rank": 9,
+      "id": "tt35298123",
+      "name": "Adolescencia, sexo y muerte en campamento Miasma",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "rating": 6.107,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
+      "runtime": "91 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Donald Pleasence",
+        "Jamie Lee Curtis",
+        "Nancy Kyes",
+        "P. J. Soles",
+        "Charles Cyphers",
+        "Kyle Richards",
+        "Brian Andrews",
+        "John Michael Graham"
       ],
       "rank": 10,
-      "id": "tt0117571",
-      "name": "Scream. Vigila quién llama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
-      "rating": 7.439,
-      "year": 1996,
+      "id": "tt0077651",
+      "name": "La noche de Halloween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+      "rating": 7.561,
+      "year": 1978,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
     {
       "artworkVersion": 4,
@@ -20,8 +20,8 @@
       ],
       "cast": [
         "Carlos Alcaide",
-        "José María Yázpik",
         "Julia Martínez",
+        "José María Yázpik",
         "Mónica López",
         "Tamara Casellas",
         "Berta Vázquez",
@@ -32,7 +32,7 @@
       "id": "tt37522541",
       "name": "Apocalipsis Z: Nuevo mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.1,
+      "rating": 6.063,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,34 +42,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+      "description": "Basada en una historia real. Michael White es el capitán de un equipo que participa en una carrera de 700 km durante 10 días por las selvas de la República Dominicana. Durante esta épica carrera de resistencia, un perro callejero se les une, recorriendo con ellos algunos de los terrenos más difíciles del planeta. A medida que el equipo se ve empujado al límite de su resistencia en la carrera, Arthur redefine lo que realmente significan la victoria, la lealtad y la amistad.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Aventura",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/miBTSrLQ0a9cyROXyOdY03smJMb.png",
+      "runtime": "107 min",
       "director": [
-        "Ari Aster"
+        "Simon Cellan Jones"
       ],
       "cast": [
-        "Toni Collette",
-        "Alex Wolff",
-        "Gabriel Byrne",
-        "Milly Shapiro",
-        "Ann Dowd",
-        "Mallory Bechtel",
-        "Brock McKinney",
-        "Jake Brown"
+        "Mark Wahlberg",
+        "Simu Liu",
+        "Juliet Rylance",
+        "Nathalie Emmanuel",
+        "Ali Suliman",
+        "Bear Grylls",
+        "Paul Guilfoyle",
+        "Rob Collins"
       ],
       "rank": 2,
-      "id": "tt7784604",
-      "name": "Hereditary",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.297,
-      "year": 2018,
+      "id": "tt10720352",
+      "name": "Arthur",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
+      "rating": 7.5,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -138,42 +137,8 @@
       "id": "tt43655467",
       "name": "Ali G: Kién es yo?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 5.986,
+      "rating": 5.8,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9peD0W7QLQPojo9A4adgLnbVSEM.png",
-      "runtime": "132 min",
-      "director": [
-        "William Friedkin"
-      ],
-      "cast": [
-        "Ellen Burstyn",
-        "Linda Blair",
-        "Jason Miller",
-        "Max von Sydow",
-        "Lee J. Cobb",
-        "William O'Malley",
-        "Kitty Winn",
-        "Barton Heyman"
-      ],
-      "rank": 5,
-      "id": "tt0070047",
-      "name": "El exorcista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
-      "rating": 7.75,
-      "year": 1973,
       "days": null,
       "trend": {
         "dir": "same",
@@ -204,11 +169,11 @@
         "Brendan Fletcher",
         "Peter Shinkoda"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt31195136",
       "name": "Normal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.249,
+      "rating": 7.246,
       "year": 2026,
       "days": null,
       "trend": {
@@ -218,33 +183,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
       "genres": [
-        "Terror",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
-      "runtime": "141 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
       "director": [
-        "Coralie Fargeat"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Demi Moore",
-        "Margaret Qualley",
-        "Dennis Quaid",
-        "Edward Hamilton-Clark",
-        "Gore Abrams",
-        "Oscar Lesage",
-        "Christian Erickson",
-        "Robin Greer"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
       ],
-      "rank": 7,
-      "id": "tt17526714",
-      "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
-      "rating": 7.131,
-      "year": 2024,
+      "rank": 6,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.8,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -253,33 +219,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "description": "Cuando Josh, el hijo de Ellen y Paul, presenta a su nueva novia en la fiesta de su vigesimoquinto aniversario, nadie sospecha que es el principio del fin para esta familia feliz. La nueva novia es Liz, una antigua alumna de Ellen que dejó la universidad unos años antes, después de que Ellen la confrontara en clase por su ideología radical.",
       "genres": [
-        "Romance",
+        "Suspense",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrnN8s7xDifBFAGM1vPtBlCOuoP.png",
+      "runtime": "112 min",
       "director": [
-        "Rachel Morrison"
+        "Jan Komasa"
       ],
       "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
+        "Kyle Chandler",
+        "Diane Lane",
+        "Zoey Deutch",
+        "Daryl McCormack",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "Mckenna Grace",
+        "Madeline Brewer"
+      ],
+      "rank": 7,
+      "id": "tt12583926",
+      "name": "Aniversario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3QyKpTlnPtHIoqGUzpsQ1eiyS2.jpg",
+      "rating": 6.947,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "124 min",
+      "director": [
+        "Wim Wenders"
+      ],
+      "cast": [
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
       ],
       "rank": 8,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.75,
-      "year": 2026,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.818,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
+      "runtime": "126 min",
+      "director": [
+        "Ari Aster"
+      ],
+      "cast": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel",
+        "Brock McKinney",
+        "Jake Brown"
+      ],
+      "rank": 9,
+      "id": "tt7784604",
+      "name": "Hereditary",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
+      "rating": 7.297,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,48 +346,12 @@
         "María Salgueiro",
         "Iuri Mikhailitxenko"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt27599851",
       "name": "Apocalipsis Z: el principio del fin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
-      "rating": 6.77,
+      "rating": 6.773,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
-      "runtime": "134 min",
-      "director": [
-        "Gore Verbinski"
-      ],
-      "cast": [
-        "Sam Rockwell",
-        "Juno Temple",
-        "Haley Lu Richardson",
-        "Michael Peña",
-        "Zazie Beetz",
-        "Asim Chaudhry",
-        "Tom Taylor",
-        "Georgia Goodman"
-      ],
-      "rank": 10,
-      "id": "tt1341338",
-      "name": "Buena suerte, pásalo bien, no mueras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "rating": 7.11,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }

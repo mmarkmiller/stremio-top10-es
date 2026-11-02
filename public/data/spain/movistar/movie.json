@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611011956",
+  "date": "202611022315",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,43 @@
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.817,
+      "rating": 6.812,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
+      "runtime": "120 min",
+      "director": [
+        "Kirk Jones"
+      ],
+      "cast": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
+      ],
+      "rank": 2,
+      "id": "tt31514146",
+      "name": "Incontrolable (I Swear)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+      "rating": 8.288,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -64,11 +99,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
+      "rating": 7.949,
       "year": 2009,
       "days": null,
       "trend": {
@@ -78,33 +113,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "description": "A un instituto lleno de alumnos problemáticos y con unos resultados académicos muy bajos, llega Henry Bathes, un profesor sustituto que posee un auténtico don para conectar con los alumnos. Pero Henry prefiere ignorar su talento. Al trabajar sólo sustituciones, nunca permanece bastante tiempo en un instituto como para mantener una relación afectiva con sus alumnos o sus compañeros. Cuando llega a este instituto donde una frustrada administración ha conseguido volver totalmente apáticos a los alumnos, Henry no tarda en convertirse en un ejemplo a seguir para los adolescentes. Logra una conexión emocional con los alumnos, con los otros profesores y con una adolescente prostituta a la que recoge en la calle. Puede que gracias a ellos se dé cuenta de que no está solo en su desesperada búsqueda de la belleza en un mundo aparentemente falto de amor y lleno de maldad.",
       "genres": [
-        "Drama",
-        "Historia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/aU6Mj8yFZhOnTpXjobqcwrB4KPP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/se3ZRQv1o6rwEoVv0GRTOAyF7Ao.png",
+      "runtime": "97 min",
       "director": [
-        "Kirk Jones"
+        "Tony Kaye"
       ],
       "cast": [
-        "Robert Aramayo",
-        "Maxine Peake",
-        "Peter Mullan",
-        "Shirley Henderson",
-        "Scott Ellis Watson",
-        "David Carlyle",
-        "Francesco Piacentini-Smith",
-        "Somerled Campbell"
+        "Adrien Brody",
+        "Marcia Gay Harden",
+        "James Caan",
+        "Christina Hendricks",
+        "Lucy Liu",
+        "Blythe Danner",
+        "Tim Blake Nelson",
+        "William L. Petersen"
       ],
-      "rank": 3,
-      "id": "tt31514146",
-      "name": "Incontrolable (I Swear)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.289,
-      "year": 2025,
+      "rank": 4,
+      "id": "tt1683526",
+      "name": "El profesor (Detachment)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rAgnqZIFkYNDVKRqKstwOQj7Ku.jpg",
+      "rating": 7.625,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,7 +169,7 @@
         "Brock McKinney",
         "Jake Brown"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt7784604",
       "name": "Hereditary",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
@@ -149,173 +183,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
       "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
-      "runtime": "91 min",
-      "director": [
-        "John Carpenter"
-      ],
-      "cast": [
-        "Donald Pleasence",
-        "Jamie Lee Curtis",
-        "Nancy Kyes",
-        "P. J. Soles",
-        "Charles Cyphers",
-        "Kyle Richards",
-        "Brian Andrews",
-        "John Michael Graham"
-      ],
-      "rank": 5,
-      "id": "tt0077651",
-      "name": "La noche de Halloween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-      "rating": 7.561,
-      "year": 1978,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9peD0W7QLQPojo9A4adgLnbVSEM.png",
-      "runtime": "132 min",
-      "director": [
-        "William Friedkin"
-      ],
-      "cast": [
-        "Ellen Burstyn",
-        "Linda Blair",
-        "Jason Miller",
-        "Max von Sydow",
-        "Lee J. Cobb",
-        "William O'Malley",
-        "Kitty Winn",
-        "Barton Heyman"
-      ],
-      "rank": 6,
-      "id": "tt0070047",
-      "name": "El exorcista",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
-      "rating": 7.75,
-      "year": 1973,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
-      ],
-      "rank": 7,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.579,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png",
-      "runtime": "146 min",
-      "director": [
-        "Stanley Kubrick"
-      ],
-      "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson"
-      ],
-      "rank": 8,
-      "id": "tt0081505",
-      "name": "El resplandor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
-      "rating": 8.2,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "genres": [
-        "Aventura",
-        "Comedia",
+        "Ciencia ficción",
         "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
+      "runtime": "157 min",
       "director": [
-        "Romain Gavras"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Sam Richardson",
-        "Zarene Dallas"
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage",
+        "Jason Schwartzman",
+        "Hunter Schafer",
+        "Josh Rivera",
+        "Viola Davis",
+        "Fionnula Flanagan"
       ],
-      "rank": 9,
-      "id": "tt32268992",
-      "name": "Sacrificio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.295,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt10545296",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
+      "rating": 6.953,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,34 +218,140 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "description": "Cuando Jimmy Markum, Dave Boyle y Sean Devine eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y las de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie, la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
       "genres": [
-        "Terror",
+        "Suspense",
+        "Drama",
         "Misterio",
-        "Ciencia ficción"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/gLIf2TtQGhIPgpXBQ7yHN3nsduS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rWJBDdgznSBPFdje5IQ8eiaesoP.png",
+      "runtime": "137 min",
       "director": [
-        "John Carpenter"
+        "Clint Eastwood"
       ],
       "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
+        "Sean Penn",
+        "Tim Robbins",
+        "Kevin Bacon",
+        "Laurence Fishburne",
+        "Marcia Gay Harden",
+        "Laura Linney",
+        "Kevin Chapman",
+        "Tom Guiry"
+      ],
+      "rank": 7,
+      "id": "tt0327056",
+      "name": "Mystic River",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
+      "rating": 7.742,
+      "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una aldea en las remotas fronteras del Imperio Romano, un niño bajo la protección de un carpintero comienza a cuestionar la autoridad de su guardián. Su curiosidad y su búsqueda por desentrañar los secretos de su familia despertarán fuerzas sobrenaturales que trascienden la comprensión.",
+      "genres": [
+        "Terror",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1thOEGbfuVilAM8muGhZUsK96S8.png",
+      "runtime": "94 min",
+      "director": [
+        "Lotfy Nathan"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Noah Jupe",
+        "FKA twigs",
+        "Isla Johnston",
+        "Souheila Yacoub",
+        "Καίτη Μανωλιδάκη",
+        "Πηνελόπη Μαρκοπούλου",
+        "Ορέστης Παλιαδέλης"
+      ],
+      "rank": 8,
+      "id": "tt32304349",
+      "name": "El Hijo del Carpintero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eR1v7VLOhlMihF3ulZOnaxUi3Xe.jpg",
+      "rating": 5.9,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Centro de Ocio John Nike en West Staines va a cerrar por falta de fondos. A Ali G le preocupa el destino del club alternativo de boy scouts que ha estado dirigiendo hasta ese momento. Decidido a salvar el centro se encadena a una estación de autobuses de Staines. Así­ consigue llamar la atención del primer ministro, que andaba buscando a un joven intelectual que le ayudase a ganar las elecciones en Staines, y que cree haber encontrado en él al hombre que necesitaba. El político convence a Ali de que la mejor forma de salvar el centro es presentarse a las elecciones para el Gobierno, y Ali le toma la palabra.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gzaSxlMCrQaFTjYc8MNmYAv092.png",
+      "runtime": "84 min",
+      "director": [
+        "Mark Mylod"
+      ],
+      "cast": [
+        "Sacha Baron Cohen",
+        "Michael Gambon",
+        "Charles Dance",
+        "Kellie Bright",
+        "Martin Freeman",
+        "Paul Clayton",
+        "Rhona Mitra",
+        "Tony Way"
+      ],
+      "rank": 9,
+      "id": "tt0284837",
+      "name": "Ali G anda suelto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zcXqLPY9KPTLzFf5SgpkyfGWjKa.jpg",
+      "rating": 6.067,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AbcUfIbGRwrlPqdmTSi2WzArjQh.png",
+      "runtime": "124 min",
+      "director": [
+        "Katsuhiro Otomo"
+      ],
+      "cast": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama",
+        "石田太郎",
+        "鈴木瑞穂",
+        "Tessyo Genda",
+        "Koichi Kitamura",
+        "Yuriko Fuchizaki"
       ],
       "rank": 10,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.1,
-      "year": 1982,
+      "id": "tt0094625",
+      "name": "Akira",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2WvrGAnKtHrb20nHLd38RyhIj0Q.jpg",
+      "rating": 7.936,
+      "year": 1988,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-01T17:38:48.857Z"
+  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
 }
