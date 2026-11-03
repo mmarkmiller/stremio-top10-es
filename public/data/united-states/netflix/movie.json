@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611022315",
+  "date": "202611032120",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
-      "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
-      "runtime": "95 min",
-      "director": [
-        "Jeremy Saulnier"
-      ],
-      "cast": [
-        "Anton Yelchin",
-        "Imogen Poots",
-        "Patrick Stewart",
-        "Alia Shawkat",
-        "Joe Cole",
-        "Callum Turner",
-        "Macon Blair",
-        "Mark Webber"
-      ],
-      "rank": 1,
-      "id": "tt4062536",
-      "name": "Green Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.72,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
@@ -64,12 +28,84 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.608,
+      "rating": 7.61,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
+      "runtime": "95 min",
+      "director": [
+        "Jeremy Saulnier"
+      ],
+      "cast": [
+        "Anton Yelchin",
+        "Imogen Poots",
+        "Patrick Stewart",
+        "Alia Shawkat",
+        "Joe Cole",
+        "Callum Turner",
+        "Macon Blair",
+        "Mark Webber"
+      ],
+      "rank": 2,
+      "id": "tt4062536",
+      "name": "Green Room",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
+      "rating": 6.72,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra una historia ambientada en Nueva York en 1981, estadísticamente el año más violento de la historia en la ciudad norteamericana. En ese contexto, un inmigrante y su familia intentan sacar su negocio adelante mientras la violencia y la corrupción amenazan con destruir todo lo que han logrado hasta ese momento.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l1JXogJ2q3EAhGUxrnLGb7VyKQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aunqwUcwREJUCKSMJD7rZx3e1wu.png",
+      "runtime": "125 min",
+      "director": [
+        "J.C. Chandor"
+      ],
+      "cast": [
+        "Oscar Isaac",
+        "Jessica Chastain",
+        "David Oyelowo",
+        "Alessandro Nivola",
+        "Elyes Gabel",
+        "Albert Brooks",
+        "Catalina Sandino Moreno",
+        "Peter Gerety"
+      ],
+      "rank": 3,
+      "id": "tt2937898",
+      "name": "El año más violento",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
+      "rating": 6.6,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -98,7 +134,7 @@
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
@@ -135,11 +171,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.968,
+      "rating": 6.965,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,69 +185,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de terroristas rusos se hacen pasar por periodistas y secuestran el avión donde viaja el presidente de Estados Unidos. La negociación en el aire no es tan sencilla como en tierra y los secuestrados comenzarán a luchar por sus vidas.",
+      "description": "Texas, 1978. Una ex estrella de rodeo y criador de caballos retirado (Eastwood) acepta un encargo de un antiguo jefe: traer a su hijo pequeño desde México de vuelta a casa para alejarlo de su madre alcohólica. En el viaje, ambos se embarcarán en una inesperada aventura.",
       "genres": [
-        "Acción",
-        "Suspense"
+        "Drama",
+        "Western"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8JIPjSvx1LdtQZTpr3VR2hagU84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7vWd2GXi6KvzBPMnYKM5800yydb.png",
-      "runtime": "124 min",
+      "background": "https://image.tmdb.org/t/p/w1280/g6wufgtycJCP508tlC3crSYFCgC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jndYwq76TTg2yQmQt0OTA3oy6Aj.png",
+      "runtime": "104 min",
       "director": [
-        "Wolfgang Petersen"
+        "Clint Eastwood"
       ],
       "cast": [
-        "Harrison Ford",
-        "Gary Oldman",
-        "Glenn Close",
-        "Wendy Crewson",
-        "Liesel Matthews",
-        "Paul Guilfoyle",
-        "Xander Berkeley",
-        "William H. Macy"
-      ],
-      "rank": 5,
-      "id": "tt0118571",
-      "name": "Air Force One (El avión del presidente)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
-      "rating": 6.467,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
+        "Clint Eastwood",
+        "Eduardo Minett",
+        "Natalia Traven",
+        "Dwight Yoakam",
+        "Fernanda Urrejola",
+        "Horacio García Rojas",
+        "Marco Rodríguez",
+        "Paul Alayo"
       ],
       "rank": 6,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.957,
-      "year": 1999,
+      "id": "tt1924245",
+      "name": "Cry Macho",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Vnc9uGcLSXg03al7G3AhBciMUi.jpg",
+      "rating": 5.934,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -220,34 +220,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra una historia ambientada en Nueva York en 1981, estadísticamente el año más violento de la historia en la ciudad norteamericana. En ese contexto, un inmigrante y su familia intentan sacar su negocio adelante mientras la violencia y la corrupción amenazan con destruir todo lo que han logrado hasta ese momento.",
+      "description": "Una comedia negra sobre Honey O'Donahue, una investigadora privada de un pueblo pequeño, que se adentra en una serie de extrañas muertes vinculadas a una misteriosa iglesia.",
       "genres": [
+        "Comedia",
         "Crimen",
-        "Drama",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l1JXogJ2q3EAhGUxrnLGb7VyKQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aunqwUcwREJUCKSMJD7rZx3e1wu.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/cjhq1eBLXgKq1xHDFeUnYzu61H6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVwsvvCJttV4PFGrMgKndhWHIh5.png",
+      "runtime": "89 min",
       "director": [
-        "J.C. Chandor"
+        "Ethan Coen"
       ],
       "cast": [
-        "Oscar Isaac",
-        "Jessica Chastain",
-        "David Oyelowo",
-        "Alessandro Nivola",
-        "Elyes Gabel",
-        "Albert Brooks",
-        "Catalina Sandino Moreno",
-        "Peter Gerety"
+        "Margaret Qualley",
+        "Aubrey Plaza",
+        "Chris Evans",
+        "Lera Abova",
+        "Jacnier",
+        "Gabby Beans",
+        "Talia Ryder",
+        "Charlie Day"
       ],
       "rank": 7,
-      "id": "tt2937898",
-      "name": "El año más violento",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
-      "rating": 6.598,
-      "year": 2014,
+      "id": "tt30645201",
+      "name": "Honey Don't!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+      "rating": 5.542,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,34 +290,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "description": "Un grupo de terroristas rusos se hacen pasar por periodistas y secuestran el avión donde viaja el presidente de Estados Unidos. La negociación en el aire no es tan sencilla como en tierra y los secuestrados comenzarán a luchar por sus vidas.",
       "genres": [
-        "Aventura",
-        "Comedia",
-        "Acción"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8JIPjSvx1LdtQZTpr3VR2hagU84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7vWd2GXi6KvzBPMnYKM5800yydb.png",
+      "runtime": "124 min",
       "director": [
-        "Romain Gavras"
+        "Wolfgang Petersen"
       ],
       "cast": [
-        "Chris Evans",
-        "Anya Taylor-Joy",
-        "Vincent Cassel",
-        "Salma Hayek Pinault",
-        "John Malkovich",
-        "Charli xcx",
-        "Sam Richardson",
-        "Zarene Dallas"
+        "Harrison Ford",
+        "Gary Oldman",
+        "Glenn Close",
+        "Wendy Crewson",
+        "Liesel Matthews",
+        "Paul Guilfoyle",
+        "Xander Berkeley",
+        "William H. Macy"
       ],
       "rank": 9,
-      "id": "tt32268992",
-      "name": "Sacrificio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.293,
-      "year": 2026,
+      "id": "tt0118571",
+      "name": "Air Force One (El avión del presidente)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
+      "rating": 6.467,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,33 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+      "description": "Los hermanos MacManus viven escondidos junto a su padre, Il Duce, en los tranquilos valles de Irlanda, alejados de su antigua vida como vigilantes. Un día se enteran del asesinato de un amigo sacerdote católico a manos de la mafia en Boston. Los dos hermanos regresarán entonces para hacerle justicia.",
       "genres": [
-        "Terror",
-        "Ciencia ficción"
+        "Acción",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iUitBxb4IkLpEIbVcaJn6fyzE1u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qXeyBULKzrzT7ayZSu7bVoqUg0H.png",
       "runtime": "117 min",
       "director": [
-        "Ridley Scott"
+        "Troy Duffy"
       ],
       "cast": [
-        "Tom Skerritt",
-        "Sigourney Weaver",
-        "Veronica Cartwright",
-        "Harry Dean Stanton",
-        "John Hurt",
-        "Ian Holm",
-        "Yaphet Kotto",
-        "Bolaji Badejo"
+        "Sean Patrick Flanery",
+        "Norman Reedus",
+        "Clifton Collins Jr.",
+        "Julie Benz",
+        "Judd Nelson",
+        "Bob Marley",
+        "Brian Mahoney",
+        "David Ferry"
       ],
       "rank": 10,
-      "id": "tt0078748",
-      "name": "Alien: El octavo pasajero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
-      "rating": 8.174,
-      "year": 1979,
+      "id": "tt1300851",
+      "name": "Los elegidos 2: El día de todos los santos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVUUO2JSNukKX0Bj5BUwvcxnVWm.jpg",
+      "rating": 6.016,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
+  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
 }

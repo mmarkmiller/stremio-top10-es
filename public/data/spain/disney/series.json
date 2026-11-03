@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611022315",
+  "date": "202611032120",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.6,
+      "rating": 8.653,
       "year": 2026,
       "days": null,
       "trend": {
@@ -94,7 +94,7 @@
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.756,
       "year": 1999,
       "days": null,
       "trend": {
@@ -124,7 +124,7 @@
       "id": "tt39395275",
       "name": "Dragon Ball Super: Beerus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.645,
+      "rating": 9.65,
       "year": 2026,
       "days": null,
       "trend": {
@@ -134,55 +134,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
-      "genres": [
-        "Reality"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
-      "director": [],
-      "cast": [
-        "Parker Posey"
-      ],
-      "rank": 5,
-      "id": "tt42007258",
-      "name": "The Mob: Infiltrados en la villa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-      "rating": 3.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
         "Drama",
-        "Crimen",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
       "director": [],
       "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 5,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.158,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 6,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.46,
-      "year": 2022,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.584,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -224,25 +226,52 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "description": "El agente especial Will Trent del Gabinete de Investigación de Georgia (GBI) fue abandonado al nacer y creció en el complicado ambiente de las casas de acogida de Atlanta. Sin embargo, a día de hoy, está decidido a utilizar su inimitable agudeza para asegurarse de que a nadie lo abandonan como le hicieron a él. Will Trent cuenta con la tasa de resolución más alta del gabinete.",
       "genres": [
+        "Crimen",
         "Drama",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eGP1P1ppEHIPlppIPLO3TeieFRZ.png",
       "director": [],
       "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
+        "Ramón Rodríguez",
+        "Erika Christensen",
+        "Iantha Richardson",
+        "Jake McLaughlin",
+        "Sonja Sohn",
+        "Kevin Daniels"
       ],
       "rank": 8,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "rating": 7.485,
+      "id": "tt17543592",
+      "name": "Will Trent, Agente Especial",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
+      "rating": 7.3,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
+      "genres": [
+        "Reality"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
+      "director": [],
+      "cast": [
+        "Parker Posey"
+      ],
+      "rank": 9,
+      "id": "tt42007258",
+      "name": "The Mob: Infiltrados en la villa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+      "rating": 3.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -252,53 +281,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uqTCaYBoSLT9MAdyQ9tU6QyCZ3A.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
       "director": [],
       "cast": [
-        "Charlie Day",
-        "Glenn Howerton",
-        "Rob Mac",
-        "Kaitlin Olson",
-        "Danny DeVito"
-      ],
-      "rank": 9,
-      "id": "tt0472954",
-      "name": "Colgados en Filadelfia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jQEKSbxt0463aLD5FyVm3BGlVH2.jpg",
-      "rating": 8.253,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
       ],
       "rank": 10,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.5,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
+  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
 }

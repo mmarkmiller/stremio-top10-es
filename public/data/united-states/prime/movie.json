@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611022315",
+  "date": "202611032120",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,44 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
+      "rating": 8.632,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La Capitana Maude Gardner, es una piloto de la Segunda Guerra Mundial capaz de cruzar los vuelos en un B-17, una auténtica fortaleza voladora de enorme tamaño. La Capitana Gardner es encomendada con llevar unos documentos totalmente secretos en un B-17, pero el viaje no será fácil cuando se tenga que enfrentar a una serie de presencias malignas que habitan en el avión.",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aHYUj0hICtWZ5tPiCIm6pWUcjYK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eLtMLHOpPNwnmWRgxS1RwlUCavQ.png",
+      "runtime": "83 min",
+      "director": [
+        "Roseanne Liang"
+      ],
+      "cast": [
+        "Chloë Grace Moretz",
+        "Nick Robinson",
+        "Beulah Koale",
+        "Taylor John Smith",
+        "Callan Mulvey",
+        "Benedict Wall",
+        "Byron Coll",
+        "Joe Witkowski"
+      ],
+      "rank": 2,
+      "id": "tt9691136",
+      "name": "Pasajero oculto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg",
+      "rating": 5.818,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -62,11 +98,11 @@
         "Tiffany Haddish",
         "DJ Jazzy Jeff"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt43655467",
       "name": "Ali G: Kién es yo?",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 5.8,
+      "rating": 5.774,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,211 +112,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
-      "runtime": "109 min",
-      "director": [
-        "John Carpenter"
-      ],
-      "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
-      ],
-      "rank": 3,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.073,
-      "year": 1982,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
+      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
       "genres": [
         "Comedia",
-        "Familia",
-        "Fantasía"
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+      "runtime": "162 min",
       "director": [
-        "Jon Favreau"
+        "Quentin Tarantino"
       ],
       "cast": [
-        "Will Ferrell",
-        "James Caan",
-        "Bob Newhart",
-        "Ed Asner",
-        "Mary Steenburgen",
-        "Zooey Deschanel",
-        "Daniel Tay",
-        "Faizon Love"
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant",
+        "Julia Butters",
+        "Austin Butler"
       ],
       "rank": 4,
-      "id": "tt0319343",
-      "name": "Elf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.7,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nueva York, año 1870. Newland Archer, un caballero de la alta sociedad neoyorquina, está prometido con May Welland, una joven de su misma clase social. Pero sus sentimientos cambian cuando conoce a la poco convencional prima de May, la condesa Olenska. Desde el principio, defenderá la difícil posición de la condesa, cuya separación de un marido autoritario la ha convertido en una especie de proscrita dentro de su propia clase social.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/Auf7Fbf2BW2h32vrNwgEb7uJJhi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5TMP5rrBequ9RTlXFbK8KeeW0j7.png",
-      "runtime": "139 min",
-      "director": [
-        "Martin Scorsese"
-      ],
-      "cast": [
-        "Daniel Day-Lewis",
-        "Michelle Pfeiffer",
-        "Winona Ryder",
-        "Alexis Smith",
-        "Geraldine Chaplin",
-        "Jonathan Pryce",
-        "Richard E. Grant",
-        "Alec McCowen"
-      ],
-      "rank": 5,
-      "id": "tt0106226",
-      "name": "La edad de la inocencia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vn4IJW4KbYyVKfxX1DxPLR7MVYH.jpg",
-      "rating": 6.959,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png",
-      "runtime": "126 min",
-      "director": [
-        "Ari Aster"
-      ],
-      "cast": [
-        "Toni Collette",
-        "Alex Wolff",
-        "Gabriel Byrne",
-        "Milly Shapiro",
-        "Ann Dowd",
-        "Mallory Bechtel",
-        "Brock McKinney",
-        "Jake Brown"
-      ],
-      "rank": 6,
-      "id": "tt7784604",
-      "name": "Hereditary",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
-      "rating": 7.297,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
-      "genres": [
-        "Ciencia ficción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png",
-      "runtime": "164 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Harrison Ford",
-        "Ana de Armas",
-        "Dave Bautista",
-        "Robin Wright",
-        "Sylvia Hoeks",
-        "Mackenzie Davis",
-        "Jared Leto"
-      ],
-      "rank": 7,
-      "id": "tt1856101",
-      "name": "Blade Runner 2049",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
-      "rating": 7.6,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png",
-      "runtime": "98 min",
-      "director": [
-        "Brian De Palma"
-      ],
-      "cast": [
-        "Sissy Spacek",
-        "Piper Laurie",
-        "Amy Irving",
-        "William Katt",
-        "John Travolta",
-        "Nancy Allen",
-        "Betty Buckley",
-        "P. J. Soles"
-      ],
-      "rank": 8,
-      "id": "tt0074285",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
-      "rating": 7.344,
-      "year": 1976,
+      "id": "tt7131622",
+      "name": "Érase una vez en… Hollywood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+      "rating": 7.418,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,11 +169,11 @@
         "Bailey Spry",
         "Carollette Phillips"
       ],
-      "rank": 9,
+      "rank": 5,
       "id": "tt3235888",
       "name": "It Follows",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
-      "rating": 6.6,
+      "rating": 6.582,
       "year": 2015,
       "days": null,
       "trend": {
@@ -346,11 +205,149 @@
         "Santiago Vaca Narvaja",
         "Mario Mayo"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt37522541",
       "name": "Apocalipsis Z: Nuevo mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.063,
+      "rating": 6.172,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+      "runtime": "120 min",
+      "director": [
+        "John G. Avildsen"
+      ],
+      "cast": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina"
+      ],
+      "rank": 7,
+      "id": "tt0075148",
+      "name": "Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "rating": 7.801,
+      "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
+      "runtime": "106 min",
+      "director": [
+        "Jaron Lockridge"
+      ],
+      "cast": [
+        "Ketrick \"Jazz\" Copeland",
+        "Shi Smith",
+        "Jeremy Shaw",
+        "Jalen Moffitt",
+        "Timberly Hope",
+        "Jeff Haltom",
+        "Tymika Chambliss",
+        "Steve Haltom"
+      ],
+      "rank": 8,
+      "id": "tt27553457",
+      "name": "Betray",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
+      "rating": 4.8,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
+      ],
+      "rank": 9,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.073,
+      "year": 1982,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 10,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.789,
       "year": 2026,
       "days": null,
       "trend": {
@@ -360,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
+  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
 }

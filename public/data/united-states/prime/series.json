@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202611022315",
+  "date": "202611032120",
   "entries": [
     {
       "artworkVersion": 4,
@@ -39,69 +39,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
-      "director": [],
-      "cast": [
-        "Elijah Wood",
-        "Collin Dean",
-        "Melanie Lynskey"
-      ],
-      "rank": 2,
-      "id": "tt3718778",
-      "name": "Más allá del jardín",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.6,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
-      "director": [],
-      "cast": [
-        "Sarah Paulson",
-        "Evan Peters",
-        "Angela Bassett",
-        "Kathy Bates",
-        "Emma Roberts",
-        "Billie Lourd",
-        "Gabourey Sidibe",
-        "Leslie Grossman"
-      ],
-      "rank": 3,
-      "id": "tt1844624",
-      "name": "American Horror Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.079,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
       "genres": [
         "Drama",
@@ -120,7 +57,7 @@
         "Robyn Cara",
         "John Slattery"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
@@ -152,12 +89,75 @@
         "Costa Ronin",
         "Jeremy Bobb"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.996,
+      "rating": 8,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png",
+      "director": [],
+      "cast": [
+        "Sarah Paulson",
+        "Evan Peters",
+        "Angela Bassett",
+        "Kathy Bates",
+        "Emma Roberts",
+        "Billie Lourd",
+        "Gabourey Sidibe",
+        "Leslie Grossman"
+      ],
+      "rank": 4,
+      "id": "tt1844624",
+      "name": "American Horror Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "rating": 8.079,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
+      "director": [],
+      "cast": [
+        "Elijah Wood",
+        "Collin Dean",
+        "Melanie Lynskey"
+      ],
+      "rank": 5,
+      "id": "tt3718778",
+      "name": "Más allá del jardín",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "rating": 8.6,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -188,8 +188,38 @@
       "id": "tt0072562",
       "name": "Saturday Night Live",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "rating": 6.883,
+      "rating": 6.894,
       "year": 1975,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Reese (J. Caviezel) era un agente de la CIA que resolvía personalmente las misiones más peligrosas, pero ahora es un vagabundo que se ha dado a la bebida. El señor Finch (M. Emerson), un filántropo millonario muy peculiar, le ofrece trabajo con el fin de crear una sociedad muy beneficiosa moralmente para ambos. Finch pone a disposición de Reese un mecanismo capaz de predecir los delitos, lo que le permitirá arrestar a los delincuentes y proteger a los ciudadanos.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ksmcQlCQc7XFGpXpIFZzF5twRSr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fMnD6iTWfrVWyQnKqPqTcPpy2iX.png",
+      "director": [],
+      "cast": [
+        "Jim Caviezel",
+        "Michael Emerson",
+        "Kevin Chapman",
+        "Amy Acker",
+        "Sarah Shahi"
+      ],
+      "rank": 7,
+      "id": "tt1839578",
+      "name": "Vigilados, Person of Interest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/A5C2lNBCrL2M0HV73CtSpv3XcFC.jpg",
+      "rating": 8.099,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,7 +244,7 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
@@ -245,11 +275,11 @@
         "Damon Herriman",
         "Jasper Jones"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt33539520",
       "name": "Neagley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "rating": 8.033,
+      "rating": 8.02,
       "year": 2026,
       "days": null,
       "trend": {
@@ -266,14 +296,14 @@
         "Sci-Fi & Fantasy"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7p33IIRru9FcPJQQzskdOTjFo96.png",
+      "logo": "https://image.tmdb.org/t/p/w500/ceG4TcOvdkjT6pMsMEBpCLdGbk3.png",
       "director": [],
       "cast": [
         "Jared Padalecki",
         "Jensen Ackles",
         "Misha Collins"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt0460681",
       "name": "Sobrenatural",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
@@ -284,41 +314,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra las misiones que llevan a cabo un grupo de oficiales del M15 (servicios de inteligencia ingleses) que son conocidos como \"The Grid\".",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uvSjAmirb1mWaRrpuerZtgjJwD5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mbbklRmRM49jazx5M9FK0gKIgMj.png",
-      "director": [],
-      "cast": [
-        "Peter Firth",
-        "Nicola Walker",
-        "Max Brown",
-        "Lara Pulver",
-        "William Hope",
-        "Alex Lanipekun",
-        "Geoffrey Streatfeild",
-        "Tom Weston-Jones"
-      ],
-      "rank": 10,
-      "id": "tt0160904",
-      "name": "Spooks (Doble identidad)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
-      "rating": 7.7,
-      "year": 2002,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-02T21:38:37.7Z"
+  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
 }
