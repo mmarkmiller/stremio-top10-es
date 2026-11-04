@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,44 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.444,
+      "rating": 6.66,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Salamanca, España, 1936. En los primeros días de la rebelión militar que causó el estallido de la guerra civil española (1936-39), el escritor Miguel de Unamuno apoya el levantamiento con la esperanza de que termine el caos político imperante. Pero cuando el enfrentamiento se vuelve sangriento, Unamuno comienza a cuestionar su posición inicial.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tsihdadFxcOiI2NdTxmMmwnfrG3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IRhPq7cZ0ZGDJdYRqalhBQIuDF.png",
+      "runtime": "108 min",
+      "director": [
+        "Alejandro Amenábar"
+      ],
+      "cast": [
+        "Karra Elejalde",
+        "Eduard Fernández",
+        "Santi Prego",
+        "Nathalie Poza",
+        "Luis Bermejo",
+        "Tito Valverde",
+        "Patricia López Arnaiz",
+        "Inma Cuevas"
+      ],
+      "rank": 2,
+      "id": "tt7818580",
+      "name": "Mientras dure la guerra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
+      "rating": 7.1,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -64,11 +100,11 @@
         "Santiago Vaca Narvaja",
         "Mario Mayo"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt37522541",
       "name": "Apocalipsis Z: Nuevo mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.172,
+      "rating": 6.152,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,69 +114,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
       "director": [
-        "Kane Parsons"
+        "Phil Lord",
+        "Christopher Miller"
       ],
       "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 3,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.996,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
-      "runtime": "30 min",
-      "director": [
-        "Tazbah Chavez"
-      ],
-      "cast": [
-        "Kiawentiio",
-        "Isabel DeRoy-Olson",
-        "Michael Podemski",
-        "Zahn McClarnon",
-        "MorningStar Angeline",
-        "Brandon Oakes",
-        "Jennifer Podemski",
-        "Kimberly Guerrero"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
       ],
       "rank": 4,
-      "id": "tt50389959",
-      "name": "La historia de Derry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-      "rating": 6.9,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.632,
       "year": 2026,
       "days": null,
       "trend": {
@@ -175,7 +175,7 @@
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.29,
+      "rating": 8.3,
       "year": 2025,
       "days": null,
       "trend": {
@@ -185,32 +185,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
       "director": [
-        "Damian McCarthy"
+        "Kane Parsons"
       ],
       "cast": [
-        "Adam Scott",
-        "Peter Coonan",
-        "David Wilmot",
-        "Florence Ordesh",
-        "Michael Patric",
-        "Will O'Connell",
-        "Brendan Conroy",
-        "Ezra Carlisle"
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
       ],
       "rank": 6,
-      "id": "tt35672862",
-      "name": "Hokum",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.811,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,67 +221,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leila es una joven sexualmente voraz que se relaciona con los hombres mediante breves encuentros íntimos. Una noche, durante una concurrida fiesta privada en una casa, conoce a David y la lujuria surge a primera vista. Poco después, mientras Leila practica sexo con un desconocido en la parte trasera de la casa, David y su novia hacen lo mismo pero en su coche. Leila y David se miran fijamente mientras hacen el amor con otras personas, iniciándose así un ritual de cortejo que dará paso a una aventura sexual entre ambos.",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
       "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRJ5hiOp7zegUp8MPh25filAVzy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oue6rCeMtZ3tpFzS5Hqg98QYKwH.png",
-      "runtime": "93 min",
-      "director": [
-        "Clement Virgo"
-      ],
-      "cast": [
-        "Lauren Lee Smith",
-        "Eric Balfour",
-        "Polly Shannon",
-        "Kate Lynch",
-        "Michael Facciolo",
-        "Kristin Lehman",
-        "Ron White",
-        "Mayko Nguyen"
-      ],
-      "rank": 7,
-      "id": "tt0418832",
-      "name": "Lie with Me, el diario íntimo de Leila",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lLsKWqDLBlRgRC0saZlanzzNDlx.jpg",
-      "rating": 5.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un campamento de waterpolo masculino, un preadolescente de doce años con ansiedad social se ve arrastrado a formar parte de una cruel tradición que ataca a un marginado con una enfermedad llamada 'La Plaga'. Pero a medida que se difuminan los límites entre el juego y la realidad, teme que la broma pueda estar ocultando algo real.",
-      "genres": [
-        "Drama",
+        "Acción",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gVgSc9M6CMnypGcI7TBXKCANfYd.png",
-      "runtime": "98 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qpZRdwryEhQ9XsRuS8PgZVuEF1V.png",
+      "runtime": "99 min",
       "director": [
-        "Charlie Polinger"
+        "Mark Vanselow"
       ],
       "cast": [
-        "Everett Blunck",
-        "Kayo Martin",
-        "Joel Edgerton",
-        "Kenny Rasmussen",
-        "Lucas Adler",
-        "Caden Burris",
-        "Elliott Heffernan",
-        "Lennox Espy"
+        "Liam Neeson",
+        "Marisa Tomei",
+        "Ving Rhames",
+        "Marcus Thomas",
+        "Michael Chiklis",
+        "Maurice Marvel Meredith",
+        "Brett Tucker",
+        "Ryan Morgan"
+      ],
+      "rank": 7,
+      "id": "tt13611778",
+      "name": "La mangosta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "rating": 7.567,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
+      "director": [
+        "Tazbah Chavez"
+      ],
+      "cast": [
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Kimberly Guerrero"
       ],
       "rank": 8,
-      "id": "tt32792934",
-      "name": "La plaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg",
-      "rating": 6.399,
-      "year": 2025,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -289,70 +292,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nrsVeLvhQ42eXhEDRrYpYosv1rT.png",
-      "runtime": "101 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Dakota Fanning",
-        "Teri Hatcher",
-        "Jennifer Saunders",
-        "Dawn French",
-        "Keith David",
-        "John Hodgman",
-        "Robert Bailey Jr.",
-        "Ian McShane"
-      ],
-      "rank": 9,
-      "id": "tt0327597",
-      "name": "Los mundos de Coraline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
         "Ciencia ficción",
-        "Aventura"
+        "Terror",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 9,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.608,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el bosque finlandés, Saga y su esposo Jon se embarcan en un nuevo capítulo como padres. La alegría de Saga se ve ensombrecida por las sospechas sobre su bebé, provocando una ruptura mientras ella se enfrenta a la inquietante verdad.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kmcFHu4j4aHqIcqlFMTa6BPDMZo.png",
+      "runtime": "92 min",
+      "director": [
+        "Hanna Bergholm"
+      ],
+      "cast": [
+        "Rupert Grint",
+        "Seidi Haarla",
+        "Pamela Tola",
+        "Pirkko Saisio",
+        "Rebecca Lacey",
+        "John Thomson",
+        "Silvia Saloranta",
+        "Satu Tuuli Karhu"
       ],
       "rank": 10,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.632,
+      "id": "tt34383465",
+      "name": "Nightborn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuWjbhgwjE4GIegCxWcu70d9FUl.jpg",
+      "rating": 6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -362,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }

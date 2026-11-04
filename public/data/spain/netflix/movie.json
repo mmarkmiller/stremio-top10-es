@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,44 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.444,
+      "rating": 6.66,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 2,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.608,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -59,7 +95,7 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
@@ -94,7 +130,7 @@
         "Cary Christopher",
         "Toby Huss"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt26581740",
       "name": "Weapons",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
@@ -108,102 +144,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
       "genres": [
-        "Drama"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
       "director": [
-        "Anne Sewitsky"
+        "Cameron Cairnes",
+        "Colin Cairnes"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
-      ],
-      "rank": 4,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.2,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
       ],
       "rank": 5,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.61,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 6,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.167,
-      "year": 1997,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.078,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -235,11 +202,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.965,
+      "rating": 6.97,
       "year": 2026,
       "days": null,
       "trend": {
@@ -249,34 +216,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
       "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fc7YOO5V0wdKzdOx9vTlbaNwHl5.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
       "director": [
-        "Janus Metz"
+        "Gus Van Sant"
       ],
       "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
-      "rank": 8,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.573,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,7 +271,7 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
@@ -320,35 +285,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Jimmy Markum, Dave Boyle y Sean Devine eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y las de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie, la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
+      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "genres": [
-        "Suspense",
+        "Crimen",
         "Drama",
-        "Misterio",
-        "Crimen"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gLIf2TtQGhIPgpXBQ7yHN3nsduS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rWJBDdgznSBPFdje5IQ8eiaesoP.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
+      "runtime": "114 min",
       "director": [
-        "Clint Eastwood"
+        "James Ashcroft"
       ],
       "cast": [
-        "Sean Penn",
-        "Tim Robbins",
-        "Kevin Bacon",
-        "Laurence Fishburne",
-        "Marcia Gay Harden",
-        "Laura Linney",
-        "Kevin Chapman",
-        "Tom Guiry"
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "rank": 9,
+      "id": "tt11561116",
+      "name": "Susurran tu nombre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "rating": 6.816,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
       ],
       "rank": 10,
-      "id": "tt0327056",
-      "name": "Mystic River",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
-      "rating": 7.742,
-      "year": 2003,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.438,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.615,
+      "rating": 8.618,
       "year": 2025,
       "days": null,
       "trend": {
@@ -60,8 +60,40 @@
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.677,
+      "rating": 7.7,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Henry Lewis"
+      ],
+      "rank": 3,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.659,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -85,11 +117,11 @@
         "Cameron Scoggins",
         "Devin Kessler"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.7,
+      "rating": 8.649,
       "year": 2026,
       "days": null,
       "trend": {
@@ -118,44 +150,12 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.284,
+      "rating": 8.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt",
-        "Constance Wu",
-        "Tom Hopper",
-        "Dar Salim",
-        "Ольга Куриленко",
-        "Yul Vazquez",
-        "Costa Ronin",
-        "Jeremy Bobb"
-      ],
-      "rank": 5,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,7 +187,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.625,
+      "rating": 7.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -197,61 +197,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
       "genres": [
+        "Action & Adventure",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
       "director": [],
       "cast": [
-        "Carrie Coon",
-        "Morgan Spector",
-        "Louisa Jacobson",
-        "Denée Benton",
-        "Taissa Farmiga",
-        "Harry Richardson",
-        "Blake Ritson",
-        "Simon Jones"
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
       ],
       "rank": 7,
-      "id": "tt4406178",
-      "name": "La edad dorada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
-      "rating": 7.7,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 7.995,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
-      "director": [],
-      "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "Orla Brady",
-        "Diane Morgan",
-        "Henry Lewis"
-      ],
-      "rank": 8,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.653,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,11 +244,11 @@
         "김민하",
         "이희준"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt36458668",
       "name": "Un trabajo maldito",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s9b0UgT2360iKTTSM4AEKirgsYC.jpg",
-      "rating": 7.409,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/agNYOaXhshj35EMjzVZLGRZUlx6.jpg",
+      "rating": 7.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -289,31 +258,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
       "genres": [
         "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qqZuLcgCGqIk8VSBEoPCIEhQeCx.png",
       "director": [],
       "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
+        "Omar Ayuso",
+        "Laia Marull",
+        "Valentina Vidal",
+        "Raúl Arévalo"
+      ],
+      "rank": 9,
+      "id": "tt39216741",
+      "name": "El Castillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
+      "genres": [
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yySfzvGlynOBsD3gkVaHo0opMVX.png",
+      "director": [],
+      "cast": [
+        "Victoria Luengo",
+        "Hovik Keuchkerian",
+        "Karmele Larrinaga",
+        "Vicenta N'Dongo",
+        "Àlex Brendemühl",
+        "Fernando Guallar",
+        "Bruno Sevilla",
+        "Adriana Torrebejano"
       ],
       "rank": 10,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.546,
-      "year": 2025,
+      "id": "tt20883126",
+      "name": "Reina roja",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
+      "rating": 7,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }

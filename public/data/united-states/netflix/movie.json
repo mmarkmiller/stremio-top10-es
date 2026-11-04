@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.61,
+      "rating": 7.608,
       "year": 2023,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.72,
+      "rating": 6.723,
       "year": 2016,
       "days": null,
       "trend": {
@@ -104,8 +104,80 @@
       "id": "tt2937898",
       "name": "El año más violento",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
-      "rating": 6.6,
+      "rating": 6.596,
       "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una comedia negra sobre Honey O'Donahue, una investigadora privada de un pueblo pequeño, que se adentra en una serie de extrañas muertes vinculadas a una misteriosa iglesia.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cjhq1eBLXgKq1xHDFeUnYzu61H6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVwsvvCJttV4PFGrMgKndhWHIh5.png",
+      "runtime": "89 min",
+      "director": [
+        "Ethan Coen"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Aubrey Plaza",
+        "Chris Evans",
+        "Lera Abova",
+        "Jacnier",
+        "Gabby Beans",
+        "Talia Ryder",
+        "Charlie Day"
+      ],
+      "rank": 4,
+      "id": "tt30645201",
+      "name": "Honey Don't!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+      "rating": 5.542,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fMiEp00v8gGWEceL4QeLu6H6z69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rPUL4YUgJ54D3PYp5ZTtucc0lKH.png",
+      "runtime": "137 min",
+      "director": [
+        "Robert Eggers"
+      ],
+      "cast": [
+        "Alexander Skarsgård",
+        "Nicole Kidman",
+        "Claes Bang",
+        "Ethan Hawke",
+        "Anya Taylor-Joy",
+        "Gustav Lindh",
+        "Elliott Rose",
+        "Willem Dafoe"
+      ],
+      "rank": 5,
+      "id": "tt11138512",
+      "name": "El hombre del norte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg",
+      "rating": 7.02,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,7 +206,7 @@
         "Laurie Bartram",
         "Mark Nelson"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt0080761",
       "name": "Viernes 13",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
@@ -171,11 +243,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.965,
+      "rating": 6.97,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,69 +257,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Texas, 1978. Una ex estrella de rodeo y criador de caballos retirado (Eastwood) acepta un encargo de un antiguo jefe: traer a su hijo pequeño desde México de vuelta a casa para alejarlo de su madre alcohólica. En el viaje, ambos se embarcarán en una inesperada aventura.",
-      "genres": [
-        "Drama",
-        "Western"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g6wufgtycJCP508tlC3crSYFCgC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jndYwq76TTg2yQmQt0OTA3oy6Aj.png",
-      "runtime": "104 min",
-      "director": [
-        "Clint Eastwood"
-      ],
-      "cast": [
-        "Clint Eastwood",
-        "Eduardo Minett",
-        "Natalia Traven",
-        "Dwight Yoakam",
-        "Fernanda Urrejola",
-        "Horacio García Rojas",
-        "Marco Rodríguez",
-        "Paul Alayo"
-      ],
-      "rank": 6,
-      "id": "tt1924245",
-      "name": "Cry Macho",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Vnc9uGcLSXg03al7G3AhBciMUi.jpg",
-      "rating": 5.934,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una comedia negra sobre Honey O'Donahue, una investigadora privada de un pueblo pequeño, que se adentra en una serie de extrañas muertes vinculadas a una misteriosa iglesia.",
+      "description": "Una mujer estadounidense de los suburbios que hereda el imperio mafioso de su abuelo, y guiada por el consigliere de confianza de la Firma, desafía las expectativas de todos, incluida la suya propia, como la nueva jefa del negocio familiar.",
       "genres": [
         "Comedia",
         "Crimen",
-        "Suspense"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/cjhq1eBLXgKq1xHDFeUnYzu61H6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVwsvvCJttV4PFGrMgKndhWHIh5.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/gGZxCy9keK0D6TxbmS8GJj85Ut4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uZ2LXXZ60jogOrrp4pGTgYHwL3o.png",
+      "runtime": "101 min",
       "director": [
-        "Ethan Coen"
+        "Catherine Hardwicke"
       ],
       "cast": [
-        "Margaret Qualley",
-        "Aubrey Plaza",
-        "Chris Evans",
-        "Lera Abova",
-        "Jacnier",
-        "Gabby Beans",
-        "Talia Ryder",
-        "Charlie Day"
+        "Toni Collette",
+        "Monica Bellucci",
+        "Sophia Nomvete",
+        "Alessandro Bressanello",
+        "Eduardo Scarpetta",
+        "Tommy Rodger",
+        "Giulio Maria Corso",
+        "Francesco Mastroianni"
       ],
-      "rank": 7,
-      "id": "tt30645201",
-      "name": "Honey Don't!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
-      "rating": 5.542,
-      "year": 2025,
+      "rank": 8,
+      "id": "tt13923456",
+      "name": "Mafia Mamma",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg",
+      "rating": 6.046,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -256,32 +293,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Richard Jewell era un guardia de seguridad en los Juegos Olímpicos de Atlanta 1996, el cual descubrió una mochila con explosivos en su interior y evitó un número mayor de víctimas al ayudar a evacuar el área poco antes de que se produjera el estallido. En un principio se le presentó como un héroe cuya intervención salvó vidas, pero posteriormente Jewell pasó a ser considerado el sospechoso número uno y fue investigado como presunto culpable.",
+      "description": "Biografía de T.E. Lawrence. El Cairo, 1917. Un conflictivo y enigmático oficial británico es enviado al desierto árabe durante la Gran Guerra en la campaña de ayuda a Arabia contra Turquía. En el desierto, se hace amigo de Sherif Ali Ben El Kharish y pone todo su empeño en la ayuda a los árabes. Éstos creen que Lawrence es otro amante del desierto que ayuda porque cree que Arabia es débil, mientras que sus superiores británicos creen que se ha vuelto loco. Cuando los planes de Lawrence consiguen llevarse a cabo con éxito, comienza a ganarse enemigos.",
       "genres": [
-        "Drama"
+        "Aventura",
+        "Historia",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zAfG4ZmpNfKSyr8MVn1CHjgYYXx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qyKAppha82wTjNXmrRZvBvRmcRl.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6wmemKdbkOIaWfzz607K21R6qOh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yjBaCqem32MLE8sX8OQ2DnX7Q1E.png",
+      "runtime": "228 min",
       "director": [
-        "Clint Eastwood"
+        "David Lean"
       ],
       "cast": [
-        "Paul Walter Hauser",
-        "Jon Hamm",
-        "Kathy Bates",
-        "Sam Rockwell",
-        "Olivia Wilde",
-        "Nina Arianda",
-        "Ian Gomez",
-        "Wayne Duvall"
+        "Peter O'Toole",
+        "Alec Guinness",
+        "Anthony Quinn",
+        "Jack Hawkins",
+        "Omar Sharif",
+        "José Ferrer",
+        "Anthony Quayle",
+        "Claude Rains"
       ],
-      "rank": 8,
-      "id": "tt3513548",
-      "name": "Richard Jewell",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5rI1qPAtkFOzl5aiIwuwSOzn48S.jpg",
-      "rating": 7.418,
-      "year": 2019,
+      "rank": 9,
+      "id": "tt0056172",
+      "name": "Lawrence de Arabia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
+      "rating": 8,
+      "year": 1962,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,48 +350,12 @@
         "Xander Berkeley",
         "William H. Macy"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt0118571",
       "name": "Air Force One (El avión del presidente)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
-      "rating": 6.467,
+      "rating": 6.466,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos MacManus viven escondidos junto a su padre, Il Duce, en los tranquilos valles de Irlanda, alejados de su antigua vida como vigilantes. Un día se enteran del asesinato de un amigo sacerdote católico a manos de la mafia en Boston. Los dos hermanos regresarán entonces para hacerle justicia.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iUitBxb4IkLpEIbVcaJn6fyzE1u.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qXeyBULKzrzT7ayZSu7bVoqUg0H.png",
-      "runtime": "117 min",
-      "director": [
-        "Troy Duffy"
-      ],
-      "cast": [
-        "Sean Patrick Flanery",
-        "Norman Reedus",
-        "Clifton Collins Jr.",
-        "Julie Benz",
-        "Judd Nelson",
-        "Bob Marley",
-        "Brian Mahoney",
-        "David Ferry"
-      ],
-      "rank": 10,
-      "id": "tt1300851",
-      "name": "Los elegidos 2: El día de todos los santos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uVUUO2JSNukKX0Bj5BUwvcxnVWm.jpg",
-      "rating": 6.016,
-      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }

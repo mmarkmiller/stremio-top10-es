@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Salamanca, España, 1936. En los primeros días de la rebelión militar que causó el estallido de la guerra civil española (1936-39), el escritor Miguel de Unamuno apoya el levantamiento con la esperanza de que termine el caos político imperante. Pero cuando el enfrentamiento se vuelve sangriento, Unamuno comienza a cuestionar su posición inicial.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tsihdadFxcOiI2NdTxmMmwnfrG3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IRhPq7cZ0ZGDJdYRqalhBQIuDF.png",
+      "runtime": "108 min",
+      "director": [
+        "Alejandro Amenábar"
+      ],
+      "cast": [
+        "Karra Elejalde",
+        "Eduard Fernández",
+        "Santi Prego",
+        "Nathalie Poza",
+        "Luis Bermejo",
+        "Tito Valverde",
+        "Patricia López Arnaiz",
+        "Inma Cuevas"
+      ],
+      "rank": 1,
+      "id": "tt7818580",
+      "name": "Mientras dure la guerra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
+      "rating": 7.1,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
@@ -27,12 +63,46 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.29,
+      "rating": 8.3,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el bosque finlandés, Saga y su esposo Jon se embarcan en un nuevo capítulo como padres. La alegría de Saga se ve ensombrecida por las sospechas sobre su bebé, provocando una ruptura mientras ella se enfrenta a la inquietante verdad.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kmcFHu4j4aHqIcqlFMTa6BPDMZo.png",
+      "runtime": "92 min",
+      "director": [
+        "Hanna Bergholm"
+      ],
+      "cast": [
+        "Rupert Grint",
+        "Seidi Haarla",
+        "Pamela Tola",
+        "Pirkko Saisio",
+        "Rebecca Lacey",
+        "John Thomson",
+        "Silvia Saloranta",
+        "Satu Tuuli Karhu"
+      ],
+      "rank": 3,
+      "id": "tt34383465",
+      "name": "Nightborn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuWjbhgwjE4GIegCxWcu70d9FUl.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -62,47 +132,12 @@
         "Brendan Conroy",
         "Ezra Carlisle"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.811,
+      "rating": 6.814,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un campamento de waterpolo masculino, un preadolescente de doce años con ansiedad social se ve arrastrado a formar parte de una cruel tradición que ataca a un marginado con una enfermedad llamada 'La Plaga'. Pero a medida que se difuminan los límites entre el juego y la realidad, teme que la broma pueda estar ocultando algo real.",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gVgSc9M6CMnypGcI7TBXKCANfYd.png",
-      "runtime": "98 min",
-      "director": [
-        "Charlie Polinger"
-      ],
-      "cast": [
-        "Everett Blunck",
-        "Kayo Martin",
-        "Joel Edgerton",
-        "Kenny Rasmussen",
-        "Lucas Adler",
-        "Caden Burris",
-        "Elliott Heffernan",
-        "Lennox Espy"
-      ],
-      "rank": 3,
-      "id": "tt32792934",
-      "name": "La plaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg",
-      "rating": 6.399,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,49 +169,12 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.948,
+      "rating": 7.949,
       "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja que acaba de ser padres y no pasa por el mejor momento de su relación. Pero lo que no imaginan es que la compra de una mesita para el comedor se convertirá en la peor decisión de sus vidas.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7mij6m3a2rmaj7SvQf1dPyu7mqZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uTDZInLreQqsKAiAKRJvQe1yTQ6.png",
-      "runtime": "90 min",
-      "director": [
-        "Caye Casas"
-      ],
-      "cast": [
-        "David Pareja",
-        "Estefanía de los Santos",
-        "Josep Maria Riera",
-        "Claudia Riera",
-        "Eduardo Antuña",
-        "Gala Flores",
-        "Cristina Dilla",
-        "Itziar Castro"
-      ],
-      "rank": 5,
-      "id": "tt21874760",
-      "name": "La mesita del comedor",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4JsWIiIOwDbhfFQCV7LQWUfSd5O.jpg",
-      "rating": 6.959,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -210,7 +208,7 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.953,
+      "rating": 7,
       "year": 2023,
       "days": null,
       "trend": {
@@ -244,7 +242,7 @@
       "id": "tt1683526",
       "name": "El profesor (Detachment)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rAgnqZIFkYNDVKRqKstwOQj7Ku.jpg",
-      "rating": 7.626,
+      "rating": 7.625,
       "year": 2011,
       "days": null,
       "trend": {
@@ -254,68 +252,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El detective Philip Marlowe  investiga qué ha ocurrido con un cadáver que ha sido rescatado en el muelle Lido. La familia que le ha contratado para resolver el caso tiene una hija muy atractiva de la que Marlowe se enamora sin remisión.",
+      "description": "En un campamento de waterpolo masculino, un preadolescente de doce años con ansiedad social se ve arrastrado a formar parte de una cruel tradición que ataca a un marginado con una enfermedad llamada 'La Plaga'. Pero a medida que se difuminan los límites entre el juego y la realidad, teme que la broma pueda estar ocultando algo real.",
       "genres": [
-        "Misterio",
-        "Crimen",
+        "Drama",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i7oOGICyv1JY0Xh3tmwOOtC9cpV.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gVgSc9M6CMnypGcI7TBXKCANfYd.png",
+      "runtime": "98 min",
       "director": [
-        "Howard Hawks"
+        "Charlie Polinger"
       ],
       "cast": [
-        "Humphrey Bogart",
-        "Lauren Bacall",
-        "John Ridgely",
-        "Martha Vickers",
-        "Louis Jean Heydt",
-        "Charles Waldron",
-        "Regis Toomey",
-        "Sonia Darrin"
+        "Everett Blunck",
+        "Kayo Martin",
+        "Joel Edgerton",
+        "Kenny Rasmussen",
+        "Lucas Adler",
+        "Caden Burris",
+        "Elliott Heffernan",
+        "Lennox Espy"
       ],
       "rank": 8,
-      "id": "tt0038355",
-      "name": "El sueño eterno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hkKuvY7u4cOFF3nfCSLewVKGRai.jpg",
-      "rating": 7.597,
-      "year": 1946,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una aldea en las remotas fronteras del Imperio Romano, un niño bajo la protección de un carpintero comienza a cuestionar la autoridad de su guardián. Su curiosidad y su búsqueda por desentrañar los secretos de su familia despertarán fuerzas sobrenaturales que trascienden la comprensión.",
-      "genres": [
-        "Terror",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1thOEGbfuVilAM8muGhZUsK96S8.png",
-      "runtime": "94 min",
-      "director": [
-        "Lotfy Nathan"
-      ],
-      "cast": [
-        "Nicolas Cage",
-        "Noah Jupe",
-        "FKA twigs",
-        "Isla Johnston",
-        "Souheila Yacoub",
-        "Καίτη Μανωλιδάκη",
-        "Πηνελόπη Μαρκοπούλου",
-        "Ορέστης Παλιαδέλης"
-      ],
-      "rank": 9,
-      "id": "tt32304349",
-      "name": "El Hijo del Carpintero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eR1v7VLOhlMihF3ulZOnaxUi3Xe.jpg",
-      "rating": 5.9,
+      "id": "tt32792934",
+      "name": "La plaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg",
+      "rating": 6.399,
       "year": 2025,
       "days": null,
       "trend": {
@@ -347,12 +309,50 @@
         "Sam Richardson",
         "Zarene Dallas"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt32268992",
       "name": "Sacrificio",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "rating": 5.3,
+      "rating": 5.435,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos miembros de la tripulación de una nave espacial, el Teniente Payton (Dennis Quaid) y el Cabo Bower (Ben Foster), se despiertan en sus cámaras de hibernación sin recordar nada de lo que ha sucedido: ni quiénes son, ni cuál era su misión o por qué, aparentemente, son los únicos supervivientes. Conforme se adentren en las zonas más profundas de la nave, descubrirán que no están solos, y desvelarán el terrible misterio que rodea la desaparición del resto de la tripulación y de los pasajeros. Pronto se darán cuenta de que mantenerse con vida es mucho más importante de lo que puedan imaginarse: es el único modo de evitar la extinción de la raza humana.",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2M5V8VcK02o4R5cxe7Ew1ltaxKr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9oXCeGezDRlcx7qVjdwwdHxcCKv.png",
+      "runtime": "105 min",
+      "director": [
+        "Christian Alvart"
+      ],
+      "cast": [
+        "Ben Foster",
+        "Dennis Quaid",
+        "Cam Gigandet",
+        "Antje Traue",
+        "Cung Le",
+        "Eddie Rouse",
+        "Norman Reedus",
+        "André Hennicke"
+      ],
+      "rank": 10,
+      "id": "tt1188729",
+      "name": "Pandorum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3wRjKk9IhztDnvc8e94Kw8tLBK.jpg",
+      "rating": 6.604,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611032120",
+  "date": "202611042136",
   "entries": [
     {
       "artworkVersion": 4,
@@ -11,7 +11,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
       "director": [],
       "cast": [
@@ -28,7 +28,40 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.653,
+      "rating": 8.659,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park",
+        "Elijah Fox"
+      ],
+      "rank": 2,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.333,
       "year": 2026,
       "days": null,
       "trend": {
@@ -57,12 +90,74 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "rating": 8.079,
       "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x4zVzZwqMkzAnA4kpgsJmdfmOTt.png",
+      "director": [
+        "조수원",
+        "심나연"
+      ],
+      "cast": [
+        "Shin Min-a",
+        "Ju Ji-hoon",
+        "이종석",
+        "이세영"
+      ],
+      "rank": 4,
+      "id": "tt39325975",
+      "name": "La emperatriz divorciada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El agente especial Will Trent del Gabinete de Investigación de Georgia (GBI) fue abandonado al nacer y creció en el complicado ambiente de las casas de acogida de Atlanta. Sin embargo, a día de hoy, está decidido a utilizar su inimitable agudeza para asegurarse de que a nadie lo abandonan como le hicieron a él. Will Trent cuenta con la tasa de resolución más alta del gabinete.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eGP1P1ppEHIPlppIPLO3TeieFRZ.png",
+      "director": [],
+      "cast": [
+        "Ramón Rodríguez",
+        "Erika Christensen",
+        "Iantha Richardson",
+        "Jake McLaughlin",
+        "Sonja Sohn",
+        "Kevin Daniels"
+      ],
+      "rank": 5,
+      "id": "tt17543592",
+      "name": "Will Trent, Agente Especial",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
+      "rating": 7.314,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -90,7 +185,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -104,86 +199,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
       "director": [],
       "cast": [
-        "Masako Nozawa",
-        "Ryo Horikawa",
-        "Naoko Watanabe",
-        "Unsho Ishizuka",
-        "Koichi Yamadera"
+        "Ellen Pompeo",
+        "Chandra Wilson",
+        "James Pickens Jr.",
+        "Caterina Scorsone",
+        "Camilla Luddington",
+        "Jason George",
+        "Chris Carmack",
+        "Anthony Hill"
       ],
-      "rank": 4,
-      "id": "tt39395275",
-      "name": "Dragon Ball Super: Beerus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.65,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 5,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.158,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 6,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
+      "rank": 7,
+      "id": "tt0413573",
+      "name": "Anatomía de Grey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
+      "rating": 8.202,
       "year": 2005,
       "days": null,
       "trend": {
@@ -193,62 +230,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
-      "director": [],
-      "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park",
-        "Elijah Fox"
-      ],
-      "rank": 7,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El agente especial Will Trent del Gabinete de Investigación de Georgia (GBI) fue abandonado al nacer y creció en el complicado ambiente de las casas de acogida de Atlanta. Sin embargo, a día de hoy, está decidido a utilizar su inimitable agudeza para asegurarse de que a nadie lo abandonan como le hicieron a él. Will Trent cuenta con la tasa de resolución más alta del gabinete.",
+      "description": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
       "genres": [
         "Crimen",
         "Drama",
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eGP1P1ppEHIPlppIPLO3TeieFRZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png",
       "director": [],
       "cast": [
-        "Ramón Rodríguez",
-        "Erika Christensen",
-        "Iantha Richardson",
-        "Jake McLaughlin",
-        "Sonja Sohn",
-        "Kevin Daniels"
+        "Joe Mantegna",
+        "Paget Brewster",
+        "Adam Rodriguez",
+        "Kirsten Vangsness",
+        "A.J. Cook",
+        "Aisha Tyler",
+        "Zach Gilford",
+        "Ryan-James Hatanaka"
       ],
       "rank": 8,
-      "id": "tt17543592",
-      "name": "Will Trent, Agente Especial",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-      "rating": 7.3,
-      "year": 2023,
+      "id": "tt0452046",
+      "name": "Mentes criminales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
+      "rating": 8.3,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -257,22 +263,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
+      "description": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
       "genres": [
-        "Reality"
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png",
       "director": [],
       "cast": [
-        "Parker Posey"
+        "Angela Bassett",
+        "Jennifer Love Hewitt",
+        "Oliver Stark",
+        "Aisha Hinds",
+        "Kenneth Choi",
+        "Ryan Guzman",
+        "Corinne Massiah",
+        "Gavin McHugh"
       ],
       "rank": 9,
-      "id": "tt42007258",
-      "name": "The Mob: Infiltrados en la villa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-      "rating": 3.5,
-      "year": 2026,
+      "id": "tt7235466",
+      "name": "9-1-1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "rating": 8.2,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -281,26 +296,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "description": "Esta ficción en clave de humor afronta las aventuras y conflictos cotidianos de los vecinos de un edificio de nueva construcción en las periferias de una gran ciudad. Mirador de Montepinar es un inmueble que consta de un total de diez viviendas y de cuatro locales. Sus residentes y empleados conforman un singular y heterogéneo grupo.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "background": "https://image.tmdb.org/t/p/w1280/6hGjXUpDLAtkMYrqL3Ai1pZmj1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCZfk4d0eYcQV4Yn53gM9tr1e7m.png",
       "director": [],
       "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
+        "Pablo Chiapella",
+        "Nacho Guerreros",
+        "Eva Isanta",
+        "Jordi Sánchez",
+        "Nathalie Seseña"
       ],
       "rank": 10,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.5,
-      "year": 2025,
+      "id": "tt0922037",
+      "name": "La que se avecina",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ceoJyZgsHBaenUxhobHUA6mXXf0.jpg",
+      "rating": 8.095,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-03T17:38:37.022Z"
+  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
 }
