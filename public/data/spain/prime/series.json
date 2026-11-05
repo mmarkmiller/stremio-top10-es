@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.618,
+      "rating": 8.617,
       "year": 2025,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.3,
+      "rating": 8.271,
       "year": 2026,
       "days": null,
       "trend": {
@@ -93,8 +93,106 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.995,
+      "rating": 7.993,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Lucy se despierta todas las noches con visiones aterradoras exactamente a las 3:33 am: la hora del diablo. Cuando el nombre de Lucy se relaciona inexplicablemente con una serie de brutales asesinatos en el área, las respuestas que la han eludido todos estos años finalmente se enfocarán.",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6lpHkRGwOjCSyK3P7RvT1djtOhI.png",
+      "director": [],
+      "cast": [
+        "Jessica Raine",
+        "Peter Capaldi",
+        "Nikesh Patel",
+        "Phil Dunster",
+        "Benjamin Chivers",
+        "Talia Walker Bassols",
+        "Rhiannon Harper-Rafferty"
+      ],
+      "rank": 4,
+      "id": "tt14379784",
+      "name": "La hora del diablo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dlpWn4myksmqq5wolzHmdlKgUjI.jpg",
+      "rating": 7.262,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2zFSqSofChOaumGflyQzRcZIEE1.png",
+      "director": [],
+      "cast": [
+        "Jaalen Best",
+        "Omari Hardwick",
+        "Dana Gourrier",
+        "Amin Joseph",
+        "Kai Parham",
+        "Giovanni Ribisi",
+        "Reno Wilson",
+        "Erica Tazel"
+      ],
+      "rank": 5,
+      "id": "tt15715850",
+      "name": "El más grande",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+      "rating": 5.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En Annecy, un idílico pueblo de los Alpes, empiezan a aparecer de un día para otro personas que fallecieron años atrás; gente de diferentes edades y clases sociales, todos ellos desorientados, que intentan entrar en sus antiguas casas. Estos retornados no son conscientes de su muerte y por eso no entienden el terror, el rechazo o la alegría que provocan en unos familiares que ya habían asumido su pérdida. Al mismo tiempo, en la enorme presa que rodea al pueblo, empiezan a sucederse una serie de fenómenos extraños.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g64LG7nV1vpRPTmNxM1oTkf0pWq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eysq5I7qnoPI1VFlLTUNETMtlLz.png",
+      "director": [
+        "Fabrice Gobert"
+      ],
+      "cast": [
+        "Anne Consigny",
+        "Frédéric Pierrot",
+        "Clotilde Hesme",
+        "Céline Sallette",
+        "Samir Guesmi",
+        "Guillaume Gouix",
+        "Jean-François Sivadier",
+        "Alix Poisson"
+      ],
+      "rank": 6,
+      "id": "tt2521668",
+      "name": "Les Revenants",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x6B2UTMMU06GNzRgbDfaObuWFT6.jpg",
+      "rating": 7.4,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -121,7 +219,7 @@
         "Bruno Sevilla",
         "Adriana Torrebejano"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt20883126",
       "name": "Reina roja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
@@ -135,114 +233,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w97vcFJsTRrxuZxqo3bbPFwbbTA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Jaalen Best",
-        "Omari Hardwick",
-        "Dana Gourrier",
-        "Amin Joseph",
-        "Kai Parham",
-        "Giovanni Ribisi",
-        "Reno Wilson",
-        "Erica Tazel"
-      ],
-      "rank": 5,
-      "id": "tt15715850",
-      "name": "El más grande",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-      "rating": 4.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 6,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.85,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kathryn Hahn ('Malas madres') y Griffin Dunne ('Un hombre lobo americano en Londres') son en 'I Love Dick' una pareja que llegan a Marfa, Texas, en busca de una colorida comunidad intelectual con el objetivo de terminar su libro sobre el Holocausto Judío. Allí conocerán a un peculiar escritor -interpretado por Kevin Bacon- que dará un vuelco a todas sus creencias, en especial a todo lo referente sobre el amor, la monogamia, el matrimonio... y por qué no, también el arte (de escribir) y de narrar (historias). Inspirada en la conocida novela de culto escrita por Chris Kraus -para algunos \"el libro más importante escrito sobre las mujeres y los hombres en este siglo\"-, el proyecto cuenta con el apoyo de entre otros los creados de 'Transparent', Jill Soloway & Andrea Sperling.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kjpSf649pTjL7WjubKF3Wr3ptqY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w12YZkkUUiGqv4kpJjI5eNIGlum.png",
-      "director": [],
-      "cast": [
-        "Kevin Bacon",
-        "Kathryn Hahn",
-        "Griffin Dunne",
-        "Roberta Colindrez",
-        "Bobbi Salvör Menuez"
-      ],
-      "rank": 7,
-      "id": "tt5478730",
-      "name": "Mis experiencias sexuales con Dick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a9i4d9BN1PduUwAmHaJn7Qzf4wy.jpg",
-      "rating": 5.946,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "director": [],
-      "cast": [
-        "Alan Ritchson",
-        "Agnez Mo",
-        "Sydelle Noel",
-        "Anggun",
-        "Christopher Rodriguez Marquette",
-        "Kevin Corrigan"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 8,
-      "id": "tt9288030",
-      "name": "Reacher",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.131,
-      "year": 2022,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.584,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "director": [],
+      "cast": [
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
+      ],
+      "rank": 9,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.689,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -260,7 +302,7 @@
       "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
       "director": [],
       "cast": [],
-      "rank": 9,
+      "rank": 10,
       "id": "tt10946316",
       "name": "El Instituto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
@@ -271,39 +313,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Adaptación de la famosa novela de Isabel Allende, crónica de una saga familiar que narra la épica historia de una familia orgullosa y apasionada, amores secretos y una revolución sangrienta. Las pasiones, las luchas y los secretos de la familia Trueba abarcan un siglo de cambios sociales violentos, culminando en una crisis que lanza al orgulloso y tiránico patriarca y a su querida nieta en direcciones opuestas.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wcfkAvbeRfwJGvvWhoTBk8I2RPN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9GG6cPSTaLgtas19PLmqzrlTfpB.png",
-      "director": [],
-      "cast": [
-        "Alfonso Herrera",
-        "Dolores Fonzi",
-        "Nicole Wallace",
-        "Sara Becker",
-        "Nicolás Contreras",
-        "Fernanda Castillo",
-        "Néstor Cantillana",
-        "Fernanda Urrejola"
-      ],
-      "rank": 10,
-      "id": "tt33022938",
-      "name": "La casa de los espíritus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cynTNWEyPbaduRVWDmAwSb69E1L.jpg",
-      "rating": 8.4,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }

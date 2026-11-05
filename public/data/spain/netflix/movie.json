@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.66,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,8 +68,79 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.608,
+      "rating": 7.61,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
+      "runtime": "102 min",
+      "director": [
+        "Cathryn Michon"
+      ],
+      "cast": [
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Brooke Lena Johnson",
+        "Kathleen Rose Perkins",
+        "Jennifer Tilly",
+        "Thomas Haden Church",
+        "Mary Steenburgen",
+        "Ethan Loomis"
+      ],
+      "rank": 3,
+      "id": "tt38515310",
+      "name": "La razón de estar contigo: Una Navidad perfecta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
+      "rating": 8.333,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en una historia real, situada en el mundo internacional de la trata de armas. La película explora una consecuencia poco conocida del final de la Guerra Fría, la enorme cantidad de armas que de repente quedó disponible en los antiguos estados soviéticos para vender a los países en desarrollo (sobre todo de África) y las inmensas sumas de dinero amasadas por los traficantes de armas que las vendieron. Muchos piensan que es el mayor atraco del siglo 20. Sólo en Ucrania, entre 1982 y 1992 se robaron más de treinta y dos mil millones de dólares en armas. Ningún culpable ha sido jamás atrapado ni procesado.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9GVc6fHf2yKNf8NbMUs2ajks8iu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHB6gHJww8KO0OVmm3JBj2vTK0Y.png",
+      "runtime": "122 min",
+      "director": [
+        "Andrew Niccol"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Bridget Moynahan",
+        "Jared Leto",
+        "Ethan Hawke",
+        "Eamonn Walker",
+        "Ian Holm",
+        "Sammi Rotibi",
+        "Tanit Phoenix"
+      ],
+      "rank": 4,
+      "id": "tt0399295",
+      "name": "El señor de la guerra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tzmXFYq9OhUNYATAtbCuNr1Nin9.jpg",
+      "rating": 7.352,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -95,7 +166,7 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
@@ -109,210 +180,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 4,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.26,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
-      "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
-      ],
-      "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
-      ],
-      "rank": 5,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.078,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Acción",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
-      "runtime": "109 min",
-      "director": [
-        "Ben Affleck"
-      ],
-      "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
-      ],
-      "rank": 6,
-      "id": "tt31049299",
-      "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.97,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iMvvdAm8lrFA4tow1wea5StM3pE.jpg",
+      "runtime": "100 min",
       "director": [
-        "Gus Van Sant"
+        "Eva Libertad"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Miriam Garlo",
+        "Álvaro Cervantes",
+        "Elena Irureta",
+        "Joaquín Notario",
+        "Daniela Saura Pérez",
+        "Elaia Sánchez",
+        "Jade Molina Uroz",
+        "Valentina Arrona Fernández"
       ],
-      "rank": 7,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 8,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.396,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png",
-      "runtime": "114 min",
-      "director": [
-        "James Ashcroft"
-      ],
-      "cast": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "rank": 9,
-      "id": "tt11561116",
-      "name": "Susurran tu nombre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "rating": 6.816,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt26923797",
+      "name": "Sorda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
+      "rating": 7.2,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -342,7 +234,7 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
@@ -353,8 +245,113 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama",
+        "Música",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHtqcdq7rEYBYhCzxpsvvoV0dMo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6UBUdCiKLfQZUoDzNCb4vmIyXyI.png",
+      "runtime": "159 min",
+      "director": [
+        "Imtiaz Ali"
+      ],
+      "cast": [
+        "रणबीर कपूर",
+        "Nargis Fakhri",
+        "Shammi Kapoor",
+        "अदिति राव हैदरी",
+        "Kumud Mishra",
+        "Piyush Mishra",
+        "Moufid Aziz",
+        "Shernaz Patel"
+      ],
+      "rank": 8,
+      "id": "tt1839596",
+      "name": "रॉकस्टार",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cJZC9riwrdATBUonkZJZD6y9g40.jpg",
+      "rating": 7.3,
+      "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 9,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fc7YOO5V0wdKzdOx9vTlbaNwHl5.png",
+      "runtime": "101 min",
+      "director": [
+        "Janus Metz"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "rank": 10,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.573,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }

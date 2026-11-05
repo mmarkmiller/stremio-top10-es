@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.3,
+      "rating": 8.271,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,8 +61,39 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.995,
+      "rating": 7.993,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2zFSqSofChOaumGflyQzRcZIEE1.png",
+      "director": [],
+      "cast": [
+        "Jaalen Best",
+        "Omari Hardwick",
+        "Dana Gourrier",
+        "Amin Joseph",
+        "Kai Parham",
+        "Giovanni Ribisi",
+        "Reno Wilson",
+        "Erica Tazel"
+      ],
+      "rank": 3,
+      "id": "tt15715850",
+      "name": "El más grande",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+      "rating": 5.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,11 +120,11 @@
         "Robyn Cara",
         "John Slattery"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.7,
+      "rating": 7.78,
       "year": 2025,
       "days": null,
       "trend": {
@@ -122,11 +153,11 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.079,
+      "rating": 8.078,
       "year": 2011,
       "days": null,
       "trend": {
@@ -152,43 +183,12 @@
         "Collin Dean",
         "Melanie Lynskey"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
       "rating": 8.6,
       "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w97vcFJsTRrxuZxqo3bbPFwbbTA.png",
-      "director": [],
-      "cast": [
-        "Jaalen Best",
-        "Omari Hardwick",
-        "Dana Gourrier",
-        "Amin Joseph",
-        "Kai Parham",
-        "Giovanni Ribisi",
-        "Reno Wilson",
-        "Erica Tazel"
-      ],
-      "rank": 6,
-      "id": "tt15715850",
-      "name": "El más grande",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-      "rating": 4.9,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -250,6 +250,37 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+      "director": [],
+      "cast": [
+        "Maria Sten",
+        "Greyston Holt",
+        "Adeline Rudolph",
+        "Matthew Del Negro",
+        "Damon Herriman",
+        "Jasper Jones"
+      ],
+      "rank": 9,
+      "id": "tt33539520",
+      "name": "Neagley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "rating": 8.028,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
       "genres": [
         "Drama",
@@ -264,44 +295,12 @@
         "Jensen Ackles",
         "Misha Collins"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt0460681",
       "name": "Supernatural",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "rating": 8.3,
+      "rating": 8.316,
       "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Saturday Night Live es un show televisivo nocturno estadounidense, emitido en vivo, que revolucionó la televisión en los años 70 con su combinación de sketches, comedia, variedad, actores, músicos, e invitados especiales. Ha sido una cantera generadora de talentos muy fuerte de varios guinistas, actores, escritores, productores y cantantes. Creado por Lorne Michaels y desarrollado por Dick Ebersol, el programa fue estrenado por la cadena de televisión NBC. Durante más de 30 años, el programa ha presentado personajes locos, situaciones humorísticamente extrañas, parodias de los presidentes y políticos de turno, sarcásticas burlas a celebridades contemporáneas de la música y del cine, y shows musicales en vivo. Su reparto se compone de miembros repertorios, también conocidos como The Not Ready for Prime-Time Players (el nombre del reparto original del programa, que viene a significar «La Compañía No Apta para las Horas de Máxima Audiencia»), y nuevos miembros quienes se conocen como The Featured Players («La Compañía Destacada»).",
-      "genres": [
-        "Comedia",
-        "News"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yYaxXMbobcB7PIM6XljZZk2x4FQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4KQ5l62J6hgOXYGFd0hrWDh4TBb.png",
-      "director": [],
-      "cast": [
-        "Michael Che",
-        "Mikey Day",
-        "Andrew Dismukes",
-        "Marcello Hernández",
-        "James Austin Johnson",
-        "Colin Jost",
-        "Ashley Padilla",
-        "Sarah Sherman"
-      ],
-      "rank": 10,
-      "id": "tt0072562",
-      "name": "Saturday Night Live",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "rating": 6.894,
-      "year": 1975,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }

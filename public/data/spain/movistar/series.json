@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -24,8 +24,159 @@
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
-      "rating": 6,
+      "rating": 6.167,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un pequeño pueblo de Oxfordshire, la aparición de miles de peces muertos lleva a dos jubilados a cuestionar las explicaciones oficiales. Lo que comienza como una reclamación a la compañía del agua se convierte en una investigación que destapa una red de negligencias, encubrimientos y decisiones empresariales con consecuencias devastadoras.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dlwIqZhRLeoMNTmnVWSL5Pk46BM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ovYKjTjj03Mbm13yaXV9yfRDFv4.png",
+      "director": [
+        "Joseph Bullman"
+      ],
+      "cast": [
+        "David Thewlis",
+        "Jason Watkins",
+        "Posy Sterling",
+        "Tom McKay",
+        "Alex Jennings",
+        "Asim Chaudhry",
+        "Alice Lowe",
+        "Chanel Cresswell"
+      ],
+      "rank": 2,
+      "id": "tt39374202",
+      "name": "Negocios turbios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Lana Washington y Joel Nutkins son dos experimentados oficiales del equipo de artificieros de la policía de Londres. Una serie de atentados en pleno verano levanta sospechas sobre un ataque premeditado contra el equipo.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1a9SnX0B8SOf4tyf2gC19BhpREz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8EIXkSc1Pj588g6NnwADkV6n8hL.png",
+      "director": [],
+      "cast": [
+        "Vicky McClure",
+        "Eric Shango",
+        "Natalie Simpson",
+        "Maisie Ayres"
+      ],
+      "rank": 3,
+      "id": "tt11958610",
+      "name": "Trigger point: Fuera de control",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yGeQsRm4hBErW1q0UlflCFQzI0o.jpg",
+      "rating": 6.9,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El agente Ben Cooper, un afable lugareño, se une a la vigilada debutante DC Diane Fry para investigar una serie de misteriosas muertes.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m2Y5zHHsHFWb7ysSmOmlKjaE4ig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skb0NvP5KQy7wSNWSpI1371JBmc.png",
+      "director": [],
+      "cast": [
+        "Robert James-Collier",
+        "Mandip Gill",
+        "Charlotte Bradley",
+        "Lorcan Cranitch",
+        "Barry O'Connor",
+        "Niamh McCann",
+        "Clara Simpson"
+      ],
+      "rank": 4,
+      "id": "tt38856763",
+      "name": "Cooper & Fry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+      "rating": 7.7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La ficción sigue las investigaciones de crímenes complejos y misterios en entornos rurales y aislados de España, siempre lideradas por agentes de la UCO (Unidad Central Operativa) de la Guardia Civil, con la sargento Sara Campos y el cabo Víctor Gamero.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qnG9IB7MbO50jHTPzGRE4EdV5yr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jgcNe9Hivq8YvfQ1uOuAxtWaNZ1.png",
+      "director": [],
+      "cast": [
+        "Megan Montaner",
+        "Félix Gómez",
+        "Silvia Alonso"
+      ],
+      "rank": 5,
+      "id": "tt8787372",
+      "name": "La caza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fYvvFLf4CGtHforXYfChCGmlUBy.jpg",
+      "rating": 6.5,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
+      "director": [],
+      "cast": [
+        "Taylor Kinney",
+        "David Eigenberg",
+        "Christian Stolte",
+        "Miranda Rae Mayo",
+        "Hanako Greensmith",
+        "Jocelyn Hudon",
+        "Brandon Larracuente",
+        "Da'Vinchi"
+      ],
+      "rank": 6,
+      "id": "tt2261391",
+      "name": "Chicago Fire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "rating": 8.411,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -46,12 +197,46 @@
       "cast": [
         "Elizabeth Tabish"
       ],
-      "rank": 2,
+      "rank": 7,
       "id": "tt5622316",
       "name": "The Chosen (Los elegidos)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
       "rating": 8.85,
       "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Taylor, un agorafóbico y solitario creador de pasatiempos bajo el seudónimo de Ludwig, ve interrumpida su rutina cuando su cuñada Lucy le pide urgentemente que viaje a Cambridge. Su hermano gemelo, James, un inspector de policía, ha desaparecido misteriosamente. Lucy necesita que John se haga pasar por James para investigar en la comisaría y encontrar pistas sobre su paradero. A pesar de su miedo y reticencia, John acepta el desafío, enfrentándose a la posibilidad de ser descubierto mientras sigue las pistas dejadas por su hermano. Lo que iba a ser una suplantación ocasional se prolonga y John tiene que resolver los casos policiales que se van presentando.",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cJRdCeaRPektyE8rTX6uwMakHPu.png",
+      "director": [],
+      "cast": [
+        "David Mitchell",
+        "Anna Maxwell Martin",
+        "Dipo Ola",
+        "Ben Ashenden",
+        "Rumi Sutton",
+        "Dorothy Atkinson",
+        "Dylan Hughes",
+        "Ralph Ineson"
+      ],
+      "rank": 8,
+      "id": "tt27846061",
+      "name": "Ludwig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
+      "rating": 7.8,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -74,194 +259,12 @@
         "Mona Marshall",
         "Jennifer Howell"
       ],
-      "rank": 3,
+      "rank": 9,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "rating": 8.332,
+      "rating": 8.333,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgia Cooke investiga los asesinatos de científicos con un superviviente. Su investigación sobre los elementos ocultos lo pone todo en riesgo. 37 años después, nuevos asesinatos la obligan a volver a vivir el horror de Parrish Station.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vf3hKPv3HKcaqIo3VsxM6ztT31L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ku0jMzerwXbXP2mmsXSau7aQNRn.png",
-      "director": [
-        "Daniel Nettheim"
-      ],
-      "cast": [
-        "Mia Wasikowska",
-        "Heather Mitchell",
-        "Xavier Samuel",
-        "Robert Taylor",
-        "Alan Dale",
-        "Emma Lung",
-        "Doris Younane"
-      ],
-      "rank": 4,
-      "id": "tt38448408",
-      "name": "Los Ecos de Parrish Station",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El vídeo viral de un grupo de música pop cristiana compuesto por varias hermanas impacta en la vida de Enric: un hombre atormentado por una infancia marcada por el fanatismo religioso y el yugo de una madre con delirios mesiánicos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7EamCWAoQtgtjJKDfa0bqg9av5N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8CrNz51lEEOK3X5jABbD7RUgMUZ.png",
-      "director": [],
-      "cast": [
-        "Roger Casamajor",
-        "Macarena García",
-        "Lola Dueñas",
-        "Carmen Machi",
-        "Ana Rujas",
-        "Albert Pla",
-        "Amaia Romero",
-        "Biel Rossell"
-      ],
-      "rank": 5,
-      "id": "tt20096840",
-      "name": "La mesías",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
-      "rating": 7.5,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La ficción sigue las investigaciones de crímenes complejos y misterios en entornos rurales y aislados de España, siempre lideradas por agentes de la UCO (Unidad Central Operativa) de la Guardia Civil, con la sargento Sara Campos y el cabo Víctor Gamero.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qnG9IB7MbO50jHTPzGRE4EdV5yr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jgcNe9Hivq8YvfQ1uOuAxtWaNZ1.png",
-      "director": [],
-      "cast": [
-        "Megan Montaner",
-        "Félix Gómez",
-        "Silvia Alonso"
-      ],
-      "rank": 6,
-      "id": "tt8787372",
-      "name": "La caza",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fYvvFLf4CGtHforXYfChCGmlUBy.jpg",
-      "rating": 6.5,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png",
-      "director": [],
-      "cast": [
-        "Joe Mantegna",
-        "Paget Brewster",
-        "Adam Rodriguez",
-        "Kirsten Vangsness",
-        "A.J. Cook",
-        "Aisha Tyler",
-        "Zach Gilford",
-        "Ryan-James Hatanaka"
-      ],
-      "rank": 7,
-      "id": "tt0452046",
-      "name": "Mentes criminales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
-      "rating": 8.3,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mickey Fox investiga actividades criminales y patrulla las calles de la pequeña ciudad de Edgewater mientras lidia con su padre ex-convicto y un misterioso incidente que involucra a su caprichosa hija.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXm6nUvztPNFjXTbEZNOe3x096Y.png",
-      "director": [],
-      "cast": [
-        "Morena Baccarin",
-        "Matt Lauria",
-        "W. Earl Brown",
-        "Christopher Gorham",
-        "Michele Weaver",
-        "Amanda Arcuri",
-        "Ian Quinlan"
-      ],
-      "rank": 8,
-      "id": "tt32268630",
-      "name": "Sheriff Country",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-      "rating": 7.352,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Babylon Berlín, una serie alemana de 16 capítulos ambientada en el Berlín de los años veinte, cuando la diversión parecía no tener fin en la gran ciudad y que tiene como protagonista a un joven detective de 29 años marcado por su experiencia en la Gran Guerra, puede escribir un nuevo y gran capitulo en la historia de las producciones para televisión que se han hecho hasta la fecha en Europa, por una razón existencial: la serie es terriblemente ambiciosa.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
-      "director": [],
-      "cast": [
-        "Volker Bruch",
-        "Liv Lisa Fries",
-        "Ulrich Noethen"
-      ],
-      "rank": 9,
-      "id": "tt4378376",
-      "name": "Babylon Berlin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
-      "rating": 7.752,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -298,5 +301,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }

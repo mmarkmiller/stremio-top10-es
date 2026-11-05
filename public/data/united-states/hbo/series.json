@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -26,7 +26,7 @@
       "rank": 1,
       "id": "tt4406178",
       "name": "La edad dorada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
       "rating": 7.7,
       "year": 2022,
       "days": null,
@@ -57,37 +57,8 @@
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.5,
+      "rating": 7.517,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
-      "director": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
-      ],
-      "rank": 3,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 6.6,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -113,11 +84,40 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-      "rating": 7.78,
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "director": [],
+      "cast": [
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
+      ],
+      "rank": 4,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "rating": 6.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -170,8 +170,70 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.2,
+      "rating": 8.199,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El presidente demócrata Josiah Bartlet lidera una de las naciones más poderosas del mundo con la devoción y la convicción de creer fervientemente en que lo que hace es lo mejor para su país. La serie se desarrolla, fundamentalmente, en los pasillos, despachos y salas de la Casa Blanca, mostrándonos los entresijos del febril trabajo que allí tiene lugar y los problemas diarios a los que se han de enfrentar. Es en esta atmósfera de conflicto donde el equipo de la Casa Blanca va a tener que esforzarse hasta límites insospechados para seguir defendiendo su credibilidad de cara a las reelecciones y a los Estados Unidos de amenazas externas.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/43zQoHS1Ku4qIonyIlglCXnFaGB.png",
+      "director": [],
+      "cast": [
+        "Martin Sheen",
+        "Allison Janney",
+        "John Spencer",
+        "Bradley Whitford",
+        "Joshua Malina",
+        "Alan Alda",
+        "Jimmy Smits",
+        "Kristin Chenoweth"
+      ],
+      "rank": 7,
+      "id": "tt0200276",
+      "name": "El ala oeste de la Casa Blanca",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l9Nu2p9kg9xdEqxvrMpv483EFoH.jpg",
+      "rating": 8.274,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "director": [],
+      "cast": [
+        "Noah Wyle",
+        "Patrick Ball",
+        "Katherine LaNasa",
+        "Supriya Ganesh",
+        "Fiona Dourif",
+        "Taylor Dearden",
+        "Isa Briones",
+        "Gerran Howell"
+      ],
+      "rank": 8,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "rating": 8.731,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -192,7 +254,7 @@
       "cast": [
         "John Oliver"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
@@ -221,7 +283,7 @@
         "Dougie Baldwin",
         "Jessie Prez"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
@@ -232,68 +294,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
-      "director": [],
-      "cast": [
-        "Jennifer Aniston",
-        "Courteney Cox",
-        "Lisa Kudrow",
-        "Matt LeBlanc",
-        "Matthew Perry",
-        "David Schwimmer"
-      ],
-      "rank": 9,
-      "id": "tt0108778",
-      "name": "Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "rating": 8.406,
-      "year": 1994,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 10,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.731,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }

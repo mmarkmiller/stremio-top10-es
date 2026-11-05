@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611042136",
+  "date": "202611052139",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.608,
+      "rating": 7.61,
       "year": 2023,
       "days": null,
       "trend": {
@@ -42,22 +42,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
       "genres": [
-        "Documental"
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
       ],
-      "runtime": "85 min",
+      "background": "https://image.tmdb.org/t/p/w1280/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
+      "runtime": "132 min",
       "director": [
-        "Robert Darwell"
+        "James McTeigue"
       ],
       "cast": [
-        "Dick Van Dyke"
+        "Natalie Portman",
+        "Hugo Weaving",
+        "Stephen Rea",
+        "Stephen Fry",
+        "John Hurt",
+        "Tim Pigott-Smith",
+        "Rupert Graves",
+        "Roger Allam"
       ],
       "rank": 2,
-      "id": "tt18225078",
-      "name": "The 90s Club",
-      "tmdbPosterUrl": null,
-      "rating": 10,
-      "year": 2022,
+      "id": "tt0434409",
+      "name": "V de Vendetta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
+      "rating": 7.9,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,7 +100,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.203,
+      "rating": 7.207,
       "year": 2026,
       "days": null,
       "trend": {
@@ -123,7 +135,77 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.169,
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
+      ],
+      "rank": 5,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.427,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fG2vYehyvAyka220NGDUGeuabru.png",
+      "runtime": "117 min",
+      "director": [
+        "Michael Showalter"
+      ],
+      "cast": [
+        "Dakota Johnson",
+        "Anne Hathaway",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Iryna Dvorovenko",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "rank": 6,
+      "id": "tt32261958",
+      "name": "Verity. La sombra de un engaño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "rating": 6.976,
       "year": 2026,
       "days": null,
       "trend": {
@@ -155,47 +237,12 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
       "rating": 6.723,
       "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 6,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.432,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -226,11 +273,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 7,
+      "rating": 6.997,
       "year": 2026,
       "days": null,
       "trend": {
@@ -240,106 +287,22 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
       "genres": [
-        "Terror",
-        "Suspense",
-        "Misterio"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kCgPDFyK552OtyYCLddDWqoLBZh.png",
-      "runtime": "110 min",
+      "runtime": "85 min",
       "director": [
-        "Jordan Downey"
+        "Robert Darwell"
       ],
       "cast": [
-        "Deborah Ann Woll",
-        "Jeffrey Donovan",
-        "Gretchen Corbett",
-        "Jack Doolan",
-        "Will Hochman",
-        "Dana Millican",
-        "Phillip Andre Botello",
-        "Don Keith Opper"
-      ],
-      "rank": 8,
-      "id": "tt32358390",
-      "name": "El ciclo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "rating": 6.792,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
-      "genres": [
-        "Comedia",
-        "Terror",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qNAG8RHWfpS1ZsK2Z9oygVN9uuE.png",
-      "runtime": "106 min",
-      "director": [
-        "Jane Schoenbrun"
-      ],
-      "cast": [
-        "Hannah Einbinder",
-        "Gillian Anderson",
-        "Amanda Fix",
-        "Arthur Conti",
-        "Eva Victor",
-        "Zach Cherry",
-        "Sarah Sherman",
-        "Patrick Fischler"
+        "Dick Van Dyke"
       ],
       "rank": 9,
-      "id": "tt35298123",
-      "name": "Adolescencia, sexo y muerte en campamento Miasma",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "rating": 6.113,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
-      "genres": [
-        "Terror",
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/haxy80hzM6xMtrc51e738NsGXVL.png",
-      "runtime": "82 min",
-      "director": [
-        "Pål Øie"
-      ],
-      "cast": [
-        "Sara Khorami",
-        "Mikkel Bratt Silset",
-        "Ingvild Holthe Bygdnes",
-        "Øyvind Brandtzæg",
-        "Jenny Evensen",
-        "Steinar Klouman Hallert",
-        "Filip Bargee Ramberg",
-        "Jon Erik Myre"
-      ],
-      "rank": 10,
-      "id": "tt19838566",
-      "name": "Kraken",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xViUAAAPwDvb7oCy1ZuZi5dZ1su.jpg",
-      "rating": 6.123,
-      "year": 2026,
+      "id": "tt18225078",
+      "name": "The 90s Club",
+      "tmdbPosterUrl": null,
+      "rating": 10,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -348,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-04T17:38:09.341Z"
+  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
 }
