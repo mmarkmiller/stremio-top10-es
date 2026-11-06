@@ -2,44 +2,8 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 1,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.61,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
@@ -64,12 +28,108 @@
         "Rupert Graves",
         "Roger Allam"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt0434409",
       "name": "V de Vendetta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
       "rating": 7.9,
       "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y3TH2T94gzxHKimHKNB2a30ZrXL.png",
+      "runtime": "104 min",
+      "director": [
+        "Jay Chandrasekhar"
+      ],
+      "cast": [
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Hannah Simone",
+        "Marisa Coughlan",
+        "Nat Faxon"
+      ],
+      "rank": 2,
+      "id": "tt8820258",
+      "name": "Super Troopers 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 3,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.61,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "runtime": "85 min",
+      "director": [
+        "Robert Darwell"
+      ],
+      "cast": [
+        "Dick Van Dyke"
+      ],
+      "rank": 4,
+      "id": "tt18225078",
+      "name": "The 90s Club",
+      "tmdbPosterUrl": null,
+      "rating": 10,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -96,11 +156,11 @@
         "Penélope Cruz",
         "Edward Norton"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.207,
+      "rating": 7.208,
       "year": 2026,
       "days": null,
       "trend": {
@@ -131,81 +191,11 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
       "rating": 8.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 5,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.427,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fG2vYehyvAyka220NGDUGeuabru.png",
-      "runtime": "117 min",
-      "director": [
-        "Michael Showalter"
-      ],
-      "cast": [
-        "Dakota Johnson",
-        "Anne Hathaway",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Iryna Dvorovenko",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "rank": 6,
-      "id": "tt32261958",
-      "name": "Verity. La sombra de un engaño",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
-      "rating": 6.976,
       "year": 2026,
       "days": null,
       "trend": {
@@ -251,33 +241,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
       "director": [
-        "Kane Parsons"
+        "Steven Spielberg"
       ],
       "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
       ],
       "rank": 8,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.997,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.427,
       "year": 2026,
       "days": null,
       "trend": {
@@ -288,21 +277,68 @@
     {
       "artworkVersion": 4,
       "genres": [
-        "Documental"
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
       ],
-      "runtime": "85 min",
+      "background": "https://image.tmdb.org/t/p/w1280/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q15NwdzQcstJgzDv1HrxF7zvrwF.png",
+      "runtime": "95 min",
       "director": [
-        "Robert Darwell"
+        "Daniel Byers"
       ],
       "cast": [
-        "Dick Van Dyke"
+        "June Schreiner",
+        "David Garelik",
+        "J.Stephen Brantley",
+        "Brennon Weese",
+        "Ian Deighan",
+        "Jonathan Spivey",
+        "Sean-Michael Wilkinson",
+        "Sharon Murray"
       ],
       "rank": 9,
-      "id": "tt18225078",
-      "name": "The 90s Club",
-      "tmdbPosterUrl": null,
-      "rating": 10,
-      "year": 2022,
+      "id": "tt37593831",
+      "name": "Dark Hollow",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
+      "rating": 4.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kCgPDFyK552OtyYCLddDWqoLBZh.png",
+      "runtime": "110 min",
+      "director": [
+        "Jordan Downey"
+      ],
+      "cast": [
+        "Deborah Ann Woll",
+        "Jeffrey Donovan",
+        "Gretchen Corbett",
+        "Jack Doolan",
+        "Will Hochman",
+        "Dana Millican",
+        "Phillip Andre Botello",
+        "Don Keith Opper"
+      ],
+      "rank": 10,
+      "id": "tt32358390",
+      "name": "El ciclo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "rating": 6.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +347,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

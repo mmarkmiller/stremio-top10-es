@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.6,
+      "rating": 6.563,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,6 +78,44 @@
     },
     {
       "artworkVersion": 4,
+      "description": "En el invierno de 1820, el ballenero de Nueva Inglaterra Essex fue agredido por algo a lo que nadie podía dar crédito: una ballena de tamaño y voluntad descomunal, con un sentido de la venganza casi humano. Este hecho real que supuso un desastre marítimo fue la inspiración para Moby-Dick de Melville. Pero la novela solo contó la mitad de la historia. “En el corazón del mar” revela las horribles consecuencias del encuentro, cuando los supervivientes de la tripulación fueron forzados hasta el límite y se vieron obligados a hacer lo impensable para mantenerse vivos. Enfrentándose a las tormentas, el hambre, el pánico, y la desesperación, los hombres llegan a dudar hasta de sus creencias más profundas, desde el valor de sus vidas a la moralidad de su oficio, mientras el capitán intenta orientarse en el mar abierto y su primer oficial sigue empeñado en conquistar a la gran ballena.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Aventura",
+        "Acción",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3KwGN29rwcNFEZeyptU017texLc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gtqSWDk651pwk2GBNJfc46LtiQa.png",
+      "runtime": "121 min",
+      "director": [
+        "Ron Howard"
+      ],
+      "cast": [
+        "Chris Hemsworth",
+        "Benjamin Walker",
+        "Cillian Murphy",
+        "Brendan Gleeson",
+        "Ben Whishaw",
+        "Michelle Fairley",
+        "Tom Holland",
+        "Paul Anderson"
+      ],
+      "rank": 3,
+      "id": "tt1390411",
+      "name": "En el corazón del mar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ajcrkYTl8p55LGXYfGzx4d5XIco.jpg",
+      "rating": 6.792,
+      "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
       "genres": [
         "Comedia",
@@ -99,48 +137,12 @@
         "Mary Steenburgen",
         "Ethan Loomis"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt38515310",
       "name": "La razón de estar contigo: Una Navidad perfecta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
-      "rating": 8.333,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "rating": 8.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Basada en una historia real, situada en el mundo internacional de la trata de armas. La película explora una consecuencia poco conocida del final de la Guerra Fría, la enorme cantidad de armas que de repente quedó disponible en los antiguos estados soviéticos para vender a los países en desarrollo (sobre todo de África) y las inmensas sumas de dinero amasadas por los traficantes de armas que las vendieron. Muchos piensan que es el mayor atraco del siglo 20. Sólo en Ucrania, entre 1982 y 1992 se robaron más de treinta y dos mil millones de dólares en armas. Ningún culpable ha sido jamás atrapado ni procesado.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9GVc6fHf2yKNf8NbMUs2ajks8iu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHB6gHJww8KO0OVmm3JBj2vTK0Y.png",
-      "runtime": "122 min",
-      "director": [
-        "Andrew Niccol"
-      ],
-      "cast": [
-        "Nicolas Cage",
-        "Bridget Moynahan",
-        "Jared Leto",
-        "Ethan Hawke",
-        "Eamonn Walker",
-        "Ian Holm",
-        "Sammi Rotibi",
-        "Tanit Phoenix"
-      ],
-      "rank": 4,
-      "id": "tt0399295",
-      "name": "El señor de la guerra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tzmXFYq9OhUNYATAtbCuNr1Nin9.jpg",
-      "rating": 7.352,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,7 +172,7 @@
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.398,
+      "rating": 6.412,
       "year": 2020,
       "days": null,
       "trend": {
@@ -180,31 +182,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella.",
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iMvvdAm8lrFA4tow1wea5StM3pE.jpg",
-      "runtime": "100 min",
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
       "director": [
-        "Eva Libertad"
+        "John Krasinski"
       ],
       "cast": [
-        "Miriam Garlo",
-        "Álvaro Cervantes",
-        "Elena Irureta",
-        "Joaquín Notario",
-        "Daniela Saura Pérez",
-        "Elaia Sánchez",
-        "Jade Molina Uroz",
-        "Valentina Arrona Fernández"
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
       ],
       "rank": 6,
-      "id": "tt26923797",
-      "name": "Sorda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
-      "rating": 7.2,
-      "year": 2025,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -213,33 +217,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "description": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xs49REuH8rgi8n8EYSwMGEZCGkY.png",
+      "runtime": "109 min",
       "director": [
-        "David Fincher"
+        "Hiroki Kazama"
       ],
       "cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Helena Bonham Carter",
-        "Meat Loaf",
-        "Jared Leto",
-        "Zach Grenier",
-        "Holt McCallany",
-        "Eion Bailey"
+        "柴咲コウ",
+        "赤楚衛二",
+        "筒井道隆",
+        "Naomi Nishida",
+        "鳴海唯",
+        "宮世琉弥",
+        "近藤公園",
+        "濱田マリ"
       ],
       "rank": 7,
-      "id": "tt0137523",
-      "name": "El club de la lucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.438,
-      "year": 1999,
+      "id": "tt39400541",
+      "name": "Un poco de compañía antes de morir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -248,33 +252,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
       "genres": [
-        "Drama",
-        "Música",
-        "Romance"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHtqcdq7rEYBYhCzxpsvvoV0dMo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6UBUdCiKLfQZUoDzNCb4vmIyXyI.png",
-      "runtime": "159 min",
+      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
+      "runtime": "93 min",
       "director": [
-        "Imtiaz Ali"
+        "Cameron Cairnes",
+        "Colin Cairnes"
       ],
       "cast": [
-        "रणबीर कपूर",
-        "Nargis Fakhri",
-        "Shammi Kapoor",
-        "अदिति राव हैदरी",
-        "Kumud Mishra",
-        "Piyush Mishra",
-        "Moufid Aziz",
-        "Shernaz Patel"
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss",
+        "Fayssal Bazzi",
+        "Ingrid Torelli",
+        "Rhys Auteri",
+        "Georgina Haig",
+        "Josh Quong Tart"
       ],
       "rank": 8,
-      "id": "tt1839596",
-      "name": "रॉकस्टार",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cJZC9riwrdATBUonkZJZD6y9g40.jpg",
-      "rating": 7.3,
-      "year": 2011,
+      "id": "tt14966898",
+      "name": "El último late night",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
+      "rating": 7.077,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,68 +287,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "Gus Van Sant"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 9,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fc7YOO5V0wdKzdOx9vTlbaNwHl5.png",
-      "runtime": "101 min",
-      "director": [
-        "Janus Metz"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Jacob Tremblay",
-        "Shailene Woodley",
-        "Annabelle Wallis",
-        "Alexander Ludwig",
-        "Marc Menchaca",
-        "Steven Ogg",
-        "Mark Camacho"
-      ],
-      "rank": 10,
-      "id": "tt6933238",
-      "name": "Unabomber",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "rating": 6.573,
-      "year": 2026,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.2,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -353,5 +321,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

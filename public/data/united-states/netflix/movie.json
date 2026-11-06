@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
     {
       "artworkVersion": 4,
@@ -114,69 +114,18 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
-      "runtime": "102 min",
+      "genres": [],
+      "runtime": "30 min",
       "director": [
-        "Cathryn Michon"
+        "Umesh Vinayak Kulkarni"
       ],
-      "cast": [
-        "Dennis Quaid",
-        "Milo Ventimiglia",
-        "Brooke Lena Johnson",
-        "Kathleen Rose Perkins",
-        "Jennifer Tilly",
-        "Thomas Haden Church",
-        "Mary Steenburgen",
-        "Ethan Loomis"
-      ],
+      "cast": [],
       "rank": 4,
-      "id": "tt38515310",
-      "name": "La razón de estar contigo: Una Navidad perfecta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
-      "rating": 8.333,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una mujer estadounidense de los suburbios que hereda el imperio mafioso de su abuelo, y guiada por el consigliere de confianza de la Firma, desafía las expectativas de todos, incluida la suya propia, como la nueva jefa del negocio familiar.",
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gGZxCy9keK0D6TxbmS8GJj85Ut4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uZ2LXXZ60jogOrrp4pGTgYHwL3o.png",
-      "runtime": "101 min",
-      "director": [
-        "Catherine Hardwicke"
-      ],
-      "cast": [
-        "Toni Collette",
-        "Monica Bellucci",
-        "Sophia Nomvete",
-        "Alessandro Bressanello",
-        "Eduardo Scarpetta",
-        "Tommy Rodger",
-        "Giulio Maria Corso",
-        "Francesco Mastroianni"
-      ],
-      "rank": 5,
-      "id": "tt13923456",
-      "name": "Mafia Mamma",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg",
-      "rating": 6,
-      "year": 2023,
+      "id": "tmdb:769588",
+      "name": "Makkhi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f7AVyO7WIuHpdSVoCEbbVleNcoK.jpg",
+      "rating": null,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -208,11 +157,80 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.959,
+      "rating": 6.946,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png",
+      "runtime": "117 min",
+      "director": [
+        "Thomas Vinterberg"
+      ],
+      "cast": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Magnus Millang",
+        "Lars Ranthe",
+        "Maria Bonnevie",
+        "Helene Reingaard Neumann",
+        "Susse Wold",
+        "Magnus Sjørup"
+      ],
+      "rank": 6,
+      "id": "tt10288566",
+      "name": "Otra ronda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg",
+      "rating": 7.626,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
+      "runtime": "102 min",
+      "director": [
+        "Cathryn Michon"
+      ],
+      "cast": [
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Brooke Lena Johnson",
+        "Kathleen Rose Perkins",
+        "Jennifer Tilly",
+        "Thomas Haden Church",
+        "Mary Steenburgen",
+        "Ethan Loomis"
+      ],
+      "rank": 7,
+      "id": "tt38515310",
+      "name": "La razón de estar contigo: Una Navidad perfecta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -244,7 +262,7 @@
         "Catalina Sandino Moreno",
         "Peter Gerety"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt2937898",
       "name": "El año más violento",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
@@ -258,105 +276,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png",
-      "runtime": "117 min",
-      "director": [
-        "Thomas Vinterberg"
-      ],
-      "cast": [
-        "Mads Mikkelsen",
-        "Thomas Bo Larsen",
-        "Magnus Millang",
-        "Lars Ranthe",
-        "Maria Bonnevie",
-        "Helene Reingaard Neumann",
-        "Susse Wold",
-        "Magnus Sjørup"
-      ],
-      "rank": 8,
-      "id": "tt10288566",
-      "name": "Otra ronda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg",
-      "rating": 7.626,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una comedia negra sobre Honey O'Donahue, una investigadora privada de un pueblo pequeño, que se adentra en una serie de extrañas muertes vinculadas a una misteriosa iglesia.",
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cjhq1eBLXgKq1xHDFeUnYzu61H6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVwsvvCJttV4PFGrMgKndhWHIh5.png",
-      "runtime": "89 min",
-      "director": [
-        "Ethan Coen"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Aubrey Plaza",
-        "Chris Evans",
-        "Lera Abova",
-        "Jacnier",
-        "Gabby Beans",
-        "Talia Ryder",
-        "Charlie Day"
-      ],
-      "rank": 9,
-      "id": "tt30645201",
-      "name": "Honey Don't!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
-      "rating": 5.549,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Becky, una joven adolescente, pasa un fin de semana en un lago junto a su padre, Jeff, con el que no tiene una gran relación. Lo que parecían unos días perfectos para intentar reconectar entre ellos, se convierten en una verdadera pesadilla cuando un grupo de convictos fugitivos, liderados por Dominick, invaden la casa del lago.",
+      "description": "Un ladrón de arte de alto nivel, Nemo (Willem Dafoe), queda atrapado y sin posibilidad de salir en un lujoso ático de alta tecnología en Times Square, Nueva York, después de que su atraco no sale como estaba planeado.",
       "genres": [
         "Suspense",
-        "Terror",
-        "Acción"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hICVeV6brGXsGVtvZWQFr5WmoTt.png",
-      "runtime": "92 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5deKXeVmu3G8821gV8DtKHmRd6r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8FV6RXXDxa9oj3jjrOT4jduymre.png",
+      "runtime": "105 min",
       "director": [
-        "Jonathan Milott",
-        "Cary Murnion"
+        "Vasilis Katsoupis"
       ],
       "cast": [
-        "Lulu Wilson",
-        "Kevin James",
-        "Joel McHale",
-        "Robert Maillet",
-        "Amanda Brugel",
-        "Isaiah Rockcliffe",
-        "Ryan McDonald",
-        "James McDougall"
+        "Willem Dafoe",
+        "Gene Bervoets",
+        "Eliza Stuyck",
+        "Andrew Blumenthal",
+        "Vincent Eaton",
+        "Daniel White",
+        "Josia Krug",
+        "Cornelia Buch"
+      ],
+      "rank": 9,
+      "id": "tt14781036",
+      "name": "Inside",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qY8MFW9iSaXzhE51SZAd71SsmbQ.jpg",
+      "rating": 5.679,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
       ],
       "rank": 10,
-      "id": "tt10314450",
-      "name": "Becky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4wHGyGWayCJbM8R0xxHafdTpmxx.jpg",
-      "rating": 6.282,
-      "year": 2020,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.398,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -365,5 +345,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

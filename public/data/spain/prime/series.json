@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,40 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.617,
+      "rating": 8.6,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
+      ],
+      "rank": 2,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 7.993,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,44 +89,12 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.271,
+      "rating": 8.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt",
-        "Constance Wu",
-        "Tom Hopper",
-        "Dar Salim",
-        "Ольга Куриленко",
-        "Yul Vazquez",
-        "Costa Ronin",
-        "Jeremy Bobb"
-      ],
-      "rank": 3,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.993,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,29 +135,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+      "description": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2zFSqSofChOaumGflyQzRcZIEE1.png",
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaxSCU3UOure9dl5HzEd3xRcgEX.png",
       "director": [],
       "cast": [
-        "Jaalen Best",
-        "Omari Hardwick",
-        "Dana Gourrier",
-        "Amin Joseph",
-        "Kai Parham",
-        "Giovanni Ribisi",
-        "Reno Wilson",
-        "Erica Tazel"
+        "Carmen Kassovitz",
+        "Baptiste Masseline",
+        "Prune Pauchet",
+        "Esteban Vial",
+        "Madior Fall",
+        "Félix Nebel",
+        "Cassandra Cano",
+        "Eloïse Rey"
       ],
       "rank": 5,
-      "id": "tt15715850",
-      "name": "El más grande",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anGICExgOPbBjobnoJzNrTriEmL.jpg",
-      "rating": 5.2,
+      "id": "tt39943756",
+      "name": "Campus Drivers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yxlAJqniqx5Qn2CVCDB97FDhQx7.jpg",
+      "rating": 8.5,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
+      "genres": [
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yySfzvGlynOBsD3gkVaHo0opMVX.png",
+      "director": [],
+      "cast": [
+        "Victoria Luengo",
+        "Hovik Keuchkerian",
+        "Karmele Larrinaga",
+        "Vicenta N'Dongo",
+        "Àlex Brendemühl",
+        "Fernando Guallar",
+        "Bruno Sevilla",
+        "Adriana Torrebejano"
+      ],
+      "rank": 6,
+      "id": "tt20883126",
+      "name": "Reina roja",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
+      "rating": 7,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,7 +219,7 @@
         "Jean-François Sivadier",
         "Alix Poisson"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt2521668",
       "name": "Les Revenants",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x6B2UTMMU06GNzRgbDfaObuWFT6.jpg",
@@ -201,57 +233,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
+      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
       "genres": [
-        "Action & Adventure",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yySfzvGlynOBsD3gkVaHo0opMVX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2zFSqSofChOaumGflyQzRcZIEE1.png",
       "director": [],
       "cast": [
-        "Victoria Luengo",
-        "Hovik Keuchkerian",
-        "Karmele Larrinaga",
-        "Vicenta N'Dongo",
-        "Àlex Brendemühl",
-        "Fernando Guallar",
-        "Bruno Sevilla",
-        "Adriana Torrebejano"
-      ],
-      "rank": 7,
-      "id": "tt20883126",
-      "name": "Reina roja",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "rating": 7,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Jaalen Best",
+        "Omari Hardwick",
+        "Dana Gourrier",
+        "Amin Joseph",
+        "Kai Parham",
+        "Giovanni Ribisi",
+        "Reno Wilson",
+        "Erica Tazel"
       ],
       "rank": 8,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
-      "year": 2005,
+      "id": "tt15715850",
+      "name": "El más grande",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+      "rating": 5.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,7 +287,7 @@
       "id": "tt2560140",
       "name": "Ataque a los Titanes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.689,
+      "rating": 8.7,
       "year": 2013,
       "days": null,
       "trend": {
@@ -293,21 +297,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
+      "description": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
       "genres": [
-        "Misterio",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+      "background": "https://image.tmdb.org/t/p/w1280/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png",
       "director": [],
-      "cast": [],
+      "cast": [
+        "Morfydd Clark",
+        "Robert Aramayo",
+        "Owain Arthur",
+        "Sophia Nomvete",
+        "Markella Kavenagh",
+        "Ismael Cruz Cordova"
+      ],
       "rank": 10,
-      "id": "tt10946316",
-      "name": "El Instituto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-      "rating": 7.5,
-      "year": 2025,
+      "id": "tt7631058",
+      "name": "El señor de los anillos: Los anillos de poder",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "rating": 7.2,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +327,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

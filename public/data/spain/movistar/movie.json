@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
+      "runtime": "132 min",
+      "director": [
+        "James McTeigue"
+      ],
+      "cast": [
+        "Natalie Portman",
+        "Hugo Weaving",
+        "Stephen Rea",
+        "Stephen Fry",
+        "John Hurt",
+        "Tim Pigott-Smith",
+        "Rupert Graves",
+        "Roger Allam"
+      ],
+      "rank": 1,
+      "id": "tt0434409",
+      "name": "V de Vendetta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
+      "rating": 7.9,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
@@ -16,7 +52,7 @@
       "logo": "https://image.tmdb.org/t/p/w500/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
       "runtime": "123 min",
       "director": [
-        "연상호"
+        "Yeon Sang-ho"
       ],
       "cast": [
         "전지현",
@@ -28,48 +64,12 @@
         "이중옥",
         "김종태"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt34385135",
       "name": "Zona cero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
-      "rating": 8.21,
+      "rating": 8.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Salamanca, España, 1936. En los primeros días de la rebelión militar que causó el estallido de la guerra civil española (1936-39), el escritor Miguel de Unamuno apoya el levantamiento con la esperanza de que termine el caos político imperante. Pero cuando el enfrentamiento se vuelve sangriento, Unamuno comienza a cuestionar su posición inicial.",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tsihdadFxcOiI2NdTxmMmwnfrG3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IRhPq7cZ0ZGDJdYRqalhBQIuDF.png",
-      "runtime": "108 min",
-      "director": [
-        "Alejandro Amenábar"
-      ],
-      "cast": [
-        "Karra Elejalde",
-        "Eduard Fernández",
-        "Santi Prego",
-        "Nathalie Poza",
-        "Luis Bermejo",
-        "Tito Valverde",
-        "Patricia López Arnaiz",
-        "Inma Cuevas"
-      ],
-      "rank": 2,
-      "id": "tt7818580",
-      "name": "Mientras dure la guerra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
-      "rating": 7.1,
-      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -113,42 +113,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
-      "runtime": "132 min",
-      "director": [
-        "James McTeigue"
-      ],
-      "cast": [
-        "Natalie Portman",
-        "Hugo Weaving",
-        "Stephen Rea",
-        "Stephen Fry",
-        "John Hurt",
-        "Tim Pigott-Smith",
-        "Rupert Graves",
-        "Roger Allam"
-      ],
-      "rank": 4,
-      "id": "tt0434409",
-      "name": "V de Vendetta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
-      "rating": 7.9,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
       "genres": [
         "Drama",
@@ -170,7 +134,7 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
@@ -207,7 +171,7 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
@@ -221,32 +185,102 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rafa (David Sainz) y Toni (Mario Mayo) son dos buscavidas que trabajan para Ángela (Ana Turpin), una abogada de moral flexible que ofrece a sus clientes ‘soluciones rápidas’ al margen de lo legal. Dentro del maletero de uno de esos clientes aparece una misteriosa caja fuerte cuyo contenido, una reliquia de la Segunda Guerra Mundial muy codiciada por gente de los bajos fondos, les situará en el centro de una peligrosa encrucijada.",
+      "description": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja se queda en Madrid.",
       "genres": [
-        "Acción",
-        "Suspense"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2ao8ggH0SGMQnou0Sjg8WwLFky4.jpg",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/j2VIhyN9CtmMttheNzdCt49hv32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wnltuibn7FZg3sSlhQFXppVV30I.png",
+      "runtime": "111 min",
       "director": [
-        "Bruno Martín"
+        "Pedro Almodóvar"
       ],
       "cast": [
-        "David Sainz",
-        "Mario Mayo",
-        "Ana Turpin",
-        "Ramiro Alonso",
-        "Ángel Acero",
-        "Mauricio Morales",
-        "Mónica Miranda",
-        "Daniel Ortiz"
+        "Bárbara Lennie",
+        "Leonardo Sbaraglia",
+        "Aitana Sánchez-Gijón",
+        "Victoria Luengo",
+        "Patrick Criado",
+        "Milena Smit",
+        "Quim Gutiérrez",
+        "Rossy de Palma"
+      ],
+      "rank": 6,
+      "id": "tt28088049",
+      "name": "Amarga Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Otoño 2024.  Blanca, Rosa y Carmen son tres amigas de mediana edad que tras mucho tiempo sin coincidir todas juntas, quedan junto con Diana, la joven y taciturna sobrina de Rosa, para ir a cazar conejos a un coto de caza que Blanca heredó de su tío José.  Entre risas comparten los complicados momentos por los que están pasando en sus vidas. La relación con los hijos, separaciones, infidelidades, la menopausia, problemas con el alcohol, importantes proyectos profesionales… El calor, insoportable, asfixiante, y las conversaciones sobre temas del pasado van subiendo de tono hasta acabar enfrentando a las mujeres. Imposible no recordar que casi 60 años atrás, otro día de caza, en aquella misma finca, acabó en tragedia.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nvVyvdtEC9ZTGrUV9izmCKOLNey.jpg",
+      "runtime": "90 min",
+      "director": [
+        "Pedro Aguilera"
+      ],
+      "cast": [
+        "Carmen Machi",
+        "Rossy de Palma",
+        "Blanca Portillo",
+        "Zoe Arnao",
+        "Marco Antonio Gonzales Jemio",
+        "Joel Soria",
+        "Lita Terán",
+        "Justo Baza"
       ],
       "rank": 7,
-      "id": "tt32424400",
-      "name": "Luger",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGlgD620bvo6vdnb14GJruoHnP2.jpg",
-      "rating": 6.7,
-      "year": 2025,
+      "id": "tt26923135",
+      "name": "Día de caza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVEG1bWc4tLsiEtqfKmk4CbkxR.jpg",
+      "rating": 4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Constantine ha estado en el infierno y ha vuelto. Nació con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios que andan por la tierra bajo un aspecto humano, Constantine se vio empujado al suicido para escapar de la atormentadora claridad de su visión. Pero fracasó. Ahora, marcado por su intento de suicidio, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse el camino a la salvación enviando a los esbirros de Luciffer de vuelta al averno. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que subyace justo bajo el paisaje de la actual ciudad de Los Angeles. Atrapados en una catastrófica serie de acontecimientos sobrenaturales, los dos se encuentran inextricablemente involucrados y tratan de encontrar su propia paz a cualquier precio.",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png",
+      "runtime": "121 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Rachel Weisz",
+        "Shia LaBeouf",
+        "Djimon Hounsou",
+        "Max Baker",
+        "Pruitt Taylor Vince",
+        "Gavin Rossdale",
+        "Tilda Swinton"
+      ],
+      "rank": 8,
+      "id": "tt0360486",
+      "name": "Constantine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg",
+      "rating": 7.218,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,11 +310,11 @@
         "Brendan Conroy",
         "Ezra Carlisle"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt35672862",
       "name": "Hokum",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
-      "rating": 6.814,
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -290,66 +324,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
+      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
       "genres": [
-        "Comedia",
-        "Crimen"
+        "Romance",
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
+      "runtime": "136 min",
       "director": [
-        "Guy Ritchie"
+        "Emerald Fennell"
       ],
       "cast": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Michelle Dockery",
-        "Jeremy Strong",
-        "Lyne Renee",
-        "Colin Farrell",
-        "Henry Golding",
-        "Tom Wu"
-      ],
-      "rank": 9,
-      "id": "tt8367814",
-      "name": "The Gentlemen: Los señores de la mafia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
-      "rating": 7.66,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el bosque finlandés, Saga y su esposo Jon se embarcan en un nuevo capítulo como padres. La alegría de Saga se ve ensombrecida por las sospechas sobre su bebé, provocando una ruptura mientras ella se enfrenta a la inquietante verdad.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kmcFHu4j4aHqIcqlFMTa6BPDMZo.png",
-      "runtime": "92 min",
-      "director": [
-        "Hanna Bergholm"
-      ],
-      "cast": [
-        "Rupert Grint",
-        "Seidi Haarla",
-        "Pamela Tola",
-        "Pirkko Saisio",
-        "Rebecca Lacey",
-        "John Thomson",
-        "Silvia Saloranta",
-        "Satu Tuuli Karhu"
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Hong Chau",
+        "Shazad Latif",
+        "Alison Oliver",
+        "Martin Clunes",
+        "Ewan Mitchell",
+        "Amy Morgan"
       ],
       "rank": 10,
-      "id": "tt34383465",
-      "name": "Nightborn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuWjbhgwjE4GIegCxWcu70d9FUl.jpg",
-      "rating": 6,
+      "id": "tt32897959",
+      "name": "“Cumbres Borrascosas”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "rating": 6.642,
       "year": 2026,
       "days": null,
       "trend": {
@@ -359,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

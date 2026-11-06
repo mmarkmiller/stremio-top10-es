@@ -2,8 +2,37 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/azITiQL9UBQVK9z95UQipLoWHkB.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Giovanni Ribisi",
+        "Kristoffer Polaha",
+        "William Jackson Harper",
+        "Mireille Enos"
+      ],
+      "rank": 1,
+      "id": "tt30051064",
+      "name": "American Hostage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
@@ -20,12 +49,103 @@
         "Valentina Vidal",
         "Raúl Arévalo"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
       "rating": 6.167,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El agente Ben Cooper, un afable lugareño, se une a la vigilada debutante DC Diane Fry para investigar una serie de misteriosas muertes.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m2Y5zHHsHFWb7ysSmOmlKjaE4ig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skb0NvP5KQy7wSNWSpI1371JBmc.png",
+      "director": [],
+      "cast": [
+        "Robert James-Collier",
+        "Mandip Gill",
+        "Charlotte Bradley",
+        "Lorcan Cranitch",
+        "Barry O'Connor",
+        "Niamh McCann",
+        "Clara Simpson"
+      ],
+      "rank": 3,
+      "id": "tt38856763",
+      "name": "Cooper & Fry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+      "rating": 7.7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/41neXsH222hV2zrsTyw8h7javon.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
+      "director": [],
+      "cast": [
+        "Trey Parker",
+        "Matt Stone",
+        "Mona Marshall",
+        "Jennifer Howell"
+      ],
+      "rank": 4,
+      "id": "tt0121955",
+      "name": "South Park",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "rating": 8.333,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
+      "director": [],
+      "cast": [
+        "Taylor Kinney",
+        "David Eigenberg",
+        "Christian Stolte",
+        "Miranda Rae Mayo",
+        "Hanako Greensmith",
+        "Jocelyn Hudon",
+        "Brandon Larracuente",
+        "Da'Vinchi"
+      ],
+      "rank": 5,
+      "id": "tt2261391",
+      "name": "Chicago Fire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "rating": 8.411,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -54,155 +174,12 @@
         "Alice Lowe",
         "Chanel Cresswell"
       ],
-      "rank": 2,
+      "rank": 6,
       "id": "tt39374202",
       "name": "Negocios turbios",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
       "rating": 8.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Lana Washington y Joel Nutkins son dos experimentados oficiales del equipo de artificieros de la policía de Londres. Una serie de atentados en pleno verano levanta sospechas sobre un ataque premeditado contra el equipo.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1a9SnX0B8SOf4tyf2gC19BhpREz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8EIXkSc1Pj588g6NnwADkV6n8hL.png",
-      "director": [],
-      "cast": [
-        "Vicky McClure",
-        "Eric Shango",
-        "Natalie Simpson",
-        "Maisie Ayres"
-      ],
-      "rank": 3,
-      "id": "tt11958610",
-      "name": "Trigger point: Fuera de control",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yGeQsRm4hBErW1q0UlflCFQzI0o.jpg",
-      "rating": 6.9,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El agente Ben Cooper, un afable lugareño, se une a la vigilada debutante DC Diane Fry para investigar una serie de misteriosas muertes.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m2Y5zHHsHFWb7ysSmOmlKjaE4ig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/skb0NvP5KQy7wSNWSpI1371JBmc.png",
-      "director": [],
-      "cast": [
-        "Robert James-Collier",
-        "Mandip Gill",
-        "Charlotte Bradley",
-        "Lorcan Cranitch",
-        "Barry O'Connor",
-        "Niamh McCann",
-        "Clara Simpson"
-      ],
-      "rank": 4,
-      "id": "tt38856763",
-      "name": "Cooper & Fry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
-      "rating": 7.7,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La ficción sigue las investigaciones de crímenes complejos y misterios en entornos rurales y aislados de España, siempre lideradas por agentes de la UCO (Unidad Central Operativa) de la Guardia Civil, con la sargento Sara Campos y el cabo Víctor Gamero.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qnG9IB7MbO50jHTPzGRE4EdV5yr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jgcNe9Hivq8YvfQ1uOuAxtWaNZ1.png",
-      "director": [],
-      "cast": [
-        "Megan Montaner",
-        "Félix Gómez",
-        "Silvia Alonso"
-      ],
-      "rank": 5,
-      "id": "tt8787372",
-      "name": "La caza",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fYvvFLf4CGtHforXYfChCGmlUBy.jpg",
-      "rating": 6.5,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
-      "director": [],
-      "cast": [
-        "Taylor Kinney",
-        "David Eigenberg",
-        "Christian Stolte",
-        "Miranda Rae Mayo",
-        "Hanako Greensmith",
-        "Jocelyn Hudon",
-        "Brandon Larracuente",
-        "Da'Vinchi"
-      ],
-      "rank": 6,
-      "id": "tt2261391",
-      "name": "Chicago Fire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-      "rating": 8.411,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 7,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
-      "rating": 8.85,
-      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -231,7 +208,7 @@
         "Dylan Hughes",
         "Ralph Ineson"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt27846061",
       "name": "Ludwig",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
@@ -245,26 +222,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
       "genres": [
-        "Comedia",
-        "Animación"
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/41neXsH222hV2zrsTyw8h7javon.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
       "director": [],
       "cast": [
-        "Trey Parker",
-        "Matt Stone",
-        "Mona Marshall",
-        "Jennifer Howell"
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
       ],
-      "rank": 9,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "rating": 8.333,
-      "year": 1997,
+      "rank": 8,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.462,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -273,26 +255,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La brillante y frágil detective Amy Silva (Suranne Jones) es enviada al submarino HMS Vigil para investigar la misteriosa muerte de uno de sus tripulantes. Cuando la escotilla se cierra encima de su cabeza, la realidad que encuentra es muy distinta a lo esperado. Dentro del submarino el secretismo, las jerarquías y el claustrofóbico escenario complican la investigación, y la tripulación se muestra reacia a colaborar. Mientras tanto, en tierra, su compañera y confidente Kirsten Longacre (Rose Leslie) hace sus propias indagaciones. El caso pronto trasciende las paredes del submarino y desvela una conspiración que amenaza el corazón mismo de la seguridad nacional británica.",
+      "description": "La ficción sigue las investigaciones de crímenes complejos y misterios en entornos rurales y aislados de España, siempre lideradas por agentes de la UCO (Unidad Central Operativa) de la Guardia Civil, con la sargento Sara Campos y el cabo Víctor Gamero.",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iW8O8j5yHjxg6ECCGh2u38Lm08E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/43h6x3MsxR6P14htcY3Hyj8cNUn.png",
+      "background": "https://image.tmdb.org/t/p/w1280/qnG9IB7MbO50jHTPzGRE4EdV5yr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jgcNe9Hivq8YvfQ1uOuAxtWaNZ1.png",
       "director": [],
       "cast": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Dominic Mafham",
-        "Steven Miller"
+        "Megan Montaner",
+        "Félix Gómez",
+        "Silvia Alonso"
+      ],
+      "rank": 9,
+      "id": "tt8787372",
+      "name": "La caza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fYvvFLf4CGtHforXYfChCGmlUBy.jpg",
+      "rating": 6.5,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras la muerte del dueño de la funeraria Torregrosa, su ambicioso pupilo se prepara para hacerse cargo del negocio pero acaba a las órdenes de una viuda sin experiencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w0WT4opEOeldCegD2eAYSspVieg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
+      "director": [],
+      "cast": [
+        "Carlos Areces",
+        "Gerald B. Fillmore",
+        "Aitziber Garmendia",
+        "Ascen López",
+        "Diego Martín",
+        "Salva Reina",
+        "Roque Ruiz",
+        "Amaia Salamanca"
       ],
       "rank": 10,
-      "id": "tt11846996",
-      "name": "Vigil: Conspiración nuclear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7v2D9l9QmU02pXP7R2udu1uYN2y.jpg",
-      "rating": 7.219,
-      "year": 2021,
+      "id": "tt29614148",
+      "name": "Muertos S.L.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
+      "rating": 7.4,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -301,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

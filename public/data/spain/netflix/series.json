@@ -2,8 +2,38 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
+      "genres": [
+        "Action & Adventure",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72KLqnmblntpDJ0GvvNiIzFgTD2.png",
+      "director": [],
+      "cast": [
+        "Keira Knightley",
+        "Ben Whishaw",
+        "Sarah Lancashire",
+        "Andrew Buchan",
+        "Ella Lily Hyland"
+      ],
+      "rank": 1,
+      "id": "tt27995113",
+      "name": "Palomas negras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
+      "rating": 7.038,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
@@ -24,7 +54,7 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
@@ -53,11 +83,11 @@
         "김민하",
         "이희준"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt36458668",
       "name": "Un trabajo maldito",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-      "rating": 7.66,
+      "rating": 7.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,28 +97,93 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
       "genres": [
-        "Action & Adventure",
-        "Misterio",
-        "Crimen"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/72KLqnmblntpDJ0GvvNiIzFgTD2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
       "director": [],
       "cast": [
-        "Keira Knightley",
-        "Ben Whishaw",
-        "Sarah Lancashire",
-        "Andrew Buchan",
-        "Ella Lily Hyland"
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
       ],
-      "rank": 3,
-      "id": "tt27995113",
-      "name": "Palomas negras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
-      "rating": 7,
+      "rank": 4,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.158,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
+      "rank": 5,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.883,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
+      ],
+      "rank": 6,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.7,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -117,104 +212,11 @@
         "Diarmuid Noyes",
         "Lars Väringer"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt42767924",
       "name": "El intercambio",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
-      "rating": 4.389,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
-      ],
-      "rank": 5,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.3,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
-      "director": [
-        "Juan Cavestany",
-        "Álvaro Fernández Armero"
-      ],
-      "cast": [
-        "Antonio de la Torre",
-        "Alexandra Jiménez",
-        "Enric Benavent",
-        "Fernando Andina",
-        "Celia de Molina",
-        "Teresa Rabal",
-        "Mercedes Sampietro"
-      ],
-      "rank": 6,
-      "id": "tt39387986",
-      "name": "Grande de España",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 7,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.18,
+      "rating": 4.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -256,30 +258,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
       "director": [],
       "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
       ],
       "rank": 9,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.656,
-      "year": 2023,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.308,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -288,30 +286,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
       "genres": [
         "Comedia",
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
+      "director": [
+        "Juan Cavestany",
+        "Álvaro Fernández Armero"
+      ],
       "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
+        "Antonio de la Torre",
+        "Alexandra Jiménez",
+        "Enric Benavent",
+        "Fernando Andina",
+        "Celia de Molina",
+        "Teresa Rabal",
+        "Mercedes Sampietro"
       ],
       "rank": 10,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.88,
-      "year": 2024,
+      "id": "tt39387986",
+      "name": "Grande de España",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "rating": 5.667,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

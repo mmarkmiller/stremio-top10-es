@@ -2,39 +2,132 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
       "genres": [
-        "Familia",
-        "Animación",
-        "Música",
-        "Aventura"
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
       "director": [
-        "Lee Unkrich"
+        "John Krasinski"
       ],
       "cast": [
-        "Anthony Gonzalez",
-        "Gael García Bernal",
-        "Benjamin Bratt",
-        "Alanna Ubach",
-        "Renée Victor",
-        "Jaime Camil",
-        "Alfonso Arau",
-        "Herbert Siguenza"
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
       ],
       "rank": 1,
-      "id": "tt2380307",
-      "name": "Coco",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
-      "rating": 8.207,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5NirokqjePXDkbGmdnhfLzXHKh5.png",
+      "runtime": "121 min",
+      "director": [
+        "Darren Aronofsky"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson",
+        "Jovan Adepo",
+        "Amanda Chiu"
+      ],
+      "rank": 2,
+      "id": "tt5109784",
+      "name": "Madre!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
+      "rating": 6.946,
       "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "58 min",
+      "director": [
+        "Ryan Polito"
+      ],
+      "cast": [
+        "Joey Diaz"
+      ],
+      "rank": 3,
+      "id": "tt6165902",
+      "name": "Joey Coco Diaz: Sociably UnAcceptable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xMU8oyoC9u5Xbsyl3sFwgkFfsBU.jpg",
+      "rating": 6.1,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 4,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.46,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -66,47 +159,12 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.279,
+      "rating": 8.276,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 3,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.396,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,7 +194,7 @@
         "Troy Garity",
         "Benedict Wong"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt0448134",
       "name": "Sunshine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
@@ -173,11 +231,11 @@
         "Emma Puahi-Shapazian",
         "Amaya Masoli"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.461,
+      "rating": 7.46,
       "year": 2026,
       "days": null,
       "trend": {
@@ -187,34 +245,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "description": "Un grupo de soldados renegados roba un arma química y toma la antigua cárcel de Alcatraz con 81 turistas como rehenes. Su líder, un general del ejército muy condecorado, pide 100 millones de dólares para entregárselos a las familias de los soldados muertos en operaciones secretas llevadas a cabo por el ejército. Un equipo de élite y un recluso, que en su día pudo huir de Alcatraz, y que conoce los pasadizos que pueblan la prisión, tratarán de evitar que una gran catástrofe se produzca.",
       "genres": [
         "Acción",
         "Aventura",
-        "Ciencia ficción"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zE6d560OLvAzDwabjDdGZWBPNIK.png",
+      "runtime": "136 min",
       "director": [
-        "Jon Favreau"
+        "Michael Bay"
       ],
       "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
+        "Sean Connery",
+        "Nicolas Cage",
+        "Ed Harris",
+        "John Spencer",
+        "David Morse",
+        "William Forsythe",
+        "Michael Biehn",
+        "Vanessa Marcil"
       ],
-      "rank": 6,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.461,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt0117500",
+      "name": "La roca",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l6PuNPsNFx1UFWfQwjk1McPce4y.jpg",
+      "rating": 7.157,
+      "year": 1996,
       "days": null,
       "trend": {
         "dir": "same",
@@ -223,106 +281,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "description": "Joy Mangano, una humilde trabajadora de Long Island, acabó convirtiéndose en una popular inventora de productos del hogar y también en uno de los rostros más conocidos de la teletienda americana.",
       "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
-      "runtime": "75 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6VSss0C6xYmI7EteZIH9PkmsnF9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1b3qtOzvlSbGBHQAG56Qfagieod.png",
+      "runtime": "124 min",
       "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 7,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.86,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5NirokqjePXDkbGmdnhfLzXHKh5.png",
-      "runtime": "121 min",
-      "director": [
-        "Darren Aronofsky"
+        "David O. Russell"
       ],
       "cast": [
         "Jennifer Lawrence",
-        "Javier Bardem",
-        "Ed Harris",
-        "Michelle Pfeiffer",
-        "Brian Gleeson",
-        "Domhnall Gleeson",
-        "Jovan Adepo",
-        "Amanda Chiu"
-      ],
-      "rank": 8,
-      "id": "tt5109784",
-      "name": "Madre!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
-      "rating": 6.9,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
-      "genres": [
-        "Comedia",
-        "Bélica",
-        "Acción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
-      "runtime": "107 min",
-      "director": [
-        "Ben Stiller"
-      ],
-      "cast": [
-        "Ben Stiller",
-        "Robert Downey Jr.",
-        "Jack Black",
-        "Jay Baruchel",
-        "Brandon T. Jackson",
-        "Brandon Soo Hoo",
-        "Matthew McConaughey",
-        "Tom Cruise"
+        "Robert De Niro",
+        "Bradley Cooper",
+        "Edgar Ramírez",
+        "Diane Ladd",
+        "Virginia Madsen",
+        "Isabella Rossellini",
+        "Dascha Polanco"
       ],
       "rank": 9,
-      "id": "tt0942385",
-      "name": "Tropic Thunder, ¡una guerra muy perra!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
-      "rating": 6.731,
-      "year": 2008,
+      "id": "tt2446980",
+      "name": "Joy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vaMYf81ROzslWg22l5bsbeLDtz6.jpg",
+      "rating": 6.553,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -331,33 +315,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
+      "description": "Dos razas de robots extraterrestres transformables (los villanos \"decepticons\" y los amistosos \"autobots\") llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los \"autobots\". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que sólo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad.",
       "genres": [
-        "Comedia",
-        "Familia"
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6uLhSLXzB1ooJ3522ydrBZ2Hh0W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcaBcXai5LMZsjrcP6rrzyrHw0o.png",
-      "runtime": "102 min",
+      "background": "https://image.tmdb.org/t/p/w1280/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/68juai5iHBt7N8Whj3oTqemvhFF.png",
+      "runtime": "144 min",
       "director": [
-        "Chris Columbus"
+        "Michael Bay"
       ],
       "cast": [
-        "Macaulay Culkin",
-        "Joe Pesci",
-        "Daniel Stern",
-        "John Heard",
-        "Roberts Blossom",
-        "Catherine O'Hara",
-        "Angela Goethals",
-        "Devin Ratray"
+        "Shia LaBeouf",
+        "Megan Fox",
+        "Mark Ryan",
+        "Peter Cullen",
+        "Hugo Weaving",
+        "Josh Duhamel",
+        "Tyrese Gibson",
+        "Charlie Adler"
       ],
       "rank": 10,
-      "id": "tt0099785",
-      "name": "Solo en casa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
-      "rating": 7.47,
-      "year": 1990,
+      "id": "tt0418279",
+      "name": "Transformers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJum5ArxWCquaDmK0OXDKecRIeq.jpg",
+      "rating": 6.853,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +351,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }

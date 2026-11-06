@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611052139",
+  "date": "202611062108",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.6,
+      "rating": 8.635,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,6 +67,35 @@
     },
     {
       "artworkVersion": 4,
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
+      "director": [],
+      "cast": [
+        "Noah Reid",
+        "Clark Backo",
+        "Hudson Williams",
+        "Carrie-Anne Moss"
+      ],
+      "rank": 3,
+      "id": "tt39980704",
+      "name": "Yaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 7.444,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
       "genres": [
         "Drama"
@@ -84,7 +113,7 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
@@ -117,7 +146,7 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
@@ -131,58 +160,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
       "director": [],
       "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 5,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
-      "director": [],
-      "cast": [
-        "Sharon Horgan",
-        "Rupert Friend",
-        "Sharlene Whyte",
-        "Aran Murphy",
-        "Robbie Gee"
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
       ],
       "rank": 6,
-      "id": "tt35949226",
-      "name": "Youth",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 6.7,
-      "year": 2026,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.406,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -191,31 +189,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
       "director": [],
       "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
       ],
       "rank": 7,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.379,
-      "year": 2022,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
+      "rating": 8.038,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -252,30 +246,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+      "description": "Después de pasar la noche con una desconocida a la que recoge con el taxi de su padre en Manhattan, el joven paquistaní Naz se despierta y la encuentra apuñalada en la cama. Asustado, el joven huye pero poco después es arrestado y se convierte en el único sospechoso del asesinato. Remake de la serie británica \"Criminal justice\" (2008).",
       "genres": [
+        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png",
+      "background": "https://image.tmdb.org/t/p/w1280/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ikYwrM1GC0uoA8lTCjCrvJCeT7H.png",
       "director": [],
       "cast": [
-        "Taylour Paige",
-        "Jovan Adepo",
-        "James Remar",
-        "Stephen Rider",
-        "Matilda Lawler",
-        "Amanda Christine",
-        "Clara Stack",
-        "Blake Cameron James"
+        "Riz Ahmed",
+        "John Turturro",
+        "Bill Camp",
+        "پیمان معادی",
+        "Jeannie Berlin",
+        "Poorna Jagannathan",
+        "Amara Karan"
       ],
       "rank": 9,
-      "id": "tt19244304",
-      "name": "It: bienvenidos a Derry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
-      "rating": 8.268,
-      "year": 2025,
+      "id": "tt2401256",
+      "name": "The Night Of",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+      "rating": 7.985,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -284,27 +278,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
+      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
       "director": [],
       "cast": [
-        "Noah Reid",
-        "Clark Backo",
-        "Hudson Williams",
-        "Carrie-Anne Moss"
+        "Noah Wyle",
+        "Patrick Ball",
+        "Katherine LaNasa",
+        "Supriya Ganesh",
+        "Fiona Dourif",
+        "Taylor Dearden",
+        "Isa Briones",
+        "Gerran Howell"
       ],
       "rank": 10,
-      "id": "tt39980704",
-      "name": "Yaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 7.444,
-      "year": 2026,
+      "id": "tt31938062",
+      "name": "The Pitt",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "rating": 8.731,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-05T17:38:43.707Z"
+  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
 }
