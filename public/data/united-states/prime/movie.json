@@ -2,37 +2,39 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
+      "description": "Tras secuestrar a una madre de alquiler, dos fríos profesionales del crimen se ven envueltos en una espiral creciente de confusión y violencia.",
       "genres": [
-        "Terror",
         "Acción",
-        "Ciencia ficción"
+        "Crimen",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q15NwdzQcstJgzDv1HrxF7zvrwF.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pW9GDWAlOwHjLrNbar442etuw0m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tqbbMbYjJmSzXZKRIA0U0FXS2RI.png",
+      "runtime": "126 min",
       "director": [
-        "Daniel Byers"
+        "Christopher McQuarrie"
       ],
       "cast": [
-        "June Schreiner",
-        "David Garelik",
-        "J.Stephen Brantley",
-        "Brennon Weese",
-        "Ian Deighan",
-        "Jonathan Spivey",
-        "Sean-Michael Wilkinson",
-        "Sharon Murray"
+        "Ryan Phillippe",
+        "Benicio del Toro",
+        "Juliette Lewis",
+        "Taye Diggs",
+        "Nicky Katt",
+        "Geoffrey Lewis",
+        "Scott Wilson",
+        "Dylan Kussman"
       ],
       "rank": 1,
-      "id": "tt37593831",
-      "name": "Dark Hollow",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
-      "rating": 4.2,
-      "year": 2026,
+      "id": "tt0202677",
+      "name": "Secuestro infernal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+      "rating": 6.4,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -77,32 +79,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mace Sowell, un ex agente de inteligencia se enfrenta a su propia mortalidad, la enfermedad de Alzheimer. Mace investigará asuntos turbios relacionados con el gobierno a la vez que lucha contra los efectos debilitantes de la enfermedad.",
       "genres": [
-        "Suspense"
+        "Suspense",
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/x6f4Axjvr5Ybi2mfdpVSWvASdxX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jU5WoYPvqKXZIhtBENz7aseemIf.png",
-      "runtime": "112 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5QljQqDQLRw0y19zMI6Mkn0CEX2.jpg",
+      "runtime": "90 min",
       "director": [
-        "Eric Steven Stahl"
+        "Steve Looker"
       ],
       "cast": [
-        "Patrick Stewart",
-        "Kimberly Williams-Paisley",
-        "Héctor Elizondo",
-        "Joy Kilpatrick",
-        "Craig Shoemaker",
-        "James Harlow",
-        "Richard Livingston",
-        "Julia Vera"
+        "Tommy Walton",
+        "Elijah James"
       ],
       "rank": 3,
-      "id": "tt0120051",
-      "name": "Safe House",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8xkkY7FkpjPEB2gQ3MAlmVdq3h4.jpg",
-      "rating": 5.9,
-      "year": 1998,
+      "id": "tmdb:1539113",
+      "name": "Ignition",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qFpUA65ll19wkfJPKZN2NwxakP.jpg",
+      "rating": 4.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -111,69 +107,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Basada en una historia real, situada en el mundo internacional de la trata de armas. La película explora una consecuencia poco conocida del final de la Guerra Fría, la enorme cantidad de armas que de repente quedó disponible en los antiguos estados soviéticos para vender a los países en desarrollo (sobre todo de África) y las inmensas sumas de dinero amasadas por los traficantes de armas que las vendieron. Muchos piensan que es el mayor atraco del siglo 20. Sólo en Ucrania, entre 1982 y 1992 se robaron más de treinta y dos mil millones de dólares en armas. Ningún culpable ha sido jamás atrapado ni procesado.",
       "genres": [
-        "Crimen",
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q15NwdzQcstJgzDv1HrxF7zvrwF.png",
+      "runtime": "95 min",
+      "director": [
+        "Daniel Byers"
+      ],
+      "cast": [
+        "June Schreiner",
+        "David Garelik",
+        "J.Stephen Brantley",
+        "Brennon Weese",
+        "Ian Deighan",
+        "Jonathan Spivey",
+        "Sean-Michael Wilkinson",
+        "Sharon Murray"
+      ],
+      "rank": 4,
+      "id": "tt37593831",
+      "name": "Dark Hollow",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
+      "rating": 4.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+      "genres": [
+        "Comedia",
         "Drama",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9GVc6fHf2yKNf8NbMUs2ajks8iu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHB6gHJww8KO0OVmm3JBj2vTK0Y.png",
-      "runtime": "122 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+      "runtime": "162 min",
       "director": [
-        "Andrew Niccol"
+        "Quentin Tarantino"
       ],
       "cast": [
-        "Nicolas Cage",
-        "Bridget Moynahan",
-        "Jared Leto",
-        "Ethan Hawke",
-        "Eamonn Walker",
-        "Ian Holm",
-        "Sammi Rotibi",
-        "Tanit Phoenix"
-      ],
-      "rank": 4,
-      "id": "tt0399295",
-      "name": "El señor de la guerra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tzmXFYq9OhUNYATAtbCuNr1Nin9.jpg",
-      "rating": 7.352,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Adaptación televisiva del clásico cuento navideño de Charles Dickens. Durante una Navidad, Ebenezer Scrooge, un miserable y malhumorado anciano que no siente compasión por nada ni por nadie, recibe la visita de espíritus del pasado, del presente y del futuro que pretenden conmover su corazón para salvar su alma.",
-      "genres": [
-        "Drama",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g5CMQPz5cqUHro9pNLBRW7cT8cY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pJZFji1KjziZVQT6TnOlbvvgZoo.png",
-      "runtime": "105 min",
-      "director": [
-        "David Hugh Jones"
-      ],
-      "cast": [
-        "Patrick Stewart",
-        "Richard E. Grant",
-        "Joel Grey",
-        "Ian McNeice",
-        "Saskia Reeves",
-        "Desmond Barrit",
-        "Bernard Lloyd",
-        "Dominic West"
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant",
+        "Julia Butters",
+        "Austin Butler"
       ],
       "rank": 5,
-      "id": "tt0216621",
-      "name": "Un cuento de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oi1NcVDXlFEsdpLp37BJmFbVlg9.jpg",
-      "rating": 7,
-      "year": 1999,
+      "id": "tt7131622",
+      "name": "Érase una vez en… Hollywood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+      "rating": 7.418,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,34 +178,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La arqueóloga Alabama Channing es reclutada por un misterioso millonario para ayudarle a encontrar una antigua reliquia China. El mismo tesoro que buscaba su madre antes de que ésta desapareciera. Película distribuida por The Asylum y que copia al blockbuster \"Tomb Raider\".",
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Película de TV"
+        "Comedia",
+        "Familia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tQW5cNNclBco7GKINpoBTDweyuC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ozAGY9ff8ltuLeMAFt7TNefGkJz.png",
-      "runtime": "83 min",
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
       "director": [
-        "James Thomas"
+        "Kyle Balda"
       ],
       "cast": [
-        "Gina Vitori",
-        "Tammy Klein",
-        "Lindsay Sawyer",
-        "John Wusah",
-        "Samantha Bowling",
-        "Andrew J Katers",
-        "Evan Sloan",
-        "Shawn McConnell"
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
       ],
-      "rank": 7,
-      "id": "tt7781732",
-      "name": "Invasores de tumbas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7v3zIxllgISAEqKviE0fWUsbbCv.jpg",
-      "rating": 4,
-      "year": 2018,
+      "rank": 6,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.898,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -218,32 +214,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png",
-      "runtime": "117 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+      "runtime": "120 min",
       "director": [
-        "Thomas Vinterberg"
+        "John G. Avildsen"
       ],
       "cast": [
-        "Mads Mikkelsen",
-        "Thomas Bo Larsen",
-        "Magnus Millang",
-        "Lars Ranthe",
-        "Maria Bonnevie",
-        "Helene Reingaard Neumann",
-        "Susse Wold",
-        "Magnus Sjørup"
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina"
+      ],
+      "rank": 7,
+      "id": "tt0075148",
+      "name": "Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "rating": 7.802,
+      "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
+      "runtime": "97 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart",
+        "Ed Asner",
+        "Mary Steenburgen",
+        "Zooey Deschanel",
+        "Daniel Tay",
+        "Faizon Love"
       ],
       "rank": 8,
-      "id": "tt10288566",
-      "name": "Otra ronda",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg",
-      "rating": 7.626,
-      "year": 2020,
+      "id": "tt0319343",
+      "name": "Elf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "rating": 6.667,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -252,34 +284,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El avión avanza silencioso a través de la noche, de Estados Unidos hacia París. Shane brinda con June, su joven esposa. Una vez que se duerme reclinada en su hombro, éste se deja penetrar un instante por el dolor que le produce la pesadilla que le espera vivir: en París, Léo no sale a recibir a Shane, no sale a recibir a a nadie. Está excluído de los hospitales, de los laboratorios donde se dedicaba a la investigación. Busca cobijo en Corea, en sus andanzas, en su coto de caza.",
+      "description": "Margot, la mujer de Alex, fue brutalmente asesinada por un psicópata. Incapaz de recuperarse de la pérdida, su marido no deja de recordarla ni por un momento. Un día, ocho años después, recibe un email. Lo abre y se encuentra con una imagen en tiempo real, la cara de una mujer entre la multitud: es la de Margot",
       "genres": [
         "Drama",
-        "Terror",
-        "Suspense"
+        "Suspense",
+        "Crimen",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/urnjWgyzMA6vz7irUqzfNqgqdMU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a0WFEgHVfh4dYHnuARaipxxsFHr.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/3eQD65Kw5SAq1qfOTrNVThA6szA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/32CNKnqDAtywt0wpAlDs3DndZVG.png",
+      "runtime": "126 min",
       "director": [
-        "Claire Denis"
+        "Guillaume Canet"
       ],
       "cast": [
-        "Vincent Gallo",
-        "Tricia Vessey",
-        "Béatrice Dalle",
-        "Alex Descas",
-        "Florence Loiret Caille",
-        "Nicolas Duvauchelle",
-        "Raphaël Neal",
-        "José Garcia"
+        "François Cluzet",
+        "Marie-Josée Croze",
+        "André Dussollier",
+        "Kristin Scott Thomas",
+        "François Berléand",
+        "Nathalie Baye",
+        "Jean Rochefort",
+        "Marina Hands"
       ],
       "rank": 9,
-      "id": "tt0204700",
-      "name": "Problema cada día",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jn4799m6uB5P6ZUarlnxvZEZDFp.jpg",
-      "rating": 5.8,
-      "year": 2001,
+      "id": "tt0362225",
+      "name": "No se lo digas a nadie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1KY0DLljNFYgutxbJAbzXI3zjix.jpg",
+      "rating": 7.226,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -288,32 +321,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
       "genres": [
-        "Comedia"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jBzcpoRmYqMxPfA1N64wn9U2E89.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
+      "runtime": "109 min",
       "director": [
-        "Sacha Baron Cohen"
+        "John Carpenter"
       ],
       "cast": [
-        "Sacha Baron Cohen",
-        "Morgana Robinson",
-        "Alpha Miknas",
-        "Clive Russell",
-        "A$AP Rocky",
-        "Rihanna",
-        "Tiffany Haddish",
-        "DJ Jazzy Jeff"
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart",
+        "Charles Hallahan",
+        "Peter Maloney"
       ],
       "rank": 10,
-      "id": "tt43655467",
-      "name": "Ali G: Kién es yo?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "rating": 5.7,
-      "year": 2026,
+      "id": "tt0084787",
+      "name": "La cosa (El enigma de otro mundo)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "rating": 8.073,
+      "year": 1982,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,6 +41,103 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w591RAh8h5R0F5cA2QcyBv7B4WI.png",
+      "runtime": "102 min",
+      "director": [
+        "Andrew Stanton"
+      ],
+      "cast": [
+        "Joan Cusack",
+        "Tom Hanks",
+        "Tim Allen",
+        "Conan O'Brien",
+        "Scarlett Spears",
+        "Greta Lee",
+        "Shelby Rabara",
+        "Mykal-Michelle Harris"
+      ],
+      "rank": 2,
+      "id": "tt29355505",
+      "name": "Toy Story 5",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "rating": 8.276,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
+      "runtime": "75 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 3,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.86,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "58 min",
+      "director": [
+        "Ryan Polito"
+      ],
+      "cast": [
+        "Joey Diaz"
+      ],
+      "rank": 4,
+      "id": "tt6165902",
+      "name": "Joey Coco Diaz: Sociably UnAcceptable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xMU8oyoC9u5Xbsyl3sFwgkFfsBU.jpg",
+      "rating": 6.1,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
       "genres": [
         "Terror",
@@ -62,36 +159,12 @@
         "Jovan Adepo",
         "Amanda Chiu"
       ],
-      "rank": 2,
+      "rank": 5,
       "id": "tt5109784",
       "name": "Madre!",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
       "rating": 6.946,
       "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia"
-      ],
-      "runtime": "58 min",
-      "director": [
-        "Ryan Polito"
-      ],
-      "cast": [
-        "Joey Diaz"
-      ],
-      "rank": 3,
-      "id": "tt6165902",
-      "name": "Joey Coco Diaz: Sociably UnAcceptable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xMU8oyoC9u5Xbsyl3sFwgkFfsBU.jpg",
-      "rating": 6.1,
-      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -122,7 +195,7 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
@@ -136,35 +209,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
       "genres": [
-        "Animación",
-        "Familia",
-        "Comedia",
-        "Aventura"
+        "Romance",
+        "Fantasía",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w591RAh8h5R0F5cA2QcyBv7B4WI.png",
-      "runtime": "102 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
       "director": [
-        "Andrew Stanton"
+        "Griffin Dunne"
       ],
       "cast": [
-        "Joan Cusack",
-        "Tom Hanks",
-        "Tim Allen",
-        "Conan O'Brien",
-        "Scarlett Spears",
-        "Greta Lee",
-        "Shelby Rabara",
-        "Mykal-Michelle Harris"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
       ],
-      "rank": 5,
-      "id": "tt29355505",
-      "name": "Toy Story 5",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.276,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.84,
+      "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+      "runtime": "97 min",
+      "director": [
+        "Gil Junger"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "Gabrielle Union"
+      ],
+      "rank": 8,
+      "id": "tt0147800",
+      "name": "10 razones para odiarte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+      "rating": 7.599,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -194,7 +302,7 @@
         "Troy Garity",
         "Benedict Wong"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt0448134",
       "name": "Sunshine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
@@ -231,118 +339,12 @@
         "Emma Puahi-Shapazian",
         "Amaya Masoli"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt27419466",
       "name": "Vaiana",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.46,
+      "rating": 7.456,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de soldados renegados roba un arma química y toma la antigua cárcel de Alcatraz con 81 turistas como rehenes. Su líder, un general del ejército muy condecorado, pide 100 millones de dólares para entregárselos a las familias de los soldados muertos en operaciones secretas llevadas a cabo por el ejército. Un equipo de élite y un recluso, que en su día pudo huir de Alcatraz, y que conoce los pasadizos que pueblan la prisión, tratarán de evitar que una gran catástrofe se produzca.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zE6d560OLvAzDwabjDdGZWBPNIK.png",
-      "runtime": "136 min",
-      "director": [
-        "Michael Bay"
-      ],
-      "cast": [
-        "Sean Connery",
-        "Nicolas Cage",
-        "Ed Harris",
-        "John Spencer",
-        "David Morse",
-        "William Forsythe",
-        "Michael Biehn",
-        "Vanessa Marcil"
-      ],
-      "rank": 8,
-      "id": "tt0117500",
-      "name": "La roca",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l6PuNPsNFx1UFWfQwjk1McPce4y.jpg",
-      "rating": 7.157,
-      "year": 1996,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Joy Mangano, una humilde trabajadora de Long Island, acabó convirtiéndose en una popular inventora de productos del hogar y también en uno de los rostros más conocidos de la teletienda americana.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6VSss0C6xYmI7EteZIH9PkmsnF9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1b3qtOzvlSbGBHQAG56Qfagieod.png",
-      "runtime": "124 min",
-      "director": [
-        "David O. Russell"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Robert De Niro",
-        "Bradley Cooper",
-        "Edgar Ramírez",
-        "Diane Ladd",
-        "Virginia Madsen",
-        "Isabella Rossellini",
-        "Dascha Polanco"
-      ],
-      "rank": 9,
-      "id": "tt2446980",
-      "name": "Joy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vaMYf81ROzslWg22l5bsbeLDtz6.jpg",
-      "rating": 6.553,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos razas de robots extraterrestres transformables (los villanos \"decepticons\" y los amistosos \"autobots\") llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los \"autobots\". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que sólo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/68juai5iHBt7N8Whj3oTqemvhFF.png",
-      "runtime": "144 min",
-      "director": [
-        "Michael Bay"
-      ],
-      "cast": [
-        "Shia LaBeouf",
-        "Megan Fox",
-        "Mark Ryan",
-        "Peter Cullen",
-        "Hugo Weaving",
-        "Josh Duhamel",
-        "Tyrese Gibson",
-        "Charlie Adler"
-      ],
-      "rank": 10,
-      "id": "tt0418279",
-      "name": "Transformers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJum5ArxWCquaDmK0OXDKecRIeq.jpg",
-      "rating": 6.853,
-      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -351,5 +353,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

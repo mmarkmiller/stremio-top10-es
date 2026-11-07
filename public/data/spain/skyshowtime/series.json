@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,6 +28,39 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "rating": 8.618,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Dan Stevens",
+        "Bokeem Woodbine",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa"
+      ],
+      "rank": 2,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
       "rating": 8.6,
       "year": 2025,
       "days": null,
@@ -57,45 +90,12 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
       "rating": 8.3,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
-      ],
-      "rank": 3,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.6,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,31 +135,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s3kVP6R3LbJvvoPnDQEcJNEH2d0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/71KyuHqsiZKrfhzg9AZxtX1DTRx.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
       "director": [],
       "cast": [
-        "Sonequa Martin-Green",
-        "Doug Jones",
-        "Mary Wiseman",
-        "Anthony Rapp",
-        "Wilson Cruz",
-        "Blu del Barrio",
-        "David Ajala",
-        "Callum Keith Rennie"
+        "Michael C. Hall",
+        "Jennifer Carpenter",
+        "Geoff Pierson",
+        "David Zayas",
+        "James Remar",
+        "Aimee Garcia",
+        "Desmond Harrington",
+        "C.S. Lee"
       ],
       "rank": 5,
-      "id": "tt5171438",
-      "name": "Star Trek: Discovery",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-      "rating": 6.912,
-      "year": 2017,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+      "rating": 8.2,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -201,6 +201,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "director": [],
+      "cast": [
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 7,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
       "genres": [
         "Drama",
@@ -219,77 +246,12 @@
         "Genesis Rodriguez",
         "Michael Kelly"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.275,
+      "rating": 8.276,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Jennifer Carpenter",
-        "Geoff Pierson",
-        "David Zayas",
-        "James Remar",
-        "Aimee Garcia",
-        "Desmond Harrington",
-        "C.S. Lee"
-      ],
-      "rank": 8,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.242,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
-      "director": [],
-      "cast": [
-        "Mariska Hargitay",
-        "Ice-T",
-        "Kelli Giddish",
-        "Peter Scanavino",
-        "Aimé Donna Kelly",
-        "Kevin Kane",
-        "Corey Cott"
-      ],
-      "rank": 9,
-      "id": "tt0203259",
-      "name": "Ley y orden: Unidad de Víctimas Especiales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
-      "rating": 8,
-      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,7 +278,7 @@
         "Ryan Bingham",
         "Finn Little"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
@@ -327,8 +289,39 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La unidad de élite de la oficina del FBI en Nueva York ofrece todos sus talentos, intelecto y experiencia técnica en casos importantes para mantener a salvo a Nueva York y el país.",
+      "genres": [
+        "Crimen",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/stD2BtJHwc8xolJVtglrETEjD57.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png",
+      "director": [],
+      "cast": [
+        "Missy Peregrym",
+        "Zeeko Zaki",
+        "John Boyd",
+        "Jeremy Sisto",
+        "Alana de la Garza",
+        "Juliana Aidén Martinez"
+      ],
+      "rank": 10,
+      "id": "tt7491982",
+      "name": "FBI",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
+      "rating": 7.918,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

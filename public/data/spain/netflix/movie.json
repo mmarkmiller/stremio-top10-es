@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.563,
+      "rating": 6.476,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,8 +68,42 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.61,
+      "rating": 7.609,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
+      ],
+      "rank": 3,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -102,7 +136,7 @@
         "Tom Holland",
         "Paul Anderson"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1390411",
       "name": "En el corazón del mar",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ajcrkYTl8p55LGXYfGzx4d5XIco.jpg",
@@ -116,32 +150,21 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Documental",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
-      "runtime": "102 min",
-      "director": [
-        "Cathryn Michon"
-      ],
-      "cast": [
-        "Dennis Quaid",
-        "Milo Ventimiglia",
-        "Brooke Lena Johnson",
-        "Kathleen Rose Perkins",
-        "Jennifer Tilly",
-        "Thomas Haden Church",
-        "Mary Steenburgen",
-        "Ethan Loomis"
-      ],
-      "rank": 4,
-      "id": "tt38515310",
-      "name": "La razón de estar contigo: Una Navidad perfecta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-      "rating": 8.2,
+      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/15Ei7xpsEDTZXstqjFV4790811e.png",
+      "runtime": "80 min",
+      "director": [],
+      "cast": [],
+      "rank": 5,
+      "id": "tt48500521",
+      "name": "Desprotexida: el crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "rating": 6.333,
       "year": 2026,
       "days": null,
       "trend": {
@@ -168,7 +191,7 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
@@ -203,7 +226,7 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
@@ -217,32 +240,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
       "genres": [
-        "Romance",
-        "Drama"
+        "Suspense",
+        "Drama",
+        "Acción",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xs49REuH8rgi8n8EYSwMGEZCGkY.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
       "runtime": "109 min",
       "director": [
-        "Hiroki Kazama"
+        "Ben Affleck"
       ],
       "cast": [
-        "柴咲コウ",
-        "赤楚衛二",
-        "筒井道隆",
-        "Naomi Nishida",
-        "鳴海唯",
-        "宮世琉弥",
-        "近藤公園",
-        "濱田マリ"
+        "Ben Affleck",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Steven Yeun",
+        "Adriana Paz",
+        "Luis Gerardo Méndez",
+        "Christopher Woodley",
+        "Jacob Estrada"
       ],
-      "rank": 7,
-      "id": "tt39400541",
-      "name": "Un poco de compañía antes de morir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
-      "rating": 8,
+      "rank": 8,
+      "id": "tt31049299",
+      "name": "Animales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": 6.927,
       "year": 2026,
       "days": null,
       "trend": {
@@ -252,33 +277,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la noche de Halloween de 1977, el caos se desata cuando el presentador Jack Delroy entrevista a una parapsicóloga y a una joven adolescente que es la única superviviente de una matanza masiva en una iglesia satánica.",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
-        "Terror"
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/joVjOD0BD7eK6xCIsRw6TKijBch.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mdeSYxTWyBpjxQmV9pKbZzYQqHh.png",
-      "runtime": "93 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
       "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
+        "David Fincher"
       ],
       "cast": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss",
-        "Fayssal Bazzi",
-        "Ingrid Torelli",
-        "Rhys Auteri",
-        "Georgina Haig",
-        "Josh Quong Tart"
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
       ],
-      "rank": 8,
-      "id": "tt14966898",
-      "name": "El último late night",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gNQEgx5xoobcigMOmFkWDQR42zM.jpg",
-      "rating": 7.077,
-      "year": 2024,
+      "rank": 9,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.437,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,32 +312,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
       "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
+      "runtime": "102 min",
       "director": [
-        "Anne Sewitsky"
+        "Cathryn Michon"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Brooke Lena Johnson",
+        "Kathleen Rose Perkins",
+        "Jennifer Tilly",
+        "Thomas Haden Church",
+        "Mary Steenburgen",
+        "Ethan Loomis"
       ],
-      "rank": 9,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.2,
-      "year": 2015,
+      "rank": 10,
+      "id": "tt38515310",
+      "name": "La razón de estar contigo: Una Navidad perfecta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "rating": 8.1,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,5 +347,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

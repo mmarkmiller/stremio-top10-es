@@ -2,80 +2,8 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
-      "runtime": "132 min",
-      "director": [
-        "James McTeigue"
-      ],
-      "cast": [
-        "Natalie Portman",
-        "Hugo Weaving",
-        "Stephen Rea",
-        "Stephen Fry",
-        "John Hurt",
-        "Tim Pigott-Smith",
-        "Rupert Graves",
-        "Roger Allam"
-      ],
-      "rank": 1,
-      "id": "tt0434409",
-      "name": "V de Vendetta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
-      "rating": 7.9,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y3TH2T94gzxHKimHKNB2a30ZrXL.png",
-      "runtime": "104 min",
-      "director": [
-        "Jay Chandrasekhar"
-      ],
-      "cast": [
-        "Jay Chandrasekhar",
-        "Kevin Heffernan",
-        "Steve Lemme",
-        "Paul Soter",
-        "Erik Stolhanske",
-        "Hannah Simone",
-        "Marisa Coughlan",
-        "Nat Faxon"
-      ],
-      "rank": 2,
-      "id": "tt8820258",
-      "name": "Super Troopers 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
@@ -100,36 +28,12 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 1,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.61,
+      "rating": 7.609,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "runtime": "85 min",
-      "director": [
-        "Robert Darwell"
-      ],
-      "cast": [
-        "Dick Van Dyke"
-      ],
-      "rank": 4,
-      "id": "tt18225078",
-      "name": "The 90s Club",
-      "tmdbPosterUrl": null,
-      "rating": 10,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -156,11 +60,84 @@
         "Penélope Cruz",
         "Edward Norton"
       ],
-      "rank": 5,
+      "rank": 2,
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
       "rating": 7.208,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WjblrBxsBnOgkYZAQP3KnNEjiO.png",
+      "runtime": "127 min",
+      "director": [
+        "Paul Greengrass"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "rank": 3,
+      "id": "tt36983905",
+      "name": "El hombre que desafió al rey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "rating": 7.814,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Romance",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/112sW296vEx3d71C8fzOqoFIomN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
+      "runtime": "107 min",
+      "director": [
+        "Adam Rehmeier"
+      ],
+      "cast": [
+        "Samara Weaving",
+        "Kyle Gallner",
+        "Kyra Sedgwick",
+        "Jon Gries",
+        "Tommy G. Kendrick",
+        "P.J. Sosko",
+        "Gregg Gilmore",
+        "Jamald Gardner"
+      ],
+      "rank": 4,
+      "id": "tt33365126",
+      "name": "Carolina Caroline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "rating": 6.621,
       "year": 2026,
       "days": null,
       "trend": {
@@ -191,11 +168,11 @@
         "Darin Toonder",
         "Anthony Pavone"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.2,
+      "rating": 8.171,
       "year": 2026,
       "days": null,
       "trend": {
@@ -205,34 +182,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "description": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
       "genres": [
-        "Terror",
+        "Comedia",
         "Crimen",
-        "Suspense"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y3TH2T94gzxHKimHKNB2a30ZrXL.png",
+      "runtime": "104 min",
       "director": [
-        "Jeremy Saulnier"
+        "Jay Chandrasekhar"
       ],
       "cast": [
-        "Anton Yelchin",
-        "Imogen Poots",
-        "Patrick Stewart",
-        "Alia Shawkat",
-        "Joe Cole",
-        "Callum Turner",
-        "Macon Blair",
-        "Mark Webber"
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Hannah Simone",
+        "Marisa Coughlan",
+        "Nat Faxon"
       ],
-      "rank": 7,
-      "id": "tt4062536",
-      "name": "Green Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.723,
-      "year": 2016,
+      "rank": 6,
+      "id": "tt8820258",
+      "name": "Super Troopers 3",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "rating": 6.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -262,11 +239,11 @@
         "Henry Lloyd-Hughes",
         "Elizabeth Marvel"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.427,
+      "rating": 7.426,
       "year": 2026,
       "days": null,
       "trend": {
@@ -276,33 +253,70 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
       "genres": [
         "Terror",
-        "Acción",
-        "Ciencia ficción"
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q15NwdzQcstJgzDv1HrxF7zvrwF.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/t2u97g756eWH9DNIXex3AWob3Sa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cMLjrsdwumveAVadUvJWGmW0ZzI.png",
+      "runtime": "88 min",
       "director": [
-        "Daniel Byers"
+        "Adrian Chiarella"
       ],
       "cast": [
-        "June Schreiner",
-        "David Garelik",
-        "J.Stephen Brantley",
-        "Brennon Weese",
-        "Ian Deighan",
-        "Jonathan Spivey",
-        "Sean-Michael Wilkinson",
-        "Sharon Murray"
+        "Joe Bird",
+        "Stacy Clausen",
+        "Mia Wasikowska",
+        "Nicholas Hope",
+        "Tyallah Bullock",
+        "Ewen Leslie",
+        "Jeremy Blewitt",
+        "Davida McKenzie"
+      ],
+      "rank": 8,
+      "id": "tt39143902",
+      "name": "Leviticus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tGS5jugRsn7KwZLrvkqWeMtR7nB.jpg",
+      "rating": 6.844,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras secuestrar a una madre de alquiler, dos fríos profesionales del crimen se ven envueltos en una espiral creciente de confusión y violencia.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pW9GDWAlOwHjLrNbar442etuw0m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tqbbMbYjJmSzXZKRIA0U0FXS2RI.png",
+      "runtime": "126 min",
+      "director": [
+        "Christopher McQuarrie"
+      ],
+      "cast": [
+        "Ryan Phillippe",
+        "Benicio del Toro",
+        "Juliette Lewis",
+        "Taye Diggs",
+        "Nicky Katt",
+        "Geoffrey Lewis",
+        "Scott Wilson",
+        "Dylan Kussman"
       ],
       "rank": 9,
-      "id": "tt37593831",
-      "name": "Dark Hollow",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
-      "rating": 4.2,
-      "year": 2026,
+      "id": "tt0202677",
+      "name": "Secuestro infernal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+      "rating": 6.4,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,34 +325,22 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
       "genres": [
-        "Terror",
-        "Suspense",
-        "Misterio"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kCgPDFyK552OtyYCLddDWqoLBZh.png",
-      "runtime": "110 min",
+      "runtime": "85 min",
       "director": [
-        "Jordan Downey"
+        "Robert Darwell"
       ],
       "cast": [
-        "Deborah Ann Woll",
-        "Jeffrey Donovan",
-        "Gretchen Corbett",
-        "Jack Doolan",
-        "Will Hochman",
-        "Dana Millican",
-        "Phillip Andre Botello",
-        "Don Keith Opper"
+        "Dick Van Dyke"
       ],
       "rank": 10,
-      "id": "tt32358390",
-      "name": "El ciclo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "rating": 6.8,
-      "year": 2026,
+      "id": "tt18225078",
+      "name": "The 90s Club",
+      "tmdbPosterUrl": null,
+      "rating": 10,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -347,5 +349,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

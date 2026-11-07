@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.635,
+      "rating": 8.628,
       "year": 2026,
       "days": null,
       "trend": {
@@ -57,7 +57,7 @@
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.45,
+      "rating": 6.468,
       "year": 2025,
       "days": null,
       "trend": {
@@ -96,29 +96,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
       "director": [],
       "cast": [
-        "Carrie Coon",
-        "Morgan Spector",
-        "Louisa Jacobson",
-        "Denée Benton",
-        "Taissa Farmiga",
-        "Harry Richardson",
-        "Blake Ritson",
-        "Simon Jones"
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
       ],
       "rank": 4,
-      "id": "tt4406178",
-      "name": "La edad dorada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
-      "rating": 7.7,
-      "year": 2022,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.198,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -160,27 +157,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
       "director": [],
       "cast": [
-        "Jennifer Aniston",
-        "Courteney Cox",
-        "Lisa Kudrow",
-        "Matt LeBlanc",
-        "Matthew Perry",
-        "David Schwimmer"
+        "Carrie Coon",
+        "Morgan Spector",
+        "Louisa Jacobson",
+        "Denée Benton",
+        "Taissa Farmiga",
+        "Harry Richardson",
+        "Blake Ritson",
+        "Simon Jones"
       ],
       "rank": 6,
-      "id": "tt0108778",
-      "name": "Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "rating": 8.406,
-      "year": 1994,
+      "id": "tt4406178",
+      "name": "La edad dorada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
+      "rating": 7.7,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -189,54 +188,56 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
-      ],
-      "rank": 7,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.038,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "description": "Narra la historia de la familia Lyon a lo largo de quince años clave de la sociedad británica, repletos de convulsos cambios políticos, económicos y tecnológicos.",
       "genres": [
         "Drama",
-        "Misterio",
+        "War & Politics",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFb6hGajDj4Qv7GIiidRTxgIFIk.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Emma Thompson",
+        "Anne Reid",
+        "Rory Kinnear",
+        "Jessica Hynes",
+        "Russell Tovey",
+        "Ruth Madeley",
+        "T'Nia Miller",
+        "Lydia West"
+      ],
+      "rank": 7,
+      "id": "tt8694364",
+      "name": "Years and Years",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ofTCqVKLqyt1dPIs1ghnOkOQTxT.jpg",
+      "rating": 7.544,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La trágica historia de Melania Rea, cuyo caso revela un matrimonio tóxico marcado por las mentiras y la manipulación.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
+      "director": [
+        "Stefano Mordini"
+      ],
+      "cast": [
+        "Maria Esposito",
+        "Daniele Rienzo"
       ],
       "rank": 8,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.199,
+      "id": "tt45114341",
+      "name": "Melania Rea",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yK9Q4ORFEHEaqFRthTlC9jdU0Ac.jpg",
+      "rating": null,
       "year": 2026,
       "days": null,
       "trend": {
@@ -278,29 +279,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
       "director": [],
       "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
       ],
       "rank": 10,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.731,
-      "year": 2025,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.406,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

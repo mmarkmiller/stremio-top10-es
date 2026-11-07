@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,42 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.6,
+      "rating": 8.618,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yIZq5hr4ztF5ntlGv1QsgwgvBfT.png",
+      "director": [
+        "Tom Goris",
+        "Vianney Lebasque"
+      ],
+      "cast": [
+        "Carmen Kassovitz",
+        "Baptiste Masseline",
+        "Prune Pauchet",
+        "Esteban Vial",
+        "Madior Fall",
+        "Félix Nebel",
+        "Cassandra Cano",
+        "Eloïse Rey"
+      ],
+      "rank": 2,
+      "id": "tt39943756",
+      "name": "Campus Drivers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6TrAPctmobu6QM730sBEC18eH.jpg",
+      "rating": 7.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -56,11 +90,11 @@
         "Costa Ronin",
         "Jeremy Bobb"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.993,
+      "rating": 7.992,
       "year": 2022,
       "days": null,
       "trend": {
@@ -89,74 +123,11 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Lucy se despierta todas las noches con visiones aterradoras exactamente a las 3:33 am: la hora del diablo. Cuando el nombre de Lucy se relaciona inexplicablemente con una serie de brutales asesinatos en el área, las respuestas que la han eludido todos estos años finalmente se enfocarán.",
-      "genres": [
-        "Misterio",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6lpHkRGwOjCSyK3P7RvT1djtOhI.png",
-      "director": [],
-      "cast": [
-        "Jessica Raine",
-        "Peter Capaldi",
-        "Nikesh Patel",
-        "Phil Dunster",
-        "Benjamin Chivers",
-        "Talia Walker Bassols",
-        "Rhiannon Harper-Rafferty"
-      ],
-      "rank": 4,
-      "id": "tt14379784",
-      "name": "La hora del diablo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dlpWn4myksmqq5wolzHmdlKgUjI.jpg",
-      "rating": 7.262,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kaxSCU3UOure9dl5HzEd3xRcgEX.png",
-      "director": [],
-      "cast": [
-        "Carmen Kassovitz",
-        "Baptiste Masseline",
-        "Prune Pauchet",
-        "Esteban Vial",
-        "Madior Fall",
-        "Félix Nebel",
-        "Cassandra Cano",
-        "Eloïse Rey"
-      ],
-      "rank": 5,
-      "id": "tt39943756",
-      "name": "Campus Drivers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yxlAJqniqx5Qn2CVCDB97FDhQx7.jpg",
-      "rating": 8.5,
+      "rating": 8.28,
       "year": 2026,
       "days": null,
       "trend": {
@@ -184,7 +155,7 @@
         "Bruno Sevilla",
         "Adriana Torrebejano"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt20883126",
       "name": "Reina roja",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
@@ -198,64 +169,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En Annecy, un idílico pueblo de los Alpes, empiezan a aparecer de un día para otro personas que fallecieron años atrás; gente de diferentes edades y clases sociales, todos ellos desorientados, que intentan entrar en sus antiguas casas. Estos retornados no son conscientes de su muerte y por eso no entienden el terror, el rechazo o la alegría que provocan en unos familiares que ya habían asumido su pérdida. Al mismo tiempo, en la enorme presa que rodea al pueblo, empiezan a sucederse una serie de fenómenos extraños.",
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Action & Adventure",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/g64LG7nV1vpRPTmNxM1oTkf0pWq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eysq5I7qnoPI1VFlLTUNETMtlLz.png",
-      "director": [
-        "Fabrice Gobert"
-      ],
-      "cast": [
-        "Anne Consigny",
-        "Frédéric Pierrot",
-        "Clotilde Hesme",
-        "Céline Sallette",
-        "Samir Guesmi",
-        "Guillaume Gouix",
-        "Jean-François Sivadier",
-        "Alix Poisson"
-      ],
-      "rank": 7,
-      "id": "tt2521668",
-      "name": "Les Revenants",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/x6B2UTMMU06GNzRgbDfaObuWFT6.jpg",
-      "rating": 7.4,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2zFSqSofChOaumGflyQzRcZIEE1.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
       "director": [],
       "cast": [
-        "Jaalen Best",
-        "Omari Hardwick",
-        "Dana Gourrier",
-        "Amin Joseph",
-        "Kai Parham",
-        "Giovanni Ribisi",
-        "Reno Wilson",
-        "Erica Tazel"
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
       ],
-      "rank": 8,
-      "id": "tt15715850",
-      "name": "El más grande",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/anGICExgOPbBjobnoJzNrTriEmL.jpg",
-      "rating": 5.3,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.13,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,7 +218,7 @@
         "Yui Ishikawa",
         "Yoshimasa Hosoya"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt2560140",
       "name": "Ataque a los Titanes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
@@ -297,28 +232,85 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Morfydd Clark",
-        "Robert Aramayo",
-        "Owain Arthur",
-        "Sophia Nomvete",
-        "Markella Kavenagh",
-        "Ismael Cruz Cordova"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 8,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27onkBjyvWdzAXjfaiUaYMYzQqN.png",
+      "director": [],
+      "cast": [
+        "Haruka Shiraishi",
+        "Konomi Inagaki",
+        "Yuya Hirose",
+        "Satomi Amano"
+      ],
+      "rank": 9,
+      "id": "tt41054228",
+      "name": "デモンズ・クレスト",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de pasar la noche con una desconocida a la que recoge con el taxi de su padre en Manhattan, el joven paquistaní Naz se despierta y la encuentra apuñalada en la cama. Asustado, el joven huye pero poco después es arrestado y se convierte en el único sospechoso del asesinato. Remake de la serie británica \"Criminal justice\" (2008).",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ikYwrM1GC0uoA8lTCjCrvJCeT7H.png",
+      "director": [],
+      "cast": [
+        "Riz Ahmed",
+        "John Turturro",
+        "Bill Camp",
+        "پیمان معادی",
+        "Jeannie Berlin",
+        "Poorna Jagannathan",
+        "Amara Karan"
       ],
       "rank": 10,
-      "id": "tt7631058",
-      "name": "El señor de los anillos: Los anillos de poder",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.2,
-      "year": 2022,
+      "id": "tt2401256",
+      "name": "The Night Of",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+      "rating": 7.985,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

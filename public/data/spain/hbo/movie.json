@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,42 +32,8 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.997,
+      "rating": 6.998,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gSkO9BqdiDR2ltRrsub7AVL75Tq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png",
-      "runtime": "117 min",
-      "director": [
-        "Darren Aronofsky"
-      ],
-      "cast": [
-        "Brendan Fraser",
-        "Sadie Sink",
-        "Ty Simpkins",
-        "Hong Chau",
-        "Samantha Morton",
-        "Sathya Sridharan",
-        "Jacey Sink",
-        "Allison Altman"
-      ],
-      "rank": 2,
-      "id": "tt13833688",
-      "name": "La ballena (The Whale)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
-      "rating": 7.749,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -98,11 +64,11 @@
         "Hannah Gross",
         "Anna Baryshnikov"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.9,
+      "rating": 6.904,
       "year": 2026,
       "days": null,
       "trend": {
@@ -112,34 +78,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "John Constantine ha estado en el infierno y ha vuelto. Nació con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios que andan por la tierra bajo un aspecto humano, Constantine se vio empujado al suicido para escapar de la atormentadora claridad de su visión. Pero fracasó. Ahora, marcado por su intento de suicidio, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse el camino a la salvación enviando a los esbirros de Luciffer de vuelta al averno. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que subyace justo bajo el paisaje de la actual ciudad de Los Angeles. Atrapados en una catastrófica serie de acontecimientos sobrenaturales, los dos se encuentran inextricablemente involucrados y tratan de encontrar su propia paz a cualquier precio.",
+      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
       "genres": [
-        "Fantasía",
-        "Acción",
-        "Terror"
+        "Romance",
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png",
-      "runtime": "121 min",
+      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
+      "runtime": "136 min",
       "director": [
-        "Francis Lawrence"
+        "Emerald Fennell"
       ],
       "cast": [
-        "Keanu Reeves",
-        "Rachel Weisz",
-        "Shia LaBeouf",
-        "Djimon Hounsou",
-        "Max Baker",
-        "Pruitt Taylor Vince",
-        "Gavin Rossdale",
-        "Tilda Swinton"
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Hong Chau",
+        "Shazad Latif",
+        "Alison Oliver",
+        "Martin Clunes",
+        "Ewan Mitchell",
+        "Amy Morgan"
+      ],
+      "rank": 3,
+      "id": "tt32897959",
+      "name": "“Cumbres Borrascosas”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "rating": 6.641,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "genres": [
+        "Crimen",
+        "Música",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4JmGZIWUQfCGvxT1ueKeVz0707c.png",
+      "runtime": "109 min",
+      "director": [
+        "Daniel Roher"
+      ],
+      "cast": [
+        "Leo Woodall",
+        "Dustin Hoffman",
+        "Havana Rose Liu",
+        "ליאור רז",
+        "Tovah Feldshuh",
+        "Jean Reno",
+        "Nissan Sakira",
+        "Gil Cohen"
       ],
       "rank": 4,
-      "id": "tt0360486",
-      "name": "Constantine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg",
-      "rating": 7.218,
-      "year": 2005,
+      "id": "tt33296751",
+      "name": "Un talento único",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+      "rating": 7.586,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,7 +174,7 @@
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.817,
+      "rating": 7.822,
       "year": 2023,
       "days": null,
       "trend": {
@@ -182,34 +184,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
+      "description": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
       "genres": [
-        "Romance",
-        "Drama",
-        "Historia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
-      "runtime": "136 min",
+      "background": "https://image.tmdb.org/t/p/w1280/gSkO9BqdiDR2ltRrsub7AVL75Tq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png",
+      "runtime": "117 min",
       "director": [
-        "Emerald Fennell"
+        "Darren Aronofsky"
       ],
       "cast": [
-        "Margot Robbie",
-        "Jacob Elordi",
+        "Brendan Fraser",
+        "Sadie Sink",
+        "Ty Simpkins",
         "Hong Chau",
-        "Shazad Latif",
-        "Alison Oliver",
-        "Martin Clunes",
-        "Ewan Mitchell",
-        "Amy Morgan"
+        "Samantha Morton",
+        "Sathya Sridharan",
+        "Jacey Sink",
+        "Allison Altman"
       ],
-      "rank": 7,
-      "id": "tt32897959",
-      "name": "“Cumbres Borrascosas”",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "rating": 6.642,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt13833688",
+      "name": "La ballena (The Whale)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
+      "rating": 7.75,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,11 +240,11 @@
         "Jennifer Podemski",
         "Kimberly Guerrero"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt50389959",
       "name": "La historia de Derry",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-      "rating": 7,
+      "rating": 6.942,
       "year": 2026,
       "days": null,
       "trend": {
@@ -254,70 +254,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
       "genres": [
-        "Crimen",
-        "Música",
-        "Romance"
+        "Aventura",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4JmGZIWUQfCGvxT1ueKeVz0707c.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
+      "runtime": "152 min",
       "director": [
-        "Daniel Roher"
+        "Chris Columbus"
       ],
       "cast": [
-        "Leo Woodall",
-        "Dustin Hoffman",
-        "Havana Rose Liu",
-        "ליאור רז",
-        "Tovah Feldshuh",
-        "Jean Reno",
-        "Nissan Sakira",
-        "Gil Cohen"
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman",
+        "Robbie Coltrane",
+        "Maggie Smith"
+      ],
+      "rank": 8,
+      "id": "tt0241527",
+      "name": "Harry Potter y la piedra filosofal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "rating": 7.906,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
+      "runtime": "141 min",
+      "director": [
+        "Coralie Fargeat"
+      ],
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams",
+        "Oscar Lesage",
+        "Christian Erickson",
+        "Robin Greer"
       ],
       "rank": 9,
-      "id": "tt33296751",
-      "name": "Un talento único",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
-      "genres": [
-        "Drama",
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cAZ87S5bONxKMMAlPxK8LZvdOcm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png",
-      "runtime": "159 min",
-      "director": [
-        "Stanley Kubrick"
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Nicole Kidman",
-        "Sydney Pollack",
-        "Marie Richardson",
-        "Rade Šerbedžija",
-        "Todd Field",
-        "Vinessa Shaw",
-        "Alan Cumming"
-      ],
-      "rank": 10,
-      "id": "tt0120663",
-      "name": "Eyes Wide Shut",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
-      "rating": 7.481,
-      "year": 1999,
+      "id": "tt17526714",
+      "name": "La sustancia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
+      "rating": 7.131,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }

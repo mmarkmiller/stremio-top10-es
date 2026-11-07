@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611062108",
+  "date": "202611071942",
   "entries": [
     {
       "artworkVersion": 4,
@@ -58,36 +58,7 @@
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 8.538,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El fotógrafo ex convicto RJ Decker trabaja como investigador privado en Florida del Sur, resolviendo casos extraños con su ex periodista, su esposa policía y una misteriosa mujer de su pasado.",
-      "genres": [
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zOSuKcBjugAMLCKB1JulrXbNm7X.png",
-      "director": [],
-      "cast": [
-        "Scott Speedman",
-        "Jaina Lee Ortiz",
-        "Kevin Rankin",
-        "Adelaide Clemens",
-        "Bevin Bru"
-      ],
-      "rank": 3,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
-      "rating": 7.5,
+      "rating": 8.188,
       "year": 2026,
       "days": null,
       "trend": {
@@ -116,7 +87,7 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
@@ -149,11 +120,11 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
+      "rating": 8.756,
       "year": 1999,
       "days": null,
       "trend": {
@@ -163,30 +134,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/665dTNE4PNd1VOqMOMrSexyBnGE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zXiAigNpR4k44RVGry7kOh9SMya.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Kim Kardashian",
-        "Naomi Watts",
-        "Niecy Nash-Betts",
-        "Teyana Taylor",
-        "Matthew Noszka",
-        "Sarah Paulson",
-        "Glenn Close",
-        "Cauã Reymond"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
-      "rank": 6,
-      "id": "tt30291387",
-      "name": "Todas las de la ley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
-      "rating": 4.9,
-      "year": 2025,
+      "rank": 5,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -195,29 +161,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El agente especial Will Trent del Gabinete de Investigación de Georgia (GBI) fue abandonado al nacer y creció en el complicado ambiente de las casas de acogida de Atlanta. Sin embargo, a día de hoy, está decidido a utilizar su inimitable agudeza para asegurarse de que a nadie lo abandonan como le hicieron a él. Will Trent cuenta con la tasa de resolución más alta del gabinete.",
+      "description": "El fotógrafo ex convicto RJ Decker trabaja como investigador privado en Florida del Sur, resolviendo casos extraños con su ex periodista, su esposa policía y una misteriosa mujer de su pasado.",
       "genres": [
         "Crimen",
-        "Drama",
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eGP1P1ppEHIPlppIPLO3TeieFRZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zOSuKcBjugAMLCKB1JulrXbNm7X.png",
       "director": [],
       "cast": [
-        "Ramón Rodríguez",
-        "Erika Christensen",
-        "Iantha Richardson",
-        "Jake McLaughlin",
-        "Sonja Sohn",
-        "Kevin Daniels"
+        "Scott Speedman",
+        "Jaina Lee Ortiz",
+        "Kevin Rankin",
+        "Adelaide Clemens",
+        "Bevin Bru"
+      ],
+      "rank": 6,
+      "id": "tt37063558",
+      "name": "R.J. Decker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
       ],
       "rank": 7,
-      "id": "tt17543592",
-      "name": "Will Trent, Agente Especial",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-      "rating": 7.313,
-      "year": 2023,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.535,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -258,30 +250,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sons of Anarchy está ambientada en la localidad ficticia de Charming, situada en el Norte de California.\n\nSu protagonista es Jackson “Jax” Teller, un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original \"SAMCRO\", un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Comedia",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
       "director": [],
       "cast": [
-        "Charlie Hunnam",
-        "Katey Sagal",
-        "Tommy Flanagan",
-        "Mark Boone Junior",
-        "Kim Coates",
-        "Theo Rossi",
-        "Dayton Callie",
-        "David Labrava"
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park"
       ],
       "rank": 9,
-      "id": "tt1124373",
-      "name": "Hijos de la anarquía",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
-      "rating": 8.405,
-      "year": 2008,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,31 +282,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
       "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
       "director": [],
       "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 10,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.462,
-      "year": 2022,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.111,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-06T17:39:14.611Z"
+  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
 }
