@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,42 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.609,
+      "rating": 7.6,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
+      "director": [
+        "David Wain"
+      ],
+      "cast": [
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
+      ],
+      "rank": 2,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.348,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -65,45 +99,11 @@
         "Gregg Gilmore",
         "Jamald Gardner"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.621,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 3,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
+      "rating": 6.625,
       "year": 2026,
       "days": null,
       "trend": {
@@ -139,7 +139,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.723,
+      "rating": 6.7,
       "year": 2016,
       "days": null,
       "trend": {
@@ -149,63 +149,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
       "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
-      "runtime": "118 min",
-      "director": [
-        "Brett Harvey"
-      ],
-      "cast": [
-        "Dane Cook",
-        "Al Del Bene",
-        "Kelsi Cook",
-        "Courtney Cook"
-      ],
-      "rank": 5,
-      "id": "tt23148884",
-      "name": "Funny Money: The Dane Cook Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alma es científica en el famoso Museo de Pérgamo de Berlín. Con el fin de obtener fondos de investigación para sus estudios, acepta una oferta para participar en un experimento extraordinario. Durante tres semanas, debe vivir con un robot humanoide con inteligencia artificial diseñado para permitirle transformarse en el de su compañero de vida ideal. Entra Tom, una máquina en forma humana, creada para hacerla feliz.",
-      "genres": [
-        "Ciencia ficción",
-        "Comedia",
+        "Drama",
         "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qGvIu3ovMZ0j5OKOeXI4IA2tMj7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pLYlJu3nsxyXvRN07rcwo9ScnSf.png",
-      "runtime": "108 min",
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
       "director": [
-        "Maria Schrader"
+        "Lee Chang-dong"
       ],
       "cast": [
-        "Maren Eggert",
-        "Dan Stevens",
-        "Sandra Hüller",
-        "Hans Löw",
-        "Wolfgang Hübsch",
-        "Annika Meier",
-        "Falilou Seck",
-        "Jürgen Tarrach"
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
       ],
-      "rank": 6,
-      "id": "tt13087796",
-      "name": "El hombre perfecto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9H6q47GGdZjjBrOThVadxV3N1Js.jpg",
-      "rating": 6.713,
-      "year": 2021,
+      "rank": 5,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.474,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -237,11 +207,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.927,
+      "rating": 6.919,
       "year": 2026,
       "days": null,
       "trend": {
@@ -251,32 +221,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
       "genres": [
-        "Terror"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
+      "runtime": "118 min",
       "director": [
-        "Sean S. Cunningham"
+        "Brett Harvey"
       ],
       "cast": [
-        "Adrienne King",
-        "Jeannine Taylor",
-        "Robbi Morgan",
-        "Kevin Bacon",
-        "Betsy Palmer",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson"
+        "Dane Cook",
+        "Al Del Bene",
+        "Kelsi Cook",
+        "Courtney Cook"
       ],
-      "rank": 8,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.399,
-      "year": 1980,
+      "rank": 7,
+      "id": "tt23148884",
+      "name": "Funny Money: The Dane Cook Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,7 +272,7 @@
         "Catalina Sandino Moreno",
         "Peter Gerety"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt2937898",
       "name": "El año más violento",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
@@ -321,18 +286,70 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [],
-      "runtime": "30 min",
-      "director": [
-        "Umesh Vinayak Kulkarni"
+      "description": "Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Fantasía"
       ],
-      "cast": [],
+      "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fuJyE2qVxL5ihvAt5WNH5FolGQm.png",
+      "runtime": "101 min",
+      "director": [
+        "Tommy Wirkola"
+      ],
+      "cast": [
+        "David Harbour",
+        "John Leguizamo",
+        "Beverly D'Angelo",
+        "Alex Hassell",
+        "Alexis Louder",
+        "Edi Patterson",
+        "Cam Gigandet",
+        "Leah Brady"
+      ],
+      "rank": 9,
+      "id": "tt12003946",
+      "name": "Noche de paz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
+      "rating": 7.202,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
+      "runtime": "130 min",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie"
+      ],
       "rank": 10,
-      "id": "tmdb:769588",
-      "name": "Makkhi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f7AVyO7WIuHpdSVoCEbbVleNcoK.jpg",
-      "rating": null,
-      "year": 2012,
+      "id": "tt0482571",
+      "name": "El truco final (El prestigio)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
+      "rating": 8.213,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -341,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

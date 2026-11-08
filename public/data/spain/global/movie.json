@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,43 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.476,
+      "rating": 6.428,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 2,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.997,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,12 +100,83 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.609,
+      "rating": 7.6,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
+      "runtime": "120 min",
+      "director": [
+        "Kirk Jones"
+      ],
+      "cast": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
+      ],
+      "rank": 4,
+      "id": "tt31514146",
+      "name": "Incontrolable (I Swear)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+      "rating": 8.298,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 5,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.628,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,187 +207,11 @@
         "이중옥",
         "김종태"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt34385135",
       "name": "Zona cero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
-      "rating": 8.207,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
-      "runtime": "157 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Tom Blyth",
-        "Rachel Zegler",
-        "Peter Dinklage",
-        "Jason Schwartzman",
-        "Hunter Schafer",
-        "Josh Rivera",
-        "Viola Davis",
-        "Fionnula Flanagan"
-      ],
-      "rank": 4,
-      "id": "tt10545296",
-      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.951,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 5,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.998,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
-      "runtime": "120 min",
-      "director": [
-        "Kirk Jones"
-      ],
-      "cast": [
-        "Robert Aramayo",
-        "Maxine Peake",
-        "Peter Mullan",
-        "Shirley Henderson",
-        "Scott Ellis Watson",
-        "David Carlyle",
-        "Francesco Piacentini-Smith",
-        "Somerled Campbell"
-      ],
-      "rank": 6,
-      "id": "tt31514146",
-      "name": "Incontrolable (I Swear)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.3,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 7,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de infectados y lealtades divididas, deberán luchar por sobrevivir mientras afrontan un dilema moral: salvarse a sí mismos o arriesgarlo todo por lo que queda de humanidad.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTUDobBtaexjmeyQA4S96Sg1v4V.png",
-      "runtime": "96 min",
-      "director": [
-        "Carles Torrens"
-      ],
-      "cast": [
-        "Carlos Alcaide",
-        "Julia Martínez",
-        "José María Yázpik",
-        "Mónica López",
-        "Tamara Casellas",
-        "Berta Vázquez",
-        "Santiago Vaca Narvaja",
-        "Mario Mayo"
-      ],
-      "rank": 8,
-      "id": "tt37522541",
-      "name": "Apocalipsis Z: Nuevo mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.1,
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -312,11 +243,11 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt1951265",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.814,
+      "rating": 6.8,
       "year": 2014,
       "days": null,
       "trend": {
@@ -326,33 +257,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
       "genres": [
         "Ciencia ficción",
-        "Aventura"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
+      "runtime": "157 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage",
+        "Jason Schwartzman",
+        "Hunter Schafer",
+        "Josh Rivera",
+        "Viola Davis",
+        "Fionnula Flanagan"
+      ],
+      "rank": 8,
+      "id": "tt10545296",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
+      "rating": 6.952,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
+      "director": [
+        "Kristoffer Borgli"
+      ],
+      "cast": [
+        "Zendaya",
+        "Robert Pattinson",
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
       ],
       "rank": 10,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.631,
+      "id": "tt33071426",
+      "name": "El drama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": 6.905,
       "year": 2026,
       "days": null,
       "trend": {
@@ -362,5 +328,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

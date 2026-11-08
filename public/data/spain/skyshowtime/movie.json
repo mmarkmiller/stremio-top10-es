@@ -2,42 +2,8 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iyW6c3kvzFo37Gi0BJgr5EBh8a.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yu3ncHjEmocAfzebOowFRxg7H8P.png",
-      "runtime": "94 min",
-      "director": [
-        "André Øvredal"
-      ],
-      "cast": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Joseph Lopez",
-        "Melissa Leo",
-        "Miles Fowler",
-        "Alan Trong",
-        "Devielle Johnson",
-        "James William Clark"
-      ],
-      "rank": 1,
-      "id": "tt33763941",
-      "name": "El pasajero nocturno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
-      "rating": 7.264,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
@@ -61,11 +27,11 @@
         "Olivia Lynes",
         "Justine Mitchell"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.735,
+      "rating": 7.727,
       "year": 2025,
       "days": null,
       "trend": {
@@ -87,8 +53,8 @@
       "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
       "runtime": "98 min",
       "director": [
-        "Michael Jelenic",
-        "Aaron Horvath"
+        "Aaron Horvath",
+        "Michael Jelenic"
       ],
       "cast": [
         "Chris Pratt",
@@ -100,11 +66,11 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.184,
+      "rating": 8.183,
       "year": 2026,
       "days": null,
       "trend": {
@@ -114,32 +80,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Marina una joven camarera aspirante a cantante y Orlando, veinte años mayor, planean un futuro juntos. Tras una noche de fiesta, Marina lo lleva a urgencias, pero él muere al llegar al hospital. Ella debe entonces enfrentar las sospechas por su muerte. Su condición de mujer transexual supone para la familia de Orlando una completa aberración. Ella tendrá que luchar para convertirse en lo que es: una mujer fuerte, pasional… fantástica.",
+      "description": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
       "genres": [
-        "Drama"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6NMXhGoGe5QBokTP1OZvM4hiRDP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/swKTOzoBD10Z82CN1rPeaHdD0pX.png",
-      "runtime": "104 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iyW6c3kvzFo37Gi0BJgr5EBh8a.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yu3ncHjEmocAfzebOowFRxg7H8P.png",
+      "runtime": "94 min",
       "director": [
-        "Sebastián Lelio"
+        "André Øvredal"
       ],
       "cast": [
-        "Daniela Vega",
-        "Francisco Reyes",
-        "Luis Gnecco",
-        "Aline Küppenheim",
-        "Nicolás Saavedra",
-        "Amparo Noguera",
-        "Néstor Cantillana",
-        "Alejandro Goic"
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Joseph Lopez",
+        "Melissa Leo",
+        "Miles Fowler",
+        "Alan Trong",
+        "Devielle Johnson",
+        "James William Clark"
       ],
-      "rank": 4,
-      "id": "tt5639354",
-      "name": "Una mujer fantástica",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uIlx33SKoJh3Ne0QmQDi9mlcjGx.jpg",
-      "rating": 7,
-      "year": 2017,
+      "rank": 3,
+      "id": "tt33763941",
+      "name": "El pasajero nocturno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+      "rating": 7.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,48 +134,12 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
       "rating": 8.168,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Helena (Clara Lago) lleva preparándose para una misión de supervivencia desde que nació. Aunque ella no lo sabe, forma parte de un ensayo científico de gran envergadura. Su destino cambiará cuando Álex (Álex González) se cruce en su vida y le haga descubrir una nueva realidad, totalmente inimaginable para ella. Pero la historia de amor en la que ambos se embarcan pondrá en riesgo un experimento de vital importancia para toda la humanidad.",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rHGZtBqEZGASioZ53toCh9ibY1T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7BabQa545ZFYtSEOtDgtkb2bXeI.png",
-      "runtime": "95 min",
-      "director": [
-        "Hatem Khraiche"
-      ],
-      "cast": [
-        "Clara Lago",
-        "Belén Rueda",
-        "Álex González",
-        "Andrés Parra",
-        "Kristina Lilley",
-        "John Alex Castillo",
-        "Sara Deray",
-        "Luna Baxter"
-      ],
-      "rank": 6,
-      "id": "tt3469798",
-      "name": "Órbita 9",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/77XZdVMnUAlQtYWiDetX1k37L9K.jpg",
-      "rating": 5.816,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,7 +170,7 @@
         "Marc T. Lewis",
         "Vanessa Eng"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt12300742",
       "name": "Bugonia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
@@ -276,7 +206,7 @@
         "Marissa Bode",
         "Colman Domingo"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt19847976",
       "name": "Wicked Parte II",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
@@ -290,34 +220,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+      "description": "La trama de la película gira en torno a un joven llamado Tim Lake. El protagonista y su familia tienen el curioso don de poder viajar a través del tiempo. Al descubrir esta cualidad, Tim empieza a beneficiarse de ello para cambiar diferentes aspectos de su vida. Se enamora de una chica, Mary, a la que conoce tras transladarse a vivir a Londres por motivos de trabajo. Su historia de amor se verá beneficiada gracias al don de Tim, sin embargo, el protagonista no tardará en darse cuenta de que su habilidad no es capaz de ampararle en algunos problemas y cuestiones familiares.",
       "genres": [
-        "Fantasía",
-        "Familia",
-        "Acción",
-        "Aventura"
+        "Drama",
+        "Romance",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mgCsc0k8GvgRC97XITQ6GNPM2uB.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rc1IUET1dg6GUAwyhcjBIpZtzGW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mrBcBP9Uc8h1USzJoYwgPBT3FFX.png",
+      "runtime": "123 min",
       "director": [
-        "Dean DeBlois"
+        "Richard Curtis"
       ],
       "cast": [
-        "Mason Thames",
-        "Nico Parker",
-        "Gerard Butler",
-        "Nick Frost",
-        "Gabriel Howell",
-        "Julian Dennison",
-        "Bronwyn James",
-        "Harry Trevaldwyn"
+        "Domhnall Gleeson",
+        "Rachel McAdams",
+        "Bill Nighy",
+        "Tom Hollander",
+        "Margot Robbie",
+        "Lydia Wilson",
+        "Lindsay Duncan",
+        "Richard Cordery"
+      ],
+      "rank": 7,
+      "id": "tt2194499",
+      "name": "Una cuestión de tiempo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
+      "rating": 7.9,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
+      "runtime": "116 min",
+      "director": [
+        "Robert Zemeckis"
+      ],
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Crispin Glover",
+        "Lea Thompson",
+        "Claudia Wells",
+        "Thomas F. Wilson",
+        "Marc McClure",
+        "Wendie Jo Sperber"
+      ],
+      "rank": 8,
+      "id": "tt0088763",
+      "name": "Regreso al futuro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "rating": 8.332,
+      "year": 1985,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png",
+      "runtime": "89 min",
+      "director": [
+        "Timo Tjahjanto"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Connie Nielsen",
+        "John Ortiz",
+        "Colin Hanks",
+        "RZA",
+        "Colin Salmon",
+        "Christopher Lloyd",
+        "Sharon Stone"
       ],
       "rank": 9,
-      "id": "tt26743210",
-      "name": "Cómo entrenar a tu dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
-      "rating": 7.929,
+      "id": "tt28996126",
+      "name": "Nadie 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+      "rating": 6.909,
       "year": 2025,
       "days": null,
       "trend": {
@@ -327,33 +328,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar...",
+      "description": "Marina una joven camarera aspirante a cantante y Orlando, veinte años mayor, planean un futuro juntos. Tras una noche de fiesta, Marina lo lleva a urgencias, pero él muere al llegar al hospital. Ella debe entonces enfrentar las sospechas por su muerte. Su condición de mujer transexual supone para la familia de Orlando una completa aberración. Ella tendrá que luchar para convertirse en lo que es: una mujer fuerte, pasional… fantástica.",
       "genres": [
-        "Comedia",
-        "Fantasía"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l2Yvmy5xkCNuz8ZFGbKgimzHIbH.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6NMXhGoGe5QBokTP1OZvM4hiRDP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/swKTOzoBD10Z82CN1rPeaHdD0pX.png",
+      "runtime": "104 min",
       "director": [
-        "Barry Sonnenfeld"
+        "Sebastián Lelio"
       ],
       "cast": [
-        "Raúl Juliá",
-        "Anjelica Huston",
-        "Christopher Lloyd",
-        "Dan Hedaya",
-        "Elizabeth Wilson",
-        "Judith Malina",
-        "Carel Struycken",
-        "Dana Ivey"
+        "Daniela Vega",
+        "Francisco Reyes",
+        "Luis Gnecco",
+        "Aline Küppenheim",
+        "Nicolás Saavedra",
+        "Amparo Noguera",
+        "Néstor Cantillana",
+        "Alejandro Goic"
       ],
       "rank": 10,
-      "id": "tt0101272",
-      "name": "La familia Addams",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
-      "rating": 7.084,
-      "year": 1991,
+      "id": "tt5639354",
+      "name": "Una mujer fantástica",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uIlx33SKoJh3Ne0QmQDi9mlcjGx.jpg",
+      "rating": 7,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

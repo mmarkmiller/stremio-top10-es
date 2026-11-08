@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.6,
+      "rating": 8.651,
       "year": 2026,
       "days": null,
       "trend": {
@@ -46,7 +46,8 @@
       "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/x4zVzZwqMkzAnA4kpgsJmdfmOTt.png",
       "director": [
-        "조수원"
+        "조수원",
+        "심나연"
       ],
       "cast": [
         "Shin Min-a",
@@ -58,7 +59,39 @@
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 8.188,
+      "rating": 8.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "director": [],
+      "cast": [
+        "Connie Britton",
+        "Sam Nivola",
+        "Grace Brennan",
+        "Maliq Johnson",
+        "Meera Syal",
+        "Colter Lee",
+        "Mahaela Park"
+      ],
+      "rank": 3,
+      "id": "tt21952924",
+      "name": "Farsante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -87,11 +120,11 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.079,
+      "rating": 8.078,
       "year": 2011,
       "days": null,
       "trend": {
@@ -120,7 +153,7 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -134,113 +167,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "Candela trabaja en una empresa de logística mientras persigue su sueño de convertirse en cantante. Su vida cambia una noche cuando un ejecutivo de una discográfica multinacional la escucha cantar en un bar. Esa misma noche, Candela se reencuentra con Diego, un antiguo compañero de su instituto que lucha por ser boxeador profesional.",
       "genres": [
-        "Comedia"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8sN8gd8kM22wh7yDZIWFaLfufNj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nuNurwnEpBgPVqHHMswNEXNm5ix.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El fotógrafo ex convicto RJ Decker trabaja como investigador privado en Florida del Sur, resolviendo casos extraños con su ex periodista, su esposa policía y una misteriosa mujer de su pasado.",
-      "genres": [
-        "Crimen",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zOSuKcBjugAMLCKB1JulrXbNm7X.png",
-      "director": [],
-      "cast": [
-        "Scott Speedman",
-        "Jaina Lee Ortiz",
-        "Kevin Rankin",
-        "Adelaide Clemens",
-        "Bevin Bru"
+        "Aitana",
+        "Miguel Bernardeau",
+        "Luis Zahera",
+        "Aitor Luna",
+        "Jorge Perugorría"
       ],
       "rank": 6,
-      "id": "tt37063558",
-      "name": "R.J. Decker",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
-      "director": [],
-      "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
-      ],
-      "rank": 7,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.535,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-      "director": [],
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 8,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.158,
+      "id": "tt17564828",
+      "name": "La última",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lwfK8nTfkkipzaw1crScp8LCcez.jpg",
+      "rating": 6.5,
       "year": 2022,
       "days": null,
       "trend": {
@@ -250,30 +195,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+      "description": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
       "genres": [
-        "Comedia",
         "Drama",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
+      "background": "https://image.tmdb.org/t/p/w1280/665dTNE4PNd1VOqMOMrSexyBnGE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zXiAigNpR4k44RVGry7kOh9SMya.png",
       "director": [],
       "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park"
+        "Kim Kardashian",
+        "Naomi Watts",
+        "Niecy Nash-Betts",
+        "Teyana Taylor",
+        "Matthew Noszka",
+        "Sarah Paulson",
+        "Glenn Close",
+        "Cauã Reymond"
       ],
-      "rank": 9,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-      "rating": 7.3,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt30291387",
+      "name": "Todas las de la ley",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
+      "rating": 4.9,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -282,27 +227,88 @@
     },
     {
       "artworkVersion": 4,
-      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "description": "Ray Shoesmith es un padre, ex esposo, novio y mejor amigo: papeles difíciles de hacer en la era moderna. Aún más difícil cuando eres un criminal de alquiler.",
       "genres": [
-        "Comedia"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rucyQtv3le8Aj4V9U3Zfp0zKHpU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a0HLWV7etxmTHEYdZv1PY4dc2O7.png",
       "director": [],
       "cast": [
-        "Josh Radnor",
-        "Neil Patrick Harris",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Cobie Smulders",
-        "Cristin Milioti"
+        "Scott Ryan",
+        "Chika Yasumura",
+        "Brooke Satchwell",
+        "Jeremy Sims",
+        "Damon Herriman",
+        "Justin Rosniak"
+      ],
+      "rank": 8,
+      "id": "tt7472896",
+      "name": "Mr. Inbetween",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg",
+      "rating": 8.313,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
+      "director": [],
+      "cast": [
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Aimé Donna Kelly",
+        "Kevin Kane",
+        "Corey Cott"
+      ],
+      "rank": 9,
+      "id": "tt0203259",
+      "name": "Ley y orden: Unidad de Víctimas Especiales",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
+      "rating": 8,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "director": [],
+      "cast": [
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
       ],
       "rank": 10,
-      "id": "tt0460649",
-      "name": "Cómo conocí a vuestra madre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.111,
-      "year": 2005,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "rating": 7.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

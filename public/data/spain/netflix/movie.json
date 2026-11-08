@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.476,
+      "rating": 6.428,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.609,
+      "rating": 7.6,
       "year": 2023,
       "days": null,
       "trend": {
@@ -80,7 +80,8 @@
       "artworkVersion": 4,
       "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
@@ -102,69 +103,7 @@
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el invierno de 1820, el ballenero de Nueva Inglaterra Essex fue agredido por algo a lo que nadie podía dar crédito: una ballena de tamaño y voluntad descomunal, con un sentido de la venganza casi humano. Este hecho real que supuso un desastre marítimo fue la inspiración para Moby-Dick de Melville. Pero la novela solo contó la mitad de la historia. “En el corazón del mar” revela las horribles consecuencias del encuentro, cuando los supervivientes de la tripulación fueron forzados hasta el límite y se vieron obligados a hacer lo impensable para mantenerse vivos. Enfrentándose a las tormentas, el hambre, el pánico, y la desesperación, los hombres llegan a dudar hasta de sus creencias más profundas, desde el valor de sus vidas a la moralidad de su oficio, mientras el capitán intenta orientarse en el mar abierto y su primer oficial sigue empeñado en conquistar a la gran ballena.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Aventura",
-        "Acción",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3KwGN29rwcNFEZeyptU017texLc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gtqSWDk651pwk2GBNJfc46LtiQa.png",
-      "runtime": "121 min",
-      "director": [
-        "Ron Howard"
-      ],
-      "cast": [
-        "Chris Hemsworth",
-        "Benjamin Walker",
-        "Cillian Murphy",
-        "Brendan Gleeson",
-        "Ben Whishaw",
-        "Michelle Fairley",
-        "Tom Holland",
-        "Paul Anderson"
-      ],
-      "rank": 4,
-      "id": "tt1390411",
-      "name": "En el corazón del mar",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ajcrkYTl8p55LGXYfGzx4d5XIco.jpg",
-      "rating": 6.792,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
-      "genres": [
-        "Documental",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/15Ei7xpsEDTZXstqjFV4790811e.png",
-      "runtime": "80 min",
-      "director": [],
-      "cast": [],
-      "rank": 5,
-      "id": "tt48500521",
-      "name": "Desprotexida: el crimen de Pazos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.333,
+      "rating": 7.474,
       "year": 2026,
       "days": null,
       "trend": {
@@ -191,47 +130,12 @@
         "Alberto San Juan",
         "Griselda Siciliani"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt11028768",
       "name": "Sentimental",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
       "rating": 6.412,
       "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 7,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -263,12 +167,83 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.927,
+      "rating": 6.919,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Eddie y Venom están a la fuga. Perseguidos por sus sendos mundos y cada vez más cercados, el dúo se ve abocado a tomar una decisión devastadora que hará que caiga el telón sobre el último baile de Venom y Eddie.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/niP0a873863IwLrQU0cCrRAINbj.png",
+      "runtime": "109 min",
+      "director": [
+        "Kelly Marcel"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Chiwetel Ejiofor",
+        "Juno Temple",
+        "Rhys Ifans",
+        "Stephen Graham",
+        "Peggy Lu",
+        "Clark Backo",
+        "Alanna Ubach"
+      ],
+      "rank": 7,
+      "id": "tt16366836",
+      "name": "Venom: El último baile",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
+      "rating": 6.661,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 8,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,32 +287,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+      "description": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Suspense",
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9cg0sQlfwZd77MiDmnOMvM1v04J.png",
-      "runtime": "102 min",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fc7YOO5V0wdKzdOx9vTlbaNwHl5.png",
+      "runtime": "101 min",
       "director": [
-        "Cathryn Michon"
+        "Janus Metz"
       ],
       "cast": [
-        "Dennis Quaid",
-        "Milo Ventimiglia",
-        "Brooke Lena Johnson",
-        "Kathleen Rose Perkins",
-        "Jennifer Tilly",
-        "Thomas Haden Church",
-        "Mary Steenburgen",
-        "Ethan Loomis"
+        "Russell Crowe",
+        "Jacob Tremblay",
+        "Shailene Woodley",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
       ],
       "rank": 10,
-      "id": "tt38515310",
-      "name": "La razón de estar contigo: Una Navidad perfecta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-      "rating": 8.1,
+      "id": "tt6933238",
+      "name": "Unabomber",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": 6.571,
       "year": 2026,
       "days": null,
       "trend": {
@@ -347,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

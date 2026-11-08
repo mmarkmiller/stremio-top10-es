@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.998,
+      "rating": 6.997,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,43 +68,7 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.904,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
-      "runtime": "136 min",
-      "director": [
-        "Emerald Fennell"
-      ],
-      "cast": [
-        "Margot Robbie",
-        "Jacob Elordi",
-        "Hong Chau",
-        "Shazad Latif",
-        "Alison Oliver",
-        "Martin Clunes",
-        "Ewan Mitchell",
-        "Amy Morgan"
-      ],
-      "rank": 3,
-      "id": "tt32897959",
-      "name": "“Cumbres Borrascosas”",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "rating": 6.641,
+      "rating": 6.905,
       "year": 2026,
       "days": null,
       "trend": {
@@ -140,7 +104,7 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.586,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -174,7 +138,7 @@
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.822,
+      "rating": 7.8,
       "year": 2023,
       "days": null,
       "trend": {
@@ -184,67 +148,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
+      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
       "genres": [
-        "Drama"
+        "Romance",
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gSkO9BqdiDR2ltRrsub7AVL75Tq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png",
-      "runtime": "117 min",
+      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
+      "runtime": "136 min",
       "director": [
-        "Darren Aronofsky"
+        "Emerald Fennell"
       ],
       "cast": [
-        "Brendan Fraser",
-        "Sadie Sink",
-        "Ty Simpkins",
+        "Margot Robbie",
+        "Jacob Elordi",
         "Hong Chau",
-        "Samantha Morton",
-        "Sathya Sridharan",
-        "Jacey Sink",
-        "Allison Altman"
+        "Shazad Latif",
+        "Alison Oliver",
+        "Martin Clunes",
+        "Ewan Mitchell",
+        "Amy Morgan"
       ],
       "rank": 6,
-      "id": "tt13833688",
-      "name": "La ballena (The Whale)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
-      "rating": 7.75,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
-      "runtime": "30 min",
-      "director": [
-        "Tazbah Chavez"
-      ],
-      "cast": [
-        "Kiawentiio",
-        "Isabel DeRoy-Olson",
-        "Michael Podemski",
-        "Zahn McClarnon",
-        "MorningStar Angeline",
-        "Brandon Oakes",
-        "Jennifer Podemski",
-        "Kimberly Guerrero"
-      ],
-      "rank": 7,
-      "id": "tt50389959",
-      "name": "La historia de Derry",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-      "rating": 6.942,
+      "id": "tt32897959",
+      "name": "“Cumbres Borrascosas”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -275,7 +205,7 @@
         "Robbie Coltrane",
         "Maggie Smith"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0241527",
       "name": "Harry Potter y la piedra filosofal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
@@ -289,33 +219,104 @@
     },
     {
       "artworkVersion": 4,
-      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "description": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
       "genres": [
+        "Drama",
         "Terror",
-        "Ciencia ficción"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
-      "runtime": "141 min",
+      "background": "https://image.tmdb.org/t/p/w1280/85VF3ggM1cxEqGpaVlXrFPTLd2t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aZBbxgavPhFWunNN3zORbaZwCF2.png",
+      "runtime": "30 min",
       "director": [
-        "Coralie Fargeat"
+        "Tazbah Chavez"
       ],
       "cast": [
-        "Demi Moore",
-        "Margaret Qualley",
-        "Dennis Quaid",
-        "Edward Hamilton-Clark",
-        "Gore Abrams",
-        "Oscar Lesage",
-        "Christian Erickson",
-        "Robin Greer"
+        "Kiawentiio",
+        "Isabel DeRoy-Olson",
+        "Michael Podemski",
+        "Zahn McClarnon",
+        "MorningStar Angeline",
+        "Brandon Oakes",
+        "Jennifer Podemski",
+        "Eric Trask"
+      ],
+      "rank": 8,
+      "id": "tt50389959",
+      "name": "La historia de Derry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": 6.899,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gSkO9BqdiDR2ltRrsub7AVL75Tq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png",
+      "runtime": "117 min",
+      "director": [
+        "Darren Aronofsky"
+      ],
+      "cast": [
+        "Brendan Fraser",
+        "Sadie Sink",
+        "Ty Simpkins",
+        "Hong Chau",
+        "Samantha Morton",
+        "Sathya Sridharan",
+        "Jacey Sink",
+        "Allison Altman"
       ],
       "rank": 9,
-      "id": "tt17526714",
-      "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
-      "rating": 7.131,
-      "year": 2024,
+      "id": "tt13833688",
+      "name": "La ballena (The Whale)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
+      "rating": 7.75,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
+      "runtime": "103 min",
+      "director": [
+        "Griffin Dunne"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn",
+        "Evan Rachel Wood",
+        "Alexandra Artrip"
+      ],
+      "rank": 10,
+      "id": "tt0120791",
+      "name": "Prácticamente magia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
+      "rating": 6.8,
+      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,5 +325,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

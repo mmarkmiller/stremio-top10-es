@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.7,
+      "rating": 7.703,
       "year": 2026,
       "days": null,
       "trend": {
@@ -62,7 +62,7 @@
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 7.985,
+      "rating": 7.971,
       "year": 2026,
       "days": null,
       "trend": {
@@ -124,7 +124,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.072,
+      "rating": 8.1,
       "year": 2022,
       "days": null,
       "trend": {
@@ -134,30 +134,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
         "Drama",
-        "Comedia"
+        "Comedia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
       "director": [],
       "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
       ],
       "rank": 5,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.363,
-      "year": 2020,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.014,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,7 +186,7 @@
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.825,
+      "rating": 7.828,
       "year": 2024,
       "days": null,
       "trend": {
@@ -197,53 +196,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
       "genres": [
         "Drama",
-        "Comedia",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
       "director": [],
       "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
       ],
       "rank": 7,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La actriz y cómica de Hollywood Nora Lum (también conocida como Awkwafina) desciende de una familia de grandes restauradores... pero no sabe cocinar. Acompaña a la estrella en un inspirador viaje culinario mientras aprende el oficio e intenta devolver a la vida el querido restaurante chino de su familia.",
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vSMW22GgtzgsRaAmZaTM6xtPdNP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oP5XIUFZT7OIDjt9f0MO51jLWxc.png",
-      "director": [],
-      "cast": [
-        "Awkwafina"
-      ],
-      "rank": 8,
-      "id": "tt38992068",
-      "name": "Awkwafina: Una chef inesperada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6BUUrvMFaDPK8rfkKwIgg4DZRp3.jpg",
-      "rating": 3.25,
-      "year": 2026,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.363,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -270,11 +246,11 @@
         "Alexandria Riley",
         "Reed Birney"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.233,
+      "rating": 8.234,
       "year": 2023,
       "days": null,
       "trend": {
@@ -284,29 +260,62 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "description": "Un detective convertido en inspector de restaurantes en el sur de Florida se ve arrastrado a un mundo de codicia y corrupción cuando un turista encuentra un brazo amputado mientras pescaba. Y sí, hay un mono.",
       "genres": [
-        "Comedia"
+        "Comedia",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nd6BeRt0NdldOcU0siqLth2It3e.png",
       "director": [],
       "cast": [
-        "Matthew McConaughey",
-        "Woody Harrelson",
+        "Vince Vaughn",
         "Natalie Martinez",
-        "Brittany Ishibashi",
-        "Nolan Almeida",
-        "Ella Grace Helton",
-        "Noah Carganilla",
-        "Highdee Kuan"
+        "John Ortiz",
+        "Charlotte Lawrence",
+        "John Malkovich",
+        "Yvonne Strahovski",
+        "Zavior Phillips"
+      ],
+      "rank": 9,
+      "id": "tt15203646",
+      "name": "Mono malo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1O9U18Qk11DQ57GBEQw79JC2kTh.jpg",
+      "rating": 7.2,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
       ],
       "rank": 10,
-      "id": "tt6773088",
-      "name": "Brothers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 7.038,
-      "year": 2026,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.39,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

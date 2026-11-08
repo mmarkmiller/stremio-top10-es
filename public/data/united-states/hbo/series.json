@@ -2,39 +2,8 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
-      "director": [],
-      "cast": [
-        "Dominic West",
-        "Sienna Miller",
-        "Phoebe Fox",
-        "James McArdle",
-        "Nina Sosanya",
-        "Pip Torrens",
-        "Archie Renaux",
-        "Emma Laird"
-      ],
-      "rank": 1,
-      "id": "tt37972251",
-      "name": "WAR",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-      "rating": 7.648,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
@@ -54,11 +23,11 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
-      "rating": 7.7,
+      "rating": 7.696,
       "year": 2022,
       "days": null,
       "trend": {
@@ -84,12 +53,43 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
       "rating": 7.517,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
+      "director": [],
+      "cast": [
+        "Dominic West",
+        "Sienna Miller",
+        "Phoebe Fox",
+        "James McArdle",
+        "Nina Sosanya",
+        "Pip Torrens",
+        "Archie Renaux",
+        "Emma Laird"
+      ],
+      "rank": 3,
+      "id": "tt37972251",
+      "name": "WAR",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+      "rating": 7.7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -113,37 +113,8 @@
       "id": "tt2297757",
       "name": "Nathan al rescate",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
-      "rating": 8.241,
+      "rating": 8.2,
       "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
-      ],
-      "rank": 5,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.042,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -166,11 +137,11 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.198,
+      "rating": 8.202,
       "year": 2026,
       "days": null,
       "trend": {
@@ -195,11 +166,11 @@
         "Aran Murphy",
         "Robbie Gee"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt35949226",
       "name": "Youth",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "rating": 6.76,
+      "rating": 6.907,
       "year": 2026,
       "days": null,
       "trend": {
@@ -209,27 +180,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue a policías novatos que trabajan en Belfast, una ciudad en la que ser policía de primera línea conlleva presiones y peligros únicos.",
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zIMWblj36xRkLHjAwFjZt1crdGZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
       "director": [],
       "cast": [
-        "Sian Brooke",
-        "Katherine Devlin",
-        "Nathan Braniff",
-        "Martin McCann",
-        "Andi Osho"
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
+      ],
+      "rank": 7,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.406,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Elisabeth Moss",
+        "Vincent Kartheiser",
+        "January Jones",
+        "Christina Hendricks",
+        "Aaron Staton",
+        "Rich Sommer",
+        "Kiernan Shipka"
       ],
       "rank": 8,
-      "id": "tt14466018",
-      "name": "Blue Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
-      "rating": 7.582,
-      "year": 2023,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "rating": 8.132,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,62 +240,52 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
       "genres": [
-        "Misterio",
-        "Drama"
+        "Comedia",
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-      "director": [
-        "Sébastien Marnier"
-      ],
-      "cast": [
-        "Jérôme Niel",
-        "Yoann Gasiorowski",
-        "Magalie Lépine-Blondeau",
-        "Marie Oppert",
-        "Léo Chalié",
-        "Véronique Ruggia Saura",
-        "Guslagie Malanda",
-        "Salif Cissé"
-      ],
-      "rank": 9,
-      "id": "tt40407840",
-      "name": "Paolo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i9A6AkNA8a86A8wBOWCsQRmLj3f.jpg",
-      "rating": 5.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
+      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
       "director": [],
       "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
+        "Nathan Fielder"
+      ],
+      "rank": 9,
+      "id": "tt10802170",
+      "name": "Los ensayos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
+      "rating": 7.995,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "director": [],
+      "cast": [
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones",
+        "Will Sasso",
+        "Dougie Baldwin",
+        "Jessie Prez"
       ],
       "rank": 10,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.731,
-      "year": 2025,
+      "id": "tt31589662",
+      "name": "El primer matrimonio de Georgie y Mandy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
+      "rating": 8,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,5 +294,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

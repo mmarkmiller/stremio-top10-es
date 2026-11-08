@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 1,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.628,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Tras secuestrar a una madre de alquiler, dos fríos profesionales del crimen se ven envueltos en una espiral creciente de confusión y violencia.",
@@ -29,7 +65,7 @@
         "Scott Wilson",
         "Dylan Kussman"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt0202677",
       "name": "Secuestro infernal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
@@ -43,34 +79,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Tras una Gran Guerra Climática, solo ha sobrevivido una humana. Su compañero es un fiel robot llamado Arthur, pero a la hora de la verdad la lucha por la supervivencia es inevitable. ¿Quién prevalecerá?",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/gKhtBj2Yu19je8keMxhV45IuZav.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nX9M4lOcUujxnOMIJns1HXb59Mm.png",
+      "runtime": "88 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Piotr Biedroń"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Magdalena Wieczorek",
+        "Jacek Beler"
       ],
-      "rank": 2,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.631,
-      "year": 2026,
+      "rank": 3,
+      "id": "tt27989255",
+      "name": "Un destello de esperanza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zCY2sZKFl9yDsUbuW6WMAx2j0Tt.jpg",
+      "rating": 5.85,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -93,7 +122,7 @@
         "Tommy Walton",
         "Elijah James"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tmdb:1539113",
       "name": "Ignition",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qFpUA65ll19wkfJPKZN2NwxakP.jpg",
@@ -107,32 +136,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
       "genres": [
-        "Terror",
-        "Acción",
-        "Ciencia ficción"
+        "Comedia",
+        "Familia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q15NwdzQcstJgzDv1HrxF7zvrwF.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
       "director": [
-        "Daniel Byers"
+        "Kyle Balda"
       ],
       "cast": [
-        "June Schreiner",
-        "David Garelik",
-        "J.Stephen Brantley",
-        "Brennon Weese",
-        "Ian Deighan",
-        "Jonathan Spivey",
-        "Sean-Michael Wilkinson",
-        "Sharon Murray"
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
       ],
-      "rank": 4,
-      "id": "tt37593831",
-      "name": "Dark Hollow",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
-      "rating": 4.2,
+      "rank": 5,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.893,
       "year": 2026,
       "days": null,
       "trend": {
@@ -164,82 +194,12 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
       "rating": 7.418,
       "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
-      "director": [
-        "Kyle Balda"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
-      ],
-      "rank": 6,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.898,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
-      "runtime": "120 min",
-      "director": [
-        "John G. Avildsen"
-      ],
-      "cast": [
-        "Sylvester Stallone",
-        "Talia Shire",
-        "Burt Young",
-        "Carl Weathers",
-        "Burgess Meredith",
-        "Thayer David",
-        "Joe Spinell",
-        "Jimmy Gambina"
-      ],
-      "rank": 7,
-      "id": "tt0075148",
-      "name": "Rocky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.802,
-      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -270,11 +230,11 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.667,
+      "rating": 6.7,
       "year": 2003,
       "days": null,
       "trend": {
@@ -284,35 +244,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Margot, la mujer de Alex, fue brutalmente asesinada por un psicópata. Incapaz de recuperarse de la pérdida, su marido no deja de recordarla ni por un momento. Un día, ocho años después, recibe un email. Lo abre y se encuentra con una imagen en tiempo real, la cara de una mujer entre la multitud: es la de Margot",
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
       "genres": [
-        "Drama",
-        "Suspense",
-        "Crimen",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/3eQD65Kw5SAq1qfOTrNVThA6szA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/32CNKnqDAtywt0wpAlDs3DndZVG.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+      "runtime": "120 min",
       "director": [
-        "Guillaume Canet"
+        "John G. Avildsen"
       ],
       "cast": [
-        "François Cluzet",
-        "Marie-Josée Croze",
-        "André Dussollier",
-        "Kristin Scott Thomas",
-        "François Berléand",
-        "Nathalie Baye",
-        "Jean Rochefort",
-        "Marina Hands"
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina"
       ],
-      "rank": 9,
-      "id": "tt0362225",
-      "name": "No se lo digas a nadie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1KY0DLljNFYgutxbJAbzXI3zjix.jpg",
-      "rating": 7.226,
-      "year": 2006,
+      "rank": 8,
+      "id": "tt0075148",
+      "name": "Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "rating": 7.802,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -321,34 +278,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "description": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png",
+      "runtime": "164 min",
       "director": [
-        "John Carpenter"
+        "Denis Villeneuve"
       ],
       "cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney"
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks",
+        "Mackenzie Davis",
+        "Jared Leto"
       ],
       "rank": 10,
-      "id": "tt0084787",
-      "name": "La cosa (El enigma de otro mundo)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "rating": 8.073,
-      "year": 1982,
+      "id": "tt1856101",
+      "name": "Blade Runner 2049",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+      "rating": 7.613,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }

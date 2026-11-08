@@ -2,8 +2,44 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611071942",
+  "date": "202611082001",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Tras una terrible explosión de una bomba en un Ferry de Nueva Orleans, el agente Doug Carlin descubre que es obra de un terrorista. Por su perspicacia para analizar y distinguir rápidamente lo relevante de lo secundario en el escenario del crimen, Carlin es asignado a un misterioso nuevo equipo de investigación que utiliza una sofisticada máquina que permite algo extraordinario...",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/doURjrcHMXg1oi9lSWunuPvwqcS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dUQ5eLOkd5AXF29k3pmvs14M6Zx.png",
+      "runtime": "126 min",
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Paula Patton",
+        "Val Kilmer",
+        "Jim Caviezel",
+        "Adam Goldberg",
+        "Elden Henson",
+        "Erika Alexander",
+        "Bruce Greenwood"
+      ],
+      "rank": 1,
+      "id": "tt0453467",
+      "name": "Déjà Vu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
+      "rating": 6.897,
+      "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
@@ -27,7 +63,7 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
@@ -64,142 +100,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.276,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
-      "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
-      "runtime": "75 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 3,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.86,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia"
-      ],
-      "runtime": "58 min",
-      "director": [
-        "Ryan Polito"
-      ],
-      "cast": [
-        "Joey Diaz"
-      ],
-      "rank": 4,
-      "id": "tt6165902",
-      "name": "Joey Coco Diaz: Sociably UnAcceptable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xMU8oyoC9u5Xbsyl3sFwgkFfsBU.jpg",
-      "rating": 6.1,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5NirokqjePXDkbGmdnhfLzXHKh5.png",
-      "runtime": "121 min",
-      "director": [
-        "Darren Aronofsky"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Javier Bardem",
-        "Ed Harris",
-        "Michelle Pfeiffer",
-        "Brian Gleeson",
-        "Domhnall Gleeson",
-        "Jovan Adepo",
-        "Amanda Chiu"
-      ],
-      "rank": 5,
-      "id": "tt5109784",
-      "name": "Madre!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
-      "rating": 6.946,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 6,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.46,
+      "rating": 8.274,
       "year": 2026,
       "days": null,
       "trend": {
@@ -231,11 +136,11 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 7,
+      "rank": 4,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.84,
+      "rating": 6.8,
       "year": 1998,
       "days": null,
       "trend": {
@@ -245,34 +150,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
       "genres": [
-        "Comedia",
-        "Romance",
-        "Drama"
+        "Aventura",
+        "Drama",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzpO9NG28CzsYBJZ5EJ3oKEKOIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
+      "runtime": "139 min",
       "director": [
-        "Gil Junger"
+        "Peter Weir"
       ],
       "cast": [
-        "Heath Ledger",
-        "Julia Stiles",
-        "Joseph Gordon-Levitt",
-        "Larisa Oleynik",
-        "David Krumholtz",
-        "Andrew Keegan",
-        "Susan May Pratt",
-        "Gabrielle Union"
+        "Russell Crowe",
+        "Paul Bettany",
+        "James D'Arcy",
+        "Robert Pugh",
+        "David Threlfall",
+        "Lee Ingleby",
+        "Max Pirkis",
+        "Max Benitz"
       ],
-      "rank": 8,
-      "id": "tt0147800",
-      "name": "10 razones para odiarte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
-      "rating": 7.599,
-      "year": 1999,
+      "rank": 5,
+      "id": "tt0311113",
+      "name": "Master and commander: Al otro lado del mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
+      "rating": 7.209,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,11 +207,11 @@
         "Troy Garity",
         "Benedict Wong"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt0448134",
       "name": "Sunshine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
-      "rating": 6.974,
+      "rating": 6.975,
       "year": 2007,
       "days": null,
       "trend": {
@@ -316,34 +221,139 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
       "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql3fKqsD2DIMLhZe29T9AxnQpTx.png",
-      "runtime": "115 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
       "director": [
-        "Thomas Kail"
+        "Jon Favreau"
       ],
       "cast": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 7,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.462,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
+      "runtime": "75 min",
+      "director": [
+        "Henry Selick"
+      ],
+      "cast": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
+      ],
+      "rank": 8,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.86,
+      "year": 1993,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5NirokqjePXDkbGmdnhfLzXHKh5.png",
+      "runtime": "121 min",
+      "director": [
+        "Darren Aronofsky"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson",
+        "Jovan Adepo",
+        "Amanda Chiu"
+      ],
+      "rank": 9,
+      "id": "tt5109784",
+      "name": "Madre!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
+      "rating": 6.946,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
+      "runtime": "119 min",
+      "director": [
+        "David Frankel"
+      ],
+      "cast": [
+        "Meryl Streep",
+        "Anne Hathaway",
+        "Emily Blunt",
+        "Stanley Tucci",
+        "Kenneth Branagh",
+        "Justin Theroux",
+        "Lady Gaga",
+        "Lucy Liu"
       ],
       "rank": 10,
-      "id": "tt27419466",
-      "name": "Vaiana",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.456,
+      "id": "tt33612209",
+      "name": "El diablo viste de Prada 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "rating": 7.022,
       "year": 2026,
       "days": null,
       "trend": {
@@ -353,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-07T17:38:43.288Z"
+  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
 }
