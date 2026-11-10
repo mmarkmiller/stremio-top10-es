@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,41 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.651,
+      "rating": 8.618,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
+      "rank": 2,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "rating": 8.8,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -55,11 +88,11 @@
         "이종석",
         "이세영"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 8.1,
+      "rating": 7.85,
       "year": 2026,
       "days": null,
       "trend": {
@@ -87,7 +120,7 @@
         "Colter Lee",
         "Mahaela Park"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt21952924",
       "name": "Farsante",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
@@ -120,11 +153,11 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.078,
+      "rating": 8.1,
       "year": 2011,
       "days": null,
       "trend": {
@@ -134,31 +167,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "description": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
       "genres": [
+        "Animación",
         "Action & Adventure",
-        "Comedia",
-        "Animación"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
       "director": [],
       "cast": [
-        "Mayumi Tanaka",
-        "Kazuya Nakai",
-        "矢口真里",
-        "Akemi Okamura",
-        "Kappei Yamaguchi",
-        "Hiroaki Hirata",
-        "Ikue Otani",
-        "Yuriko Yamaguchi"
+        "Masako Nozawa",
+        "Ryo Horikawa",
+        "Naoko Watanabe",
+        "Unsho Ishizuka",
+        "Koichi Yamadera"
       ],
-      "rank": 5,
-      "id": "tt0388629",
-      "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.756,
-      "year": 1999,
+      "rank": 6,
+      "id": "tt39395275",
+      "name": "Dragon Ball Super: Beerus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "rating": 9.636,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,26 +197,82 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Candela trabaja en una empresa de logística mientras persigue su sueño de convertirse en cantante. Su vida cambia una noche cuando un ejecutivo de una discográfica multinacional la escucha cantar en un bar. Esa misma noche, Candela se reencuentra con Diego, un antiguo compañero de su instituto que lucha por ser boxeador profesional.",
+      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8sN8gd8kM22wh7yDZIWFaLfufNj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nuNurwnEpBgPVqHHMswNEXNm5ix.png",
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
       "director": [],
       "cast": [
-        "Aitana",
-        "Miguel Bernardeau",
-        "Luis Zahera",
-        "Aitor Luna",
-        "Jorge Perugorría"
+        "Emmy Rossum",
+        "Lola Petticrew",
+        "Scoot McNairy",
+        "Quincy Tyler Bernstine"
       ],
-      "rank": 6,
-      "id": "tt17564828",
-      "name": "La última",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lwfK8nTfkkipzaw1crScp8LCcez.jpg",
-      "rating": 6.5,
+      "rank": 7,
+      "id": "tt36303968",
+      "name": "Furious",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "rating": 7.474,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "director": [],
+      "cast": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
+      ],
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.154,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
+      "genres": [
+        "Reality"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
+      "director": [],
+      "cast": [
+        "Parker Posey"
+      ],
+      "rank": 9,
+      "id": "tt42007258",
+      "name": "The Mob: Infiltrados en la villa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+      "rating": 3.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -213,102 +299,12 @@
         "Glenn Close",
         "Cauã Reymond"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt30291387",
       "name": "Todas las de la ley",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
-      "rating": 4.9,
+      "rating": 4.946,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ray Shoesmith es un padre, ex esposo, novio y mejor amigo: papeles difíciles de hacer en la era moderna. Aún más difícil cuando eres un criminal de alquiler.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rucyQtv3le8Aj4V9U3Zfp0zKHpU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a0HLWV7etxmTHEYdZv1PY4dc2O7.png",
-      "director": [],
-      "cast": [
-        "Scott Ryan",
-        "Chika Yasumura",
-        "Brooke Satchwell",
-        "Jeremy Sims",
-        "Damon Herriman",
-        "Justin Rosniak"
-      ],
-      "rank": 8,
-      "id": "tt7472896",
-      "name": "Mr. Inbetween",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg",
-      "rating": 8.313,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png",
-      "director": [],
-      "cast": [
-        "Mariska Hargitay",
-        "Ice-T",
-        "Kelli Giddish",
-        "Peter Scanavino",
-        "Aimé Donna Kelly",
-        "Kevin Kane",
-        "Corey Cott"
-      ],
-      "rank": 9,
-      "id": "tt0203259",
-      "name": "Ley y orden: Unidad de Víctimas Especiales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
-      "rating": 8,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
-      "director": [],
-      "cast": [
-        "Emmy Rossum",
-        "Lola Petticrew",
-        "Scoot McNairy",
-        "Quincy Tyler Bernstine"
-      ],
-      "rank": 10,
-      "id": "tt36303968",
-      "name": "Furious",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "rating": 7.5,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

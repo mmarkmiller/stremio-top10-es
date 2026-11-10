@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.207,
+      "rating": 7.206,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,8 +64,43 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.997,
+      "rating": 6.996,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Adam es un afable profesor de historia que lleva una vida bastante monótona. Un día, viendo una película, descubre a un actor que es idéntico a él. Obsesionado con la idea de tener un doble, la búsqueda de ese hombre tendrá para él consecuencias inesperadas...",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g8AWU6iSltRMJaa82PSOfXGglxD.png",
+      "runtime": "91 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mélanie Laurent",
+        "Sarah Gadon",
+        "Isabella Rossellini",
+        "Joshua Peace",
+        "Tim Post",
+        "Kedar Brown",
+        "Darryl Dinn"
+      ],
+      "rank": 3,
+      "id": "tt2316411",
+      "name": "Enemy",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n0szSxuF7xWsQv8Y7e3PyDVYvad.jpg",
+      "rating": 6.838,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -95,48 +130,12 @@
         "Elizabeth Perkins",
         "Amanda Joy Erickson"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.244,
+      "rating": 7.241,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
-      "director": [
-        "Michael Sarnoski"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
-      ],
-      "rank": 4,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.7,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +170,7 @@
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.7,
+      "rating": 6.668,
       "year": 2003,
       "days": null,
       "trend": {
@@ -181,35 +180,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
       "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía",
-        "Terror"
+        "Aventura",
+        "Drama",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/quxALlwYhgQjDO05nusMqUO99J9.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
       "director": [
-        "Henry Selick"
+        "Michael Sarnoski"
       ],
       "cast": [
-        "Dakota Fanning",
-        "Teri Hatcher",
-        "Jennifer Saunders",
-        "Dawn French",
-        "Keith David",
-        "John Hodgman",
-        "Robert Bailey Jr.",
-        "Ian McShane"
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
       ],
       "rank": 6,
-      "id": "tt0327597",
-      "name": "Los mundos de Coraline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.95,
-      "year": 2009,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,7 +243,7 @@
       "id": "tt4262980",
       "name": "Shin Godzilla",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uhls3dFqMZyesWWrIHoaCvoIUQC.jpg",
-      "rating": 7.26,
+      "rating": 7.261,
       "year": 2016,
       "days": null,
       "trend": {
@@ -255,69 +253,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "genres": [
-        "Aventura",
-        "Fantasía",
-        "Acción"
+        "Romance",
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
-      "runtime": "179 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
       "director": [
-        "Peter Jackson"
+        "Kristoffer Borgli"
       ],
       "cast": [
-        "Elijah Wood",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "Sean Astin",
-        "Ian Holm",
-        "Liv Tyler",
-        "Christopher Lee",
-        "Sean Bean"
+        "Zendaya",
+        "Robert Pattinson",
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
       ],
       "rank": 8,
-      "id": "tt0120737",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "rating": 8.45,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
-      ],
-      "rank": 9,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
-      "rating": 7.8,
-      "year": 2021,
+      "id": "tt33071426",
+      "name": "El drama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": 6.905,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -347,7 +310,7 @@
         "Robbie Coltrane",
         "Maggie Smith"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0241527",
       "name": "Harry Potter y la piedra filosofal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
@@ -358,8 +321,43 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 10,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.263,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

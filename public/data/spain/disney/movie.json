@@ -2,79 +2,8 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Tras una terrible explosión de una bomba en un Ferry de Nueva Orleans, el agente Doug Carlin descubre que es obra de un terrorista. Por su perspicacia para analizar y distinguir rápidamente lo relevante de lo secundario en el escenario del crimen, Carlin es asignado a un misterioso nuevo equipo de investigación que utiliza una sofisticada máquina que permite algo extraordinario...",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/doURjrcHMXg1oi9lSWunuPvwqcS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dUQ5eLOkd5AXF29k3pmvs14M6Zx.png",
-      "runtime": "126 min",
-      "director": [
-        "Tony Scott"
-      ],
-      "cast": [
-        "Denzel Washington",
-        "Paula Patton",
-        "Val Kilmer",
-        "Jim Caviezel",
-        "Adam Goldberg",
-        "Elden Henson",
-        "Erika Alexander",
-        "Bruce Greenwood"
-      ],
-      "rank": 1,
-      "id": "tt0453467",
-      "name": "Déjà Vu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg",
-      "rating": 6.897,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 2,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -100,11 +29,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 3,
+      "rank": 1,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.274,
+      "rating": 8.27,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,12 +65,155 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
+      "rating": 6.836,
       "year": 1998,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png",
+      "runtime": "107 min",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Rose Byrne",
+        "Chris Evans",
+        "Michelle Yeoh",
+        "Cliff Curtis",
+        "Hiroyuki Sanada",
+        "Troy Garity",
+        "Benedict Wong"
+      ],
+      "rank": 3,
+      "id": "tt0448134",
+      "name": "Sunshine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
+      "rating": 6.975,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 4,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "runtime": "109 min",
+      "director": [
+        "Lee Unkrich",
+        "Adrian Molina"
+      ],
+      "cast": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Arau",
+        "Herbert Siguenza"
+      ],
+      "rank": 5,
+      "id": "tt2380307",
+      "name": "Coco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "rating": 8.206,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta (en plena carrera espacial, y asimismo en mitad de la lucha por los derechos civiles de los negros estadounidenses) en el ambicioso proyecto de poner en órbita al astronauta John Glenn.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iwyENMsB7qoUVXWEEsczSdsD6wg.png",
+      "runtime": "127 min",
+      "director": [
+        "Theodore Melfi"
+      ],
+      "cast": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe",
+        "Kevin Costner",
+        "Kirsten Dunst",
+        "Jim Parsons",
+        "Mahershala Ali",
+        "Glen Powell"
+      ],
+      "rank": 6,
+      "id": "tt4846340",
+      "name": "Figuras ocultas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg",
+      "rating": 8.054,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,11 +244,11 @@
         "Max Pirkis",
         "Max Benitz"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt0311113",
       "name": "Master and commander: Al otro lado del mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.209,
+      "rating": 7.21,
       "year": 2003,
       "days": null,
       "trend": {
@@ -186,175 +258,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
       "genres": [
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png",
-      "runtime": "107 min",
-      "director": [
-        "Danny Boyle"
-      ],
-      "cast": [
-        "Cillian Murphy",
-        "Rose Byrne",
-        "Chris Evans",
-        "Michelle Yeoh",
-        "Cliff Curtis",
-        "Hiroyuki Sanada",
-        "Troy Garity",
-        "Benedict Wong"
-      ],
-      "rank": 6,
-      "id": "tt0448134",
-      "name": "Sunshine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
-      "rating": 6.975,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 7,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.462,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
-      "genres": [
-        "Fantasía",
-        "Animación",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
-      "runtime": "75 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O'Hara",
-        "William Hickey",
-        "Glenn Shadix",
-        "Paul Reubens",
-        "Ken Page",
-        "Edward Ivory"
-      ],
-      "rank": 8,
-      "id": "tt0107688",
-      "name": "Pesadilla antes de Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.86,
-      "year": 1993,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5NirokqjePXDkbGmdnhfLzXHKh5.png",
-      "runtime": "121 min",
-      "director": [
-        "Darren Aronofsky"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Javier Bardem",
-        "Ed Harris",
-        "Michelle Pfeiffer",
-        "Brian Gleeson",
-        "Domhnall Gleeson",
-        "Jovan Adepo",
-        "Amanda Chiu"
-      ],
-      "rank": 9,
-      "id": "tt5109784",
-      "name": "Madre!",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg",
-      "rating": 6.946,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
-      "runtime": "119 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
+      "runtime": "128 min",
       "director": [
-        "David Frankel"
+        "Peter Weir"
       ],
       "cast": [
-        "Meryl Streep",
-        "Anne Hathaway",
-        "Emily Blunt",
-        "Stanley Tucci",
-        "Kenneth Branagh",
-        "Justin Theroux",
-        "Lady Gaga",
-        "Lucy Liu"
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston"
+      ],
+      "rank": 8,
+      "id": "tt0097165",
+      "name": "El club de los poetas muertos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "rating": 8.295,
+      "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+      "runtime": "109 min",
+      "director": [
+        "M. Night Shyamalan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan",
+        "Donnie Wahlberg",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis"
+      ],
+      "rank": 9,
+      "id": "tt0167404",
+      "name": "El sexto sentido",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+      "rating": 7.957,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4tSUZixFsm89z5IIXcptOxBzBUX.png",
+      "runtime": "107 min",
+      "director": [
+        "Jay Roach"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Teri Polo",
+        "Blythe Danner",
+        "Jon Abrahams",
+        "Nicole DeHuff",
+        "Owen Wilson",
+        "James Rebhorn"
       ],
       "rank": 10,
-      "id": "tt33612209",
-      "name": "El diablo viste de Prada 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.022,
-      "year": 2026,
+      "id": "tt0212338",
+      "name": "Los padres de ella",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
+      "rating": 6.701,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

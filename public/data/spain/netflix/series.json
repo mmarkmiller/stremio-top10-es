@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -92,71 +92,8 @@
       "id": "tt42767924",
       "name": "El intercambio",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
-      "rating": 4.682,
+      "rating": 4.4,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
-      "director": [],
-      "cast": [
-        "Natalia Reyes",
-        "Luna Baxter",
-        "Mariana Gómez",
-        "Robinson Díaz",
-        "Carlos-Manuel Vesga",
-        "Santiago Alarcón",
-        "Jose Restrepo",
-        "Camilo Amores"
-      ],
-      "rank": 4,
-      "id": "tt37762350",
-      "name": "Palacio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
-      "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
-      "director": [],
-      "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Sheila Carrasco"
-      ],
-      "rank": 5,
-      "id": "tt11379026",
-      "name": "Fantasmas (US)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,11 +118,70 @@
         "김민하",
         "이희준"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt36458668",
       "name": "Un trabajo maldito",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-      "rating": 7.6,
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "director": [],
+      "cast": [
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
+      ],
+      "rank": 5,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.663,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.9,
       "year": 2026,
       "days": null,
       "trend": {
@@ -227,56 +223,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
       "genres": [
         "Drama",
-        "War & Politics"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
       "director": [],
       "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
+        "Josh Hartnett",
+        "Mackenzie Davis",
+        "Charlie Heaton",
+        "Ruby Stokes",
+        "Kaleb Horn",
+        "Rohan Campbell",
+        "Willow Kean"
       ],
       "rank": 8,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.657,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
-      ],
-      "rank": 9,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.927,
+      "id": "tt35934755",
+      "name": "Bajo la superficie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -286,32 +254,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
+      "description": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAWMn48DOSq6NNCdc0VBLU4XJFd.png",
+      "director": [],
+      "cast": [
+        "Natalia Reyes",
+        "Luna Baxter",
+        "Mariana Gómez",
+        "Robinson Díaz",
+        "Carlos-Manuel Vesga",
+        "Santiago Alarcón",
+        "Jose Restrepo",
+        "Camilo Amores"
+      ],
+      "rank": 9,
+      "id": "tt37762350",
+      "name": "Palacio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
       "genres": [
         "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
-      "director": [
-        "Juan Cavestany",
-        "Álvaro Fernández Armero"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+      "director": [],
       "cast": [
-        "Antonio de la Torre",
-        "Alexandra Jiménez",
-        "Enric Benavent",
-        "Fernando Andina",
-        "Celia de Molina",
-        "Teresa Rabal",
-        "Mercedes Sampietro"
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
       ],
       "rank": 10,
-      "id": "tt39387986",
-      "name": "Grande de España",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "rating": 5.7,
-      "year": 2026,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.305,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

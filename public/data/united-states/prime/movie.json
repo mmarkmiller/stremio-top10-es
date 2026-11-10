@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,45 +32,8 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.628,
+      "rating": 8.6,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras secuestrar a una madre de alquiler, dos fríos profesionales del crimen se ven envueltos en una espiral creciente de confusión y violencia.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pW9GDWAlOwHjLrNbar442etuw0m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tqbbMbYjJmSzXZKRIA0U0FXS2RI.png",
-      "runtime": "126 min",
-      "director": [
-        "Christopher McQuarrie"
-      ],
-      "cast": [
-        "Ryan Phillippe",
-        "Benicio del Toro",
-        "Juliette Lewis",
-        "Taye Diggs",
-        "Nicky Katt",
-        "Geoffrey Lewis",
-        "Scott Wilson",
-        "Dylan Kussman"
-      ],
-      "rank": 2,
-      "id": "tt0202677",
-      "name": "Secuestro infernal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
-      "rating": 6.4,
-      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -94,11 +57,11 @@
         "Magdalena Wieczorek",
         "Jacek Beler"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt27989255",
       "name": "Un destello de esperanza",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zCY2sZKFl9yDsUbuW6WMAx2j0Tt.jpg",
-      "rating": 5.85,
+      "rating": 5.851,
       "year": 2023,
       "days": null,
       "trend": {
@@ -108,62 +71,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Al regresar de Afganistán, Jessica, una marine de Spec OPS, se encuentra en una guerra que nunca imaginó y descubre que los suburbios del centro de Estados Unidos han cambiado cuando su hermana de trece años, Aimee, es secuestrada por traficantes sexuales.",
       "genres": [
         "Suspense",
-        "Crimen",
-        "Drama"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5QljQqDQLRw0y19zMI6Mkn0CEX2.jpg",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tfwTFlwMiitrbNNqwCBTne2eB0w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xl5btXauP0GVAuHS7LEfagKFiL.png",
+      "runtime": "100 min",
       "director": [
-        "Steve Looker"
+        "Lee Whittaker"
       ],
       "cast": [
-        "Tommy Walton",
-        "Elijah James"
+        "Jet Jandreau",
+        "Alison Jaye Horowitz",
+        "Ana Alexander",
+        "Eric Pierce",
+        "Jamie Timmons",
+        "Julien Cesario",
+        "Laur Allen",
+        "Terence J. Rotolo"
       ],
-      "rank": 4,
-      "id": "tmdb:1539113",
-      "name": "Ignition",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qFpUA65ll19wkfJPKZN2NwxakP.jpg",
-      "rating": 4.8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
-      "director": [
-        "Kyle Balda"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
-      ],
-      "rank": 5,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.893,
-      "year": 2026,
+      "rank": 3,
+      "id": "tt5660834",
+      "name": "El último disparo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6ZO28AmFatUHKwW3LYzBsJvUSs.jpg",
+      "rating": 7,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -194,11 +128,11 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
-      "rating": 7.418,
+      "rating": 7.419,
       "year": 2019,
       "days": null,
       "trend": {
@@ -230,12 +164,76 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.7,
+      "rating": 6.668,
       "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wH6FL75fcXrzuIECeEhaIzyh8Dy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cQbKWASW53ngJYmXhMZ3v7UqA2E.png",
+      "runtime": "103 min",
+      "director": [
+        "Sam Pollard"
+      ],
+      "cast": [
+        "Lovell Gates",
+        "Jakkar Thompson",
+        "Clayton B. Stevens"
+      ],
+      "rank": 7,
+      "id": "tt15514684",
+      "name": "The League",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vL2DZFvUFZwfvHSWi4IPNoNTpz2.jpg",
+      "rating": 6.2,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
+      "director": [
+        "Kyle Balda"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
+      ],
+      "rank": 8,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.89,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -264,11 +262,11 @@
         "Joe Spinell",
         "Jimmy Gambina"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0075148",
       "name": "Rocky",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.802,
+      "rating": 7.803,
       "year": 1976,
       "days": null,
       "trend": {
@@ -278,33 +276,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+      "description": "Sophie y Ethan están casados, pero su matrimonio está a punto de desmoronarse. Por orden de terapeuta, y para intentar salvar su relación, deciden pasar un fin de semana en una idílica casa de campo.",
       "genres": [
-        "Ciencia ficción",
+        "Romance",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png",
-      "runtime": "164 min",
+      "background": "https://image.tmdb.org/t/p/w1280/esgi4jftSi02EV1vkoWVr0OgiYx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ue9eaGcVBKDXEe8Gt6U6EDn1uMT.png",
+      "runtime": "91 min",
       "director": [
-        "Denis Villeneuve"
+        "Charlie McDowell"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Harrison Ford",
-        "Ana de Armas",
-        "Dave Bautista",
-        "Robin Wright",
-        "Sylvia Hoeks",
-        "Mackenzie Davis",
-        "Jared Leto"
+        "Mark Duplass",
+        "Elisabeth Moss",
+        "Ted Danson",
+        "Kiana Cason",
+        "Kaitlyn Dodson",
+        "Lori Farrar",
+        "Marlene Malin",
+        "Tim Peddicord"
       ],
       "rank": 10,
-      "id": "tt1856101",
-      "name": "Blade Runner 2049",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
-      "rating": 7.613,
-      "year": 2017,
+      "id": "tt2756032",
+      "name": "The One I Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ewsYTI6KKQw3IDPFmVVbHq89kxv.jpg",
+      "rating": 6.9,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.6,
+      "rating": 7.615,
       "year": 2023,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt36834010",
       "name": "Gail Daughtry y el vale por un rollo VIP",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.348,
+      "rating": 6.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -139,7 +139,7 @@
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.7,
+      "rating": 6.724,
       "year": 2016,
       "days": null,
       "trend": {
@@ -174,8 +174,73 @@
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.474,
+      "rating": 7.389,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
+      "runtime": "118 min",
+      "director": [
+        "Brett Harvey"
+      ],
+      "cast": [
+        "Dane Cook",
+        "Al Del Bene",
+        "Kelsi Cook",
+        "Courtney Cook"
+      ],
+      "rank": 6,
+      "id": "tt23148884",
+      "name": "Funny Money: The Dane Cook Story",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fuJyE2qVxL5ihvAt5WNH5FolGQm.png",
+      "runtime": "101 min",
+      "director": [
+        "Tommy Wirkola"
+      ],
+      "cast": [
+        "David Harbour",
+        "John Leguizamo",
+        "Beverly D'Angelo",
+        "Alex Hassell",
+        "Alexis Louder",
+        "Edi Patterson",
+        "Cam Gigandet",
+        "Leah Brady"
+      ],
+      "rank": 7,
+      "id": "tt12003946",
+      "name": "Noche de paz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
+      "rating": 7.201,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -207,11 +272,11 @@
         "Christopher Woodley",
         "Jacob Estrada"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt31049299",
       "name": "Animales",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.919,
+      "rating": 6.908,
       "year": 2026,
       "days": null,
       "trend": {
@@ -221,27 +286,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
       "genres": [
-        "Documental"
+        "Historia",
+        "Suspense",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
-      "runtime": "118 min",
+      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
+      "runtime": "120 min",
       "director": [
-        "Brett Harvey"
+        "Sean Ellis"
       ],
       "cast": [
-        "Dane Cook",
-        "Al Del Bene",
-        "Kelsi Cook",
-        "Courtney Cook"
+        "Jamie Dornan",
+        "Cillian Murphy",
+        "Charlotte Le Bon",
+        "Anna Geislerová",
+        "Harry Lloyd",
+        "Toby Jones",
+        "Alena Mihulová",
+        "Marcin Dorociński"
       ],
-      "rank": 7,
-      "id": "tt23148884",
-      "name": "Funny Money: The Dane Cook Story",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
-      "rating": null,
-      "year": 2026,
+      "rank": 9,
+      "id": "tt4190530",
+      "name": "Operación Anthropoid",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
+      "rating": 7.1,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -250,106 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra una historia ambientada en Nueva York en 1981, estadísticamente el año más violento de la historia en la ciudad norteamericana. En ese contexto, un inmigrante y su familia intentan sacar su negocio adelante mientras la violencia y la corrupción amenazan con destruir todo lo que han logrado hasta ese momento.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l1JXogJ2q3EAhGUxrnLGb7VyKQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aunqwUcwREJUCKSMJD7rZx3e1wu.png",
-      "runtime": "125 min",
-      "director": [
-        "J.C. Chandor"
-      ],
-      "cast": [
-        "Oscar Isaac",
-        "Jessica Chastain",
-        "David Oyelowo",
-        "Alessandro Nivola",
-        "Elyes Gabel",
-        "Albert Brooks",
-        "Catalina Sandino Moreno",
-        "Peter Gerety"
-      ],
-      "rank": 8,
-      "id": "tt2937898",
-      "name": "El año más violento",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bBR5wrEQslwahDHTqPrqfkAZ5Dm.jpg",
-      "rating": 6.596,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.",
+      "description": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
       "genres": [
         "Acción",
         "Comedia",
-        "Fantasía"
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuJyE2qVxL5ihvAt5WNH5FolGQm.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phAN9Ld2J3kivaf6PpXOrXntY4z.png",
+      "runtime": "120 min",
       "director": [
-        "Tommy Wirkola"
+        "Guy Ritchie"
       ],
       "cast": [
-        "David Harbour",
-        "John Leguizamo",
-        "Beverly D'Angelo",
-        "Alex Hassell",
-        "Alexis Louder",
-        "Edi Patterson",
-        "Cam Gigandet",
-        "Leah Brady"
-      ],
-      "rank": 9,
-      "id": "tt12003946",
-      "name": "Noche de paz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
-      "rating": 7.202,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png",
-      "runtime": "130 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Christian Bale",
-        "Michael Caine",
-        "Piper Perabo",
-        "Rebecca Hall",
-        "Scarlett Johansson",
-        "Samantha Mahurin",
-        "David Bowie"
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer",
+        "Babs Olusanmokun",
+        "Hero Fiennes Tiffin"
       ],
       "rank": 10,
-      "id": "tt0482571",
-      "name": "El truco final (El prestigio)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg",
-      "rating": 8.213,
-      "year": 2006,
+      "id": "tt5177120",
+      "name": "El ministerio de la guerra sucia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+      "rating": 6.992,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

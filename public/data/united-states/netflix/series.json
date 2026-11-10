@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -59,7 +59,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.5,
+      "rating": 8.491,
       "year": 2022,
       "days": null,
       "trend": {
@@ -91,7 +91,7 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.657,
+      "rating": 7.663,
       "year": 2023,
       "days": null,
       "trend": {
@@ -119,7 +119,7 @@
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.31,
+      "rating": 7.305,
       "year": 2024,
       "days": null,
       "trend": {
@@ -146,7 +146,39 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.927,
+      "rating": 7.9,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "director": [],
+      "cast": [
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts",
+        "Stephen Spinella",
+        "Jason Veasey",
+        "Eliza Coupe"
+      ],
+      "rank": 6,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -162,6 +194,7 @@
         "Crimen"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAWMn48DOSq6NNCdc0VBLU4XJFd.png",
       "director": [],
       "cast": [
         "Natalia Reyes",
@@ -173,7 +206,7 @@
         "Jose Restrepo",
         "Camilo Amores"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt37762350",
       "name": "Palacio",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
@@ -204,11 +237,11 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.14,
+      "rating": 7.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -235,7 +268,7 @@
         "Mary Lynn Rajskub",
         "Keira Cooper"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt27370649",
       "name": "Al norte del norte",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/SQhPDkO06XzK9jXnY27IqHb6iV.jpg",
@@ -249,61 +282,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
-      "director": [],
-      "cast": [
-        "Ellen Pompeo",
-        "Chandra Wilson",
-        "James Pickens Jr.",
-        "Caterina Scorsone",
-        "Camilla Luddington",
-        "Jason George",
-        "Chris Carmack",
-        "Anthony Hill"
-      ],
-      "rank": 9,
-      "id": "tt0413573",
-      "name": "Anatomía de Grey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
-      "rating": 8.2,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
       "genres": [
         "Comedia",
-        "Drama"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
       "director": [],
       "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts",
-        "Stephen Spinella",
-        "Jason Veasey",
-        "Eliza Coupe"
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
       ],
       "rank": 10,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.1,
-      "year": 2026,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.884,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }

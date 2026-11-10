@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611082001",
+  "date": "202611092353",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,11 +28,11 @@
         "Lhakpa Tsamchoe",
         "Jampa Kalsang Tamang"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.254,
+      "rating": 8.222,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,8 +104,78 @@
       "id": "tt1392214",
       "name": "Prisioneros",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.105,
+      "rating": 8.1,
       "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
+      "runtime": "128 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston"
+      ],
+      "rank": 5,
+      "id": "tt0097165",
+      "name": "El club de los poetas muertos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "rating": 8.295,
+      "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
+      "runtime": "127 min",
+      "director": [
+        "Sam Hargrave"
+      ],
+      "cast": [
+        "John Cena",
+        "Jessica Biel",
+        "Arturo Castro",
+        "Sam Richardson",
+        "Teyonah Parris",
+        "Danai Gurira",
+        "گلشیفته فراهانی",
+        "Corey Stoll"
+      ],
+      "rank": 6,
+      "id": "tt28498219",
+      "name": "Matchbox: La película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "rating": 7.578,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,7 +206,7 @@
         "Abigail Pniowsky",
         "Julia Scarlett Dan"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt2543164",
       "name": "La llegada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
@@ -172,82 +242,12 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.841,
+      "rating": 7.834,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
-      "director": [
-        "Sam Hargrave"
-      ],
-      "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
-      ],
-      "rank": 7,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.593,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
-      ],
-      "rank": 8,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
-      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -282,7 +282,7 @@
       "id": "tt0110912",
       "name": "Pulp Fiction",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "rating": 8.48,
+      "rating": 8.5,
       "year": 1994,
       "days": null,
       "trend": {
@@ -328,5 +328,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-08T17:39:15.936Z"
+  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
 }
