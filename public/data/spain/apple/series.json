@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.711,
+      "rating": 7.769,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.074,
+      "rating": 8.077,
       "year": 2022,
       "days": null,
       "trend": {
@@ -103,37 +103,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 4,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.013,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
       "genres": [
         "Comedia",
@@ -153,12 +122,43 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 7.971,
+      "rating": 7.924,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 5,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.819,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -199,29 +199,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "Comedia",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
       "director": [],
       "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
       ],
       "rank": 7,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.824,
-      "year": 2024,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.009,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -263,25 +263,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+      "description": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/34yURPkrtNaP3NYQJDI2SZOVXud.png",
       "director": [],
       "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Natalie Martinez",
+        "Brittany Ishibashi",
+        "Nolan Almeida",
+        "Ella Grace Helton",
+        "Noah Carganilla",
+        "Highdee Kuan"
       ],
       "rank": 9,
-      "id": "tt22202452",
-      "name": "Pluribus",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.923,
-      "year": 2025,
+      "id": "tt6773088",
+      "name": "Brothers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "rating": 6.724,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,31 +294,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Imagina un mundo donde la carrera espacial global nunca terminó. Entra en un cautivante \"qué pasaría si\" en la historia, donde el programa espacial de la NASA sigue siendo la pieza central cultural de las esperanzas y sueños de Estados Unidos.",
+      "description": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "War & Politics"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vi0TpQbbZ8FWTRBmawbvegMRbtc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8k3S1C8cSt0PKHYFd19kNA9xXO0.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aSOrTfmIL211gjenXoRzvBoxgYv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tU6BED5yRnEkaesZwpIBODNAGJ9.png",
       "director": [],
       "cast": [
-        "Toby Kebbell",
-        "Mireille Enos",
-        "Edi Gathegi",
-        "Cynthy Wu",
-        "Coral Peña",
-        "Costa Ronin",
-        "Sean Kaufman",
-        "Ruby Cruz"
+        "Seth Rogen",
+        "Catherine O'Hara",
+        "Ike Barinholtz",
+        "Chase Sui Wonders",
+        "Kathryn Hahn"
       ],
       "rank": 10,
-      "id": "tt7772588",
-      "name": "Para toda la humanidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
-      "rating": 7.749,
-      "year": 2019,
+      "id": "tt23649128",
+      "name": "The Studio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qPu7IVfA4RYyCzd6kq0lFgeNgck.jpg",
+      "rating": 7.774,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

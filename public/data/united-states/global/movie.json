@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,44 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.615,
+      "rating": 7.616,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
+      "genres": [
+        "Historia",
+        "Suspense",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
+      "runtime": "120 min",
+      "director": [
+        "Sean Ellis"
+      ],
+      "cast": [
+        "Jamie Dornan",
+        "Cillian Murphy",
+        "Charlotte Le Bon",
+        "Anna Geislerová",
+        "Harry Lloyd",
+        "Toby Jones",
+        "Alena Mihulová",
+        "Marcin Dorociński"
+      ],
+      "rank": 2,
+      "id": "tt4190530",
+      "name": "Operación Anthropoid",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
+      "rating": 7.128,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -60,11 +96,11 @@
         "Penélope Cruz",
         "Edward Norton"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.206,
+      "rating": 7.202,
       "year": 2026,
       "days": null,
       "trend": {
@@ -96,11 +132,46 @@
         "Marisa Coughlan",
         "Nat Faxon"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt8820258",
       "name": "Super Troopers 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
       "rating": 6.259,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
+      "runtime": "103 min",
+      "director": [
+        "Chris Rock"
+      ],
+      "cast": [
+        "Rosalind Eleazar",
+        "Adam Driver",
+        "Daniel Kaluuya",
+        "Anna Kendrick",
+        "Chris Rock",
+        "Topher Grace",
+        "Alexandra Shipp",
+        "Amy Landecker"
+      ],
+      "rank": 5,
+      "id": "tt34385184",
+      "name": "Verde Brumoso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -131,11 +202,11 @@
         "Henry Lloyd-Hughes",
         "Elizabeth Marvel"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.421,
+      "rating": 7.417,
       "year": 2026,
       "days": null,
       "trend": {
@@ -145,31 +216,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "description": "Un grupo de terroristas rusos se hacen pasar por periodistas y secuestran el avión donde viaja el presidente de Estados Unidos. La negociación en el aire no es tan sencilla como en tierra y los secuestrados comenzarán a luchar por sus vidas.",
       "genres": [
-        "Comedia"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-      "runtime": "94 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8JIPjSvx1LdtQZTpr3VR2hagU84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7vWd2GXi6KvzBPMnYKM5800yydb.png",
+      "runtime": "124 min",
       "director": [
-        "David Wain"
+        "Wolfgang Petersen"
       ],
       "cast": [
-        "Zoey Deutch",
-        "John Slattery",
-        "Ken Marino",
-        "Miles Gutierrez-Riley",
-        "Ben Wang",
-        "Sabrina Impacciatore",
-        "Jon Hamm",
-        "Joe Lo Truglio"
+        "Harrison Ford",
+        "Gary Oldman",
+        "Glenn Close",
+        "Wendy Crewson",
+        "Liesel Matthews",
+        "Paul Guilfoyle",
+        "Xander Berkeley",
+        "William H. Macy"
       ],
-      "rank": 5,
-      "id": "tt36834010",
-      "name": "Gail Daughtry y el vale por un rollo VIP",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.4,
+      "rank": 7,
+      "id": "tt0118571",
+      "name": "Air Force One (El avión del presidente)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
+      "rating": 6.466,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "runtime": "109 min",
+      "director": [
+        "Curry Barker"
+      ],
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
+      ],
+      "rank": 8,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -202,11 +309,11 @@
         "Gregg Gilmore",
         "Jamald Gardner"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.625,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -216,140 +323,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
       "director": [
-        "Curry Barker"
+        "David Wain"
       ],
       "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald",
-        "Darin Toonder",
-        "Anthony Pavone"
-      ],
-      "rank": 7,
-      "id": "tt37287335",
-      "name": "Obsession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.167,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-      "genres": [
-        "Acción",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4WjblrBxsBnOgkYZAQP3KnNEjiO.png",
-      "runtime": "127 min",
-      "director": [
-        "Paul Greengrass"
-      ],
-      "cast": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller",
-        "Woody Norman"
-      ],
-      "rank": 8,
-      "id": "tt36983905",
-      "name": "El hombre que desafió al rey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
-      "rating": 7.81,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 9,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
       ],
       "rank": 10,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.996,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -359,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

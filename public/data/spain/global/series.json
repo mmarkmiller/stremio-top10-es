@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.637,
+      "rating": 8.638,
       "year": 2025,
       "days": null,
       "trend": {
@@ -38,32 +38,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
       "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yIZq5hr4ztF5ntlGv1QsgwgvBfT.png",
-      "director": [
-        "Tom Goris",
-        "Vianney Lebasque"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "director": [],
       "cast": [
-        "Carmen Kassovitz",
-        "Baptiste Masseline",
-        "Prune Pauchet",
-        "Esteban Vial",
-        "Madior Fall",
-        "Félix Nebel",
-        "Cassandra Cano",
-        "Eloïse Rey"
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
       ],
       "rank": 2,
-      "id": "tt39943756",
-      "name": "Campus Drivers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "rating": 8.1,
-      "year": 2026,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.414,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -92,7 +85,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
-      "rating": 7,
+      "rating": 7.044,
       "year": 2024,
       "days": null,
       "trend": {
@@ -134,62 +127,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "description": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
       "genres": [
-        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yIZq5hr4ztF5ntlGv1QsgwgvBfT.png",
+      "director": [
+        "Tom Goris",
+        "Vianney Lebasque"
+      ],
       "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "Orla Brady",
-        "Diane Morgan",
-        "Henry Lewis"
+        "Carmen Kassovitz",
+        "Baptiste Masseline",
+        "Prune Pauchet",
+        "Esteban Vial",
+        "Madior Fall",
+        "Félix Nebel",
+        "Cassandra Cano",
+        "Eloïse Rey"
       ],
       "rank": 5,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.618,
+      "id": "tt39943756",
+      "name": "Campus Drivers",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "rating": 8.1,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt",
-        "Constance Wu",
-        "Tom Hopper",
-        "Dar Salim",
-        "Ольга Куриленко",
-        "Yul Vazquez",
-        "Costa Ronin",
-        "Jeremy Bobb"
-      ],
-      "rank": 6,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -217,11 +180,11 @@
         "Poorna Jagannathan",
         "Gary Carr"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.711,
+      "rating": 7.769,
       "year": 2026,
       "days": null,
       "trend": {
@@ -231,32 +194,62 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
-      "director": [
-        "Kasper Barfoed"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "director": [],
       "cast": [
-        "Emma Appleton",
-        "Fares Fares",
-        "Frida Gustavsson",
-        "Jakob Oftebro",
-        "Anna Bjelkerud",
-        "Magnus Krepper",
-        "Diarmuid Noyes",
-        "Lars Väringer"
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Henry Lewis"
+      ],
+      "rank": 7,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
       ],
       "rank": 8,
-      "id": "tt42767924",
-      "name": "El intercambio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
-      "rating": 4.4,
-      "year": 2026,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 7.997,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -298,29 +291,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
       "director": [],
       "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas",
-        "Hugo Weaving",
-        "Saskia Reeves",
-        "Christopher Chung",
-        "Aimee-Ffion Edwards"
+        "Carrie Coon",
+        "Morgan Spector",
+        "Louisa Jacobson",
+        "Denée Benton",
+        "Taissa Farmiga",
+        "Harry Richardson",
+        "Blake Ritson",
+        "Simon Jones"
       ],
       "rank": 10,
-      "id": "tt5875444",
-      "name": "Slow Horses",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.074,
+      "id": "tt4406178",
+      "name": "La edad dorada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
+      "rating": 7.7,
       "year": 2022,
       "days": null,
       "trend": {
@@ -330,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt1951265",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
@@ -68,8 +68,79 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
+      "rating": 8.627,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Stavros Halkias",
+        "Leo Woodall",
+        "Monica Raymund",
+        "Michael Jibrin",
+        "Rich Sommer"
+      ],
+      "rank": 4,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.35,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La última entrega de 'Los Juegos del Hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow. Con la ayuda de algunos amigos, entre ellos Gale, Finnick y Peeta, arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9zWWAL8LciOBXvAArLn9mtGvRzQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vxhnQ8AisOER6bUTa4Qb3qDDXiW.png",
+      "runtime": "137 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
+      ],
+      "rank": 5,
+      "id": "tt1951266",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
+      "rating": 6.898,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,11 +171,11 @@
         "Santiago Vaca Narvaja",
         "Mario Mayo"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt37522541",
       "name": "Apocalipsis Z: Nuevo mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.129,
+      "rating": 6.187,
       "year": 2026,
       "days": null,
       "trend": {
@@ -136,7 +207,7 @@
         "Lenny Kravitz",
         "Philip Seymour Hoffman"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt1951264",
       "name": "Los Juegos del Hambre: En llamas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
@@ -150,34 +221,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La última entrega de 'Los Juegos del Hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow. Con la ayuda de algunos amigos, entre ellos Gale, Finnick y Peeta, arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow.",
+      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9zWWAL8LciOBXvAArLn9mtGvRzQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vxhnQ8AisOER6bUTa4Qb3qDDXiW.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
+      "runtime": "155 min",
       "director": [
-        "Francis Lawrence"
+        "Denis Villeneuve"
       ],
       "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Jason Momoa",
+        "Stellan Skarsgård",
+        "Stephen McKinley Henderson",
+        "Josh Brolin",
+        "Javier Bardem"
       ],
-      "rank": 6,
-      "id": "tt1951266",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
-      "rating": 6.9,
-      "year": 2015,
+      "rank": 8,
+      "id": "tt1160419",
+      "name": "Dune",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
+      "rating": 7.786,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -206,11 +276,11 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.819,
+      "rating": 7.8,
       "year": 2023,
       "days": null,
       "trend": {
@@ -220,103 +290,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Matt Johnson"
+        "Rachel Morrison"
       ],
       "cast": [
-        "Dominic Sessa",
-        "Antonio Banderas",
-        "Emilia Jones",
-        "Stavros Halkias",
-        "Leo Woodall",
-        "Monica Raymund",
-        "Michael Jibrin",
-        "Rich Sommer"
-      ],
-      "rank": 8,
-      "id": "tt33095251",
-      "name": "Tony",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.373,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
-      "director": [
-        "Ben Wheatley"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
-      ],
-      "rank": 9,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ekKD8MTZxgTS35QSw0mLdgPjHzN.png",
-      "runtime": "99 min",
-      "director": [
-        "Mark Vanselow"
-      ],
-      "cast": [
-        "Liam Neeson",
-        "Marisa Tomei",
-        "Ving Rhames",
-        "Marcus Thomas",
-        "Michael Chiklis",
-        "Maurice Marvel Meredith",
-        "Brett Tucker",
-        "Ryan Morgan"
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
       "rank": 10,
-      "id": "tt13611778",
-      "name": "La mangosta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "rating": 5.63,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.686,
       "year": 2026,
       "days": null,
       "trend": {
@@ -326,5 +325,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -26,7 +26,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
-      "rating": 7,
+      "rating": 7.044,
       "year": 2024,
       "days": null,
       "trend": {
@@ -59,7 +59,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.491,
+      "rating": 8.49,
       "year": 2022,
       "days": null,
       "trend": {
@@ -106,10 +106,7 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
-      "director": [
-        "Robert King",
-        "Michelle King"
-      ],
+      "director": [],
       "cast": [
         "Mike Colter",
         "Rachel Keller",
@@ -122,40 +119,7 @@
       "id": "tt33270224",
       "name": "Cupertino",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/70AhJpOqU2oKyQF2paJA764CSje.jpg",
-      "rating": 5.522,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
-      "director": [],
-      "cast": [
-        "Liev Schreiber",
-        "Zazie Beetz",
-        "Stephen Graham",
-        "Bill Camp",
-        "Rory Culkin",
-        "Chrissy Metz",
-        "Poorna Jagannathan",
-        "Gary Carr"
-      ],
-      "rank": 5,
-      "id": "tt26598805",
-      "name": "Nocturno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.711,
+      "rating": 5.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -183,11 +147,11 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.637,
+      "rating": 8.638,
       "year": 2025,
       "days": null,
       "trend": {
@@ -197,29 +161,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
       "director": [],
       "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "Orla Brady",
-        "Diane Morgan",
-        "Henry Lewis"
+        "Liev Schreiber",
+        "Zazie Beetz",
+        "Stephen Graham",
+        "Bill Camp",
+        "Rory Culkin",
+        "Chrissy Metz",
+        "Poorna Jagannathan",
+        "Gary Carr"
       ],
-      "rank": 7,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.618,
+      "rank": 6,
+      "id": "tt26598805",
+      "name": "Nocturno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "rating": 7.769,
       "year": 2026,
       "days": null,
       "trend": {
@@ -247,12 +212,44 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.663,
+      "rating": 7.643,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Henry Lewis"
+      ],
+      "rank": 8,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,7 +277,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.617,
+      "rating": 8.615,
       "year": 2026,
       "days": null,
       "trend": {
@@ -290,30 +287,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
       "director": [],
       "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
+        "Ben Barnes",
+        "Joe Freeman",
+        "Simone Miller",
+        "Fionn Laird",
+        "Hannah Galway",
+        "Robert Joy",
+        "Mary-Louise Parker"
       ],
       "rank": 10,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.6,
+      "id": "tt10946316",
+      "name": "El Instituto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+      "rating": 7.5,
       "year": 2025,
       "days": null,
       "trend": {
@@ -323,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

@@ -2,41 +2,8 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "María y Verónica son dos inmigrantes españolas de diferentes generaciones que se encuentran en un hospital en Bélgica. Allí comienzan a forjar una relación de amistad e intimidad hasta que un inesperado acontecimiento llevará a María, la mayor, a emprender un viaje al sur de España en busca de la familia de Verónica. Una vez allí, María comenzará a cuestionarse sus más sólidos principios.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dC5xCuYVCvmHIek74fT0iK2DVHa.jpg",
-      "runtime": "109 min",
-      "director": [
-        "David Martín de los Santos"
-      ],
-      "cast": [
-        "Petra Martínez",
-        "Anna Castillo",
-        "Florin Piersic Jr.",
-        "Ramón Barea",
-        "Daniel Morilla",
-        "Jordi Gimeno",
-        "Alina Nastase",
-        "Pilar Gómez"
-      ],
-      "rank": 1,
-      "id": "tt10395398",
-      "name": "La vida era eso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PK4ajsmuLCVCFnaine0Z08bH4y.jpg",
-      "rating": 6,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
@@ -61,12 +28,81 @@
         "Luz Valdenebro",
         "Víctor Duplá"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.295,
+      "rating": 6.3,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f33XdT6dwNXmXQNvQ4FuyhQrUob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uGaexxqaUSrohObCiDdoZeh0Ytj.png",
+      "runtime": "121 min",
+      "director": [
+        "David Gordon Green"
+      ],
+      "cast": [
+        "Leslie Odom Jr.",
+        "Lidya Jewett",
+        "Olivia O'Neill",
+        "Ann Dowd",
+        "Jennifer Nettles",
+        "Norbert Leo Butz",
+        "Okwui Okpokwasili",
+        "Raphael Sbarge"
+      ],
+      "rank": 2,
+      "id": "tt12921446",
+      "name": "El exorcista: Creyente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
+      "rating": 5.794,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
+      "runtime": "157 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage",
+        "Jason Schwartzman",
+        "Hunter Schafer",
+        "Josh Rivera",
+        "Viola Davis",
+        "Fionnula Flanagan"
+      ],
+      "rank": 3,
+      "id": "tt10545296",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
+      "rating": 6.952,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -97,11 +133,11 @@
         "이중옥",
         "김종태"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt34385135",
       "name": "Zona cero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
-      "rating": 8.2,
+      "rating": 8.195,
       "year": 2026,
       "days": null,
       "trend": {
@@ -132,12 +168,47 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.296,
+      "rating": 8.291,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En otoño de 1967 Ron Jones, un profesor de historia de un instituto de Palo Alto en California, no tuvo respuesta para la pregunta de uno de sus alumnos: ¿Cómo es posible que el pueblo alemán alegue ignorancia respecto a la masacre del pueblo judío? En ese momento Jones decidió hacer un experimento con sus alumnos: implantó un régimen de extrema disciplina militar en el aula, restringiéndoles las libertades. Ante el asombro del profesor, los alumnos se entusiamaron hasta tal punto que a los pocos días empezaron a espiarse unos a otros y a acosar a los que no querían unirse al grupo. Al quinto día Ron Jones se vio obligado a acabar con el experimento antes de que las cosas llegaran demasiado lejos. El director alemán Dennis Gansel (Napola) ha trasladado esta experiencia a nuestros días y a su tierra natal: Alemania. Esta vez es el profesor quien hace la pregunta a sus alumnos: ¿Creéis que es imposible que otra dictadura vuelva a implantarse en Alemania? Y comienza el experimento…",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/59ZtjU5FfggxT6fgr1rm0a2JVaM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pS4JLVTQ01V4Gu4xuGYVzsJXZ7v.png",
+      "runtime": "107 min",
+      "director": [
+        "Dennis Gansel"
+      ],
+      "cast": [
+        "Jürgen Vogel",
+        "Frederick Lau",
+        "Max Riemelt",
+        "Jennifer Ulrich",
+        "Christiane Paul",
+        "Elyas M'Barek",
+        "Cristina do Rego",
+        "Jacob Matschenz"
+      ],
+      "rank": 6,
+      "id": "tt1063669",
+      "name": "La ola",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n6fN0aVbLEurQSobUUlj4EViYZD.jpg",
+      "rating": 7.487,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,12 +239,45 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.615,
+      "rating": 7.616,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "María y Verónica son dos inmigrantes españolas de diferentes generaciones que se encuentran en un hospital en Bélgica. Allí comienzan a forjar una relación de amistad e intimidad hasta que un inesperado acontecimiento llevará a María, la mayor, a emprender un viaje al sur de España en busca de la familia de Verónica. Una vez allí, María comenzará a cuestionarse sus más sólidos principios.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dC5xCuYVCvmHIek74fT0iK2DVHa.jpg",
+      "runtime": "109 min",
+      "director": [
+        "David Martín de los Santos"
+      ],
+      "cast": [
+        "Petra Martínez",
+        "Anna Castillo",
+        "Florin Piersic Jr.",
+        "Ramón Barea",
+        "Daniel Morilla",
+        "Jordi Gimeno",
+        "Alina Nastase",
+        "Pilar Gómez"
+      ],
+      "rank": 8,
+      "id": "tt10395398",
+      "name": "La vida era eso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2PK4ajsmuLCVCFnaine0Z08bH4y.jpg",
+      "rating": 6,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -204,7 +308,7 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt1951265",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
@@ -215,114 +319,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 8,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
-      "runtime": "157 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Tom Blyth",
-        "Rachel Zegler",
-        "Peter Dinklage",
-        "Jason Schwartzman",
-        "Hunter Schafer",
-        "Josh Rivera",
-        "Viola Davis",
-        "Fionnula Flanagan"
-      ],
-      "rank": 9,
-      "id": "tt10545296",
-      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.952,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 10,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.389,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

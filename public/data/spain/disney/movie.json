@@ -2,8 +2,42 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
+      "runtime": "128 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston"
+      ],
+      "rank": 1,
+      "id": "tt0097165",
+      "name": "El club de los poetas muertos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "rating": 8.295,
+      "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -29,11 +63,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.27,
+      "rating": 8.269,
       "year": 2026,
       "days": null,
       "trend": {
@@ -65,82 +99,12 @@
         "Evan Rachel Wood",
         "Alexandra Artrip"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0120791",
       "name": "Prácticamente magia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.836,
+      "rating": 6.831,
       "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
-      "genres": [
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png",
-      "runtime": "107 min",
-      "director": [
-        "Danny Boyle"
-      ],
-      "cast": [
-        "Cillian Murphy",
-        "Rose Byrne",
-        "Chris Evans",
-        "Michelle Yeoh",
-        "Cliff Curtis",
-        "Hiroyuki Sanada",
-        "Troy Garity",
-        "Benedict Wong"
-      ],
-      "rank": 3,
-      "id": "tt0448134",
-      "name": "Sunshine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
-      "rating": 6.975,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 4,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.395,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -173,11 +137,11 @@
         "Alfonso Arau",
         "Herbert Siguenza"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt2380307",
       "name": "Coco",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
-      "rating": 8.206,
+      "rating": 8.207,
       "year": 2017,
       "days": null,
       "trend": {
@@ -208,7 +172,7 @@
         "Mahershala Ali",
         "Glen Powell"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt4846340",
       "name": "Figuras ocultas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg",
@@ -222,104 +186,106 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "description": "En la selva del sureste de Asia se rueda una superproducción sobre la guerra de Vietnam en la que intervienen varias estrellas: Kirk Lazarus, un actor que ha ganado tres Oscar; Jeff Portnoy, estrella de una popular y grosera saga de películas, Alpa Chino, estrella del hip-hop metido a actor, y el novato Kevin Sandusky. A medida que avanza el rodaje, las cosas van de mal en peor, sobre todo para Damien, el director de la cinta. Llega un momento en que los actores, perdidos en mitad de la jungla, llegan a creer que Damien sigue rodando con cámaras ocultas; lo cierto es que están realmente perdidos y tienen que enfrentarse a una verdadera guerra y actuar como si fueran auténticos soldados si quieren salir con vida de ese infierno.",
       "genres": [
-        "Aventura",
+        "Comedia",
+        "Bélica",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zL1ZqqiBAmCh2QQfHFmYu1fmv3K.png",
+      "runtime": "107 min",
+      "director": [
+        "Ben Stiller"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert Downey Jr.",
+        "Jack Black",
+        "Jay Baruchel",
+        "Brandon T. Jackson",
+        "Brandon Soo Hoo",
+        "Matthew McConaughey",
+        "Tom Cruise"
+      ],
+      "rank": 6,
+      "id": "tt0942385",
+      "name": "Tropic Thunder, ¡una guerra muy perra!",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg",
+      "rating": 6.732,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de terroristas rusos se hacen pasar por periodistas y secuestran el avión donde viaja el presidente de Estados Unidos. La negociación en el aire no es tan sencilla como en tierra y los secuestrados comenzarán a luchar por sus vidas.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8JIPjSvx1LdtQZTpr3VR2hagU84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7vWd2GXi6KvzBPMnYKM5800yydb.png",
+      "runtime": "124 min",
+      "director": [
+        "Wolfgang Petersen"
+      ],
+      "cast": [
+        "Harrison Ford",
+        "Gary Oldman",
+        "Glenn Close",
+        "Wendy Crewson",
+        "Liesel Matthews",
+        "Paul Guilfoyle",
+        "Xander Berkeley",
+        "William H. Macy"
+      ],
+      "rank": 7,
+      "id": "tt0118571",
+      "name": "Air Force One (El avión del presidente)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
+      "rating": 6.466,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+      "genres": [
+        "Historia",
         "Drama",
         "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
+      "runtime": "177 min",
       "director": [
-        "Peter Weir"
+        "Mel Gibson"
       ],
       "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
-      ],
-      "rank": 7,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.21,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen",
+        "Brendan Gleeson",
+        "James Robinson",
+        "James Cosmo"
       ],
       "rank": 8,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
-      "year": 1989,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 9,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.957,
-      "year": 1999,
+      "id": "tt0112573",
+      "name": "Braveheart",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
+      "rating": 7.946,
+      "year": 1995,
       "days": null,
       "trend": {
         "dir": "same",
@@ -349,12 +315,47 @@
         "Owen Wilson",
         "James Rebhorn"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0212338",
       "name": "Los padres de ella",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
-      "rating": 6.701,
+      "rating": 6.7,
       "year": 2000,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 10,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.395,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

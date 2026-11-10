@@ -2,37 +2,8 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
-      "director": [],
-      "cast": [
-        "Linda Cardellini",
-        "William Catlett",
-        "Gwendolyn Sundstrom",
-        "Cameron Scoggins",
-        "Devin Kessler"
-      ],
-      "rank": 1,
-      "id": "tt23148340",
-      "name": "Crystal Lake",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.617,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
@@ -52,7 +23,7 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
@@ -66,30 +37,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+      "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
       "genres": [
         "Drama",
-        "Comedia"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
       "director": [],
       "cast": [
-        "Claudia Salas",
-        "Ana Torrent",
-        "Maribel Verdú",
-        "Carmen Maura",
-        "María León",
-        "Cecilia Suárez",
-        "Ana Mena",
-        "Clara Sans"
+        "Linda Cardellini",
+        "William Catlett",
+        "Gwendolyn Sundstrom",
+        "Cameron Scoggins",
+        "Devin Kessler"
       ],
-      "rank": 3,
-      "id": "tt32327588",
-      "name": "Furia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.468,
-      "year": 2025,
+      "rank": 2,
+      "id": "tt23148340",
+      "name": "Crystal Lake",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 8.615,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -117,11 +85,11 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.491,
+      "rating": 8.49,
       "year": 2022,
       "days": null,
       "trend": {
@@ -131,146 +99,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una comunidad atrapada en un conflicto brutal entre traficantes, policía y grupos paramilitares se une para luchar contra sus opresores.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j9ZUwzJFLsalano4RUG87w9QSwp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z3JB8qz5WVn0FhX8psDAZFn9lkE.png",
-      "director": [],
-      "cast": [
-        "Alexandre Rodrigues",
-        "Roberta Rodrigues",
-        "Andréia Horta",
-        "Sabrina Rosa",
-        "Dhonata Augusto",
-        "Shirley Cruz",
-        "Luellem de Castro",
-        "Kiko Marques"
-      ],
-      "rank": 5,
-      "id": "tt27535062",
-      "name": "Ciudad de Dios: La lucha sigue",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
-      "rating": 7.575,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
       "genres": [
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Claudia Salas",
+        "Ana Torrent",
+        "Maribel Verdú",
+        "Carmen Maura",
+        "María León",
+        "Cecilia Suárez",
+        "Ana Mena",
+        "Clara Sans"
       ],
-      "rank": 6,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.203,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 7,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.7,
+      "rank": 4,
+      "id": "tt32327588",
+      "name": "Furia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+      "rating": 6.516,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El oro es sinónimo de riqueza y lujo pero, como bien saben los espectadores de DMAX, detrás de la extracción del metal más preciado del mundo se esconden historias dramáticas y terribles, protagonizas por hombres que ponen sus cuerpos y sus mentes al límite para superar a los elementos y conseguir, finalmente, el preciado tesoro.",
-      "genres": [
-        "Reality"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/q6KX0rtjiFpXHRanPKNHFuKCK6I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dhoW3tgHqolJ862K0xHpaylgGYm.png",
-      "director": [],
-      "cast": [
-        "Parker Schnabel",
-        "Chris Doumitt",
-        "Paul Christie"
-      ],
-      "rank": 8,
-      "id": "tt1800864",
-      "name": "La fiebre del oro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Al6qqKb6F9lBafAZ0k8hIrZPQU8.jpg",
-      "rating": 7.198,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 9,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 7.057,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -297,7 +149,7 @@
         "Steven Van Zandt",
         "Tony Sirico"
       ],
-      "rank": 10,
+      "rank": 5,
       "id": "tt0141842",
       "name": "Los Soprano",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
@@ -308,8 +160,158 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una comunidad atrapada en un conflicto brutal entre traficantes, policía y grupos paramilitares se une para luchar contra sus opresores.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j9ZUwzJFLsalano4RUG87w9QSwp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z3JB8qz5WVn0FhX8psDAZFn9lkE.png",
+      "director": [],
+      "cast": [
+        "Alexandre Rodrigues",
+        "Roberta Rodrigues",
+        "Andréia Horta",
+        "Sabrina Rosa",
+        "Dhonata Augusto",
+        "Shirley Cruz",
+        "Luellem de Castro",
+        "Kiko Marques"
+      ],
+      "rank": 6,
+      "id": "tt27535062",
+      "name": "Ciudad de Dios: La lucha sigue",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+      "rating": 7.575,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "director": [],
+      "cast": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
+      ],
+      "rank": 7,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.405,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Relata el auge y la caída de la Fuerza Especial de Rastreo de Armas del Departamento de Policía de Baltimore y la corrupción y el colapso moral que sufrieron en una ciudad estadounidense en la que las políticas de prohibición de las drogas y los arrestos masivos se defendieron a expensas del trabajo policial real.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9PsOhpCNa4Vi3vaJt47rWn9XHTT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cOcpJkgKzNDLqEqVoodSR5XKJaf.png",
+      "director": [],
+      "cast": [
+        "Jon Bernthal",
+        "Wunmi Mosaku",
+        "Jamie Hector",
+        "Josh Charles",
+        "McKinley Belcher III",
+        "Rob Brown",
+        "David Corenswet",
+        "Dagmara Dominczyk"
+      ],
+      "rank": 8,
+      "id": "tt14192504",
+      "name": "La ciudad es nuestra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gWlZRCE9ttL99UK1aIOq8GvKL0Y.jpg",
+      "rating": 7.158,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 9,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.197,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
+      "director": [],
+      "cast": [
+        "Noah Reid",
+        "Clark Backo",
+        "Hudson Williams",
+        "Carrie-Anne Moss"
+      ],
+      "rank": 10,
+      "id": "tt39980704",
+      "name": "Yaga",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 7.421,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,35 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.637,
+      "rating": 8.638,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "director": [],
+      "cast": [
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
+      ],
+      "rank": 2,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.414,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -57,72 +84,12 @@
         "Kadia Saraf",
         "Dominic Fumusa"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
       "rating": 8.6,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
-      "director": [],
-      "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
-      ],
-      "rank": 3,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.414,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Jennifer Carpenter",
-        "Geoff Pierson",
-        "David Zayas",
-        "James Remar",
-        "Aimee Garcia",
-        "Desmond Harrington",
-        "C.S. Lee"
-      ],
-      "rank": 4,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.242,
-      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,12 +117,45 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.317,
+      "rating": 8.319,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Logan Marshall-Green",
+        "Arielle Kebbel",
+        "Ash Santos",
+        "Tatanka Means",
+        "Brecken Merrill",
+        "Mo Brings Plenty",
+        "Gil Birmingham"
+      ],
+      "rank": 5,
+      "id": "tt36849871",
+      "name": "Marshals: Una historia de Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "rating": 7.971,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -196,31 +196,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
       "genres": [
-        "Drama",
         "Crimen",
-        "Action & Adventure"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Logan Marshall-Green",
-        "Arielle Kebbel",
-        "Ash Santos",
-        "Tatanka Means",
-        "Brecken Merrill",
-        "Mo Brings Plenty",
-        "Gil Birmingham"
+        "Michael C. Hall",
+        "Jennifer Carpenter",
+        "Geoff Pierson",
+        "David Zayas",
+        "James Remar",
+        "Aimee Garcia",
+        "Desmond Harrington",
+        "C.S. Lee"
       ],
       "rank": 7,
-      "id": "tt36849871",
-      "name": "Marshals: Una historia de Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 7.989,
-      "year": 2026,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+      "rating": 8.242,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -282,7 +282,7 @@
       "id": "tt32159809",
       "name": "The Paper",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-      "rating": 7.181,
+      "rating": 7.162,
       "year": 2025,
       "days": null,
       "trend": {
@@ -292,29 +292,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "description": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Familia"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ijZsJKzTffG7PiRyALGd8DkWu8G.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
       "director": [],
       "cast": [
-        "Saheli Khan",
-        "Aishwarya 'Aishu' Devan",
-        "Major Curda",
-        "Akshay Khanna",
-        "Sakina Jaffrey"
+        "Jean Smart",
+        "Hannah Einbinder",
+        "Carl Clemons-Hopkins",
+        "Paul W. Downs",
+        "Megan Stalter",
+        "Mark Indelicato",
+        "Rose Abdoo"
       ],
       "rank": 10,
-      "id": "tt35854736",
-      "name": "Avatar: Los Siete Refugios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-      "rating": 8.895,
-      "year": 2026,
+      "id": "tt11815682",
+      "name": "Hacks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "rating": 7.524,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

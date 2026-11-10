@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,38 +28,8 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.618,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
-      "director": [],
-      "cast": [
-        "Elijah Wood",
-        "Collin Dean",
-        "Melanie Lynskey"
-      ],
-      "rank": 2,
-      "id": "tt3718778",
-      "name": "Más allá del jardín",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
       "rating": 8.6,
-      "year": 2014,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -85,7 +55,7 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
@@ -115,11 +85,11 @@
         "Hank Azaria",
         "Harry Shearer"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0096697",
       "name": "Los Simpson",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "rating": 8.027,
+      "rating": 8.028,
       "year": 1989,
       "days": null,
       "trend": {
@@ -129,30 +99,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "description": "Los hermanos Wirt y Greg, se encuentran perdidos en Lo Desconocido: un bosque misterioso a la deriva en el tiempo. Con la ayuda de un sombrío leñador y una pájaro azul de nombre Beatriz, Wirt y Greg deben viajar a través de este extraño lugar con la esperanza de regresar a casa.\n\nMás allá del jardín (título original en inglés: Over the Garden Wall) es una miniserie animada estadounidense de 10 episodios, creada por Patrick McHale, y transmitida en Cartoon Network. El show está basado en un cortometraje del mismo McHale titulado como Tome of the unknown, que fue producido como parte de los cortos para programas en desarrollo de Cartoon Network Studios. McHale concibió la idea para esta serie en 2004, y la propuso para la cadena en 2006. Después de trabajar en Las maravillosas desventuras de Flapjack y Hora de aventura, la cadena le expresó su interés a McHale y crearon un piloto, el cual se convirtió en el catalizador para Más allá del jardín.",
       "genres": [
-        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nQ0EZKbC2YtczfVLwyU5Hm9ESGe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ySQF6z2Jxr9yOcR7HD465zNCJ4K.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
+        "Elijah Wood",
+        "Collin Dean",
+        "Melanie Lynskey"
+      ],
+      "rank": 4,
+      "id": "tt3718778",
+      "name": "Más allá del jardín",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "rating": 8.6,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "director": [],
+      "cast": [
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 5,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.154,
-      "year": 2022,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.111,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,37 +181,8 @@
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.224,
+      "rating": 8.222,
       "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
-      "director": [],
-      "cast": [
-        "Josh Radnor",
-        "Neil Patrick Harris",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "rank": 7,
-      "id": "tt0460649",
-      "name": "Cómo conocí a vuestra madre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.111,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,11 +208,11 @@
         "Sonja Sohn",
         "Kevin Daniels"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt17543592",
       "name": "Will Trent, Agente Especial",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-      "rating": 7.309,
+      "rating": 7.321,
       "year": 2023,
       "days": null,
       "trend": {
@@ -254,27 +222,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
       "director": [],
       "cast": [
-        "松本梨香",
-        "Ikue Otani",
-        "Daiki Yamashita",
-        "Kenyu Horiuchi"
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri",
+        "Lionel Boyce",
+        "Abby Elliott",
+        "Matty Matheson",
+        "Liza Colón-Zayas",
+        "Edwin Lee Gibson"
       ],
-      "rank": 9,
-      "id": "tt0168366",
-      "name": "Pokémon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
-      "rating": 7.988,
-      "year": 1997,
+      "rank": 8,
+      "id": "tt14452776",
+      "name": "The Bear",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "rating": 8.153,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,26 +254,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "description": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
       "genres": [
-        "Comedia",
         "Misterio",
-        "Crimen"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qsVIaAvXxHXVVsU3WHs43H9eesX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vbz8B3pIrGjWKY6Y3OhUDVugHz8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png",
       "director": [],
       "cast": [
-        "Steve Martin",
-        "Martin Short",
-        "Selena Gómez"
+        "Teri Hatcher",
+        "Felicity Huffman",
+        "Marcia Cross",
+        "Eva Longoria",
+        "Ricardo Chavira",
+        "Doug Savant",
+        "James Denton",
+        "Brenda Strong"
+      ],
+      "rank": 9,
+      "id": "tt0410975",
+      "name": "Mujeres desesperadas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
+      "rating": 7.895,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
+      "genres": [
+        "Reality"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
+      "director": [],
+      "cast": [
+        "Parker Posey"
       ],
       "rank": 10,
-      "id": "tt11691774",
-      "name": "Solo asesinatos en el edificio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
-      "rating": 8.397,
-      "year": 2021,
+      "id": "tt42007258",
+      "name": "The Mob: Infiltrados en la villa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+      "rating": 3.5,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,5 +311,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }

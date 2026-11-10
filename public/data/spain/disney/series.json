@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611092353",
+  "date": "202611102132",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,41 +28,8 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.618,
+      "rating": 8.6,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "genres": [
-        "Action & Adventure",
-        "Comedia",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
-      "director": [],
-      "cast": [
-        "Mayumi Tanaka",
-        "Kazuya Nakai",
-        "矢口真里",
-        "Akemi Okamura",
-        "Kappei Yamaguchi",
-        "Hiroaki Hirata",
-        "Ikue Otani",
-        "Yuriko Yamaguchi"
-      ],
-      "rank": 2,
-      "id": "tt0388629",
-      "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.8,
-      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,11 +55,11 @@
         "이종석",
         "이세영"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 7.85,
+      "rating": 7.919,
       "year": 2026,
       "days": null,
       "trend": {
@@ -120,11 +87,11 @@
         "Colter Lee",
         "Mahaela Park"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt21952924",
       "name": "Farsante",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-      "rating": 7.3,
+      "rating": 7.455,
       "year": 2026,
       "days": null,
       "trend": {
@@ -153,12 +120,45 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "rating": 8.1,
       "year": 2011,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
+      "rank": 5,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "rating": 8.8,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,8 +187,36 @@
       "id": "tt39395275",
       "name": "Dragon Ball Super: Beerus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "rating": 9.636,
+      "rating": 9.6,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 7,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.529,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -211,11 +239,11 @@
         "Scoot McNairy",
         "Quincy Tyler Bernstine"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt36303968",
       "name": "Furious",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "rating": 7.474,
+      "rating": 7.456,
       "year": 2026,
       "days": null,
       "trend": {
@@ -225,86 +253,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
       "genres": [
-        "Drama",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
       "director": [],
       "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott",
-        "Matty Matheson",
-        "Liza Colón-Zayas",
-        "Edwin Lee Gibson"
-      ],
-      "rank": 8,
-      "id": "tt14452776",
-      "name": "The Bear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "rating": 8.154,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una espectacular villa en Italia, doce famosos forman una nueva familia donde el respeto se gana, la lealtad se pone a prueba y hay en juego un premio de hasta 250 000 dólares. En este reality competitivo de alto riesgo presentado por Parker Posey, los concursantes completan trabajos para ganar dinero y demostrar su compromiso con la familia. Quien supervisa todo es el Don, una figura imponente con poder para repartir el dinero y liquidar al miembro de la familia que le plazca. Pero el Don deberá mantener cerca a sus amigos y aún más cerca a sus enemigos, ya que su puesto no está garantizado y tendrá que hacer lo que sea para conservar el poder. Traiciones brutales, engaños y mentiras: el pan de cada día en \"The Mob: Infiltrados en la villa\".",
-      "genres": [
-        "Reality"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fYPMz1VhqgmaQ5ZIJtSqDDKxQlQ.png",
-      "director": [],
-      "cast": [
-        "Parker Posey"
+        "Josh Radnor",
+        "Neil Patrick Harris",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Cobie Smulders",
+        "Cristin Milioti"
       ],
       "rank": 9,
-      "id": "tt42007258",
-      "name": "The Mob: Infiltrados en la villa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-      "rating": 3.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/665dTNE4PNd1VOqMOMrSexyBnGE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zXiAigNpR4k44RVGry7kOh9SMya.png",
-      "director": [],
-      "cast": [
-        "Kim Kardashian",
-        "Naomi Watts",
-        "Niecy Nash-Betts",
-        "Teyana Taylor",
-        "Matthew Noszka",
-        "Sarah Paulson",
-        "Glenn Close",
-        "Cauã Reymond"
-      ],
-      "rank": 10,
-      "id": "tt30291387",
-      "name": "Todas las de la ley",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
-      "rating": 4.946,
-      "year": 2025,
+      "id": "tt0460649",
+      "name": "Cómo conocí a vuestra madre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "rating": 8.111,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,5 +282,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-09T21:38:56.433Z"
+  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
 }
