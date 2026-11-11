@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.638,
+      "rating": 8.647,
       "year": 2025,
       "days": null,
       "trend": {
@@ -38,25 +38,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "description": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png",
       "director": [],
       "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
+        "Morfydd Clark",
+        "Robert Aramayo",
+        "Owain Arthur",
+        "Sophia Nomvete",
+        "Markella Kavenagh",
+        "Ismael Cruz Cordova",
+        "Daniel Weyman"
       ],
       "rank": 2,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.414,
-      "year": 2023,
+      "id": "tt7631058",
+      "name": "El Señor de los Anillos: Los Anillos de Poder",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "rating": 7.2,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "T'Nia Miller",
+        "Orla Brady",
+        "Henry Lewis"
+      ],
+      "rank": 3,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.456,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -81,44 +117,12 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
-      "rating": 7.044,
+      "rating": 7.043,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
-      "director": [],
-      "cast": [
-        "Omar Sy",
-        "Ludivine Sagnier",
-        "Antoine Gouy",
-        "Soufiane Guerrab",
-        "Shirine Boutella",
-        "Théo Christine",
-        "Laïka Blanc-Francard"
-      ],
-      "rank": 4,
-      "id": "tt2531336",
-      "name": "Lupin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.678,
-      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,8 +154,8 @@
       "rank": 5,
       "id": "tt39943756",
       "name": "Campus Drivers",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "rating": 8.1,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
+      "rating": 8.407,
       "year": 2026,
       "days": null,
       "trend": {
@@ -184,7 +188,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.769,
+      "rating": 7.878,
       "year": 2026,
       "days": null,
       "trend": {
@@ -194,30 +198,89 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "description": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
       "director": [],
       "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "Orla Brady",
-        "Diane Morgan",
-        "Henry Lewis"
+        "Omar Sy",
+        "Ludivine Sagnier",
+        "Antoine Gouy",
+        "Soufiane Guerrab",
+        "Shirine Boutella",
+        "Théo Christine",
+        "Laïka Blanc-Francard"
       ],
       "rank": 7,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.6,
-      "year": 2026,
+      "id": "tt2531336",
+      "name": "Lupin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "rating": 7.677,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "director": [],
+      "cast": [
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
+      ],
+      "rank": 8,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.412,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
+      "rank": 9,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.9,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -244,75 +307,11 @@
         "Costa Ronin",
         "Jeremy Bobb"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.997,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
-      ],
-      "rank": 9,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.6,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/srKD87uP0PHHYngJAQQl47WP5HC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TBuHaVDNk3NieIrBbeskgeUurx.png",
-      "director": [],
-      "cast": [
-        "Carrie Coon",
-        "Morgan Spector",
-        "Louisa Jacobson",
-        "Denée Benton",
-        "Taissa Farmiga",
-        "Harry Richardson",
-        "Blake Ritson",
-        "Simon Jones"
-      ],
-      "rank": 10,
-      "id": "tt4406178",
-      "name": "La edad dorada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
-      "rating": 7.7,
+      "rating": 7.995,
       "year": 2022,
       "days": null,
       "trend": {
@@ -322,5 +321,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
 }

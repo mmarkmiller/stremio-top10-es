@@ -2,8 +2,38 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
+      "director": [],
+      "cast": [
+        "Owen Wilson",
+        "Peter Dager",
+        "Lilli Kay",
+        "Mariana Treviño",
+        "Timothy Olyphant",
+        "Marc Maron"
+      ],
+      "rank": 1,
+      "id": "tt31710249",
+      "name": "Sticks: Cracks del golf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
+      "rating": 7.3,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
@@ -25,42 +55,12 @@
         "Poorna Jagannathan",
         "Gary Carr"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.769,
+      "rating": 7.878,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
-      "director": [],
-      "cast": [
-        "Owen Wilson",
-        "Peter Dager",
-        "Lilli Kay",
-        "Mariana Treviño",
-        "Marc Maron",
-        "Rhea Seehorn"
-      ],
-      "rank": 2,
-      "id": "tt31710249",
-      "name": "Sticks: Cracks del golf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
-      "rating": 7.295,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -91,7 +91,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.077,
+      "rating": 8.074,
       "year": 2022,
       "days": null,
       "trend": {
@@ -124,38 +124,7 @@
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 7.924,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 5,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.009,
+      "rating": 7.897,
       "year": 2026,
       "days": null,
       "trend": {
@@ -182,11 +151,97 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.819,
+      "rating": 7.818,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
+      "director": [],
+      "cast": [
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
+      ],
+      "rank": 6,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.009,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "director": [],
+      "cast": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift",
+        "Brett Goldstein",
+        "Brendan Hunt",
+        "Juno Temple",
+        "Tanya Reynolds",
+        "Rex Hayes"
+      ],
+      "rank": 7,
+      "id": "tt10986410",
+      "name": "Ted Lasso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "rating": 8.362,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b1XPvVk0Ui4Kx3Nls7og0cpv6Rb.png",
+      "director": [],
+      "cast": [],
+      "rank": 8,
+      "id": "tt29011445",
+      "name": "Buscando a Wanda",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+      "rating": 6.556,
       "year": 2024,
       "days": null,
       "trend": {
@@ -214,44 +269,12 @@
         "Alexandria Riley",
         "Reed Birney"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "rating": 8.23,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "director": [],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift",
-        "Brett Goldstein",
-        "Brendan Hunt",
-        "Juno Temple",
-        "Tanya Reynolds",
-        "Rex Hayes"
-      ],
-      "rank": 8,
-      "id": "tt10986410",
-      "name": "Ted Lasso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.362,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,40 +300,12 @@
         "Noah Carganilla",
         "Highdee Kuan"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt6773088",
       "name": "Brothers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "rating": 6.724,
+      "rating": 6.7,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cora Seaborne, una viuda de Londres, se muda a Essex para investigar los rumores sobre una serpiente mitológica. Forma un sorprendente vínculo de ciencia y escepticismo con el pastor del pueblo, pero cuando ocurre una tragedia, los lugareños la acusan de atraer a la criatura.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wXPDaCGosh1BTHggpsoUQn2gBZi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4TBkTNojg2hfYdUtB37IT2mAI1N.png",
-      "director": [],
-      "cast": [
-        "Claire Danes",
-        "Tom Hiddleston",
-        "Frank Dillane",
-        "Clémence Poésy",
-        "Hayley Squires"
-      ],
-      "rank": 10,
-      "id": "tt12976224",
-      "name": "La serpiente de Essex",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cEgT4NBMGg57lzPI7NbfH72n7Ip.jpg",
-      "rating": 6.531,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T21:38:34.081Z"
 }

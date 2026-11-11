@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.616,
+      "rating": 7.617,
       "year": 2023,
       "days": null,
       "trend": {
@@ -78,32 +78,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
+      "description": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
       "genres": [
+        "Crimen",
         "Drama",
-        "Comedia"
+        "Romance",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/112sW296vEx3d71C8fzOqoFIomN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
+      "runtime": "107 min",
       "director": [
-        "Chris Rock"
+        "Adam Rehmeier"
       ],
       "cast": [
-        "Rosalind Eleazar",
-        "Adam Driver",
-        "Daniel Kaluuya",
-        "Anna Kendrick",
-        "Chris Rock",
-        "Topher Grace",
-        "Alexandra Shipp",
-        "Amy Landecker"
+        "Samara Weaving",
+        "Kyle Gallner",
+        "Kyra Sedgwick",
+        "Jon Gries",
+        "Tommy G. Kendrick",
+        "P.J. Sosko",
+        "Gregg Gilmore",
+        "Jamald Gardner"
       ],
       "rank": 3,
-      "id": "tt34385184",
-      "name": "Verde Brumoso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
-      "rating": 6.8,
+      "id": "tt33365126",
+      "name": "Carolina Caroline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "rating": 6.608,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
+      "director": [
+        "David Wain"
+      ],
+      "cast": [
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
+      ],
+      "rank": 4,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.4,
       "year": 2026,
       "days": null,
       "trend": {
@@ -134,7 +170,7 @@
         "Xander Berkeley",
         "William H. Macy"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt0118571",
       "name": "Air Force One (El avión del presidente)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
@@ -148,34 +184,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
+      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
       "genres": [
-        "Crimen",
         "Drama",
-        "Romance",
-        "Suspense"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/112sW296vEx3d71C8fzOqoFIomN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
+      "runtime": "103 min",
       "director": [
-        "Adam Rehmeier"
+        "Chris Rock"
       ],
       "cast": [
-        "Samara Weaving",
-        "Kyle Gallner",
-        "Kyra Sedgwick",
-        "Jon Gries",
-        "Tommy G. Kendrick",
-        "P.J. Sosko",
-        "Gregg Gilmore",
-        "Jamald Gardner"
+        "Rosalind Eleazar",
+        "Adam Driver",
+        "Daniel Kaluuya",
+        "Anna Kendrick",
+        "Chris Rock",
+        "Topher Grace",
+        "Alexandra Shipp",
+        "Amy Landecker"
       ],
-      "rank": 5,
-      "id": "tt33365126",
-      "name": "Carolina Caroline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.6,
+      "rank": 6,
+      "id": "tt34385184",
+      "name": "Verde Brumoso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "rating": 6.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,32 +219,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "description": "Un hombre y una mujer se despiertan pegados por el abdomen. David y Sara no se conocen. Ambos están desnudos. Ambos rondan los 35 años. Están en un lugar misterioso que no reconocen. Por el aspecto del lugar, parece una habitación de hotel. Tras el susto inicial, tratan de mantener la calma e intentar pensar porqué están ahí. No recuerdan cómo han llegado hasta la misteriosa habitación, ni qué hicieron las horas antes. David sugiere la posibilidad de que hayan sido drogados y secuestrados. Ambos deben confiar en el otro para desvelar el misterio, pero Sara sospecha de David. Mientras intentan atar cabos, descubren que estar pegados dificulta en extremo hasta las actividades más mundanas (además de hacer que aflore una inevitable atracción mutua a pesar de las circunstancias). Ambos se ven obligados a compartir con un desconocido sus secretos más íntimos y vergonzosos para poder descifrar el misterio.",
       "genres": [
-        "Comedia"
+        "Suspense",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-      "runtime": "94 min",
+      "background": "https://image.tmdb.org/t/p/w1280/Aqp47Dbz8f1wnVU1qKvFFXQFROr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZsoCNGvWrQQ5nZnepriCwNiM0b.png",
+      "runtime": "70 min",
       "director": [
-        "David Wain"
+        "Mar Targarona"
       ],
       "cast": [
-        "Zoey Deutch",
-        "John Slattery",
-        "Ken Marino",
-        "Miles Gutierrez-Riley",
-        "Ben Wang",
-        "Sabrina Impacciatore",
-        "Jon Hamm",
-        "Joe Lo Truglio"
+        "Pablo Derqui",
+        "Marina Gatell",
+        "Kandido Uranga",
+        "Anna Chincho Serrano",
+        "Esteban Galilea"
       ],
-      "rank": 6,
-      "id": "tt36834010",
-      "name": "Gail Daughtry y el vale por un rollo VIP",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.4,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt12358104",
+      "name": "Dos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v23nJWsYGaI3ysikMBWJgIjcGwL.jpg",
+      "rating": 5.371,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -239,11 +271,11 @@
         "정섶",
         "강창권"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.596,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -275,11 +307,11 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.724,
+      "rating": 6.726,
       "year": 2016,
       "days": null,
       "trend": {
@@ -289,65 +321,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El abogado penalista Léonard Landry sufre una sobredosis en el juzgado. Tras pasar por rehabilitación, dispone de una semana para preparar su propio juicio con la ayuda de una obstinada becaria. Comienza así una frenética carrera de maniobras legales, tentaciones y giros inesperados.",
+      "description": "Dos jóvenes motoristas de Los Ángeles emprenden un viaje hacia Nueva Orleáns. Cruzan todo el país con la intención de descubrir América. Después de vender cocaína a un hombre de Los Ángeles, Billy y Wiatt (alias Capitán América) asisten a la fiesta del Mardî Gras. Pronto reanudan el viaje y se van encontrando con personajes de lo más estrafalario, entre ellos un ranchero y su familia, o un autoestopista de una comuna hippie, antes de ser arrestados en un pueblecito por parar sin un permiso. Su compañero de celda, un abogado borracho, les hace un gran favor sacándoles de la cárcel y luego decide unirse a ellos.",
       "genres": [
-        "Suspense",
+        "Aventura",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-      "runtime": "121 min",
+      "background": "https://image.tmdb.org/t/p/w1280/78dHjJKxKZ8JbCm3lEMjDRulLp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m12m6wipcUdVIy9xHdMGCU2s2gx.png",
+      "runtime": "90 min",
       "director": [
-        "Tristan Séguéla"
+        "Dennis Hopper"
       ],
       "cast": [
-        "Laurent Lafitte",
-        "Anthony Bajon",
-        "Mélanie Laurent",
-        "Carole Bouquet",
-        "Gwendal Kerdelhue"
-      ],
-      "rank": 9,
-      "id": "tt39453578",
-      "name": "Un buen abogado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-      "rating": 7.125,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Fantasía"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuJyE2qVxL5ihvAt5WNH5FolGQm.png",
-      "runtime": "101 min",
-      "director": [
-        "Tommy Wirkola"
-      ],
-      "cast": [
-        "David Harbour",
-        "John Leguizamo",
-        "Beverly D'Angelo",
-        "Alex Hassell",
-        "Alexis Louder",
-        "Edi Patterson",
-        "Cam Gigandet",
-        "Leah Brady"
+        "Peter Fonda",
+        "Dennis Hopper",
+        "Jack Nicholson",
+        "Antonio Mendoza",
+        "Phil Spector",
+        "Mac Mashourian",
+        "Warren Finnerty",
+        "Tita Colorado"
       ],
       "rank": 10,
-      "id": "tt12003946",
-      "name": "Noche de paz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
-      "rating": 7.201,
-      "year": 2022,
+      "id": "tt0064276",
+      "name": "Easy Rider (Buscando mi destino)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aj7TJr1A2QzlAjx5fBxM4NLSObE.jpg",
+      "rating": 7.041,
+      "year": 1969,
       "days": null,
       "trend": {
         "dir": "same",
@@ -356,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T21:38:34.081Z"
 }

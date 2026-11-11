@@ -2,8 +2,152 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7pKcnJHGHEJQteBpEXbuNklf79.png",
+      "runtime": "125 min",
+      "director": [
+        "Chloé Zhao"
+      ],
+      "cast": [
+        "Jessie Buckley",
+        "Paul Mescal",
+        "Emily Watson",
+        "Joe Alwyn",
+        "Jacobi Jupe",
+        "Noah Jupe",
+        "Olivia Lynes",
+        "Justine Mitchell"
+      ],
+      "rank": 1,
+      "id": "tt14905854",
+      "name": "Hamnet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+      "rating": 7.722,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 2,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
+      "runtime": "98 min",
+      "director": [
+        "Michael Jelenic",
+        "Aaron Horvath"
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Charlie Day",
+        "Anya Taylor-Joy",
+        "Jack Black",
+        "Keegan-Michael Key",
+        "Benny Safdie",
+        "Donald Glover",
+        "Glen Powell"
+      ],
+      "rank": 3,
+      "id": "tt28650488",
+      "name": "Super Mario Galaxy la película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+      "rating": 8.179,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loqkFAOZ8egRaue7xcK6iQCcrVg.png",
+      "runtime": "108 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Ralph Fiennes",
+        "Clémence Poésy",
+        "Thekla Reuten",
+        "Jordan Prentice",
+        "Elizabeth Berrington",
+        "Jérémie Renier"
+      ],
+      "rank": 4,
+      "id": "tt0780536",
+      "name": "Escondidos en Brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
+      "rating": 7.502,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.",
@@ -26,7 +170,7 @@
         "Enric Auquer",
         "Blanca Apilánez"
       ],
-      "rank": 1,
+      "rank": 5,
       "id": "tt14104600",
       "name": "Un año, una noche",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg",
@@ -59,262 +203,12 @@
         "Manu Fullola",
         "Gerald B. Fillmore"
       ],
-      "rank": 2,
+      "rank": 6,
       "id": "tt13434790",
       "name": "Llegaron de noche",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgIIZO9TJTeyF233Q10ZHv8uFsb.jpg",
       "rating": 7.1,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "genres": [
-        "Familia",
-        "Comedia",
-        "Aventura",
-        "Fantasía",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
-      "runtime": "98 min",
-      "director": [
-        "Aaron Horvath",
-        "Michael Jelenic"
-      ],
-      "cast": [
-        "Chris Pratt",
-        "Charlie Day",
-        "Anya Taylor-Joy",
-        "Jack Black",
-        "Keegan-Michael Key",
-        "Benny Safdie",
-        "Donald Glover",
-        "Glen Powell"
-      ],
-      "rank": 3,
-      "id": "tt28650488",
-      "name": "Super Mario Galaxy la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.18,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 4,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
-      "runtime": "92 min",
-      "director": [
-        "Ilya Naishuller"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Aleksey Serebryakov",
-        "Connie Nielsen",
-        "Christopher Lloyd",
-        "Michael Ironside",
-        "Colin Salmon",
-        "RZA",
-        "Billy MacLellan"
-      ],
-      "rank": 5,
-      "id": "tt7888964",
-      "name": "Nadie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "rating": 7.852,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7pKcnJHGHEJQteBpEXbuNklf79.png",
-      "runtime": "125 min",
-      "director": [
-        "Chloé Zhao"
-      ],
-      "cast": [
-        "Jessie Buckley",
-        "Paul Mescal",
-        "Emily Watson",
-        "Joe Alwyn",
-        "Jacobi Jupe",
-        "Noah Jupe",
-        "Olivia Lynes",
-        "Justine Mitchell"
-      ],
-      "rank": 6,
-      "id": "tt14905854",
-      "name": "Hamnet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.723,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4tSUZixFsm89z5IIXcptOxBzBUX.png",
-      "runtime": "107 min",
-      "director": [
-        "Jay Roach"
-      ],
-      "cast": [
-        "Ben Stiller",
-        "Robert De Niro",
-        "Teri Polo",
-        "Blythe Danner",
-        "Jon Abrahams",
-        "Nicole DeHuff",
-        "Owen Wilson",
-        "James Rebhorn"
-      ],
-      "rank": 7,
-      "id": "tt0212338",
-      "name": "Los padres de ella",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
-      "rating": 6.7,
-      "year": 2000,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yGau2y7CWTRZi07oAO5XxSJdUzx.png",
-      "runtime": "118 min",
-      "director": [
-        "Yorgos Lánthimos"
-      ],
-      "cast": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
-      ],
-      "rank": 8,
-      "id": "tt12300742",
-      "name": "Bugonia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.3,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "genres": [
-        "Acción",
-        "Drama",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iD1axf4FfGyi6kPT1UcQ0VLgbap.png",
-      "runtime": "155 min",
-      "director": [
-        "Ridley Scott"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Joaquin Phoenix",
-        "Connie Nielsen",
-        "Oliver Reed",
-        "Richard Harris",
-        "Derek Jacobi",
-        "Djimon Hounsou",
-        "David Schofield"
-      ],
-      "rank": 9,
-      "id": "tt0172495",
-      "name": "Gladiator",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
-      "rating": 8.233,
-      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -345,7 +239,7 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
@@ -356,8 +250,114 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
+      "runtime": "92 min",
+      "director": [
+        "Ilya Naishuller"
+      ],
+      "cast": [
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen",
+        "Christopher Lloyd",
+        "Michael Ironside",
+        "Colin Salmon",
+        "RZA",
+        "Billy MacLellan"
+      ],
+      "rank": 8,
+      "id": "tt7888964",
+      "name": "Nadie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "rating": 7.852,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
+      "runtime": "175 min",
+      "director": [
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Robert Duvall",
+        "Richard S. Castellano",
+        "Diane Keaton",
+        "Talia Shire",
+        "Gianni Russo"
+      ],
+      "rank": 9,
+      "id": "tt0068646",
+      "name": "El padrino",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+      "rating": 8.688,
+      "year": 1972,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+      "genres": [
+        "Fantasía",
+        "Aventura",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png",
+      "runtime": "137 min",
+      "director": [
+        "Jon M. Chu"
+      ],
+      "cast": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Jonathan Bailey",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
+      ],
+      "rank": 10,
+      "id": "tt19847976",
+      "name": "Wicked Parte II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
+      "rating": 6.6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
 }

@@ -2,8 +2,45 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Harry tiene una cita con Julie, una joven camarera de un café de Miracle Mile. Han quedado a la salida del trabajo de ésta, pero Harry se queda dormido. A media noche se despierta y corre a buscarla, pero es tarde. El teléfono público situado a la salida del café comienza a sonar y una angustiada voz advierte a Harry de un ataque nuclear ruso. ¡Quedan setenta minutos para el final! Ahora Harry debe encontrar a Julie.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/omp9nXcHxSlstjdWDlfwJ1hA1cv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/19GInVsSJhaZiJ5UoXX0ufk0R3d.png",
+      "runtime": "88 min",
+      "director": [
+        "Steve De Jarnatt"
+      ],
+      "cast": [
+        "Anthony Edwards",
+        "Mare Winningham",
+        "John Agar",
+        "Lou Hancock",
+        "Mykelti Williamson",
+        "Kurt Fuller",
+        "Denise Crosby",
+        "Robert DoQui"
+      ],
+      "rank": 1,
+      "id": "tt0097889",
+      "name": "70 minutos para huir",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oJWin62bMqnQUUydUAjlwWo5rsY.jpg",
+      "rating": 6.9,
+      "year": 1988,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -28,7 +65,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -42,27 +79,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras una Gran Guerra Climática, solo ha sobrevivido una humana. Su compañero es un fiel robot llamado Arthur, pero a la hora de la verdad la lucha por la supervivencia es inevitable. ¿Quién prevalecerá?",
+      "description": "Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias.",
       "genres": [
-        "Drama",
-        "Ciencia ficción"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gKhtBj2Yu19je8keMxhV45IuZav.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nX9M4lOcUujxnOMIJns1HXb59Mm.png",
-      "runtime": "88 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hJJfo9ktzsK88RU03wtyg9x7Yth.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8GAmRthsywys6vn3wCVjWfcdOIe.png",
+      "runtime": "117 min",
       "director": [
-        "Piotr Biedroń"
+        "Michael Mohan"
       ],
       "cast": [
-        "Magdalena Wieczorek",
-        "Jacek Beler"
+        "Sydney Sweeney",
+        "Justice Smith",
+        "Ben Hardy",
+        "Natasha Liu Bordizzo",
+        "Katharine King So",
+        "Cameo Adele",
+        "Jean Yoon",
+        "Cait Alexander"
       ],
       "rank": 3,
-      "id": "tt27989255",
-      "name": "Un destello de esperanza",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zCY2sZKFl9yDsUbuW6WMAx2j0Tt.jpg",
-      "rating": 5.851,
-      "year": 2023,
+      "id": "tt11235772",
+      "name": "Los Voyeurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/umRD47jVNHMxVIe4iHNr55pPq0B.jpg",
+      "rating": 6.529,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -71,132 +113,102 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wH6FL75fcXrzuIECeEhaIzyh8Dy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cQbKWASW53ngJYmXhMZ3v7UqA2E.png",
-      "runtime": "103 min",
-      "director": [
-        "Sam Pollard"
-      ],
-      "cast": [
-        "Lovell Gates",
-        "Jakkar Thompson",
-        "Clayton B. Stevens"
-      ],
-      "rank": 4,
-      "id": "tt15514684",
-      "name": "The League",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vL2DZFvUFZwfvHSWi4IPNoNTpz2.jpg",
-      "rating": 6.2,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una noche de verano, Terry Lennox aterriza en el ático de su amigo Philip Marlowe y le pide que lo acompañe hasta la frontera mejicana para cambiar de aires. Marlowe acepta la propuesta, pero al regresar a su casa se encuentra con que la policía le pide explicaciones sobre ese viaje. Marlowe termina entre rejas acusado de complicidad en el asesinato de la mujer de Terry, que ha aparecido brutalmente apaleada",
-      "genres": [
-        "Misterio",
-        "Crimen",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXIJifetmNZ3iBTkkoa2LfcFJjJ.png",
-      "runtime": "112 min",
-      "director": [
-        "Robert Altman"
-      ],
-      "cast": [
-        "Elliott Gould",
-        "Nina van Pallandt",
-        "Sterling Hayden",
-        "Mark Rydell",
-        "Henry Gibson",
-        "David Arkin",
-        "Jim Bouton",
-        "Warren Berlinger"
-      ],
-      "rank": 5,
-      "id": "tt0070334",
-      "name": "Un largo adiós",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qiEp9ElWRWI8vIdQDuDr9BGUqu.jpg",
-      "rating": 7.446,
-      "year": 1973,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Al regresar de Afganistán, Jessica, una marine de Spec OPS, se encuentra en una guerra que nunca imaginó y descubre que los suburbios del centro de Estados Unidos han cambiado cuando su hermana de trece años, Aimee, es secuestrada por traficantes sexuales.",
+      "description": "Una costurera al borde de la ruina se ve envuelta sin querer en un enredo de drogas, moteros y dilemas morales. Entre llamar a la policía o aprovechar la ocasión para cambiar su suerte, tendrá que tomar una decisión que lo cambiará todo. Una historia llena de acción, humor negro y giros inesperados.",
       "genres": [
         "Suspense",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tfwTFlwMiitrbNNqwCBTne2eB0w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3xl5btXauP0GVAuHS7LEfagKFiL.png",
-      "runtime": "100 min",
-      "director": [
-        "Lee Whittaker"
-      ],
-      "cast": [
-        "Jet Jandreau",
-        "Alison Jaye Horowitz",
-        "Ana Alexander",
-        "Eric Pierce",
-        "Jamie Timmons",
-        "Julien Cesario",
-        "Laur Allen",
-        "Terence J. Rotolo"
-      ],
-      "rank": 6,
-      "id": "tt5660834",
-      "name": "El último disparo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6ZO28AmFatUHKwW3LYzBsJvUSs.jpg",
-      "rating": 7,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un traficante parisino que quiere dejar atrás la vida de delincuente acepta un último encargo en España, en el que no faltarán el amor, mafiosos y una madre controladora.",
-      "genres": [
         "Comedia",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/10pnKcUGj4bz1KObtfVNjURPwmW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wFn7Ek0gGB8dSEUEIwz3lgYD7Bu.png",
+      "background": "https://image.tmdb.org/t/p/w1280/dCeLQVuOjqDPK2jG3mxVK0V0qsS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5qlcyRzXfS3oPpUGWbcRcG8NxaY.png",
       "runtime": "100 min",
       "director": [
-        "Romain Gavras"
+        "Freddy Macdonald"
       ],
       "cast": [
-        "Karim Leklou",
-        "Isabelle Adjani",
-        "Vincent Cassel",
-        "Oulaya Amamra",
-        "François Damiens",
-        "Philippe Katerine",
-        "Sam Spruell",
-        "Gabby Rose"
+        "Eve Connolly",
+        "Calum Worthy",
+        "John Lynch",
+        "K Callan",
+        "Ron Cook",
+        "Thomas Douglas",
+        "Caroline Goodall",
+        "Werner Biermeier"
       ],
-      "rank": 8,
-      "id": "tt6892462",
-      "name": "El mundo es tuyo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3VQ9VJMkHjoScFI10nPypuxTxVb.jpg",
-      "rating": 6.691,
-      "year": 2018,
+      "rank": 5,
+      "id": "tt23157384",
+      "name": "Los hilos del crimen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/94K8P7ppLQqFsz4rHx7rLZ12Nbq.jpg",
+      "rating": 6.367,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
+      "runtime": "106 min",
+      "director": [
+        "Jaron Lockridge"
+      ],
+      "cast": [
+        "Ketrick \"Jazz\" Copeland",
+        "Shi Smith",
+        "Jeremy Shaw",
+        "Jalen Moffitt",
+        "Timberly Hope",
+        "Jeff Haltom",
+        "Tymika Chambliss",
+        "Steve Haltom"
+      ],
+      "rank": 6,
+      "id": "tt27553457",
+      "name": "Betray",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
+      "rating": 4.8,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La película cuenta la historia de John Oldman, un profesor de universidad que asegura ser en realidad un hombre de Cromañón de 14.000 años de edad que sobrevive hasta nuestros días. Toda la película está rodada en la misma casa y su porche, prueba de su bajo presupuesto y de su elaboración prácticamente artesanal. Se basa únicamente en la conversación de los personajes para mantener la trama, sin efectos especiales ni escenas de acción. Se trata de un discurso intelectual entre un supuesto hombre de las cavernas y sus actuales colegas de trabajo, en su despedida como docente universitario. En las horas que transcurren, las reacciones de sus amigos científicos son muy variadas y van surgiendo preguntas, cuestiones, revelaciones y reacciones de todo tipo.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xlnQO1J5dJHHusKcvLFsew0oBLq.png",
+      "runtime": "87 min",
+      "director": [
+        "Richard Schenkman"
+      ],
+      "cast": [
+        "David Lee Smith",
+        "Tony Todd",
+        "John Billingsley",
+        "Ellen Crawford",
+        "Annika Peterson",
+        "Alexis Thorpe",
+        "William Katt",
+        "Richard Riehle"
+      ],
+      "rank": 7,
+      "id": "tt0756683",
+      "name": "El hombre de la tierra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
+      "rating": 7.619,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -225,11 +237,11 @@
         "Joe Spinell",
         "Jimmy Gambina"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0075148",
       "name": "Rocky",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.803,
+      "rating": 7.8,
       "year": 1976,
       "days": null,
       "trend": {
@@ -239,33 +251,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
       "genres": [
-        "Ciencia ficción",
-        "Drama"
+        "Comedia",
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png",
-      "runtime": "164 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+      "runtime": "162 min",
       "director": [
-        "Denis Villeneuve"
+        "Quentin Tarantino"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Harrison Ford",
-        "Ana de Armas",
-        "Dave Bautista",
-        "Robin Wright",
-        "Sylvia Hoeks",
-        "Mackenzie Davis",
-        "Jared Leto"
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant",
+        "Julia Butters",
+        "Austin Butler"
+      ],
+      "rank": 9,
+      "id": "tt7131622",
+      "name": "Érase una vez en… Hollywood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+      "rating": 7.418,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ex militares estadounidenses se alían con operadores políticos para infiltrar ciudades con pandilleros mexicanos secuestrados, esperando caos criminal para ganar apoyo a agendas políticas radicales.",
+      "genres": [
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9LJNfiOimPNF16PBqH8DAwaY6ky.png",
+      "runtime": "94 min",
+      "director": [
+        "Ryan Jordan"
+      ],
+      "cast": [
+        "Marissa Arguijo",
+        "Michael-Eoin Stanney",
+        "Marcus Jean Pirae",
+        "Dominic Hernandez",
+        "Nigel Vonas",
+        "Oscar Alejandro",
+        "Mary Salafia"
       ],
       "rank": 10,
-      "id": "tt1856101",
-      "name": "Blade Runner 2049",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
-      "rating": 7.613,
-      "year": 2017,
+      "id": "tt28638842",
+      "name": "Borderline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "rating": 6.206,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
 }

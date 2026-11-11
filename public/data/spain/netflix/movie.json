@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,41 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.3,
+      "rating": 6.384,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
+      ],
+      "rank": 2,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -62,7 +96,7 @@
         "Okwui Okpokwasili",
         "Raphael Sbarge"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt12921446",
       "name": "El exorcista: Creyente",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
@@ -98,46 +132,12 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.616,
+      "rating": 7.617,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 4,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.596,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -177,65 +177,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El abogado penalista Léonard Landry sufre una sobredosis en el juzgado. Tras pasar por rehabilitación, dispone de una semana para preparar su propio juicio con la ayuda de una obstinada becaria. Comienza así una frenética carrera de maniobras legales, tentaciones y giros inesperados.",
+      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
       "genres": [
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-      "runtime": "121 min",
-      "director": [
-        "Tristan Séguéla"
-      ],
-      "cast": [
-        "Laurent Lafitte",
-        "Anthony Bajon",
-        "Mélanie Laurent",
-        "Carole Bouquet",
-        "Gwendal Kerdelhue"
-      ],
-      "rank": 6,
-      "id": "tt39453578",
-      "name": "Un buen abogado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-      "rating": 7.125,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Acción",
+        "Documental",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8fIRpmVY8qXp9tECt4dOFBGScOa.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
+      "runtime": "80 min",
       "director": [
-        "Ben Affleck"
+        "Jorge Laplace"
       ],
       "cast": [
-        "Ben Affleck",
-        "Kerry Washington",
-        "Gillian Anderson",
-        "Steven Yeun",
-        "Adriana Paz",
-        "Luis Gerardo Méndez",
-        "Christopher Woodley",
-        "Jacob Estrada"
+        "Eduardo Pérez \"Perreras\"",
+        "Maribel Tarrazo",
+        "Corona Salgado",
+        "Eduardo Pérez",
+        "Javier González",
+        "Fernando Serulla"
       ],
-      "rank": 7,
-      "id": "tt31049299",
-      "name": "Animales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
-      "rating": 6.905,
+      "rank": 6,
+      "id": "tt48500521",
+      "name": "Desprotexida: el crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "rating": 6.25,
       "year": 2026,
       "days": null,
       "trend": {
@@ -245,32 +210,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
       "director": [
-        "Anne Sewitsky"
+        "Gus Van Sant"
       ],
       "cast": [
-        "Ine Marie Wilmann",
-        "Simon J. Berger",
-        "Silje Storstein",
-        "Anneke von der Lippe",
-        "Oddgeir Thune",
-        "Kari Onstad Winge",
-        "Terje Strømdahl",
-        "Ida Marianne Vassbotn Klasson"
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
       ],
-      "rank": 8,
-      "id": "tt3166500",
-      "name": "Homesick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
-      "rating": 5.2,
-      "year": 2015,
+      "rank": 7,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -300,7 +265,7 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
@@ -311,8 +276,43 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
+      "director": [
+        "Zach Cregger"
+      ],
+      "cast": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "rank": 10,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.258,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
 }

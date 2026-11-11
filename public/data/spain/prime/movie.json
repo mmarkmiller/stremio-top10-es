@@ -2,44 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611102132",
+  "date": "202611112224",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
-      "runtime": "123 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
-      ],
-      "rank": 1,
-      "id": "tt1951265",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.815,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -64,7 +28,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -78,33 +42,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
       "director": [
-        "Matt Johnson"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Dominic Sessa",
-        "Antonio Banderas",
-        "Emilia Jones",
-        "Stavros Halkias",
-        "Leo Woodall",
-        "Monica Raymund",
-        "Michael Jibrin",
-        "Rich Sommer"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
+      ],
+      "rank": 3,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.815,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
+      "runtime": "146 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Donald Sutherland",
+        "Lenny Kravitz",
+        "Philip Seymour Hoffman"
       ],
       "rank": 4,
-      "id": "tt33095251",
-      "name": "Tony",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.35,
-      "year": 2026,
+      "id": "tt1951264",
+      "name": "Los Juegos del Hambre: En llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "rating": 7.424,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -139,8 +140,112 @@
       "id": "tt1951266",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
-      "rating": 6.898,
+      "rating": 6.899,
       "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias.",
+      "genres": [
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hJJfo9ktzsK88RU03wtyg9x7Yth.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8GAmRthsywys6vn3wCVjWfcdOIe.png",
+      "runtime": "117 min",
+      "director": [
+        "Michael Mohan"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Justice Smith",
+        "Ben Hardy",
+        "Natasha Liu Bordizzo",
+        "Katharine King So",
+        "Cameo Adele",
+        "Jean Yoon",
+        "Cait Alexander"
+      ],
+      "rank": 6,
+      "id": "tt11235772",
+      "name": "Los Voyeurs",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/umRD47jVNHMxVIe4iHNr55pPq0B.jpg",
+      "rating": 6.529,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hZNpAbwQE1HayPhYenDw69yMa8g.png",
+      "runtime": "131 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Lubna Azabal",
+        "Mélissa Désormeaux-Poulin",
+        "Maxim Gaudette",
+        "Rémy Girard",
+        "Allen Altman",
+        "Abdelghafour Elaaziz",
+        "Dominique Briand",
+        "Frédéric Paquet"
+      ],
+      "rank": 7,
+      "id": "tt1255953",
+      "name": "Incendios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rA40sUH6bHD5pAJ1jOcJFZPhlOe.jpg",
+      "rating": 8.104,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
+      "runtime": "124 min",
+      "director": [
+        "Wim Wenders"
+      ],
+      "cast": [
+        "役所広司",
+        "柄本時生",
+        "Arisa Nakano",
+        "山田 葵",
+        "麻生祐未",
+        "石川さゆり",
+        "Tomokazu Miura",
+        "田中泯"
+      ],
+      "rank": 8,
+      "id": "tt27503384",
+      "name": "Días perfectos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
+      "rating": 7.8,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,11 +276,11 @@
         "Santiago Vaca Narvaja",
         "Mario Mayo"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt37522541",
       "name": "Apocalipsis Z: Nuevo mundo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "rating": 6.187,
+      "rating": 6.203,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,138 +290,16 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
-      "runtime": "146 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Donald Sutherland",
-        "Lenny Kravitz",
-        "Philip Seymour Hoffman"
-      ],
-      "rank": 7,
-      "id": "tt1951264",
-      "name": "Los Juegos del Hambre: En llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
-      "rating": 7.424,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
-      ],
-      "rank": 8,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.786,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "124 min",
-      "director": [
-        "Wim Wenders"
-      ],
-      "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
-      ],
-      "rank": 9,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
+      "description": "El Marqués es solidario con los desfavorecidos, reivindicativo en derechos sociales y vocero de las igualdades - pero quiere vivir como los ricos sin trabajar para aprovechar un sistema que detesta; no hay subsidio que se resista.",
+      "genres": [],
+      "director": [],
+      "cast": [],
       "rank": 10,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.686,
-      "year": 2026,
+      "id": "tt39398415",
+      "name": "El Marqués del SEPE",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iER7SdhpQWhwE8DNlgnqDg3ezxo.jpg",
+      "rating": null,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-10T17:38:58.106Z"
+  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
 }
