@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,7 +27,7 @@
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
-      "rating": 7.711,
+      "rating": 7.7,
       "year": 2022,
       "days": null,
       "trend": {
@@ -58,7 +58,7 @@
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-      "rating": 7.603,
+      "rating": 7.383,
       "year": 2026,
       "days": null,
       "trend": {
@@ -88,8 +88,33 @@
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.51,
+      "rating": 7.5,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder hace uso de su carrera en Económicas y su experiencia vital para ayudar a pequeños negocios a conseguir mayores beneficios. Pero, debido a sus métodos poco ortodoxos, los esfuerzos genuinos de Nathan por hacer buenas acciones llevan a gente corriente a vivir experiencias que van mucho más allá de lo que podían esperar.",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 4,
+      "id": "tt2297757",
+      "name": "Nathan al rescate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
+      "rating": 8.2,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -112,11 +137,11 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.196,
+      "rating": 8.187,
       "year": 2026,
       "days": null,
       "trend": {
@@ -126,23 +151,59 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Nathan Fielder hace uso de su carrera en Económicas y su experiencia vital para ayudar a pequeños negocios a conseguir mayores beneficios. Pero, debido a sus métodos poco ortodoxos, los esfuerzos genuinos de Nathan por hacer buenas acciones llevan a gente corriente a vivir experiencias que van mucho más allá de lo que podían esperar.",
+      "description": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
       "genres": [
-        "Comedia",
-        "Documental"
+        "Drama",
+        "War & Politics"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "background": "https://image.tmdb.org/t/p/w1280/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lj3PdYj3gZQfPVRL2XJpcYsqvG1.png",
       "director": [],
       "cast": [
-        "Nathan Fielder"
+        "Michael Cudlitz",
+        "Rick Gomez",
+        "Scott Grimes",
+        "Damian Lewis",
+        "Ron Livingston",
+        "James Madio",
+        "Neal McDonough",
+        "Donnie Wahlberg"
       ],
-      "rank": 5,
-      "id": "tt2297757",
-      "name": "Nathan al rescate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
-      "rating": 8.2,
-      "year": 2013,
+      "rank": 6,
+      "id": "tt0185906",
+      "name": "Hermanos de sangre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
+      "rating": 8.61,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+      "director": [],
+      "cast": [
+        "Sharon Horgan",
+        "Rupert Friend",
+        "Sharlene Whyte",
+        "Aran Murphy",
+        "Robbie Gee"
+      ],
+      "rank": 7,
+      "id": "tt35949226",
+      "name": "Youth",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "rating": 6.672,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -163,7 +224,7 @@
       "cast": [
         "John Oliver"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt3530232",
       "name": "Last Week Tonight with John Oliver",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
@@ -177,87 +238,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "description": "Sigue a policías novatos que trabajan en Belfast, una ciudad en la que ser policía de primera línea conlleva presiones y peligros únicos.",
       "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "background": "https://image.tmdb.org/t/p/w1280/zIMWblj36xRkLHjAwFjZt1crdGZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
       "director": [],
       "cast": [
-        "Jon Hamm",
-        "Elisabeth Moss",
-        "Vincent Kartheiser",
-        "January Jones",
-        "Christina Hendricks",
-        "Aaron Staton",
-        "Rich Sommer",
-        "Kiernan Shipka"
-      ],
-      "rank": 7,
-      "id": "tt0804503",
-      "name": "Mad Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "rating": 8.132,
-      "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
-      "director": [],
-      "cast": [
-        "Jennifer Aniston",
-        "Courteney Cox",
-        "Lisa Kudrow",
-        "Matt LeBlanc",
-        "Matthew Perry",
-        "David Schwimmer"
-      ],
-      "rank": 8,
-      "id": "tt0108778",
-      "name": "Friends",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "rating": 8.405,
-      "year": 1994,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
-      "director": [],
-      "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
+        "Sian Brooke",
+        "Katherine Devlin",
+        "Nathan Braniff",
+        "Martin McCann",
+        "Andi Osho"
       ],
       "rank": 9,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.009,
-      "year": 2024,
+      "id": "tt14466018",
+      "name": "Blue Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
+      "rating": 7.6,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -281,7 +282,7 @@
       "id": "tt10802170",
       "name": "Los ensayos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 7.978,
+      "rating": 8,
       "year": 2022,
       "days": null,
       "trend": {
@@ -291,5 +292,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

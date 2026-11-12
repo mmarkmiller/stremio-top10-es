@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.617,
+      "rating": 7.62,
       "year": 2023,
       "days": null,
       "trend": {
@@ -42,34 +42,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
       "genres": [
-        "Historia",
-        "Suspense",
-        "Bélica"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+      "runtime": "104 min",
       "director": [
-        "Sean Ellis"
+        "Ron Howard"
       ],
       "cast": [
-        "Jamie Dornan",
-        "Cillian Murphy",
-        "Charlotte Le Bon",
-        "Anna Geislerová",
-        "Harry Lloyd",
-        "Toby Jones",
-        "Alena Mihulová",
-        "Marcin Dorociński"
+        "Richard Avedon"
       ],
       "rank": 2,
-      "id": "tt4190530",
-      "name": "Operación Anthropoid",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
-      "rating": 7.128,
-      "year": 2016,
+      "id": "tt41593493",
+      "name": "Avedon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -105,8 +94,79 @@
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.608,
+      "rating": 6.612,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
+      "genres": [
+        "Historia",
+        "Suspense",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
+      "runtime": "120 min",
+      "director": [
+        "Sean Ellis"
+      ],
+      "cast": [
+        "Jamie Dornan",
+        "Cillian Murphy",
+        "Charlotte Le Bon",
+        "Anna Geislerová",
+        "Harry Lloyd",
+        "Toby Jones",
+        "Alena Mihulová",
+        "Marcin Dorociński"
+      ],
+      "rank": 4,
+      "id": "tt4190530",
+      "name": "Operación Anthropoid",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
+      "rating": 7.128,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
+      "director": [
+        "Eli Horowitz"
+      ],
+      "cast": [
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
+      ],
+      "rank": 5,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,12 +195,80 @@
         "Jon Hamm",
         "Joe Lo Truglio"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt36834010",
       "name": "Gail Daughtry y el vale por un rollo VIP",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.4,
+      "rating": 6.444,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
+      ],
+      "rank": 7,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.582,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Estado de Montana, años 1960. Un niño ve cómo el matrimonio de sus padres se derrumba cuando su madre encuentra a otro hombre... Basada en la novela de Richard Ford.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hDtiyCztpFdv9yLNSwNblhOjLKJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/upGFHZqg514z6p6tYoUlRKDKEhS.png",
+      "runtime": "105 min",
+      "director": [
+        "Paul Dano"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Carey Mulligan",
+        "Ed Oxenbould",
+        "Zoe Colletti",
+        "Bill Camp",
+        "Travis W Bruyer",
+        "Tom Huston Orr",
+        "Darryl Cox"
+      ],
+      "rank": 8,
+      "id": "tt5929754",
+      "name": "Lo que arde con el fuego",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cgmgSpPACSqJG5XRU8nRCZfvvZE.jpg",
+      "rating": 6.6,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,113 +298,12 @@
         "Xander Berkeley",
         "William H. Macy"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0118571",
       "name": "Air Force One (El avión del presidente)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
-      "rating": 6.466,
+      "rating": 6.465,
       "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
-      "runtime": "103 min",
-      "director": [
-        "Chris Rock"
-      ],
-      "cast": [
-        "Rosalind Eleazar",
-        "Adam Driver",
-        "Daniel Kaluuya",
-        "Anna Kendrick",
-        "Chris Rock",
-        "Topher Grace",
-        "Alexandra Shipp",
-        "Amy Landecker"
-      ],
-      "rank": 6,
-      "id": "tt34385184",
-      "name": "Verde Brumoso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
-      "rating": 6.8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre y una mujer se despiertan pegados por el abdomen. David y Sara no se conocen. Ambos están desnudos. Ambos rondan los 35 años. Están en un lugar misterioso que no reconocen. Por el aspecto del lugar, parece una habitación de hotel. Tras el susto inicial, tratan de mantener la calma e intentar pensar porqué están ahí. No recuerdan cómo han llegado hasta la misteriosa habitación, ni qué hicieron las horas antes. David sugiere la posibilidad de que hayan sido drogados y secuestrados. Ambos deben confiar en el otro para desvelar el misterio, pero Sara sospecha de David. Mientras intentan atar cabos, descubren que estar pegados dificulta en extremo hasta las actividades más mundanas (además de hacer que aflore una inevitable atracción mutua a pesar de las circunstancias). Ambos se ven obligados a compartir con un desconocido sus secretos más íntimos y vergonzosos para poder descifrar el misterio.",
-      "genres": [
-        "Suspense",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/Aqp47Dbz8f1wnVU1qKvFFXQFROr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZsoCNGvWrQQ5nZnepriCwNiM0b.png",
-      "runtime": "70 min",
-      "director": [
-        "Mar Targarona"
-      ],
-      "cast": [
-        "Pablo Derqui",
-        "Marina Gatell",
-        "Kandido Uranga",
-        "Anna Chincho Serrano",
-        "Esteban Galilea"
-      ],
-      "rank": 7,
-      "id": "tt12358104",
-      "name": "Dos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v23nJWsYGaI3ysikMBWJgIjcGwL.jpg",
-      "rating": 5.371,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 8,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,7 +334,7 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
@@ -318,43 +345,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos jóvenes motoristas de Los Ángeles emprenden un viaje hacia Nueva Orleáns. Cruzan todo el país con la intención de descubrir América. Después de vender cocaína a un hombre de Los Ángeles, Billy y Wiatt (alias Capitán América) asisten a la fiesta del Mardî Gras. Pronto reanudan el viaje y se van encontrando con personajes de lo más estrafalario, entre ellos un ranchero y su familia, o un autoestopista de una comuna hippie, antes de ser arrestados en un pueblecito por parar sin un permiso. Su compañero de celda, un abogado borracho, les hace un gran favor sacándoles de la cárcel y luego decide unirse a ellos.",
-      "genres": [
-        "Aventura",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/78dHjJKxKZ8JbCm3lEMjDRulLp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m12m6wipcUdVIy9xHdMGCU2s2gx.png",
-      "runtime": "90 min",
-      "director": [
-        "Dennis Hopper"
-      ],
-      "cast": [
-        "Peter Fonda",
-        "Dennis Hopper",
-        "Jack Nicholson",
-        "Antonio Mendoza",
-        "Phil Spector",
-        "Mac Mashourian",
-        "Warren Finnerty",
-        "Tita Colorado"
-      ],
-      "rank": 10,
-      "id": "tt0064276",
-      "name": "Easy Rider (Buscando mi destino)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aj7TJr1A2QzlAjx5fBxM4NLSObE.jpg",
-      "rating": 7.041,
-      "year": 1969,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T21:38:34.081Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

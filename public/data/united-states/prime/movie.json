@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 1,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.626,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Harry tiene una cita con Julie, una joven camarera de un café de Miracle Mile. Han quedado a la salida del trabajo de ésta, pero Harry se queda dormido. A media noche se despierta y corre a buscarla, pero es tarde. El teléfono público situado a la salida del café comienza a sonar y una angustiada voz advierte a Harry de un ataque nuclear ruso. ¡Quedan setenta minutos para el final! Ahora Harry debe encontrar a Julie.",
@@ -29,7 +65,7 @@
         "Denise Crosby",
         "Robert DoQui"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt0097889",
       "name": "70 minutos para huir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oJWin62bMqnQUUydUAjlwWo5rsY.jpg",
@@ -43,33 +79,64 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Eli Horowitz"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
       ],
-      "rank": 2,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.627,
+      "rank": 3,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+      "runtime": "82 min",
+      "director": [
+        "Marco van Belle"
+      ],
+      "cast": [
+        "Grace Collender",
+        "Rhys Mannion",
+        "Molly McCann",
+        "Charlotte Bradley",
+        "Flynn Gray",
+        "Daisy Jelley",
+        "Clinton Liberty",
+        "Niamh Hogan"
+      ],
+      "rank": 4,
+      "id": "tt30505578",
+      "name": "Feed",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
+      "rating": 6.662,
       "year": 2026,
       "days": null,
       "trend": {
@@ -79,101 +146,36 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Pippa y Thomas, una pareja que se acaba de mudar al apartamento de sus sueños, descubre que las ventanas permiten ver el interior del piso de enfrente y no pueden resistirse a observar a sus vecinos e incluso intentar interferir en sus vidas de forma anónima. Pronto descubrirán que todo tiene consecuencias.",
-      "genres": [
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hJJfo9ktzsK88RU03wtyg9x7Yth.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8GAmRthsywys6vn3wCVjWfcdOIe.png",
-      "runtime": "117 min",
-      "director": [
-        "Michael Mohan"
-      ],
-      "cast": [
-        "Sydney Sweeney",
-        "Justice Smith",
-        "Ben Hardy",
-        "Natasha Liu Bordizzo",
-        "Katharine King So",
-        "Cameo Adele",
-        "Jean Yoon",
-        "Cait Alexander"
-      ],
-      "rank": 3,
-      "id": "tt11235772",
-      "name": "Los Voyeurs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/umRD47jVNHMxVIe4iHNr55pPq0B.jpg",
-      "rating": 6.529,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una costurera al borde de la ruina se ve envuelta sin querer en un enredo de drogas, moteros y dilemas morales. Entre llamar a la policía o aprovechar la ocasión para cambiar su suerte, tendrá que tomar una decisión que lo cambiará todo. Una historia llena de acción, humor negro y giros inesperados.",
-      "genres": [
-        "Suspense",
-        "Comedia",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dCeLQVuOjqDPK2jG3mxVK0V0qsS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5qlcyRzXfS3oPpUGWbcRcG8NxaY.png",
-      "runtime": "100 min",
-      "director": [
-        "Freddy Macdonald"
-      ],
-      "cast": [
-        "Eve Connolly",
-        "Calum Worthy",
-        "John Lynch",
-        "K Callan",
-        "Ron Cook",
-        "Thomas Douglas",
-        "Caroline Goodall",
-        "Werner Biermeier"
-      ],
-      "rank": 5,
-      "id": "tt23157384",
-      "name": "Los hilos del crimen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/94K8P7ppLQqFsz4rHx7rLZ12Nbq.jpg",
-      "rating": 6.367,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
+      "description": "El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica ubicada en un castillo en Nueva Inglaterra, es para oficiales militares que se han vuelto locos durante el ejercicio de su deber. Su trabajo es decidir si los hombres están realmente locos o no; tiene métodos inusualmente eficaces. Considerada por su director la verdadera secuela de \"El exorcista\".",
       "genres": [
         "Drama",
-        "Romance"
+        "Comedia",
+        "Terror",
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hwR4DfGtWk0PkLg0dZZPair4gCY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7JDxpIsSye8ZLPWbFcJqAKr4ygi.png",
+      "runtime": "140 min",
       "director": [
-        "Jaron Lockridge"
+        "William Peter Blatty"
       ],
       "cast": [
-        "Ketrick \"Jazz\" Copeland",
-        "Shi Smith",
-        "Jeremy Shaw",
-        "Jalen Moffitt",
-        "Timberly Hope",
-        "Jeff Haltom",
-        "Tymika Chambliss",
-        "Steve Haltom"
+        "Stacy Keach",
+        "Scott Wilson",
+        "Jason Miller",
+        "Ed Flanders",
+        "Neville Brand",
+        "George DiCenzo",
+        "Moses Gunn",
+        "Robert Loggia"
       ],
-      "rank": 6,
-      "id": "tt27553457",
-      "name": "Betray",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
-      "rating": 4.8,
-      "year": 2023,
+      "rank": 5,
+      "id": "tt0081237",
+      "name": "La novena configuración",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iSOkoYcCADyvdl4CRjaAzJUvIBY.jpg",
+      "rating": 6.41,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -182,33 +184,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La película cuenta la historia de John Oldman, un profesor de universidad que asegura ser en realidad un hombre de Cromañón de 14.000 años de edad que sobrevive hasta nuestros días. Toda la película está rodada en la misma casa y su porche, prueba de su bajo presupuesto y de su elaboración prácticamente artesanal. Se basa únicamente en la conversación de los personajes para mantener la trama, sin efectos especiales ni escenas de acción. Se trata de un discurso intelectual entre un supuesto hombre de las cavernas y sus actuales colegas de trabajo, en su despedida como docente universitario. En las horas que transcurren, las reacciones de sus amigos científicos son muy variadas y van surgiendo preguntas, cuestiones, revelaciones y reacciones de todo tipo.",
+      "description": "Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA.",
       "genres": [
-        "Ciencia ficción",
+        "Comedia",
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xlnQO1J5dJHHusKcvLFsew0oBLq.png",
-      "runtime": "87 min",
+      "background": "https://image.tmdb.org/t/p/w1280/thBankgTBZAM3YkdeeF7fuDvkcD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roXMIbXAPmXQr7cDaTPhza8FPdu.png",
+      "runtime": "115 min",
       "director": [
-        "Richard Schenkman"
+        "Doug Liman"
       ],
       "cast": [
-        "David Lee Smith",
-        "Tony Todd",
-        "John Billingsley",
-        "Ellen Crawford",
-        "Annika Peterson",
-        "Alexis Thorpe",
-        "William Katt",
-        "Richard Riehle"
+        "Tom Cruise",
+        "Domhnall Gleeson",
+        "Sarah Wright",
+        "Jesse Plemons",
+        "Caleb Landry Jones",
+        "Lola Kirke",
+        "Jayma Mays",
+        "Alejandro Edda"
+      ],
+      "rank": 6,
+      "id": "tt3532216",
+      "name": "Barry Seal: el traficante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i9jahD3uR2B4CPmJAsfeRvmzV0U.jpg",
+      "rating": 6.9,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+      "runtime": "162 min",
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant",
+        "Julia Butters",
+        "Austin Butler"
       ],
       "rank": 7,
-      "id": "tt0756683",
-      "name": "El hombre de la tierra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
-      "rating": 7.619,
-      "year": 2007,
+      "id": "tt7131622",
+      "name": "Érase una vez en… Hollywood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+      "rating": 7.418,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +280,7 @@
       "id": "tt0075148",
       "name": "Rocky",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.8,
+      "rating": 7.803,
       "year": 1976,
       "days": null,
       "trend": {
@@ -251,34 +290,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+      "description": "En mayo de 1940 el destino de Europa occidental depende del primer ministro británico Winston Churchill, quien debe decidir si negociar con Adolf Hitler o luchar sabiendo que podría significar una derrota humillante para Gran Bretaña y su imperio.",
       "genres": [
-        "Comedia",
         "Drama",
-        "Suspense"
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
-      "runtime": "162 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BkberHS7osNrWJU0vko7B6ud4j.png",
+      "runtime": "130 min",
       "director": [
-        "Quentin Tarantino"
+        "Joe Wright"
       ],
       "cast": [
-        "Leonardo DiCaprio",
-        "Brad Pitt",
-        "Margot Robbie",
-        "Emile Hirsch",
-        "Margaret Qualley",
-        "Timothy Olyphant",
-        "Julia Butters",
-        "Austin Butler"
+        "Gary Oldman",
+        "Stephen Dillane",
+        "Lily James",
+        "Ronald Pickup",
+        "Ben Mendelsohn",
+        "Kristin Scott Thomas",
+        "Nicholas Jones",
+        "Samuel West"
       ],
       "rank": 9,
-      "id": "tt7131622",
-      "name": "Érase una vez en… Hollywood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
-      "rating": 7.418,
-      "year": 2019,
+      "id": "tt4555426",
+      "name": "El instante más oscuro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pROgBIY53avDaU2lwky1zs6hSoh.jpg",
+      "rating": 7.351,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,31 +325,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ex militares estadounidenses se alían con operadores políticos para infiltrar ciudades con pandilleros mexicanos secuestrados, esperando caos criminal para ganar apoyo a agendas políticas radicales.",
+      "description": "La película cuenta la historia de John Oldman, un profesor de universidad que asegura ser en realidad un hombre de Cromañón de 14.000 años de edad que sobrevive hasta nuestros días. Toda la película está rodada en la misma casa y su porche, prueba de su bajo presupuesto y de su elaboración prácticamente artesanal. Se basa únicamente en la conversación de los personajes para mantener la trama, sin efectos especiales ni escenas de acción. Se trata de un discurso intelectual entre un supuesto hombre de las cavernas y sus actuales colegas de trabajo, en su despedida como docente universitario. En las horas que transcurren, las reacciones de sus amigos científicos son muy variadas y van surgiendo preguntas, cuestiones, revelaciones y reacciones de todo tipo.",
       "genres": [
-        "Suspense"
+        "Ciencia ficción",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9LJNfiOimPNF16PBqH8DAwaY6ky.png",
-      "runtime": "94 min",
+      "background": "https://image.tmdb.org/t/p/w1280/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xlnQO1J5dJHHusKcvLFsew0oBLq.png",
+      "runtime": "87 min",
       "director": [
-        "Ryan Jordan"
+        "Richard Schenkman"
       ],
       "cast": [
-        "Marissa Arguijo",
-        "Michael-Eoin Stanney",
-        "Marcus Jean Pirae",
-        "Dominic Hernandez",
-        "Nigel Vonas",
-        "Oscar Alejandro",
-        "Mary Salafia"
+        "David Lee Smith",
+        "Tony Todd",
+        "John Billingsley",
+        "Ellen Crawford",
+        "Annika Peterson",
+        "Alexis Thorpe",
+        "William Katt",
+        "Richard Riehle"
       ],
       "rank": 10,
-      "id": "tt28638842",
-      "name": "Borderline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
-      "rating": 6.206,
-      "year": 2026,
+      "id": "tt0756683",
+      "name": "El hombre de la tierra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
+      "rating": 7.619,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

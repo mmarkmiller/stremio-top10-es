@@ -2,44 +2,8 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
-      "director": [
-        "Kane Parsons"
-      ],
-      "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
-      ],
-      "rank": 1,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.993,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -64,7 +28,7 @@
         "Hannah Gross",
         "Anna Baryshnikov"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
@@ -98,12 +62,48 @@
         "Tomokazu Miura",
         "田中泯"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt27503384",
       "name": "Días perfectos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.8,
+      "rating": 7.82,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 3,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.99,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -115,8 +115,7 @@
       "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
       "genres": [
         "Crimen",
-        "Música",
-        "Romance"
+        "Suspense"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4JmGZIWUQfCGvxT1ueKeVz0707c.png",
@@ -138,7 +137,7 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.6,
+      "rating": 7.559,
       "year": 2026,
       "days": null,
       "trend": {
@@ -148,33 +147,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "description": "Eleanor Arroway perdió la fe en Dios tras la muerte de sus padres en su niñez. Sin embargo, Ellie ha desarrollado una clase distinta de fe en lo desconocido: trabaja con un grupo de científicos escrutando ondas de radio procedentes del espacio exterior en busca de señales de inteligencias extraterrestres. Su trabajo se verá recompensado cuando detecte una señal desconocida que supuestamente porta las instrucciones de fabricación de una máquina para reunirse con los creadores del mensaje.",
       "genres": [
-        "Aventura",
-        "Fantasía"
+        "Drama",
+        "Ciencia ficción",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
-      "runtime": "152 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3UrT4R462hRw01JkIsWNZBmgKYt.png",
+      "runtime": "150 min",
       "director": [
-        "Chris Columbus"
+        "Robert Zemeckis"
       ],
       "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
+        "Jodie Foster",
+        "Matthew McConaughey",
+        "James Woods",
+        "John Hurt",
+        "Tom Skerritt",
+        "William Fichtner",
+        "David Morse",
+        "Angela Bassett"
       ],
       "rank": 5,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.906,
-      "year": 2001,
+      "id": "tt0118884",
+      "name": "Contact",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rFcs0iDNWD5mAq9a6YrKn5qdsFa.jpg",
+      "rating": 7.453,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,32 +183,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las tradicionales bodas de San Antonio de Lisboa han tocado fondo. Al menos, eso es lo que cree Stardust, una importante multinacional francesa a punto de hacerse cargo del evento. Carmo y Valentim, dos empleados del Ayuntamiento de Lisboa que llevan más de 25 años organizando las celebraciones, reciben un duro ultimátum: reinventar el evento y convertirlo en un éxito moderno, o perder sus puestos de trabajo.",
+      "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
       "genres": [
-        "Comedia",
-        "Familia"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hILmNUH51sXpkLXd9ecEUCljU1q.jpg",
-      "runtime": "119 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png",
+      "runtime": "106 min",
       "director": [
-        "Ruben Alves"
+        "Celine Song"
       ],
       "cast": [
-        "Rita Blanco",
-        "Joaquim Monchique",
-        "Maria Rueff",
-        "Isabel Abreu",
-        "Miguel Amorim",
-        "Maria João Bastos",
-        "Ana Bola",
-        "Valerie Braddell"
+        "Greta Lee",
+        "태오",
+        "John Magaro",
+        "문승아",
+        "임승민",
+        "윤지혜",
+        "최원영",
+        "안민영"
       ],
       "rank": 6,
-      "id": "tt38781172",
-      "name": "Santo António, o Casamenteiro de Lisboa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5mnKcKiskKCFYWQoGH1l8yLymDK.jpg",
-      "rating": 8,
-      "year": 2026,
+      "id": "tt13238346",
+      "name": "Vidas pasadas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "rating": 7.694,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -217,33 +218,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "description": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en \"El libro verde\", una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
       "genres": [
-        "Terror",
-        "Ciencia ficción"
+        "Drama",
+        "Comedia",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uzNWj9PTZIGdpaEigWpptjlHiMV.png",
-      "runtime": "141 min",
+      "background": "https://image.tmdb.org/t/p/w1280/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/teZDEtsuxhmeyuEyv6Ww5TrdHJi.png",
+      "runtime": "130 min",
       "director": [
-        "Coralie Fargeat"
+        "Peter Farrelly"
       ],
       "cast": [
-        "Demi Moore",
-        "Margaret Qualley",
-        "Dennis Quaid",
-        "Edward Hamilton-Clark",
-        "Gore Abrams",
-        "Oscar Lesage",
-        "Christian Erickson",
-        "Robin Greer"
+        "Viggo Mortensen",
+        "Mahershala Ali",
+        "Linda Cardellini",
+        "Sebastian Maniscalco",
+        "Dimiter D. Marinov",
+        "Mike Hatton",
+        "P.J. Byrne",
+        "Joe Cortese"
       ],
       "rank": 7,
-      "id": "tt17526714",
-      "name": "La sustancia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4cJyrYA7I29QabrQ0S89N1iWUV2.jpg",
-      "rating": 7.131,
-      "year": 2024,
+      "id": "tt6966692",
+      "name": "Green Book",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/phwmfaEe43uY2OAI2oeSZNlD4A9.jpg",
+      "rating": 8.223,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -252,33 +254,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "description": "Basada en la vida de los inseparables hermanos Von Erich, que hicieron historia en el competitivo mundo de la lucha libre profesional a principios de la década de los 80. A través de la tragedia y el triunfo, bajo la sombra de su dominante padre y entrenador, los hermanos buscan la inmortalidad en el escenario más importante del deporte.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Wv0Kaa3x9lz84Nh42Ql0nIyrXO.png",
+      "runtime": "130 min",
       "director": [
-        "Denis Villeneuve"
+        "Sean Durkin"
       ],
       "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
+        "Zac Efron",
+        "Jeremy Allen White",
+        "Harris Dickinson",
+        "Stanley Simons",
+        "Holt McCallany",
+        "Maura Tierney",
+        "Lily James",
+        "Grady Wilson"
       ],
       "rank": 8,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.8,
-      "year": 2021,
+      "id": "tt21064584",
+      "name": "El clan de hierro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
+      "rating": 7.512,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,15 +289,50 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "description": "Un joven corredor de bolsa británico, Nicholas \"Nicky\" Winton (Anthony Hopkins), ayudó a rescatar a cientos de niños de los nazis en vísperas de la Segunda Guerra Mundial, con la ayuda de su madre (Helena Bonham Carter). Un acto de compasión casi olvidado durante 50 años, y del que Nicky vive atormentado por los fantasmas de los niños a los que no pudo rescatar, culpándose por no haber hecho más.",
+      "genres": [
+        "Historia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zkuMTLJYwcWJKayjMyPPM86Yae1.png",
+      "runtime": "110 min",
+      "director": [
+        "James Hawes"
+      ],
+      "cast": [
+        "Anthony Hopkins",
+        "Johnny Flynn",
+        "Lena Olin",
+        "Romola Garai",
+        "Alex Sharp",
+        "Jonathan Pryce",
+        "Helena Bonham Carter",
+        "Juliana Moska"
+      ],
+      "rank": 9,
+      "id": "tt13097932",
+      "name": "Los niños de Winton",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFIZbML4aXY0alLvyfDIE0VUZW.jpg",
+      "rating": 7.769,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
       "genres": [
         "Aventura",
         "Fantasía",
         "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
-      "runtime": "179 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hZiZ67GMVkOamuHZ7Z5vcJzH1bM.png",
+      "runtime": "202 min",
       "director": [
         "Peter Jackson"
       ],
@@ -304,53 +341,17 @@
         "Ian McKellen",
         "Viggo Mortensen",
         "Sean Astin",
-        "Ian Holm",
-        "Liv Tyler",
-        "Christopher Lee",
-        "Sean Bean"
-      ],
-      "rank": 9,
-      "id": "tt0120737",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "rating": 8.451,
-      "year": 2001,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
-      "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rHWUWJXC83KfqiSSAogV1YYTZHf.png",
-      "runtime": "148 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Joseph Gordon-Levitt",
-        "Ken Watanabe",
-        "Tom Hardy",
-        "Elliot Page",
-        "Dileep Rao",
-        "Cillian Murphy",
-        "Tom Berenger"
+        "Andy Serkis",
+        "Dominic Monaghan",
+        "Billy Boyd",
+        "John Noble"
       ],
       "rank": 10,
-      "id": "tt1375666",
-      "name": "Origen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
-      "rating": 8.373,
-      "year": 2010,
+      "id": "tt0167260",
+      "name": "El señor de los anillos: El retorno del rey",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "rating": 8.507,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

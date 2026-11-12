@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.722,
+      "rating": 7.724,
       "year": 2025,
       "days": null,
       "trend": {
@@ -75,6 +75,42 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loqkFAOZ8egRaue7xcK6iQCcrVg.png",
+      "runtime": "108 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Ralph Fiennes",
+        "Clémence Poésy",
+        "Thekla Reuten",
+        "Jordan Prentice",
+        "Elizabeth Berrington",
+        "Jérémie Renier"
+      ],
+      "rank": 3,
+      "id": "tt0780536",
+      "name": "Escondidos en Brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
+      "rating": 7.502,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
       "genres": [
         "Familia",
@@ -100,7 +136,7 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
@@ -114,100 +150,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
+      "description": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loqkFAOZ8egRaue7xcK6iQCcrVg.png",
-      "runtime": "108 min",
-      "director": [
-        "Martin McDonagh"
-      ],
-      "cast": [
-        "Colin Farrell",
-        "Brendan Gleeson",
-        "Ralph Fiennes",
-        "Clémence Poésy",
-        "Thekla Reuten",
-        "Jordan Prentice",
-        "Elizabeth Berrington",
-        "Jérémie Renier"
-      ],
-      "rank": 4,
-      "id": "tt0780536",
-      "name": "Escondidos en Brujas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
-      "rating": 7.502,
-      "year": 2008,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.",
-      "genres": [
+        "Acción",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/th0nXnLEg3MYKpNuLVselZFArn1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p9VShKg7O5JKmaS6vS1l4R3vvcw.png",
-      "runtime": "130 min",
+      "background": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w6dMatJzyyVtmE8JVGnNjviapnv.png",
+      "runtime": "131 min",
       "director": [
-        "Isaki Lacuesta"
+        "Joseph Kosinski"
       ],
       "cast": [
-        "Nahuel Pérez Biscayart",
-        "Noémie Merlant",
-        "Quim Gutiérrez",
-        "Alba Guilera",
-        "Natalia de Molina",
-        "C. Tangana",
-        "Enric Auquer",
-        "Blanca Apilánez"
+        "Tom Cruise",
+        "Miles Teller",
+        "Jennifer Connelly",
+        "Bashir Salahuddin",
+        "Jon Hamm",
+        "Charles Parnell",
+        "Monica Barbaro",
+        "Lewis Pullman"
       ],
       "rank": 5,
-      "id": "tt14104600",
-      "name": "Un año, una noche",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg",
-      "rating": 5.96,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra la historia real de Lucía, la única testigo en la matanza de los jesuitas en El Salvador. La madrugada del 16 de noviembre de 1989, en plena guerra civil salvadoreña, seis sacerdotes jesuitas, profesores universitarios, y dos empleadas fueron asesinados en la Universidad Centroamericana José Simeón Cañas (UCA) en San Salvador. La noticia tuvo una inmediata repercusión internacional porque, además de la barbarie, entre los sacerdotes asesinados se encuentraba un intelectual de prestigio, Ignacio Ellacuría. Lucía ha visto quiénes son los verdaderos asesinos: el ejército. Aquella mirada será clave para esclarecer la verdad y hacer justicia, pero además cambiará para siempre su vida y la de su familia.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yF4TjrmwaLlcJy6dcD0qool4Pxy.jpg",
-      "runtime": "107 min",
-      "director": [
-        "Imanol Uribe"
-      ],
-      "cast": [
-        "Juana Acosta",
-        "Juan Carlos Martínez",
-        "Carmelo Gómez",
-        "Karra Elejalde",
-        "Angel Bonanni",
-        "Harlys Becerra",
-        "Manu Fullola",
-        "Gerald B. Fillmore"
-      ],
-      "rank": 6,
-      "id": "tt13434790",
-      "name": "Llegaron de noche",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgIIZO9TJTeyF233Q10ZHv8uFsb.jpg",
-      "rating": 7.1,
+      "id": "tt1745960",
+      "name": "Top Gun: Maverick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+      "rating": 8.157,
       "year": 2022,
       "days": null,
       "trend": {
@@ -239,7 +207,7 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
@@ -253,68 +221,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
-      "runtime": "92 min",
-      "director": [
-        "Ilya Naishuller"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Aleksey Serebryakov",
-        "Connie Nielsen",
-        "Christopher Lloyd",
-        "Michael Ironside",
-        "Colin Salmon",
-        "RZA",
-        "Billy MacLellan"
-      ],
-      "rank": 8,
-      "id": "tt7888964",
-      "name": "Nadie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "rating": 7.852,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "description": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
       "genres": [
         "Drama",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
-      "runtime": "175 min",
+      "background": "https://image.tmdb.org/t/p/w1280/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png",
+      "runtime": "141 min",
       "director": [
-        "Francis Ford Coppola"
+        "Steven Spielberg"
       ],
       "cast": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan",
-        "Robert Duvall",
-        "Richard S. Castellano",
-        "Diane Keaton",
-        "Talia Shire",
-        "Gianni Russo"
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye",
+        "Amy Adams",
+        "James Brolin",
+        "Brian Howe"
       ],
-      "rank": 9,
-      "id": "tt0068646",
-      "name": "El padrino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
-      "rating": 8.688,
-      "year": 1972,
+      "rank": 7,
+      "id": "tt0264464",
+      "name": "Atrápame si puedes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/WboEhiMlCsy4l2u2BweerHCLFa.jpg",
+      "rating": 7.978,
+      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -323,34 +256,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+      "description": "Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/th0nXnLEg3MYKpNuLVselZFArn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p9VShKg7O5JKmaS6vS1l4R3vvcw.png",
+      "runtime": "130 min",
+      "director": [
+        "Isaki Lacuesta"
+      ],
+      "cast": [
+        "Nahuel Pérez Biscayart",
+        "Noémie Merlant",
+        "Quim Gutiérrez",
+        "Alba Guilera",
+        "Natalia de Molina",
+        "C. Tangana",
+        "Enric Auquer",
+        "Blanca Apilánez"
+      ],
+      "rank": 8,
+      "id": "tt14104600",
+      "name": "Un año, una noche",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg",
+      "rating": 5.96,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
       "genres": [
         "Fantasía",
         "Aventura",
-        "Romance"
+        "Animación",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/kxklJL1v8MYEU5xdU6W5VvmBwVz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mwHrMTONN950umO0PezcFBuYzNs.png",
+      "runtime": "98 min",
       "director": [
-        "Jon M. Chu"
+        "Dean DeBlois",
+        "Chris Sanders"
       ],
       "cast": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Jonathan Bailey",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Jay Baruchel",
+        "Gerard Butler",
+        "Craig Ferguson",
+        "America Ferrera",
+        "Jonah Hill",
+        "Christopher Mintz-Plasse",
+        "T.J. Miller",
+        "Kristen Wiig"
+      ],
+      "rank": 9,
+      "id": "tt0892769",
+      "name": "Cómo entrenar a tu dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg",
+      "rating": 7.867,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la historia real de Lucía, la única testigo en la matanza de los jesuitas en El Salvador. La madrugada del 16 de noviembre de 1989, en plena guerra civil salvadoreña, seis sacerdotes jesuitas, profesores universitarios, y dos empleadas fueron asesinados en la Universidad Centroamericana José Simeón Cañas (UCA) en San Salvador. La noticia tuvo una inmediata repercusión internacional porque, además de la barbarie, entre los sacerdotes asesinados se encuentraba un intelectual de prestigio, Ignacio Ellacuría. Lucía ha visto quiénes son los verdaderos asesinos: el ejército. Aquella mirada será clave para esclarecer la verdad y hacer justicia, pero además cambiará para siempre su vida y la de su familia.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yF4TjrmwaLlcJy6dcD0qool4Pxy.jpg",
+      "runtime": "107 min",
+      "director": [
+        "Imanol Uribe"
+      ],
+      "cast": [
+        "Juana Acosta",
+        "Juan Carlos Martínez",
+        "Carmelo Gómez",
+        "Karra Elejalde",
+        "Angel Bonanni",
+        "Harlys Becerra",
+        "Manu Fullola",
+        "Gerald B. Fillmore"
       ],
       "rank": 10,
-      "id": "tt19847976",
-      "name": "Wicked Parte II",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
-      "rating": 6.6,
-      "year": 2025,
+      "id": "tt13434790",
+      "name": "Llegaron de noche",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgIIZO9TJTeyF233Q10ZHv8uFsb.jpg",
+      "rating": 7.1,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

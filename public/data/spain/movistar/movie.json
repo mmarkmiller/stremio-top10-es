@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,6 +41,40 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Un acto de disidencia pacífica y el movimiento vecinal de base en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñó del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años setenta.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4fKEH1eeLv6NsLD4adCsFqJaRo0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ss0E1SspvOUireBwXWcVl8xl8y3.png",
+      "runtime": "110 min",
+      "director": [
+        "Marcel Barrena"
+      ],
+      "cast": [
+        "Eduard Fernández",
+        "Clara Segura",
+        "Zoe Bonafonte",
+        "Salva Reina",
+        "Óscar de la Fuente",
+        "David Verdaguer",
+        "Carlos Cuevas",
+        "Betsy Túrnez"
+      ],
+      "rank": 2,
+      "id": "tt27751957",
+      "name": "El 47",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
+      "rating": 7.391,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
       "genres": [
         "Drama",
@@ -62,11 +96,11 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.291,
+      "rating": 8.288,
       "year": 2025,
       "days": null,
       "trend": {
@@ -98,12 +132,47 @@
         "이중옥",
         "김종태"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt34385135",
       "name": "Zona cero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
-      "rating": 8.189,
+      "rating": 8.18,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven criminal, condenada por asesinar a un policía, es adiestrada para matar a cambio de la conmutación de su pena. En Hollywood se hizo un remake protagonizado por Bridget Fonda.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ciXTaqQgLglDfDB5MIBYZOhMXUs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fWSdkYtckInspePpeceox0Kc4VU.png",
+      "runtime": "117 min",
+      "director": [
+        "Luc Besson"
+      ],
+      "cast": [
+        "Anne Parillaud",
+        "Jean-Hugues Anglade",
+        "Tchéky Karyo",
+        "Jean Reno",
+        "Marc Duret",
+        "Jeanne Moreau",
+        "Patrick Fontana",
+        "Roland Blanche"
+      ],
+      "rank": 5,
+      "id": "tt0100263",
+      "name": "Nikita. Dura de matar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5rt1tMhK6AeO4462lwi9wJZorWF.jpg",
+      "rating": 7.103,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,11 +203,11 @@
         "Dominique Briand",
         "Frédéric Paquet"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt1255953",
       "name": "Incendios",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rA40sUH6bHD5pAJ1jOcJFZPhlOe.jpg",
-      "rating": 8.104,
+      "rating": 8.103,
       "year": 2010,
       "days": null,
       "trend": {
@@ -171,11 +240,11 @@
         "Robert Bailey Jr.",
         "Ian McShane"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt0327597",
       "name": "Los mundos de Coraline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.951,
+      "rating": 7.95,
       "year": 2009,
       "days": null,
       "trend": {
@@ -185,175 +254,102 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un acto de disidencia pacífica y el movimiento vecinal de base en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñó del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años setenta.",
+      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
+      "runtime": "108 min",
+      "director": [
+        "Damian McCarthy"
+      ],
+      "cast": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Michael Patric",
+        "Will O'Connell",
+        "Brendan Conroy",
+        "Ezra Carlisle"
+      ],
+      "rank": 8,
+      "id": "tt35672862",
+      "name": "Hokum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "rating": 6.807,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7bVL113mPO6RI0oiMsPVrW6Jdc.png",
+      "runtime": "110 min",
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell",
+        "Henry Golding",
+        "Tom Wu"
+      ],
+      "rank": 9,
+      "id": "tt8367814",
+      "name": "The Gentlemen: Los señores de la mafia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
+      "rating": 7.658,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Erin Brockovich es una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores, pero todo cambiará cuando decida investigar el extraño caso de unos clientes que padecen una sospechosa enfermedad.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4fKEH1eeLv6NsLD4adCsFqJaRo0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ss0E1SspvOUireBwXWcVl8xl8y3.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6h6lUgQ8XPWJXWCytbjyxlUXp6w.png",
+      "runtime": "131 min",
       "director": [
-        "Marcel Barrena"
+        "Steven Soderbergh"
       ],
       "cast": [
-        "Eduard Fernández",
-        "Clara Segura",
-        "Zoe Bonafonte",
-        "Salva Reina",
-        "Óscar de la Fuente",
-        "David Verdaguer",
-        "Carlos Cuevas",
-        "Betsy Túrnez"
-      ],
-      "rank": 6,
-      "id": "tt27751957",
-      "name": "El 47",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
-      "rating": 7.451,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sin tener idea de cómo llegó a ser encarcelado, drogado y torturado durante 15 años, un hombre desesperado busca vengarse de sus captores.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6ipkwcs7iXUGcrCGXgYERduuTtV.png",
-      "runtime": "119 min",
-      "director": [
-        "Park Chan-wook"
-      ],
-      "cast": [
-        "Choi Min-sik",
-        "유지태",
-        "강혜정",
-        "김병옥",
-        "지대한",
-        "오달수",
-        "이승신",
-        "윤진서"
-      ],
-      "rank": 7,
-      "id": "tt0364569",
-      "name": "Old Boy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
-      "rating": 8.234,
-      "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ybafdwzTL7XCuLAAjm2AgniEHO.png",
-      "runtime": "142 min",
-      "director": [
-        "杨子"
-      ],
-      "cast": [
-        "Jackie Chan",
-        "张子枫",
-        "梁家輝",
-        "此沙",
-        "文俊辉",
-        "周政杰",
-        "王杍逸",
-        "郎月婷"
-      ],
-      "rank": 8,
-      "id": "tt34610311",
-      "name": "Escuadrón letal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
-      "rating": 8.358,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
-      "runtime": "116 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker",
-        "Michael Stuhlbarg",
-        "Mark O'Brien",
-        "Tzi Ma",
-        "Abigail Pniowsky",
-        "Julia Scarlett Dan"
-      ],
-      "rank": 9,
-      "id": "tt2543164",
-      "name": "La llegada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
-      "rating": 7.638,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
-      "director": [
-        "Sebastian Schipper"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
+        "Julia Roberts",
+        "Albert Finney",
+        "Aaron Eckhart",
+        "Marg Helgenberger",
+        "Cherry Jones",
+        "Veanne Cox",
+        "Conchata Ferrell",
+        "Tracey Walter"
       ],
       "rank": 10,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.579,
-      "year": 2015,
+      "id": "tt0195685",
+      "name": "Erin Brockovich",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg",
+      "rating": 7.428,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

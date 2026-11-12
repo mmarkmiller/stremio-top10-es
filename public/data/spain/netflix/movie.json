@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.384,
+      "rating": 6.312,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,42 +66,8 @@
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
+      "rating": 7.582,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/f33XdT6dwNXmXQNvQ4FuyhQrUob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGaexxqaUSrohObCiDdoZeh0Ytj.png",
-      "runtime": "121 min",
-      "director": [
-        "David Gordon Green"
-      ],
-      "cast": [
-        "Leslie Odom Jr.",
-        "Lidya Jewett",
-        "Olivia O'Neill",
-        "Ann Dowd",
-        "Jennifer Nettles",
-        "Norbert Leo Butz",
-        "Okwui Okpokwasili",
-        "Raphael Sbarge"
-      ],
-      "rank": 3,
-      "id": "tt12921446",
-      "name": "El exorcista: Creyente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
-      "rating": 5.794,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,12 +98,46 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.617,
+      "rating": 7.62,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 4,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -177,6 +177,41 @@
     },
     {
       "artworkVersion": 4,
+      "description": "La atractiva Christina Walters, inesperadamente y tras años de evitar relaciones serias con los hombres, conoce durante una noche de fiesta al que parece ser su media naranja, Pete. Pero cuando Christina se entera a la mañana siguiente que Pete ha dejado la ciudad, ella y su mejor amiga, Courtney, salen en su búsqueda y se encuentran con una serie de contratiempos durante su viaje.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g9ekJY8zNxQ9J3cRYQHzRwiObuq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lvhoy9zRqTSQMDnrEZr4wRI3duZ.png",
+      "runtime": "90 min",
+      "director": [
+        "Roger Kumble"
+      ],
+      "cast": [
+        "Cameron Diaz",
+        "Christina Applegate",
+        "Thomas Jane",
+        "Selma Blair",
+        "Jason Bateman",
+        "Parker Posey",
+        "Lillian Adams",
+        "Herb Ankrom"
+      ],
+      "rank": 6,
+      "id": "tt0253867",
+      "name": "La cosa más dulce",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m9Ik7hzYKzea3ACUMQ2Mpbt69OY.jpg",
+      "rating": 5.614,
+      "year": 2002,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
       "genres": [
         "Documental",
@@ -196,11 +231,11 @@
         "Javier González",
         "Fernando Serulla"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt48500521",
       "name": "Desprotexida: el crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.25,
+      "rating": 6.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -210,32 +245,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.",
       "genres": [
-        "Drama"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/f33XdT6dwNXmXQNvQ4FuyhQrUob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uGaexxqaUSrohObCiDdoZeh0Ytj.png",
+      "runtime": "121 min",
       "director": [
-        "Gus Van Sant"
+        "David Gordon Green"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Leslie Odom Jr.",
+        "Lidya Jewett",
+        "Olivia O'Neill",
+        "Ann Dowd",
+        "Jennifer Nettles",
+        "Norbert Leo Butz",
+        "Okwui Okpokwasili",
+        "Raphael Sbarge"
       ],
-      "rank": 7,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
+      "rank": 8,
+      "id": "tt12921446",
+      "name": "El exorcista: Creyente",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
+      "rating": 5.794,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 9,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.394,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -265,7 +335,7 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
@@ -276,43 +346,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
-      "director": [
-        "Zach Cregger"
-      ],
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "rank": 10,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.258,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

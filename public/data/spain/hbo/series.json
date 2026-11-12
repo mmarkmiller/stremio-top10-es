@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -25,7 +25,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.6,
+      "rating": 8.603,
       "year": 2026,
       "days": null,
       "trend": {
@@ -56,7 +56,7 @@
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
-      "rating": 7.711,
+      "rating": 7.7,
       "year": 2022,
       "days": null,
       "trend": {
@@ -98,31 +98,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
       "genres": [
-        "Sci-Fi & Fantasy",
         "Drama",
-        "Action & Adventure"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
       "director": [],
       "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
+        "Rose Byrne",
+        "Meghann Fahy",
+        "Brendan Gleeson",
+        "Harper Steele",
+        "Michael Dorman",
+        "Audrey Grace Marshall",
+        "Drew Cheek",
+        "Olivia Williams"
       ],
       "rank": 4,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.4,
-      "year": 2022,
+      "id": "tt31842126",
+      "name": "The Good Daughter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "rating": 10,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -154,7 +153,40 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.491,
+      "rating": 8.49,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+      "director": [],
+      "cast": [
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
+      ],
+      "rank": 6,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.378,
       "year": 2022,
       "days": null,
       "trend": {
@@ -182,11 +214,11 @@
         "Steven Van Zandt",
         "Tony Sirico"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0141842",
       "name": "Los Soprano",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p7XPjx5jTFl32TGbbIW8exdY8QW.jpg",
-      "rating": 8.678,
+      "rating": 8.68,
       "year": 1999,
       "days": null,
       "trend": {
@@ -196,26 +228,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "description": "Del escritor y productor ejecutivo Veena Sud (Caso Abierto), The Killing se basa en la exitosa serie de televisión danesa Forbrydelsen y cuenta la historia del asesinato de una joven de Seattle y la investigación policial posterior. The Killing une tres historias distintas en torno a un solo asesinato: la de los detectives asignados al caso, la de la afligida familia de la víctima, y la de los sospechosos. Ubicada en Seattle, la historia también explora la política local, ya que sigue los políticos relacionados con el caso. A medida que la serie avanza, se hace evidente que no hay casualidades, todo el mundo tiene un secreto, y mientras que los personajes piensan que han cambiado, su pasado no lo hace con ellos.",
       "genres": [
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Crimen",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/sNqwjwT5kAogsREpOaso65QYItF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tvygpGb5gHZxVrocAZf78gLkmuV.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Mireille Enos",
+        "Joel Kinnaman",
+        "Gregg Henry",
+        "Joan Allen",
+        "Sterling Beaumon",
+        "Levi Meaden",
+        "Morten Hauch-Fausbøll",
+        "Rowan Longworth"
       ],
-      "rank": 7,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.196,
-      "year": 2026,
+      "rank": 8,
+      "id": "tt1637727",
+      "name": "The Killing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+      "rating": 7.819,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +278,7 @@
         "Jackson Connor",
         "Joseph William Evans"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt35768911",
       "name": "De puntillas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
@@ -255,58 +292,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
       "director": [],
       "cast": [
-        "Montana Jordan",
-        "Emily Osment",
-        "Rachel Bay Jones",
-        "Will Sasso",
-        "Dougie Baldwin",
-        "Jessie Prez"
-      ],
-      "rank": 9,
-      "id": "tt31589662",
-      "name": "El primer matrimonio de Georgie y Mandy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.009,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
       ],
       "rank": 10,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.729,
-      "year": 2025,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.187,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

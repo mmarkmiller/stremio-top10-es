@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
+      "runtime": "116 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
+      ],
+      "rank": 1,
+      "id": "tt2543164",
+      "name": "La llegada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "rating": 7.638,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Ambientada en Los Ángeles durante los años 70. El detective Holland March y el matón a sueldo Jackson Healy se ven obligados a colaborar para resolver varios casos: la desaparición de una joven, la muerte de una estrella porno y una conspiración criminal que llega hasta las altas esferas.",
@@ -28,7 +64,7 @@
         "Keith David",
         "Beau Knapp"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt3799694",
       "name": "Dos buenos tipos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
@@ -64,7 +100,7 @@
         "Lhakpa Tsamchoe",
         "Jampa Kalsang Tamang"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
@@ -100,11 +136,11 @@
         "Paul Dano",
         "Dylan Minnette"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt1392214",
       "name": "Prisioneros",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.106,
+      "rating": 8.105,
       "year": 2013,
       "days": null,
       "trend": {
@@ -136,82 +172,12 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.819,
+      "rating": 7.813,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
-      "runtime": "116 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker",
-        "Michael Stuhlbarg",
-        "Mark O'Brien",
-        "Tzi Ma",
-        "Abigail Pniowsky",
-        "Julia Scarlett Dan"
-      ],
-      "rank": 6,
-      "id": "tt2543164",
-      "name": "La llegada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
-      "rating": 7.638,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
-      "runtime": "128 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston"
-      ],
-      "rank": 7,
-      "id": "tt0097165",
-      "name": "El club de los poetas muertos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
-      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,11 +207,11 @@
         "Sarah Niles",
         "Will Merrick"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt16311594",
       "name": "F1 la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.832,
+      "rating": 7.831,
       "year": 2025,
       "days": null,
       "trend": {
@@ -279,7 +245,7 @@
         "Bill Melendez",
         "Robin Reed"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0068359",
       "name": "Es Acción de Gracias, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
@@ -293,34 +259,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
+      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
       "genres": [
-        "Ciencia ficción",
         "Suspense",
-        "Misterio"
+        "Crimen",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kqrwnukR30u8fsQL03fmkbNpGHc.png",
-      "runtime": "130 min",
+      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
+      "runtime": "154 min",
       "director": [
-        "Terry Gilliam"
+        "Quentin Tarantino"
       ],
       "cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
         "Bruce Willis",
-        "Madeleine Stowe",
-        "Brad Pitt",
-        "Christopher Plummer",
-        "David Morse",
-        "Jon Seda",
-        "Christopher Meloni",
-        "Joey Perillo"
+        "Ving Rhames",
+        "Harvey Keitel",
+        "Eric Stoltz",
+        "Tim Roth"
+      ],
+      "rank": 9,
+      "id": "tt0110912",
+      "name": "Pulp Fiction",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "rating": 8.48,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/al96VcDWlXXHh0zohGpIhxRRLsN.png",
+      "runtime": "128 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston"
       ],
       "rank": 10,
-      "id": "tt0114746",
-      "name": "12 monos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
-      "rating": 7.614,
-      "year": 1995,
+      "id": "tt0097165",
+      "name": "El club de los poetas muertos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "rating": 8.295,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -329,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }

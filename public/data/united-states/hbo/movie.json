@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611112224",
+  "date": "202611122157",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.2,
+      "rating": 7.208,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,78 +64,8 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.993,
+      "rating": 6.99,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
-      "director": [
-        "Paul Feig"
-      ],
-      "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
-      ],
-      "rank": 3,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.236,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Adam es un afable profesor de historia que lleva una vida bastante monótona. Un día, viendo una película, descubre a un actor que es idéntico a él. Obsesionado con la idea de tener un doble, la búsqueda de ese hombre tendrá para él consecuencias inesperadas...",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g8AWU6iSltRMJaa82PSOfXGglxD.png",
-      "runtime": "91 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Jake Gyllenhaal",
-        "Mélanie Laurent",
-        "Sarah Gadon",
-        "Isabella Rossellini",
-        "Joshua Peace",
-        "Tim Post",
-        "Kedar Brown",
-        "Darryl Dinn"
-      ],
-      "rank": 4,
-      "id": "tt2316411",
-      "name": "Enemy",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n0szSxuF7xWsQv8Y7e3PyDVYvad.jpg",
-      "rating": 6.839,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -167,12 +97,119 @@
         "Issey Takahashi",
         "Kanji Tsuda"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt4262980",
       "name": "Shin Godzilla",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uhls3dFqMZyesWWrIHoaCvoIUQC.jpg",
-      "rating": 7.258,
+      "rating": 7.3,
       "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/thBankgTBZAM3YkdeeF7fuDvkcD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roXMIbXAPmXQr7cDaTPhza8FPdu.png",
+      "runtime": "115 min",
+      "director": [
+        "Doug Liman"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Domhnall Gleeson",
+        "Sarah Wright",
+        "Jesse Plemons",
+        "Caleb Landry Jones",
+        "Lola Kirke",
+        "Jayma Mays",
+        "Alejandro Edda"
+      ],
+      "rank": 4,
+      "id": "tt3532216",
+      "name": "Barry Seal: el traficante",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i9jahD3uR2B4CPmJAsfeRvmzV0U.jpg",
+      "rating": 6.9,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
+      "director": [
+        "Paul Feig"
+      ],
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 5,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.234,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
+      "director": [
+        "Michael Sarnoski"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
+      ],
+      "rank": 6,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.703,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -202,11 +239,11 @@
         "Josh Brolin",
         "Javier Bardem"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.8,
+      "rating": 7.787,
       "year": 2021,
       "days": null,
       "trend": {
@@ -238,48 +275,12 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
       "rating": 6.669,
       "year": 2003,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
-      "director": [
-        "Michael Sarnoski"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
-      ],
-      "rank": 8,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.7,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,33 +325,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
       "genres": [
-        "Aventura",
-        "Fantasía"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
-      "runtime": "152 min",
+      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
+      "runtime": "115 min",
       "director": [
-        "Chris Columbus"
+        "Martin McDonagh"
       ],
       "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell",
+        "Abbie Cornish",
+        "Lucas Hedges",
+        "Željko Ivanek",
+        "Caleb Landry Jones",
+        "Clarke Peters"
       ],
       "rank": 10,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.906,
-      "year": 2001,
+      "id": "tt5027774",
+      "name": "Tres anuncios en las afueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
+      "rating": 8.049,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-11T17:39:41.852Z"
+  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
 }
