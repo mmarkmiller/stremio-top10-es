@@ -2,8 +2,68 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "runtime": "85 min",
+      "director": [
+        "Robert Darwell"
+      ],
+      "cast": [
+        "Dick Van Dyke"
+      ],
+      "rank": 1,
+      "id": "tt18225078",
+      "name": "The 90s Club",
+      "tmdbPosterUrl": null,
+      "rating": 10,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3v2tqcDJmJRYrsMYJ1dregKCpdo.png",
+      "runtime": "100 min",
+      "director": [
+        "David Robert Mitchell"
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella",
+        "Christian Convery",
+        "Jordan Alexa Davis",
+        "P.J. Byrne",
+        "Hudson Meek",
+        "Anne Gee Byrd"
+      ],
+      "rank": 2,
+      "id": "tt27165187",
+      "name": "El final de Oak Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "rating": 7.046,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
@@ -28,47 +88,12 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 1,
+      "rank": 3,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.62,
+      "rating": 7.621,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 2,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.412,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -95,46 +120,11 @@
         "Penélope Cruz",
         "Edward Norton"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
       "rating": 7.208,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "runtime": "109 min",
-      "director": [
-        "Curry Barker"
-      ],
-      "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald",
-        "Darin Toonder",
-        "Anthony Pavone"
-      ],
-      "rank": 4,
-      "id": "tt37287335",
-      "name": "Obsession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -179,139 +169,6 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
-      "runtime": "104 min",
-      "director": [
-        "Ron Howard"
-      ],
-      "cast": [
-        "Richard Avedon"
-      ],
-      "rank": 6,
-      "id": "tt41593493",
-      "name": "Avedon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-      "rating": 6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Romance",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/112sW296vEx3d71C8fzOqoFIomN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
-      "runtime": "107 min",
-      "director": [
-        "Adam Rehmeier"
-      ],
-      "cast": [
-        "Samara Weaving",
-        "Kyle Gallner",
-        "Kyra Sedgwick",
-        "Jon Gries",
-        "Tommy G. Kendrick",
-        "P.J. Sosko",
-        "Gregg Gilmore",
-        "Jamald Gardner"
-      ],
-      "rank": 7,
-      "id": "tt33365126",
-      "name": "Carolina Caroline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.612,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven corredor de bolsa británico, Nicholas \"Nicky\" Winton (Anthony Hopkins), ayudó a rescatar a cientos de niños de los nazis en vísperas de la Segunda Guerra Mundial, con la ayuda de su madre (Helena Bonham Carter). Un acto de compasión casi olvidado durante 50 años, y del que Nicky vive atormentado por los fantasmas de los niños a los que no pudo rescatar, culpándose por no haber hecho más.",
-      "genres": [
-        "Historia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7grv5ULlK9wMr2T1fkgr56HlbT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zkuMTLJYwcWJKayjMyPPM86Yae1.png",
-      "runtime": "110 min",
-      "director": [
-        "James Hawes"
-      ],
-      "cast": [
-        "Anthony Hopkins",
-        "Johnny Flynn",
-        "Lena Olin",
-        "Romola Garai",
-        "Alex Sharp",
-        "Jonathan Pryce",
-        "Helena Bonham Carter",
-        "Juliana Moska"
-      ],
-      "rank": 8,
-      "id": "tt13097932",
-      "name": "Los niños de Winton",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sFFIZbML4aXY0alLvyfDIE0VUZW.jpg",
-      "rating": 7.769,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 9,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
       "genres": [
         "Comedia",
@@ -334,11 +191,142 @@
         "Marisa Coughlan",
         "Nat Faxon"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt8820258",
       "name": "Super Troopers 3",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "rating": 6.254,
+      "rating": 6.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
+      "director": [
+        "Eli Horowitz"
+      ],
+      "cast": [
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
+      ],
+      "rank": 7,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
+      ],
+      "rank": 8,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.41,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/foMbscDoteXo61z5MqktNkUvexZ.png",
+      "runtime": "104 min",
+      "director": [
+        "Ron Howard"
+      ],
+      "cast": [
+        "Richard Avedon"
+      ],
+      "rank": 9,
+      "id": "tt41593493",
+      "name": "Avedon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+      "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "runtime": "109 min",
+      "director": [
+        "Curry Barker"
+      ],
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
+      ],
+      "rank": 10,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -348,5 +336,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

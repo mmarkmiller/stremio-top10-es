@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.6,
+      "rating": 8.649,
       "year": 2025,
       "days": null,
       "trend": {
@@ -38,25 +38,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "description": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gv8VlHHtL4roLpU0MZOv9Evlvdf.png",
       "director": [],
       "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
+        "Sylvester Stallone",
+        "Martin Starr",
+        "Jay Will",
+        "Vincent Piazza",
+        "Annabella Sciorra",
+        "Chris Caldovino",
+        "McKenna Quigley Harrington",
+        "Frank Grillo"
       ],
       "rank": 2,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.412,
-      "year": 2023,
+      "id": "tt16358384",
+      "name": "Tulsa King",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+      "rating": 8.319,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,7 +94,7 @@
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.549,
+      "rating": 8.552,
       "year": 2025,
       "days": null,
       "trend": {
@@ -98,31 +104,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Comedia"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gv8VlHHtL4roLpU0MZOv9Evlvdf.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
       "director": [],
       "cast": [
-        "Sylvester Stallone",
-        "Martin Starr",
-        "Jay Will",
-        "Vincent Piazza",
-        "Annabella Sciorra",
-        "Chris Caldovino",
-        "McKenna Quigley Harrington",
-        "Frank Grillo"
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
       ],
       "rank": 4,
-      "id": "tt16358384",
-      "name": "Tulsa King",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.32,
-      "year": 2022,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.4,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -131,29 +131,57 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jEwaxwh5mgQtCvt2QMAUFXQzKb5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Dennis Franz",
-        "Mark-Paul Gosselaar",
-        "Henry Simmons",
-        "Gordon Clapp",
-        "Bill Brochtrup",
-        "Jacqueline Obradors",
-        "Currie Graham",
-        "Bonnie Somerville"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 5,
-      "id": "tt0106079",
-      "name": "Policías de Nueva York",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
-      "rating": 7.064,
-      "year": 1993,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.584,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
+      ],
+      "rank": 6,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.282,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,37 +209,12 @@
         "Desmond Harrington",
         "C.S. Lee"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
       "rating": 8.242,
       "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png",
-      "director": [],
-      "cast": [
-        "Kyle MacLachlan"
-      ],
-      "rank": 7,
-      "id": "tt0098936",
-      "name": "Twin Peaks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "rating": 8.3,
-      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -252,29 +255,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La unidad de élite de la oficina del FBI en Nueva York ofrece todos sus talentos, intelecto y experiencia técnica en casos importantes para mantener a salvo a Nueva York y el país.",
+      "description": "Ava es una agente inmobiliaria obsesionada con los podcasts sobre asesinos en serie que no encuentra la forma de destacar en su trabajo como agente inmobiliaria. Nathan, su marido, una vieja promesa del tenis que vio frustrada su brillante carrera, lleva años trabajando como entrenador de tenis en un selecto club, pero acaba de ser sustituido, mandando al traste sus planes de futuro y su propio ego.",
       "genres": [
-        "Crimen",
-        "Action & Adventure",
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/stD2BtJHwc8xolJVtglrETEjD57.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png",
+      "background": "https://image.tmdb.org/t/p/w1280/AeumbJh2aL047r40yIOztHSV9pD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/25wDRDA30fgt9KudAc5MXcShXdo.png",
       "director": [],
       "cast": [
-        "Missy Peregrym",
-        "Zeeko Zaki",
-        "John Boyd",
-        "Jeremy Sisto",
-        "Alana de la Garza",
-        "Juliana Aidén Martinez"
+        "Kaley Cuoco",
+        "Chris Messina",
+        "Tom Bateman",
+        "Liana Liberato"
       ],
       "rank": 9,
-      "id": "tt7491982",
-      "name": "FBI",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
-      "rating": 7.919,
-      "year": 2018,
+      "id": "tt19500224",
+      "name": "Basado en una historia real",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
+      "rating": 7.025,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,31 +283,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "description": "El equipo documental que inmortalizó la sucursal de Dunder Mifflin en Scranton está buscando un nuevo tema cuando descubre un periódico histórico de Toledo, The Truth Teller, y al entusiasta editor que intenta revivirlo.",
       "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "background": "https://image.tmdb.org/t/p/w1280/wzkgLYZcEo0dDiwT7sNsCObfFdl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/urHZKooNBEDyGhK3cBmjxTAzYyE.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Logan Marshall-Green",
-        "Arielle Kebbel",
-        "Ash Santos",
-        "Tatanka Means",
-        "Brecken Merrill",
-        "Mo Brings Plenty",
-        "Gil Birmingham"
+        "Domhnall Gleeson",
+        "Sabrina Impacciatore",
+        "Chelsea Frei",
+        "Melvin Gregg",
+        "Gbemisola Ikumelo",
+        "Alex Edelman",
+        "Ramona Young",
+        "Tim Key"
       ],
       "rank": 10,
-      "id": "tt36849871",
-      "name": "Marshals: Una historia de Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "rating": 8,
-      "year": 2026,
+      "id": "tt32159809",
+      "name": "The Paper",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+      "rating": 7.2,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

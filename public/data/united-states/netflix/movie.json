@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,43 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.62,
+      "rating": 7.621,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
+      "director": [
+        "Eli Horowitz"
+      ],
+      "cast": [
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
+      ],
+      "rank": 2,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -46,6 +81,7 @@
         "Documental"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/foMbscDoteXo61z5MqktNkUvexZ.png",
       "runtime": "104 min",
       "director": [
         "Ron Howard"
@@ -53,11 +89,49 @@
       "cast": [
         "Richard Avedon"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt41593493",
       "name": "Avedon",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
       "rating": 6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+      "runtime": "105 min",
+      "director": [
+        "Daley Pearson",
+        "Jeffrey Walker"
+      ],
+      "cast": [
+        "T.J. Power",
+        "Charlotte Nicdao",
+        "Josh Helman",
+        "Emily Barclay",
+        "Benedict Hardie",
+        "Elijah Tamati",
+        "Edward A O'Sullivan",
+        "Caitlin Niemotko"
+      ],
+      "rank": 4,
+      "id": "tt37675123",
+      "name": "Allen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "rating": 7.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -90,11 +164,11 @@
         "Gregg Gilmore",
         "Jamald Gardner"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.612,
+      "rating": 6.67,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,103 +178,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
       "genres": [
-        "Historia",
-        "Suspense",
-        "Bélica"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
       "director": [
-        "Sean Ellis"
+        "Sean S. Cunningham"
       ],
       "cast": [
-        "Jamie Dornan",
-        "Cillian Murphy",
-        "Charlotte Le Bon",
-        "Anna Geislerová",
-        "Harry Lloyd",
-        "Toby Jones",
-        "Alena Mihulová",
-        "Marcin Dorociński"
-      ],
-      "rank": 4,
-      "id": "tt4190530",
-      "name": "Operación Anthropoid",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
-      "rating": 7.128,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
-      "runtime": "90 min",
-      "director": [
-        "Eli Horowitz"
-      ],
-      "cast": [
-        "Winona Ryder",
-        "Dermot Mulroney",
-        "John Gallagher Jr.",
-        "Brianne Tju",
-        "Owen Teague",
-        "Alain Uy",
-        "Dustin Ingram",
-        "Yvonne Senat Jones"
-      ],
-      "rank": 5,
-      "id": "tt15426294",
-      "name": "Abandonada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
-      "rating": 5.509,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-      "runtime": "94 min",
-      "director": [
-        "David Wain"
-      ],
-      "cast": [
-        "Zoey Deutch",
-        "John Slattery",
-        "Ken Marino",
-        "Miles Gutierrez-Riley",
-        "Ben Wang",
-        "Sabrina Impacciatore",
-        "Jon Hamm",
-        "Joe Lo Truglio"
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
       ],
       "rank": 6,
-      "id": "tt36834010",
-      "name": "Gail Daughtry y el vale por un rollo VIP",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.444,
-      "year": 2026,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.398,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -233,7 +236,7 @@
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.582,
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -243,32 +246,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Estado de Montana, años 1960. Un niño ve cómo el matrimonio de sus padres se derrumba cuando su madre encuentra a otro hombre... Basada en la novela de Richard Ford.",
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hDtiyCztpFdv9yLNSwNblhOjLKJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/upGFHZqg514z6p6tYoUlRKDKEhS.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
       "director": [
-        "Paul Dano"
+        "David Wain"
       ],
       "cast": [
-        "Jake Gyllenhaal",
-        "Carey Mulligan",
-        "Ed Oxenbould",
-        "Zoe Colletti",
-        "Bill Camp",
-        "Travis W Bruyer",
-        "Tom Huston Orr",
-        "Darryl Cox"
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
       ],
       "rank": 8,
-      "id": "tt5929754",
-      "name": "Lo que arde con el fuego",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cgmgSpPACSqJG5XRU8nRCZfvvZE.jpg",
-      "rating": 6.6,
-      "year": 2018,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.444,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,33 +280,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un grupo de terroristas rusos se hacen pasar por periodistas y secuestran el avión donde viaja el presidente de Estados Unidos. La negociación en el aire no es tan sencilla como en tierra y los secuestrados comenzarán a luchar por sus vidas.",
+      "description": "El capitán Sam Cahill, un condecorado marine, es enviado a combatir en Afganistán. Algunos meses después, el gobierno lo declara fallecido o desaparecido. Enterado de la noticia, su hermano pequeño Tommy se queda en Estados Unidos, cuidando de su cuñada Grace y sus sobrinos. Con el tiempo, Tommy se gana su cariño y llega a sustituir a su hermano como marido y como padre. Pero un día reciben una noticia inesperada, cuyas consecuencias sacudirán la unidad de la familia.",
       "genres": [
-        "Acción",
-        "Suspense"
+        "Drama",
+        "Suspense",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8JIPjSvx1LdtQZTpr3VR2hagU84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7vWd2GXi6KvzBPMnYKM5800yydb.png",
-      "runtime": "124 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rNZwxZeZHzoSXvU54mxIrMKSba1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png",
+      "runtime": "104 min",
       "director": [
-        "Wolfgang Petersen"
+        "Jim Sheridan"
       ],
       "cast": [
-        "Harrison Ford",
-        "Gary Oldman",
-        "Glenn Close",
-        "Wendy Crewson",
-        "Liesel Matthews",
-        "Paul Guilfoyle",
-        "Xander Berkeley",
-        "William H. Macy"
+        "Tobey Maguire",
+        "Jake Gyllenhaal",
+        "Natalie Portman",
+        "Sam Shepard",
+        "Mare Winningham",
+        "Bailee Madison",
+        "Taylor Geare",
+        "Patrick John Flueger"
       ],
       "rank": 9,
-      "id": "tt0118571",
-      "name": "Air Force One (El avión del presidente)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg",
-      "rating": 6.465,
-      "year": 1997,
+      "id": "tt0765010",
+      "name": "Hermanos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg",
+      "rating": 7.316,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,33 +316,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "description": "Año 1942. Dos checos saltan en paracaídas cerca de Praga con la orden de atentar contra el líder nazi Reinhard Heidrich, General de las SS y conocido como \"el carnicero de Praga\". Basada en la historia de la Operación Antropoide, la misión de la Segunda Guerra Mundial para asesinar a Heidrich, tercero en la línea de mando y artífice intelectual de la Solución Final.",
       "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
+        "Historia",
+        "Suspense",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4G9EM2lTf12qO3XoLA0P57HhWP.png",
+      "runtime": "120 min",
       "director": [
-        "Jeremy Saulnier"
+        "Sean Ellis"
       ],
       "cast": [
-        "Anton Yelchin",
-        "Imogen Poots",
-        "Patrick Stewart",
-        "Alia Shawkat",
-        "Joe Cole",
-        "Callum Turner",
-        "Macon Blair",
-        "Mark Webber"
+        "Jamie Dornan",
+        "Cillian Murphy",
+        "Charlotte Le Bon",
+        "Anna Geislerová",
+        "Harry Lloyd",
+        "Toby Jones",
+        "Alena Mihulová",
+        "Marcin Dorociński"
       ],
       "rank": 10,
-      "id": "tt4062536",
-      "name": "Green Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.726,
+      "id": "tt4190530",
+      "name": "Operación Anthropoid",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
+      "rating": 7.128,
       "year": 2016,
       "days": null,
       "trend": {
@@ -348,5 +352,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

@@ -2,74 +2,37 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
       "genres": [
         "Drama",
-        "Ciencia ficción",
-        "Misterio"
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
-      "runtime": "116 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1KBVvL6MEAiWXpMv9YkczEgTXIP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IIQcADzsnKBEBGecnyAnQBU4Pf.png",
+      "runtime": "127 min",
       "director": [
-        "Denis Villeneuve"
+        "Sian Heder"
       ],
       "cast": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker",
-        "Michael Stuhlbarg",
-        "Mark O'Brien",
-        "Tzi Ma",
-        "Abigail Pniowsky",
-        "Julia Scarlett Dan"
+        "Ruth Madeley",
+        "Mark Ruffalo",
+        "Dylan O'Brien",
+        "Madeline Delp",
+        "Rob Delaney",
+        "Ray Fisher",
+        "Michael Patrick Thornton",
+        "Antwan Tolliver"
       ],
       "rank": 1,
-      "id": "tt2543164",
-      "name": "La llegada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
-      "rating": 7.638,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en Los Ángeles durante los años 70. El detective Holland March y el matón a sueldo Jackson Healy se ven obligados a colaborar para resolver varios casos: la desaparición de una joven, la muerte de una estrella porno y una conspiración criminal que llega hasta las altas esferas.",
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tc830a4cFdOOxDuGHbArDcihqxK.png",
-      "runtime": "116 min",
-      "director": [
-        "Shane Black"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Ryan Gosling",
-        "Angourie Rice",
-        "Matt Bomer",
-        "Margaret Qualley",
-        "Yaya DaCosta",
-        "Keith David",
-        "Beau Knapp"
-      ],
-      "rank": 2,
-      "id": "tt3799694",
-      "name": "Dos buenos tipos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
-      "rating": 7.139,
-      "year": 2016,
+      "id": "tt15095848",
+      "name": "Siendo Heumann",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "rating": 8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,12 +63,48 @@
         "Lhakpa Tsamchoe",
         "Jampa Kalsang Tamang"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.213,
+      "rating": 8.219,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en Los Ángeles durante los años 70. El detective Holland March y el matón a sueldo Jackson Healy se ven obligados a colaborar para resolver varios casos: la desaparición de una joven, la muerte de una estrella porno y una conspiración criminal que llega hasta las altas esferas.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tc830a4cFdOOxDuGHbArDcihqxK.png",
+      "runtime": "116 min",
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta",
+        "Keith David",
+        "Beau Knapp"
+      ],
+      "rank": 3,
+      "id": "tt3799694",
+      "name": "Dos buenos tipos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
+      "rating": 7.1,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,34 +149,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
       "genres": [
-        "Acción",
-        "Comedia"
+        "Drama",
+        "Ciencia ficción",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
+      "runtime": "116 min",
       "director": [
-        "Jonathan Goldstein",
-        "John Francis Daley"
+        "Denis Villeneuve"
       ],
       "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Maria Bakalova",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
       ],
       "rank": 6,
-      "id": "tt28014327",
-      "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.813,
-      "year": 2026,
+      "id": "tt2543164",
+      "name": "La llegada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "rating": 7.638,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -186,71 +185,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-      "genres": [
-        "Acción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
-      "runtime": "155 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Brad Pitt",
-        "Damson Idris",
-        "Javier Bardem",
-        "Kerry Condon",
-        "Tobias Menzies",
-        "Kim Bodnia",
-        "Sarah Niles",
-        "Will Merrick"
-      ],
-      "rank": 7,
-      "id": "tt16311594",
-      "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.831,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
+      "description": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
       "genres": [
         "Animación",
-        "Comedia",
-        "Familia",
-        "Película de TV"
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png",
-      "runtime": "25 min",
+      "background": "https://image.tmdb.org/t/p/w1280/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qawnR80kAq87gnwayHy5JouiqHX.png",
+      "runtime": "33 min",
       "director": [
-        "Bill Melendez",
-        "Phil Roman"
+        "Matt Ferguson"
       ],
       "cast": [
-        "Todd Barbee",
-        "Robin Kohn",
-        "Stephen Shea",
-        "Hilary Momberger-Powers",
-        "Christopher DeFaria",
-        "Jimmy Ahrens",
-        "Bill Melendez",
-        "Robin Reed"
+        "Terry McGurrin",
+        "Rob Tinkler"
       ],
-      "rank": 8,
-      "id": "tt0068359",
-      "name": "Es Acción de Gracias, Charlie Brown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
-      "rating": 7.3,
-      "year": 1973,
+      "rank": 7,
+      "id": "tt47791876",
+      "name": "Snoopy presenta: 12 días para Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
+      "rating": 7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -281,12 +236,48 @@
         "Eric Stoltz",
         "Tim Roth"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0110912",
       "name": "Pulp Fiction",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
       "rating": 8.48,
       "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
+      "runtime": "139 min",
+      "director": [
+        "Peter Weir"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Paul Bettany",
+        "James D'Arcy",
+        "Robert Pugh",
+        "David Threlfall",
+        "Lee Ingleby",
+        "Max Pirkis",
+        "Max Benitz"
+      ],
+      "rank": 9,
+      "id": "tt0311113",
+      "name": "Master and commander: Al otro lado del mundo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
+      "rating": 7.211,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -329,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

@@ -2,14 +2,14 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Misterio",
+        "Drama"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
@@ -28,7 +28,7 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.9,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -58,7 +58,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7,
+      "rating": 7.049,
       "year": 2024,
       "days": null,
       "trend": {
@@ -90,7 +90,7 @@
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.677,
+      "rating": 7.679,
       "year": 2021,
       "days": null,
       "trend": {
@@ -122,8 +122,72 @@
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.643,
+      "rating": 7.634,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bir Başkadır, Nos conocimos en Estambul en España, es una serie drama turca que gira en torno a un grupo de personas de Estambul intentan derribar las barreras socioculturales mientras encuentran un terreno de comprensión entre ellos mientras se enfrentan a sus deseos y temores que se entrecruzan. Teniendo que tomar así un nuevo camino o lidiar con un pasado bastante complejo.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oIMHVcV1pPkUTc7gRU1fS3UwTFQ.png",
+      "director": [
+        "Berkun Oya"
+      ],
+      "cast": [
+        "Öykü Karayel",
+        "Funda Eryiğit",
+        "Fatih Artman",
+        "Defne Kayalar",
+        "Tülin Özen"
+      ],
+      "rank": 5,
+      "id": "tt11301642",
+      "name": "Nos conocimos en Estambul",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cFo6613vyG67H4025hZMNSra8Es.jpg",
+      "rating": 7.8,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
+      "rank": 6,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "rating": 8.756,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -150,11 +214,11 @@
         "Giancarlo Esposito",
         "Benedetta Porcaroli"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt13210838",
       "name": "The Gentlemen: La serie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.882,
+      "rating": 7.88,
       "year": 2024,
       "days": null,
       "trend": {
@@ -164,89 +228,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
       "director": [],
       "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 6,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
-      "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
-      "director": [],
-      "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Sheila Carrasco"
-      ],
-      "rank": 7,
-      "id": "tt11379026",
-      "name": "Fantasmas (US)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
       ],
       "rank": 8,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.296,
-      "year": 2024,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.691,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,28 +261,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
+      "description": "Cuando la rebelde Isabel se enamora del emperador Francisco y se promete inesperadamente con él, se adentra en el mundo lleno de tensiones e intrigas de la corte vienesa.",
       "genres": [
-        "Comedia",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-      "director": [
-        "Jan Maria Michelini"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/krx0NQ2qZmktGoRW6o5KIxlkWIo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7nUz8EBZix31Kvl9Fd4OO8aam2p.png",
+      "director": [],
       "cast": [
-        "Pierpaolo Spollon",
-        "Andrea Lattanzi",
-        "Romana Maggiora Vergano",
-        "Matilde Gioli",
-        "Aurora Giovinazzo"
+        "Devrim Lingnau",
+        "Philip Froissant",
+        "Melika Foroutan",
+        "Johannes Nussbaum",
+        "Elisa Schlott",
+        "Jördis Triebel",
+        "Almila Bağrıaçık",
+        "Wiebke Puls"
       ],
       "rank": 9,
-      "id": "tt37214564",
-      "name": "El claroscuro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-      "rating": 8,
-      "year": 2026,
+      "id": "tt13720112",
+      "name": "La emperatriz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
+      "rating": 7.7,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,7 +309,7 @@
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.804,
+      "rating": 7.806,
       "year": 2026,
       "days": null,
       "trend": {
@@ -312,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

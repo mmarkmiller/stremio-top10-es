@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,41 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.312,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 2,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.582,
+      "rating": 6.348,
       "year": 2026,
       "days": null,
       "trend": {
@@ -98,12 +64,219 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.62,
+      "rating": 7.621,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
+      ],
+      "rank": 3,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+      "runtime": "105 min",
+      "director": [
+        "Daley Pearson",
+        "Jeffrey Walker"
+      ],
+      "cast": [
+        "T.J. Power",
+        "Charlotte Nicdao",
+        "Josh Helman",
+        "Emily Barclay",
+        "Benedict Hardie",
+        "Elijah Tamati",
+        "Edward A O'Sullivan",
+        "Caitlin Niemotko"
+      ],
+      "rank": 4,
+      "id": "tt37675123",
+      "name": "Allen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
+      "runtime": "80 min",
+      "director": [
+        "Jorge Laplace"
+      ],
+      "cast": [
+        "Eduardo Pérez \"Perreras\"",
+        "Maribel Tarrazo",
+        "Corona Salgado",
+        "Eduardo Pérez",
+        "Javier González",
+        "Fernando Serulla"
+      ],
+      "rank": 5,
+      "id": "tt48500521",
+      "name": "Desprotexida: el crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/axWBI3wxJFiVlNSVyJL5NRiZRvZ.png",
+      "runtime": "140 min",
+      "director": [
+        "Sidharta Tata"
+      ],
+      "cast": [
+        "Lukman Sardi",
+        "Callista Arum",
+        "Sulthan Hamonangan",
+        "Derby Romero",
+        "Donny Alamsyah",
+        "Ismi Melinda",
+        "Laras Sardi",
+        "Dennis Adishwara"
+      ],
+      "rank": 6,
+      "id": "tt39370926",
+      "name": "No nos rendimos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "rating": 7.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
+      "runtime": "82 min",
+      "director": [
+        "Cesc Gay"
+      ],
+      "cast": [
+        "Javier Cámara",
+        "Belén Cuesta",
+        "Alberto San Juan",
+        "Griselda Siciliani"
+      ],
+      "rank": 7,
+      "id": "tt11028768",
+      "name": "Sentimental",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
+      "rating": 6.4,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+      "runtime": "103 min",
+      "director": [
+        "Adam Pålsson"
+      ],
+      "cast": [
+        "Felice Jankell",
+        "Happy Jankell",
+        "Christian Fandango Sundgren",
+        "Celie Sparre",
+        "Anastasios Soulis",
+        "Maria Kulle",
+        "Dag Malmberg",
+        "Bengt Braskered"
+      ],
+      "rank": 8,
+      "id": "tt39313557",
+      "name": "El intercambio navideño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "rating": 7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,7 +305,7 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 4,
+      "rank": 9,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
@@ -146,201 +319,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
       "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 5,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.4,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La atractiva Christina Walters, inesperadamente y tras años de evitar relaciones serias con los hombres, conoce durante una noche de fiesta al que parece ser su media naranja, Pete. Pero cuando Christina se entera a la mañana siguiente que Pete ha dejado la ciudad, ella y su mejor amiga, Courtney, salen en su búsqueda y se encuentran con una serie de contratiempos durante su viaje.",
-      "genres": [
+        "Drama",
         "Romance",
-        "Comedia"
+        "Ciencia ficción",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/g9ekJY8zNxQ9J3cRYQHzRwiObuq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lvhoy9zRqTSQMDnrEZr4wRI3duZ.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
+      "runtime": "110 min",
       "director": [
-        "Roger Kumble"
+        "Charlie McDowell"
       ],
       "cast": [
-        "Cameron Diaz",
-        "Christina Applegate",
-        "Thomas Jane",
-        "Selma Blair",
-        "Jason Bateman",
-        "Parker Posey",
-        "Lillian Adams",
-        "Herb Ankrom"
-      ],
-      "rank": 6,
-      "id": "tt0253867",
-      "name": "La cosa más dulce",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/m9Ik7hzYKzea3ACUMQ2Mpbt69OY.jpg",
-      "rating": 5.614,
-      "year": 2002,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
-      "genres": [
-        "Documental",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
-      "runtime": "80 min",
-      "director": [
-        "Jorge Laplace"
-      ],
-      "cast": [
-        "Eduardo Pérez \"Perreras\"",
-        "Maribel Tarrazo",
-        "Corona Salgado",
-        "Eduardo Pérez",
-        "Javier González",
-        "Fernando Serulla"
-      ],
-      "rank": 7,
-      "id": "tt48500521",
-      "name": "Desprotexida: el crimen de Pazos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/f33XdT6dwNXmXQNvQ4FuyhQrUob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGaexxqaUSrohObCiDdoZeh0Ytj.png",
-      "runtime": "121 min",
-      "director": [
-        "David Gordon Green"
-      ],
-      "cast": [
-        "Leslie Odom Jr.",
-        "Lidya Jewett",
-        "Olivia O'Neill",
-        "Ann Dowd",
-        "Jennifer Nettles",
-        "Norbert Leo Butz",
-        "Okwui Okpokwasili",
-        "Raphael Sbarge"
-      ],
-      "rank": 8,
-      "id": "tt12921446",
-      "name": "El exorcista: Creyente",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
-      "rating": 5.794,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 9,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.394,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
-      "runtime": "139 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Helena Bonham Carter",
-        "Meat Loaf",
-        "Jared Leto",
-        "Zach Grenier",
-        "Holt McCallany",
-        "Eion Bailey"
+        "Jason Segel",
+        "Rooney Mara",
+        "Robert Redford",
+        "Jesse Plemons",
+        "Riley Keough",
+        "Ron Canada",
+        "Brian McCarthy",
+        "Kimleigh Smith"
       ],
       "rank": 10,
-      "id": "tt0137523",
-      "name": "El club de la lucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.437,
-      "year": 1999,
+      "id": "tt5155780",
+      "name": "The Discovery",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+      "rating": 6.258,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -349,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

@@ -2,37 +2,37 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+      "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6UKEo5f72vf67xp60aNhyNLjIMk.png",
-      "runtime": "122 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3v2tqcDJmJRYrsMYJ1dregKCpdo.png",
+      "runtime": "100 min",
       "director": [
-        "Daniel Sánchez Arévalo"
+        "David Robert Mitchell"
       ],
       "cast": [
-        "Laia Costa",
-        "Karra Elejalde",
-        "Luis Zahera",
-        "Tamar Novas",
-        "Álvaro Cervantes",
-        "Lluís Homar",
-        "Luz Valdenebro",
-        "Víctor Duplá"
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella",
+        "Christian Convery",
+        "Jordan Alexa Davis",
+        "P.J. Byrne",
+        "Hudson Meek",
+        "Anne Gee Byrd"
       ],
       "rank": 1,
-      "id": "tt38793125",
-      "name": "Colisión",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.312,
+      "id": "tt27165187",
+      "name": "El final de Oak Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "rating": 7.046,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.952,
+      "rating": 6.951,
       "year": 2023,
       "days": null,
       "trend": {
@@ -77,67 +77,60 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un blogger de tecnología consigue una entrevista con un gurú de la tecnología y detiene un ataque contra él, encuentra un anillo misterioso que lo transporta 57 segundos al pasado.",
+      "description": "Después de los eventos devastadores de ‘Avengers: Infinity War’, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias…  Vengadores: Endgame cerró una etapa de Marvel, pero su edición Encore también mira hacia lo que viene. Esta versión incorpora mejoras visuales y contenido adicional que conecta con Vengadores: Doomsday.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1uu1SUE3hmr9MzjVBf9QIkERsyr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6haBaU8IqTf3xKIOoVrSPkzuA7c.png",
+      "runtime": "186 min",
+      "director": [],
+      "cast": [],
+      "rank": 3,
+      "id": "tmdb:1824935",
+      "name": "Vengadores Endgame: Encore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oB7rKdUINxngPoDVPkhBNPtAZk7.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
       "genres": [
         "Suspense",
-        "Ciencia ficción",
-        "Acción"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jP3FatCTHc460ZGW57q9ypTdBqu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU9FaOzbZ4N65CtYxOMBKTNvAch.png",
-      "runtime": "99 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6UKEo5f72vf67xp60aNhyNLjIMk.png",
+      "runtime": "122 min",
       "director": [
-        "Rusty Cundieff"
+        "Daniel Sánchez Arévalo"
       ],
       "cast": [
-        "Josh Hutcherson",
-        "Morgan Freeman",
-        "Greg Germann",
-        "Lovie Simone",
-        "Bevin Bru",
-        "Sammi Rotibi",
-        "Mark Jacobson",
-        "Griff Furst"
-      ],
-      "rank": 3,
-      "id": "tt18083578",
-      "name": "57 Segundos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg",
-      "rating": 6.157,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
+        "Laia Costa",
+        "Karra Elejalde",
+        "Luis Zahera",
+        "Tamar Novas",
+        "Álvaro Cervantes",
+        "Lluís Homar",
+        "Luz Valdenebro",
+        "Víctor Duplá"
       ],
       "rank": 4,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.582,
+      "id": "tt38793125",
+      "name": "Colisión",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+      "rating": 6.348,
       "year": 2026,
       "days": null,
       "trend": {
@@ -169,11 +162,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.62,
+      "rating": 7.621,
       "year": 2023,
       "days": null,
       "trend": {
@@ -183,67 +176,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un acto de disidencia pacífica y el movimiento vecinal de base en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñó del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años setenta.",
+      "description": "Cuando un blogger de tecnología consigue una entrevista con un gurú de la tecnología y detiene un ataque contra él, encuentra un anillo misterioso que lo transporta 57 segundos al pasado.",
       "genres": [
-        "Drama"
+        "Suspense",
+        "Ciencia ficción",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4fKEH1eeLv6NsLD4adCsFqJaRo0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ss0E1SspvOUireBwXWcVl8xl8y3.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jP3FatCTHc460ZGW57q9ypTdBqu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU9FaOzbZ4N65CtYxOMBKTNvAch.png",
+      "runtime": "99 min",
       "director": [
-        "Marcel Barrena"
+        "Rusty Cundieff"
       ],
       "cast": [
-        "Eduard Fernández",
-        "Clara Segura",
-        "Zoe Bonafonte",
-        "Salva Reina",
-        "Óscar de la Fuente",
-        "David Verdaguer",
-        "Carlos Cuevas",
-        "Betsy Túrnez"
+        "Josh Hutcherson",
+        "Morgan Freeman",
+        "Greg Germann",
+        "Lovie Simone",
+        "Bevin Bru",
+        "Sammi Rotibi",
+        "Mark Jacobson",
+        "Griff Furst"
       ],
-      "rank": 7,
-      "id": "tt27751957",
-      "name": "El 47",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
-      "rating": 7.391,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
-      "runtime": "120 min",
-      "director": [
-        "Kirk Jones"
-      ],
-      "cast": [
-        "Robert Aramayo",
-        "Maxine Peake",
-        "Peter Mullan",
-        "Shirley Henderson",
-        "Scott Ellis Watson",
-        "David Carlyle",
-        "Francesco Piacentini-Smith",
-        "Somerled Campbell"
-      ],
-      "rank": 8,
-      "id": "tt31514146",
-      "name": "Incontrolable (I Swear)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.288,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt18083578",
+      "name": "57 Segundos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg",
+      "rating": 6.157,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -274,7 +234,7 @@
         "Lenny Kravitz",
         "Philip Seymour Hoffman"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt1951264",
       "name": "Los Juegos del Hambre: En llamas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
@@ -288,33 +248,102 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Kane Parsons"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 8,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.989,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
+      "runtime": "89 min",
+      "director": [
+        "James Ward Byrkit"
+      ],
+      "cast": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon",
+        "Lauren Maher",
+        "Elizabeth Gracen",
+        "Hugo Armstrong",
+        "Lorene Scafaria",
+        "Alex Manugian"
+      ],
+      "rank": 9,
+      "id": "tt2866360",
+      "name": "Coherence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
+      "rating": 7.206,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
       ],
       "rank": 10,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -324,5 +353,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

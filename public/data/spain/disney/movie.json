@@ -2,8 +2,71 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Después de los eventos devastadores de ‘Avengers: Infinity War’, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias…  Vengadores: Endgame cerró una etapa de Marvel, pero su edición Encore también mira hacia lo que viene. Esta versión incorpora mejoras visuales y contenido adicional que conecta con Vengadores: Doomsday.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1uu1SUE3hmr9MzjVBf9QIkERsyr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6haBaU8IqTf3xKIOoVrSPkzuA7c.png",
+      "runtime": "186 min",
+      "director": [],
+      "cast": [],
+      "rank": 1,
+      "id": "tmdb:1824935",
+      "name": "Vengadores Endgame: Encore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oB7rKdUINxngPoDVPkhBNPtAZk7.jpg",
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rgNzvSagnlc32TuMEBa529QFIig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDtN5mnV6Cvr5Y3kY3A2AHofF54.png",
+      "runtime": "83 min",
+      "director": [
+        "Josh Trank"
+      ],
+      "cast": [
+        "Dane DeHaan",
+        "Alex Russell",
+        "Michael B. Jordan",
+        "Michael Kelly",
+        "Ashley Hinshaw",
+        "Bo Petersen",
+        "Anna Wood",
+        "Rudi Malcolm"
+      ],
+      "rank": 2,
+      "id": "tt1706593",
+      "name": "Chronicle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
+      "rating": 6.9,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
@@ -27,12 +90,119 @@
         "Leon Russom",
         "Rhoda Pell"
       ],
-      "rank": 1,
+      "rank": 3,
       "id": "tt6644200",
       "name": "Un lugar tranquilo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
       "rating": 7.394,
       "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El cierre de la fábrica de acero de Yorkshire deja sin trabajo a casi toda la población masculina. Gaz, uno de los obreros afectados, perderá el derecho de ver a su hijo si no consigue dinero para pagar la pensión de manutención familiar a su mujer. En medio de la desesperación, se le ocurre una idea, a primera vista disparatada, y se la plantea a los amigos que están en la misma situación: organizar un espectáculo de strip-tease.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/86k4AcYciKQmqvQm9Eh2hVF3tJ2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aOEnI3UVpigWgn3093Kd1tNCTYs.png",
+      "runtime": "92 min",
+      "director": [
+        "Peter Cattaneo"
+      ],
+      "cast": [
+        "Robert Carlyle",
+        "Mark Addy",
+        "Wim Snape",
+        "Steve Huison",
+        "Tom Wilkinson",
+        "Paul Barber",
+        "Hugo Speer",
+        "Lesley Sharp"
+      ],
+      "rank": 4,
+      "id": "tt0119164",
+      "name": "Full Monty",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hZorGSNfwMUP8dU6C8HtIS0D9OO.jpg",
+      "rating": 7.005,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
+      "runtime": "115 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell",
+        "Abbie Cornish",
+        "Lucas Hedges",
+        "Željko Ivanek",
+        "Caleb Landry Jones",
+        "Clarke Peters"
+      ],
+      "rank": 5,
+      "id": "tt5027774",
+      "name": "Tres anuncios en las afueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
+      "rating": 8.049,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "runtime": "105 min",
+      "director": [
+        "Lee Unkrich",
+        "Adrian Molina"
+      ],
+      "cast": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Arau",
+        "Herbert Siguenza"
+      ],
+      "rank": 6,
+      "id": "tt2380307",
+      "name": "Coco",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "rating": 8.207,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -64,83 +234,11 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 7,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.262,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El argumento está basado en la novela publicada por Garth Stein, la cual responde al mismo nombre que el filme. La historia combina diferentes sentimientos y situaciones comprometidas para la sociedad como son el dolor, la liberación, el cariño o el riesgo. Enzo, un perro que ha experimentado muchas aventuras interesantes a lo largo de su vida, es el personaje que pone voz a la película. Pese a no ser una persona de carne y hueso, este entrañable animal será capaz de dar diferentes lecciones a los seres humanos sobre cuál tendría que ser la manera adecuada de actuar sea cual sea la situación en la que se encuentren.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yv7XGQctTMrFM5ZiEm80zk3Jlw2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pdSQJuAySFbvGYTjiOgbTtygZbJ.png",
-      "runtime": "110 min",
-      "director": [
-        "Simon Curtis"
-      ],
-      "cast": [
-        "Kevin Costner",
-        "Milo Ventimiglia",
-        "Amanda Seyfried",
-        "Ryan Kiera Armstrong",
-        "Lily Dodsworth-Evans",
-        "Ian Lake",
-        "Martin Donovan",
-        "Kathy Baker"
-      ],
-      "rank": 3,
-      "id": "tt1478839",
-      "name": "El arte de vivir bajo la lluvia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg",
-      "rating": 8.1,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql3fKqsD2DIMLhZe29T9AxnQpTx.png",
-      "runtime": "115 min",
-      "director": [
-        "Thomas Kail"
-      ],
-      "cast": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
-      ],
-      "rank": 4,
-      "id": "tt27419466",
-      "name": "Vaiana",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "rating": 7.437,
+      "rating": 8.254,
       "year": 2026,
       "days": null,
       "trend": {
@@ -172,11 +270,11 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.458,
+      "rating": 7.456,
       "year": 2026,
       "days": null,
       "trend": {
@@ -186,138 +284,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
-      "runtime": "115 min",
-      "director": [
-        "Martin McDonagh"
-      ],
-      "cast": [
-        "Frances McDormand",
-        "Woody Harrelson",
-        "Sam Rockwell",
-        "Abbie Cornish",
-        "Lucas Hedges",
-        "Željko Ivanek",
-        "Caleb Landry Jones",
-        "Clarke Peters"
-      ],
-      "rank": 6,
-      "id": "tt5027774",
-      "name": "Tres anuncios en las afueras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
-      "rating": 8.049,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pádraic y Colm son dos amigos de toda la vida que se encuentran en un callejón sin salida cuando Colm pone inesperadamente fin a su amistad. Un aturdido Pádraic, ayudado por su hermana Siobhán y el problemático joven isleño Dominic se esfuerza por reparar la relación, negándose a aceptar un no por respuesta. Pero los repetidos esfuerzos de Pádraic no hacen más que reforzar la determinación de su antiguo amigo, y cuando Colm le da un ultimátum desesperado los acontecimientos se intensifican rápidamente, con consecuencias impactantes.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Md4CqzUGDtK5oEkRRvozLkGc9d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/600TOYGkzcFBj8lzf2Si8onrPdE.png",
-      "runtime": "114 min",
-      "director": [
-        "Martin McDonagh"
-      ],
-      "cast": [
-        "Colin Farrell",
-        "Brendan Gleeson",
-        "Kerry Condon",
-        "Barry Keoghan",
-        "Gary Lydon",
-        "Pat Shortt",
-        "Sheila Flitton",
-        "Bríd Ní Neachtain"
-      ],
-      "rank": 7,
-      "id": "tt11813216",
-      "name": "Almas en pena de Inisherin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/24zHdUTv3dHOB9VLsPPvx0WGntA.jpg",
-      "rating": 7.463,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las tradicionales bodas de San Antonio de Lisboa han tocado fondo. Al menos, eso es lo que cree Stardust, una importante multinacional francesa a punto de hacerse cargo del evento. Carmo y Valentim, dos empleados del Ayuntamiento de Lisboa que llevan más de 25 años organizando las celebraciones, reciben un duro ultimátum: reinventar el evento y convertirlo en un éxito moderno, o perder sus puestos de trabajo.",
+      "description": "Brad y Kate son una guapa y exitosa pareja de San Francisco que ven cómo sus planes iniciales de pasar el día de Navidad en un lugar exótico, alejados de su ciudad y de sus propias familias, se convierten en algo muy diferente. Obligados y sin escapatoria, ambos se ven envueltos en una Navidad de lo más familiar. Pero no será una única celebración familiar, sino que serán cuatro en el mismo día. Cuatro celebraciones en las que saldrán a la luz los miedos de la infancia, se reabrirán las heridas de la adolescencia... y se pondrá en peligro la relación de Brad y Kate. Pero mientras Brad cuenta las horas para quitarse de encima ese mundo de padres, suegros, sobrinos y hermanos, Kate empieza a ver las cosas de un modo diferente y, al final del día, puede que se pregunte si la vida que ha elegido el resto de su familia no es tan mala después de todo.",
       "genres": [
         "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hILmNUH51sXpkLXd9ecEUCljU1q.jpg",
-      "runtime": "119 min",
-      "director": [
-        "Ruben Alves"
-      ],
-      "cast": [
-        "Rita Blanco",
-        "Joaquim Monchique",
-        "Ana Bola",
-        "Maria Rueff",
-        "Pedro Nercessian",
-        "Maria João Bastos",
-        "Paco León",
-        "Jacqueline Corado"
-      ],
-      "rank": 8,
-      "id": "tt38781172",
-      "name": "Santo António, o Casamenteiro de Lisboa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/isoHopRbIc8ScJ6dx2vB4GOb820.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
+        "Romance",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/nOwpM0Bf15Z3h4p93BciERdEhPW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mKEJwBFXicqNEt7UqG6p8arR7uC.png",
+      "runtime": "88 min",
       "director": [
-        "M. Night Shyamalan"
+        "Seth Gordon"
       ],
       "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
+        "Vince Vaughn",
+        "Reese Witherspoon",
+        "Robert Duvall",
+        "Sissy Spacek",
+        "Mary Steenburgen",
+        "Jon Voight",
+        "Kristin Chenoweth",
+        "Jon Favreau"
       ],
       "rank": 9,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.958,
-      "year": 1999,
+      "id": "tt0369436",
+      "name": "Como en casa en ningún sitio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zPVyJ03znHUulA6MZ7tvINzVsIx.jpg",
+      "rating": 5.811,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,34 +320,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
+      "description": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
       "genres": [
-        "Aventura",
-        "Drama",
-        "Bélica"
+        "Fantasía",
+        "Animación",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3wkTp790LofLcOfHBzjFxscsy50.png",
+      "runtime": "75 min",
       "director": [
-        "Peter Weir"
+        "Henry Selick"
       ],
       "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara",
+        "William Hickey",
+        "Glenn Shadix",
+        "Paul Reubens",
+        "Ken Page",
+        "Edward Ivory"
       ],
       "rank": 10,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.211,
-      "year": 2003,
+      "id": "tt0107688",
+      "name": "Pesadilla antes de Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": 7.861,
+      "year": 1993,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

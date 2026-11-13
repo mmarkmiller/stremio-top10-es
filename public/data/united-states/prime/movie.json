@@ -2,8 +2,43 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
+      "director": [
+        "Eli Horowitz"
+      ],
+      "cast": [
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
+      ],
+      "rank": 1,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -28,11 +63,11 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
+      "rating": 8.625,
       "year": 2026,
       "days": null,
       "trend": {
@@ -65,47 +100,12 @@
         "Denise Crosby",
         "Robert DoQui"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0097889",
       "name": "70 minutos para huir",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oJWin62bMqnQUUydUAjlwWo5rsY.jpg",
       "rating": 6.9,
       "year": 1988,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
-      "runtime": "90 min",
-      "director": [
-        "Eli Horowitz"
-      ],
-      "cast": [
-        "Winona Ryder",
-        "Dermot Mulroney",
-        "John Gallagher Jr.",
-        "Brianne Tju",
-        "Owen Teague",
-        "Alain Uy",
-        "Dustin Ingram",
-        "Yvonne Senat Jones"
-      ],
-      "rank": 3,
-      "id": "tt15426294",
-      "name": "Abandonada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
-      "rating": 5.509,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,7 +136,7 @@
       "id": "tt30505578",
       "name": "Feed",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
-      "rating": 6.662,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -146,36 +146,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica ubicada en un castillo en Nueva Inglaterra, es para oficiales militares que se han vuelto locos durante el ejercicio de su deber. Su trabajo es decidir si los hombres están realmente locos o no; tiene métodos inusualmente eficaces. Considerada por su director la verdadera secuela de \"El exorcista\".",
+      "description": "El capitán Sam Cahill, un condecorado marine, es enviado a combatir en Afganistán. Algunos meses después, el gobierno lo declara fallecido o desaparecido. Enterado de la noticia, su hermano pequeño Tommy se queda en Estados Unidos, cuidando de su cuñada Grace y sus sobrinos. Con el tiempo, Tommy se gana su cariño y llega a sustituir a su hermano como marido y como padre. Pero un día reciben una noticia inesperada, cuyas consecuencias sacudirán la unidad de la familia.",
       "genres": [
         "Drama",
-        "Comedia",
-        "Terror",
-        "Misterio",
-        "Suspense"
+        "Suspense",
+        "Bélica"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hwR4DfGtWk0PkLg0dZZPair4gCY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7JDxpIsSye8ZLPWbFcJqAKr4ygi.png",
-      "runtime": "140 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rNZwxZeZHzoSXvU54mxIrMKSba1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png",
+      "runtime": "104 min",
       "director": [
-        "William Peter Blatty"
+        "Jim Sheridan"
       ],
       "cast": [
-        "Stacy Keach",
-        "Scott Wilson",
-        "Jason Miller",
-        "Ed Flanders",
-        "Neville Brand",
-        "George DiCenzo",
-        "Moses Gunn",
-        "Robert Loggia"
+        "Tobey Maguire",
+        "Jake Gyllenhaal",
+        "Natalie Portman",
+        "Sam Shepard",
+        "Mare Winningham",
+        "Bailee Madison",
+        "Taylor Geare",
+        "Patrick John Flueger"
       ],
       "rank": 5,
-      "id": "tt0081237",
-      "name": "La novena configuración",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iSOkoYcCADyvdl4CRjaAzJUvIBY.jpg",
-      "rating": 6.41,
-      "year": 1980,
+      "id": "tt0765010",
+      "name": "Hermanos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg",
+      "rating": 7.316,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,34 +182,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA.",
+      "description": "Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de conseguir un contrato sin fecha de caducidad que les permita encauzar sus vidas. La llegada de una nueva empleada rompe su estabilidad laboral y personal. Aclamado debut cinematográfico de la directora Jill Sprecher, co-autora también junto a su hermana del guión. Una cinta de cine independiente que obtuvo el premio en el Festival de Turín 1998 a la mejor película.",
       "genres": [
-        "Comedia",
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/thBankgTBZAM3YkdeeF7fuDvkcD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/roXMIbXAPmXQr7cDaTPhza8FPdu.png",
-      "runtime": "115 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rwfbbTIZakqQxtEGTQdmDNXuPxj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ns7lbvk3JMQlTBAgLwO4oCVsYmJ.png",
+      "runtime": "96 min",
       "director": [
-        "Doug Liman"
+        "Jill Sprecher"
       ],
       "cast": [
-        "Tom Cruise",
-        "Domhnall Gleeson",
-        "Sarah Wright",
-        "Jesse Plemons",
-        "Caleb Landry Jones",
-        "Lola Kirke",
-        "Jayma Mays",
-        "Alejandro Edda"
+        "Toni Collette",
+        "Parker Posey",
+        "Lisa Kudrow",
+        "Alanna Ubach",
+        "Helen FitzGerald",
+        "Stanley DeSantis",
+        "Jamie Kennedy",
+        "David James Elliott"
       ],
       "rank": 6,
-      "id": "tt3532216",
-      "name": "Barry Seal: el traficante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i9jahD3uR2B4CPmJAsfeRvmzV0U.jpg",
-      "rating": 6.9,
-      "year": 2017,
+      "id": "tt0118866",
+      "name": "Esperando la hora",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oZS1YH4aX3zrmEzSDZa7l97CgXF.jpg",
+      "rating": 6.241,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+      "runtime": "120 min",
+      "director": [
+        "John G. Avildsen"
+      ],
+      "cast": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina"
+      ],
+      "rank": 7,
+      "id": "tt0075148",
+      "name": "Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "rating": 7.8,
+      "year": 1976,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,11 +273,11 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
-      "rating": 7.418,
+      "rating": 7.417,
       "year": 2019,
       "days": null,
       "trend": {
@@ -256,67 +287,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
-      "runtime": "120 min",
-      "director": [
-        "John G. Avildsen"
-      ],
-      "cast": [
-        "Sylvester Stallone",
-        "Talia Shire",
-        "Burt Young",
-        "Carl Weathers",
-        "Burgess Meredith",
-        "Thayer David",
-        "Joe Spinell",
-        "Jimmy Gambina"
-      ],
-      "rank": 8,
-      "id": "tt0075148",
-      "name": "Rocky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.803,
-      "year": 1976,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En mayo de 1940 el destino de Europa occidental depende del primer ministro británico Winston Churchill, quien debe decidir si negociar con Adolf Hitler o luchar sabiendo que podría significar una derrota humillante para Gran Bretaña y su imperio.",
+      "description": "Trevor Garfield es un profesor que se vuelca en cada uno de sus alumnos, porque es consciente de que graduarse es la única oportunidad que tienen de salir de los barrios marginales. Después de numerosos enfrentamientos, uno de sus alumnos lo acuchilla. Un año después, completamente recuperado vuelve a la enseñanza en un instituto nuevo. Tampoco allí el ambiente es muy alentador, pero en esta ocasión no está dispuesto a desempeñar el papel de víctima.",
       "genres": [
         "Drama",
-        "Historia"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BkberHS7osNrWJU0vko7B6ud4j.png",
-      "runtime": "130 min",
+      "background": "https://image.tmdb.org/t/p/w1280/atxSD5UwoVGtIitOyNfQ6ry8q4u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/82hcdlyAikPsVhhEOy8u7Ptsvxx.png",
+      "runtime": "119 min",
       "director": [
-        "Joe Wright"
+        "Kevin Reynolds"
       ],
       "cast": [
-        "Gary Oldman",
-        "Stephen Dillane",
-        "Lily James",
-        "Ronald Pickup",
-        "Ben Mendelsohn",
-        "Kristin Scott Thomas",
-        "Nicholas Jones",
-        "Samuel West"
+        "Samuel L. Jackson",
+        "John Heard",
+        "Kelly Rowan",
+        "Clifton Collins Jr.",
+        "Tony Plana",
+        "Karina Arroyave",
+        "Lobo Sebastian",
+        "Jack Kehler"
       ],
       "rank": 9,
-      "id": "tt4555426",
-      "name": "El instante más oscuro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pROgBIY53avDaU2lwky1zs6hSoh.jpg",
-      "rating": 7.351,
-      "year": 2017,
+      "id": "tt0118531",
+      "name": "187, más mentes peligrosas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YX2tgrKz0Dl01VX6HiSzClqjD5.jpg",
+      "rating": 6.708,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,33 +322,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La película cuenta la historia de John Oldman, un profesor de universidad que asegura ser en realidad un hombre de Cromañón de 14.000 años de edad que sobrevive hasta nuestros días. Toda la película está rodada en la misma casa y su porche, prueba de su bajo presupuesto y de su elaboración prácticamente artesanal. Se basa únicamente en la conversación de los personajes para mantener la trama, sin efectos especiales ni escenas de acción. Se trata de un discurso intelectual entre un supuesto hombre de las cavernas y sus actuales colegas de trabajo, en su despedida como docente universitario. En las horas que transcurren, las reacciones de sus amigos científicos son muy variadas y van surgiendo preguntas, cuestiones, revelaciones y reacciones de todo tipo.",
+      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
       "genres": [
-        "Ciencia ficción",
-        "Drama"
+        "Comedia",
+        "Familia",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xlnQO1J5dJHHusKcvLFsew0oBLq.png",
-      "runtime": "87 min",
+      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
+      "runtime": "97 min",
       "director": [
-        "Richard Schenkman"
+        "Jon Favreau"
       ],
       "cast": [
-        "David Lee Smith",
-        "Tony Todd",
-        "John Billingsley",
-        "Ellen Crawford",
-        "Annika Peterson",
-        "Alexis Thorpe",
-        "William Katt",
-        "Richard Riehle"
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart",
+        "Ed Asner",
+        "Mary Steenburgen",
+        "Zooey Deschanel",
+        "Daniel Tay",
+        "Faizon Love"
       ],
       "rank": 10,
-      "id": "tt0756683",
-      "name": "El hombre de la tierra",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
-      "rating": 7.619,
-      "year": 2007,
+      "id": "tt0319343",
+      "name": "Elf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "rating": 6.668,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

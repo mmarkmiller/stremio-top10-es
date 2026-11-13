@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,39 @@
       "id": "tt7631058",
       "name": "El Señor de los Anillos: Los Anillos de Poder",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.217,
+      "rating": 7.2,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
+      "director": [],
+      "cast": [
+        "Chris Pratt",
+        "Constance Wu",
+        "Tom Hopper",
+        "Dar Salim",
+        "Ольга Куриленко",
+        "Yul Vazquez",
+        "Costa Ronin",
+        "Jeremy Bobb"
+      ],
+      "rank": 2,
+      "id": "tt11743610",
+      "name": "LA LISTA FINAL",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "rating": 7.997,
       "year": 2022,
       "days": null,
       "trend": {
@@ -57,75 +89,12 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt11540908",
       "name": "Carrie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.238,
+      "rating": 8.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pRDKGS4LEQChq08GXneiJkuG2O5.png",
-      "director": [],
-      "cast": [
-        "Chris Pratt",
-        "Constance Wu",
-        "Tom Hopper",
-        "Dar Salim",
-        "Ольга Куриленко",
-        "Yul Vazquez",
-        "Costa Ronin",
-        "Jeremy Bobb"
-      ],
-      "rank": 3,
-      "id": "tt11743610",
-      "name": "LA LISTA FINAL",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 8,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
-      "director": [],
-      "cast": [
-        "Ben Barnes",
-        "Joe Freeman",
-        "Simone Miller",
-        "Fionn Laird",
-        "Hannah Galway",
-        "Robert Joy",
-        "Mary-Louise Parker"
-      ],
-      "rank": 4,
-      "id": "tt10946316",
-      "name": "El Instituto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-      "rating": 7.489,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -152,11 +121,42 @@
         "Robyn Cara",
         "John Slattery"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt6151526",
       "name": "Legítima defensa",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
       "rating": 7.758,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+      "director": [],
+      "cast": [
+        "Ben Barnes",
+        "Joe Freeman",
+        "Simone Miller",
+        "Fionn Laird",
+        "Hannah Galway",
+        "Robert Joy",
+        "Mary-Louise Parker"
+      ],
+      "rank": 5,
+      "id": "tt10946316",
+      "name": "El Instituto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+      "rating": 7.5,
       "year": 2025,
       "days": null,
       "trend": {
@@ -190,38 +190,8 @@
       "id": "tt39943756",
       "name": "Campus Drivers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
-      "rating": 8.1,
+      "rating": 7.914,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Frente a las costas de Nueva Escocia (Canadá) se halla una pequeña isla que está rodeada de misterio. En la década de 1700, se recogieron testimonios de personas que afirmaban haber visto luces extrañas durante la noche, y a quien allí enviaron a investigarlas, desapareció. Un día, dos chicos que habían navegado hasta la isla encontraron un extraño agujero en el suelo. Este descubrimiento dio inicio a una búsqueda que continúa hasta el día de hoy y que ha involucrado a figuras de la talla de Franklin D. Roosevelt o John Wayne. Docureality de History Channel que aborda la millonaria búsqueda de un supuesto tesoro escondido en la Isla del Roble. Muy interesante serie que logra encantar y mantener a la expectativa.",
-      "genres": [
-        "Misterio",
-        "Action & Adventure",
-        "Reality",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3dGIUAlrWUvPDMP7mk6GFvkQcSb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7QgLCBhUTTz9Zsb7RecevEKFm5W.png",
-      "director": [],
-      "cast": [
-        "Rick Lagina",
-        "Marty Lagina",
-        "Robert Clotworthy",
-        "Gary Drayton"
-      ],
-      "rank": 7,
-      "id": "tt3455408",
-      "name": "La maldición de Oak Island",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tD1WCbgbQM9JxZzTabdA5R5E2pi.jpg",
-      "rating": 7.2,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -246,7 +216,7 @@
         "Christopher Rodriguez Marquette",
         "Kevin Corrigan"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
@@ -260,28 +230,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "House M. D. es un drama médico Estadounidense que se emitió originalmente por la cadena Fox durante ocho temporadas, desde el 16 de noviembre de 2004 al 21 de mayo de 2012. El protagonista de la serie es el Dr. Gregory House, un médico nada convencional, genio, misántropo y adicto a las drogas que dirige un equipo de diagnósticos en el \"Princeton-Plainsboro Teaching Hospital\" (nombre ficticio) en Nueva Jersey.",
+      "description": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
       "genres": [
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png",
+      "background": "https://image.tmdb.org/t/p/w1280/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png",
       "director": [],
       "cast": [
-        "Hugh Laurie",
-        "Robert Sean Leonard",
-        "Omar Epps",
-        "Jesse Spencer",
-        "Odette Annable",
-        "Peter Jacobson",
-        "Lo Mutuc"
+        "Jason Beghe",
+        "Marina Squerciati",
+        "Patrick John Flueger",
+        "Benjamin Levy Aguilar",
+        "Arienne Mandi",
+        "Amy Morton"
       ],
-      "rank": 9,
-      "id": "tt0412142",
-      "name": "House",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "rating": 8.559,
-      "year": 2004,
+      "rank": 8,
+      "id": "tt2805096",
+      "name": "Chicago P.D.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "rating": 8.42,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -290,25 +260,60 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Frente a las costas de Nueva Escocia (Canadá) se halla una pequeña isla que está rodeada de misterio. En la década de 1700, se recogieron testimonios de personas que afirmaban haber visto luces extrañas durante la noche, y a quien allí enviaron a investigarlas, desapareció. Un día, dos chicos que habían navegado hasta la isla encontraron un extraño agujero en el suelo. Este descubrimiento dio inicio a una búsqueda que continúa hasta el día de hoy y que ha involucrado a figuras de la talla de Franklin D. Roosevelt o John Wayne. Docureality de History Channel que aborda la millonaria búsqueda de un supuesto tesoro escondido en la Isla del Roble. Muy interesante serie que logra encantar y mantener a la expectativa.",
       "genres": [
-        "Crimen",
-        "Misterio"
+        "Misterio",
+        "Action & Adventure",
+        "Reality",
+        "Documental"
       ],
-      "director": [
-        "Harley Wallen"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3dGIUAlrWUvPDMP7mk6GFvkQcSb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7QgLCBhUTTz9Zsb7RecevEKFm5W.png",
+      "director": [],
       "cast": [
-        "Harley Wallen",
-        "Kaiti Wallen",
-        "Tevis R. Marcum",
-        "Jerry Hayes"
+        "Rick Lagina",
+        "Marty Lagina",
+        "Robert Clotworthy",
+        "Gary Drayton"
+      ],
+      "rank": 9,
+      "id": "tt3455408",
+      "name": "La maldición de Oak Island",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tD1WCbgbQM9JxZzTabdA5R5E2pi.jpg",
+      "rating": 7.2,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Saturday Night Live es un show televisivo nocturno estadounidense, emitido en vivo, que revolucionó la televisión en los años 70 con su combinación de sketches, comedia, variedad, actores, músicos, e invitados especiales. Ha sido una cantera generadora de talentos muy fuerte de varios guinistas, actores, escritores, productores y cantantes. Creado por Lorne Michaels y desarrollado por Dick Ebersol, el programa fue estrenado por la cadena de televisión NBC. Durante más de 30 años, el programa ha presentado personajes locos, situaciones humorísticamente extrañas, parodias de los presidentes y políticos de turno, sarcásticas burlas a celebridades contemporáneas de la música y del cine, y shows musicales en vivo. Su reparto se compone de miembros repertorios, también conocidos como The Not Ready for Prime-Time Players (el nombre del reparto original del programa, que viene a significar «La Compañía No Apta para las Horas de Máxima Audiencia»), y nuevos miembros quienes se conocen como The Featured Players («La Compañía Destacada»).",
+      "genres": [
+        "Comedia",
+        "News"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yYaxXMbobcB7PIM6XljZZk2x4FQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4KQ5l62J6hgOXYGFd0hrWDh4TBb.png",
+      "director": [],
+      "cast": [
+        "Michael Che",
+        "Mikey Day",
+        "Andrew Dismukes",
+        "Marcello Hernández",
+        "James Austin Johnson",
+        "Colin Jost",
+        "Ashley Padilla",
+        "Sarah Sherman"
       ],
       "rank": 10,
-      "id": "tt11620272",
-      "name": "Tale of Tails",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Ala49g5oUyqbbVw7Sn4tBFWdhGS.jpg",
-      "rating": 3,
-      "year": 2021,
+      "id": "tt0072562",
+      "name": "Saturday Night Live",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+      "rating": 6.891,
+      "year": 1975,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }

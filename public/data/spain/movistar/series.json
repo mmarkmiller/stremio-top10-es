@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202611122157",
+  "date": "202611132143",
   "entries": [
     {
       "artworkVersion": 4,
@@ -34,24 +34,47 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ashley y Gordon son dos humanos solteros (más o menos) complejos que se unen por un accidente automovilístico y un perro herido. Personas defectuosas y divertidas que se eligen entre sí y son lo suficientemente valientes como para mostrar su verdadero yo, con cicatrices y todo, mientras navegan juntos por la vida.",
+      "description": "Marbella no es solo una ciudad. Es un estilo de vida identificado con lujo, aristocracia y fiestas. Muchas fiestas. Es un lugar para ver y ser visto. Pero en la Costa del Sol también hay crimen organizado, narcotráfico, blanqueo de dinero, ajustes de cuentas y sicarios. Esta historia estalla el día de una primera comunión, pero venía de lejos.",
       "genres": [
-        "Comedia"
+        "Documental",
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uOhTIXRxSyWbdP3KIX3eLXtx0Nt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eMG94uwBIVZLMMH3o06rR3l4i5A.png",
+      "background": "https://image.tmdb.org/t/p/w1280/x2sRsj6TC3CbCFyYtDLoPOoE8uj.jpg",
+      "director": [],
+      "cast": [],
+      "rank": 2,
+      "id": "tt50827833",
+      "name": "Sicarios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dSPPab7ijse6YJZxBN3afreGXdw.jpg",
+      "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
       "director": [],
       "cast": [
-        "Harriet Dyer",
-        "Patrick Brammall",
-        "Genevieve Hegney"
+        "Elizabeth Tabish"
       ],
-      "rank": 2,
-      "id": "tt18228732",
-      "name": "Colin de cuentas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zYPRXAImgarNSKrwd4kXobjXQNQ.jpg",
-      "rating": 7.461,
-      "year": 2022,
+      "rank": 3,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "rating": 8.9,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -75,7 +98,7 @@
         "William Jackson Harper",
         "Mireille Enos"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt30051064",
       "name": "American Hostage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
@@ -89,63 +112,24 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Dr. Andrea Fanti es uno de los más brillantes especialistas de medicina interna, aunque todos le reconozcan como frío, distante y con escasa empatía por sus pacientes. Tras un terrible incidente, Andrea pierde todos los recuerdos de sus últimos 12 años, consecuencia de una gravísima lesión en la cabeza. Por primera vez se encuentra en el otro lado, en el del paciente. Despojado de años de recuerdos, se sentirá a la deriva en un mundo desconocido, en el que hijos, amigos o colegas del hospital, le resultan ajenos y extraños. Sin embargo, en un intento por mantener la cordura, toma la decisión de permanecer en su lugar de trabajo. Aunque eso suponga tener que encontrar un nuevo modo de ser lo que era, lo que siempre quiso ser, el mejor de los doctores.",
+      "description": "Ashley y Gordon son dos humanos solteros (más o menos) complejos que se unen por un accidente automovilístico y un perro herido. Personas defectuosas y divertidas que se eligen entre sí y son lo suficientemente valientes como para mostrar su verdadero yo, con cicatrices y todo, mientras navegan juntos por la vida.",
       "genres": [
-        "Drama",
-        "Action & Adventure"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tOydUcBWP6aV28bCqcafKYxfJH4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uOhTIXRxSyWbdP3KIX3eLXtx0Nt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eMG94uwBIVZLMMH3o06rR3l4i5A.png",
       "director": [],
       "cast": [
-        "Luca Argentero",
-        "Matilde Gioli",
-        "Pierpaolo Spollon",
-        "Sara Lazzaro",
-        "Simona Tabasco",
-        "Alberto Boubakar Malanchino",
-        "Beatrice Grannò",
-        "Elisa Di Eusanio"
-      ],
-      "rank": 4,
-      "id": "tt11876490",
-      "name": "DOC (IT)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vahtlPVDrbczfcEc993BFTXafqC.jpg",
-      "rating": 8.123,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un pequeño pueblo de Oxfordshire, la aparición de miles de peces muertos lleva a dos jubilados a cuestionar las explicaciones oficiales. Lo que comienza como una reclamación a la compañía del agua se convierte en una investigación que destapa una red de negligencias, encubrimientos y decisiones empresariales con consecuencias devastadoras.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dlwIqZhRLeoMNTmnVWSL5Pk46BM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ovYKjTjj03Mbm13yaXV9yfRDFv4.png",
-      "director": [
-        "Joseph Bullman"
-      ],
-      "cast": [
-        "David Thewlis",
-        "Jason Watkins",
-        "Posy Sterling",
-        "Tom McKay",
-        "Alex Jennings",
-        "Asim Chaudhry",
-        "Alice Lowe",
-        "Chanel Cresswell"
+        "Harriet Dyer",
+        "Patrick Brammall",
+        "Genevieve Hegney"
       ],
       "rank": 5,
-      "id": "tt39374202",
-      "name": "Negocios turbios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
-      "rating": 8.2,
-      "year": 2026,
+      "id": "tt18228732",
+      "name": "Colin de cuentas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zYPRXAImgarNSKrwd4kXobjXQNQ.jpg",
+      "rating": 7.461,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -175,7 +159,7 @@
       "id": "tt2261391",
       "name": "Chicago Fire",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-      "rating": 8.411,
+      "rating": 8.412,
       "year": 2012,
       "days": null,
       "trend": {
@@ -203,7 +187,7 @@
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "rating": 8.335,
+      "rating": 8.3,
       "year": 1997,
       "days": null,
       "trend": {
@@ -213,28 +197,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El vídeo viral de un grupo de música pop cristiana compuesto por varias hermanas impacta en la vida de Enric: un hombre atormentado por una infancia marcada por el fanatismo religioso y el yugo de una madre con delirios mesiánicos.",
+      "description": "Ava es una agente inmobiliaria obsesionada con los podcasts sobre asesinos en serie que no encuentra la forma de destacar en su trabajo como agente inmobiliaria. Nathan, su marido, una vieja promesa del tenis que vio frustrada su brillante carrera, lleva años trabajando como entrenador de tenis en un selecto club, pero acaba de ser sustituido, mandando al traste sus planes de futuro y su propio ego.",
       "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7EamCWAoQtgtjJKDfa0bqg9av5N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8CrNz51lEEOK3X5jABbD7RUgMUZ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/AeumbJh2aL047r40yIOztHSV9pD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/25wDRDA30fgt9KudAc5MXcShXdo.png",
       "director": [],
       "cast": [
-        "Roger Casamajor",
-        "Macarena García",
-        "Lola Dueñas",
-        "Carmen Machi",
-        "Ana Rujas",
-        "Albert Pla",
-        "Amaia Romero",
-        "Biel Rossell"
+        "Kaley Cuoco",
+        "Chris Messina",
+        "Tom Bateman",
+        "Liana Liberato"
       ],
       "rank": 8,
-      "id": "tt20096840",
-      "name": "La mesías",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
-      "rating": 7.542,
+      "id": "tt19500224",
+      "name": "Basado en una historia real",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
+      "rating": 7.025,
       "year": 2023,
       "days": null,
       "trend": {
@@ -244,30 +225,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Recién salido de la facultad de derecho, Rudy Baylor se enfrenta al magnate de los tribunales Leo Drummond y a su novia, Sarah. Rudy, junto con su jefe, Bruiser, y su desaliñado asistente legal, Deck, destapa dos conspiraciones relacionadas con la misteriosa muerte del hijo de su cliente.",
+      "description": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
       "genres": [
         "Drama",
+        "Crimen",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/avur9Jx0zfV4X6aKBmmZQSLiQ6i.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png",
       "director": [],
       "cast": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "Madison Iseman",
-        "P.J. Byrne",
-        "Dan Fogler",
-        "Wade Briggs",
-        "Robyn Cara",
-        "John Slattery"
+        "Kaitlin Olson",
+        "Daniel Sunjata",
+        "Judy Reyes",
+        "Javicia Leslie",
+        "Deniz Akdeniz",
+        "Amirah J",
+        "Matthew Lamb"
       ],
       "rank": 9,
-      "id": "tt6151526",
-      "name": "Legítima defensa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
-      "rating": 7.758,
-      "year": 2025,
+      "id": "tt22091076",
+      "name": "High Potential",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "rating": 8.258,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,29 +257,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La unidad de élite de la oficina del FBI en Nueva York ofrece todos sus talentos, intelecto y experiencia técnica en casos importantes para mantener a salvo a Nueva York y el país.",
+      "description": "Tras la muerte del dueño de la funeraria Torregrosa, su ambicioso pupilo se prepara para hacerse cargo del negocio pero acaba a las órdenes de una viuda sin experiencia.",
       "genres": [
-        "Crimen",
-        "Action & Adventure",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/stD2BtJHwc8xolJVtglrETEjD57.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png",
+      "background": "https://image.tmdb.org/t/p/w1280/w0WT4opEOeldCegD2eAYSspVieg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
       "director": [],
       "cast": [
-        "Missy Peregrym",
-        "Zeeko Zaki",
-        "John Boyd",
-        "Jeremy Sisto",
-        "Alana de la Garza",
-        "Juliana Aidén Martinez"
+        "Carlos Areces",
+        "Gerald B. Fillmore",
+        "Aitziber Garmendia",
+        "Ascen López",
+        "Diego Martín",
+        "Salva Reina",
+        "Roque Ruiz",
+        "Amaia Salamanca"
       ],
       "rank": 10,
-      "id": "tt7491982",
-      "name": "FBI",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
-      "rating": 7.919,
-      "year": 2018,
+      "id": "tt29614148",
+      "name": "Muertos S.L.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6X9f1ypWBRDsXC61YgAwYDzTltn.jpg",
+      "rating": 7.444,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +288,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-12T17:38:10.273Z"
+  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
 }
