@@ -2,32 +2,8 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "runtime": "85 min",
-      "director": [
-        "Robert Darwell"
-      ],
-      "cast": [
-        "Dick Van Dyke"
-      ],
-      "rank": 1,
-      "id": "tt18225078",
-      "name": "The 90s Club",
-      "tmdbPosterUrl": null,
-      "rating": 10,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -52,12 +28,80 @@
         "Hudson Meek",
         "Anne Gee Byrd"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.046,
+      "rating": 7.04,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
+      "runtime": "107 min",
+      "director": [
+        "Olivia Wilde"
+      ],
+      "cast": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton",
+        "Rachel Thurow",
+        "Mario Valdez"
+      ],
+      "rank": 2,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+      "runtime": "95 min",
+      "director": [
+        "Sean S. Cunningham"
+      ],
+      "cast": [
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Betsy Palmer",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson"
+      ],
+      "rank": 3,
+      "id": "tt0080761",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "rating": 6.397,
+      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,7 +132,7 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
@@ -102,100 +146,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
-      "runtime": "107 min",
-      "director": [
-        "Olivia Wilde"
-      ],
-      "cast": [
-        "Olivia Wilde",
-        "Seth Rogen",
-        "Penélope Cruz",
-        "Edward Norton"
-      ],
-      "rank": 4,
-      "id": "tt14173636",
-      "name": "La invitación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.208,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven bruja está empeñada en encontrar el amor a base de conjuros y pócimas que le permitan seducir a cualquiera. Cuando por fin encuentra al hombre de sus sueños, su deseo se convierte en desesperación, en locura y luego en... Con un estilo visual que homenajea los thrillers en Technicolor de los sesenta, The Love Witch explora las fantasías femeninas y las consecuencias del narcisismo exacerbado.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6AAPAVWfCOIBhz2YT6sMORWSP63.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Kx7sBtY5KBMRbf4VyZADpgt4pV.png",
-      "runtime": "120 min",
-      "director": [
-        "Anna Biller"
-      ],
-      "cast": [
-        "Samantha Robinson",
-        "Gian Keys",
-        "Laura Waddell",
-        "Jeffrey Vincent Parise",
-        "Jared Sanford",
-        "Robert Seeley",
-        "Jennifer Ingrum",
-        "Randy Evans"
-      ],
-      "rank": 5,
-      "id": "tt3908142",
-      "name": "The Love Witch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kn0u65EVTpvrFOGp4fdaHKalw0B.jpg",
-      "rating": 6.4,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
-      "genres": [
-        "Comedia",
-        "Crimen",
+        "Suspense",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y3TH2T94gzxHKimHKNB2a30ZrXL.png",
-      "runtime": "104 min",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
       "director": [
-        "Jay Chandrasekhar"
+        "Shana Feste"
       ],
       "cast": [
-        "Jay Chandrasekhar",
-        "Kevin Heffernan",
-        "Steve Lemme",
-        "Paul Soter",
-        "Erik Stolhanske",
-        "Hannah Simone",
-        "Marisa Coughlan",
-        "Nat Faxon"
+        "Jessica Chastain",
+        "Garrett Hedlund",
+        "Carter Faith",
+        "Ross Lynch",
+        "Jennifer Nettles",
+        "Paul Sparks",
+        "Ben Dickey",
+        "Norbert Leo Butz"
       ],
-      "rank": 6,
-      "id": "tt8820258",
-      "name": "Super Troopers 3",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "rating": 6.3,
+      "rank": 5,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -205,33 +181,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
       "genres": [
-        "Misterio",
-        "Suspense"
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
-      "runtime": "90 min",
+      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
+      "runtime": "96 min",
       "director": [
-        "Eli Horowitz"
+        "George A. Romero"
       ],
       "cast": [
-        "Winona Ryder",
-        "Dermot Mulroney",
-        "John Gallagher Jr.",
-        "Brianne Tju",
-        "Owen Teague",
-        "Alain Uy",
-        "Dustin Ingram",
-        "Yvonne Senat Jones"
+        "Judith O'Dea",
+        "Duane Jones",
+        "Marilyn Eastman",
+        "Karl Hardman",
+        "Judith Ridley",
+        "Keith Wayne",
+        "Kyra Schon",
+        "Charles Craig"
+      ],
+      "rank": 6,
+      "id": "tt0063350",
+      "name": "La noche de los muertos vivientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
+      "rating": 7.599,
+      "year": 1968,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
+      "runtime": "181 min",
+      "director": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Don Cheadle"
       ],
       "rank": 7,
-      "id": "tt15426294",
-      "name": "Abandonada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
-      "rating": 5.509,
-      "year": 2022,
+      "id": "tt4154796",
+      "name": "Vengadores: Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "rating": 8.2,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -265,7 +278,7 @@
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.41,
+      "rating": 7.409,
       "year": 2026,
       "days": null,
       "trend": {
@@ -275,24 +288,32 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
       "genres": [
-        "Documental"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/foMbscDoteXo61z5MqktNkUvexZ.png",
-      "runtime": "104 min",
+      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
+      "runtime": "87 min",
       "director": [
-        "Ron Howard"
+        "Steve Miner"
       ],
       "cast": [
-        "Richard Avedon"
+        "Amy Steel",
+        "John Furey",
+        "Adrienne King",
+        "Kirsten Baker",
+        "Stuart Charno",
+        "Warrington Gillette",
+        "Walt Gorney",
+        "Marta Kober"
       ],
       "rank": 9,
-      "id": "tt41593493",
-      "name": "Avedon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-      "rating": 6,
-      "year": 2026,
+      "id": "tt0082418",
+      "name": "Viernes 13, 2ª parte",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
+      "rating": 6.206,
+      "year": 1981,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,7 +347,7 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.2,
+      "rating": 8.165,
       "year": 2026,
       "days": null,
       "trend": {
@@ -336,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

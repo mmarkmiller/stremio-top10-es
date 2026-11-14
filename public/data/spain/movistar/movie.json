@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -30,9 +30,44 @@
       "rank": 1,
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.951,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
+      "rating": 7,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
+      "runtime": "136 min",
+      "director": [
+        "Emerald Fennell"
+      ],
+      "cast": [
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Hong Chau",
+        "Shazad Latif",
+        "Alison Oliver",
+        "Martin Clunes",
+        "Ewan Mitchell",
+        "Amy Morgan"
+      ],
+      "rank": 2,
+      "id": "tt32897959",
+      "name": "“Cumbres Borrascosas”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "rating": 6.637,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -62,7 +97,7 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
@@ -76,68 +111,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un acto de disidencia pacífica y el movimiento vecinal de base en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñó del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años setenta.",
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4fKEH1eeLv6NsLD4adCsFqJaRo0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ss0E1SspvOUireBwXWcVl8xl8y3.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
       "director": [
-        "Marcel Barrena"
+        "David F. Sandberg"
       ],
       "cast": [
-        "Eduard Fernández",
-        "Clara Segura",
-        "Zoe Bonafonte",
-        "Salva Reina",
-        "Óscar de la Fuente",
-        "David Verdaguer",
-        "Carlos Cuevas",
-        "Betsy Túrnez"
-      ],
-      "rank": 3,
-      "id": "tt27751957",
-      "name": "El 47",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
-      "rating": 7.391,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Taylor (David Jonsson) es un recluso que, tras una larga condena, está a punto de obtener la libertad condicional. A pesar de ser tildado como un \"wasteman\" (alguien sin futuro o \"desperdiciado\"), ha logrado mantenerse alejado de problemas dentro de prisión con la esperanza de reencontrarse con su hijo distanciado.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hQyZn7t4z3PeW161xKLj4u5lHa3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y7b1I84NvrSogfNOcB46ZXYxEnJ.png",
-      "runtime": "90 min",
-      "director": [
-        "Cal McMau"
-      ],
-      "cast": [
-        "David Jonsson",
-        "Tom Blyth",
-        "Alex Hassell",
-        "Neil Linpow",
-        "Paul Hilton",
-        "Corin Silva",
-        "Layton Blake",
-        "Jack Barker"
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
       ],
       "rank": 4,
-      "id": "tt29028515",
-      "name": "Hombres de acero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lta6XZBiGpoE0L4zbO4SxCMnU87.jpg",
-      "rating": 7.243,
-      "year": 2026,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.238,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,7 +172,7 @@
       "id": "tt34385135",
       "name": "Zona cero",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
-      "rating": 8.18,
+      "rating": 8.182,
       "year": 2026,
       "days": null,
       "trend": {
@@ -182,33 +182,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un pequeño pueblo de Oregon, cuatro jóvenes amigos salen de la ciudad en busca de un chico desaparecido: el sentimental Geordie, el rudo Chris, el extravagante Teddy y el miedoso Vern. Deseando ser vistos como héroes ante ellos mismos y ante los ojos del pueblo, emprenden una inolvidable excursión de dos días que se convierte en una aventura increíble. Fuman a escondidas, cuentan historias, sueltan tacos porque les gusta y hacen causa común cuando las cosas se ponen difíciles. Cuando se encuentran con los matones del pueblo, que armados de cuchillos también buscan el cuerpo, los chicos descubren una fuerza que nunca supieron que tenían.",
+      "description": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
       "genres": [
+        "Bélica",
         "Drama",
-        "Aventura"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ljIF1JjdUUJtVW55x77vWSJxizQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1H8BEd2mgaIILsoer0dtzrlkQ1Y.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lcdJiYRrOTS4ZR5KbXN90bj57s0.png",
+      "runtime": "134 min",
       "director": [
-        "Rob Reiner"
+        "David Ayer"
       ],
       "cast": [
-        "Wil Wheaton",
-        "River Jude Phoenix",
-        "Corey Feldman",
-        "Jerry O'Connell",
-        "Kiefer Sutherland",
-        "Casey Siemaszko",
-        "Gary Riley",
-        "Bradley Gregg"
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman",
+        "Michael Peña",
+        "Jon Bernthal",
+        "Jim Parrack",
+        "Brad William Henke",
+        "Kevin Vance"
       ],
       "rank": 6,
-      "id": "tt0092005",
-      "name": "Cuenta conmigo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hlUOQHgZ1k4ba34r7vjgYI4r12g.jpg",
-      "rating": 7.834,
-      "year": 1986,
+      "id": "tt2713180",
+      "name": "Corazones de acero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "rating": 7.546,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -217,32 +218,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Centro de Ocio John Nike en West Staines va a cerrar por falta de fondos. A Ali G le preocupa el destino del club alternativo de boy scouts que ha estado dirigiendo hasta ese momento. Decidido a salvar el centro se encadena a una estación de autobuses de Staines. Así­ consigue llamar la atención del primer ministro, que andaba buscando a un joven intelectual que le ayudase a ganar las elecciones en Staines, y que cree haber encontrado en él al hombre que necesitaba. El político convence a Ali de que la mejor forma de salvar el centro es presentarse a las elecciones para el Gobierno, y Ali le toma la palabra.",
+      "description": "Sam Childers creció con un padre violento y una madre muy devota, quizá por ello su vida es una contradicción. Adicto a las drogas y a las mujeres, acabó convirtiéndose en un motorista narcotraficante. Algunos años después, Sam se incorpora al ejército y forma parte de un equipo cuya misión consiste en recorrer las zonas más peligrosas de Sudán y de Uganda para rescatar a los niños huérfanos y a los niños-soldado.",
       "genres": [
-        "Comedia"
+        "Acción",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gzaSxlMCrQaFTjYc8MNmYAv092.png",
-      "runtime": "84 min",
+      "background": "https://image.tmdb.org/t/p/w1280/eUqdBXJsYV71kt6tocosbUoICiP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qLpSuY9hBHhxyY0R8AlJz5dHEqC.png",
+      "runtime": "129 min",
       "director": [
-        "Mark Mylod"
+        "Marc Forster"
       ],
       "cast": [
-        "Sacha Baron Cohen",
-        "Michael Gambon",
-        "Charles Dance",
-        "Kellie Bright",
-        "Martin Freeman",
-        "Paul Clayton",
-        "Rhona Mitra",
-        "Tony Way"
+        "Gerard Butler",
+        "Michelle Monaghan",
+        "Kathy Baker",
+        "Richard Goteri",
+        "Peter Carey",
+        "Barbara Coven",
+        "Michael Shannon",
+        "Ryann Campos"
       ],
       "rank": 7,
-      "id": "tt0284837",
-      "name": "Ali G anda suelto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zcXqLPY9KPTLzFf5SgpkyfGWjKa.jpg",
-      "rating": 6.061,
-      "year": 2002,
+      "id": "tt1586752",
+      "name": "El soldado de Dios",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ztTnfnqAX8O0ik1ZhZrjJPGjtnd.jpg",
+      "rating": 6.711,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,33 +254,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un exitoso banquero de inversión lucha después de perder a su esposa en un trágico accidente automovilístico. Con la ayuda de un representante de servicio al cliente y su hijo, comienza a reconstruirse a partir de la demolición de la vida que una vez conoció.",
+      "description": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xo7FMjNpn07gqFOqOcV16aQ0cuX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3YqOCn5epnHWSTkdr8g0wXSCsNM.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/arNKUmatyuAjDsO8y3BNfu7jJZc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJ6elBOcy6eX7ixeMJncyZr2zlZ.png",
+      "runtime": "108 min",
       "director": [
-        "Jean-Marc Vallée"
+        "Damian McCarthy"
       ],
       "cast": [
-        "Jake Gyllenhaal",
-        "Naomi Watts",
-        "Chris Cooper",
-        "Judah Lewis",
-        "C.J. Wilson",
-        "Polly Draper",
-        "Malachy Cleary",
-        "Debra Monk"
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Michael Patric",
+        "Will O'Connell",
+        "Brendan Conroy",
+        "Ezra Carlisle"
       ],
       "rank": 8,
-      "id": "tt1172049",
-      "name": "Demolición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vGAQasaiocRmXkabQuvM2o1kjBB.jpg",
-      "rating": 6.864,
-      "year": 2016,
+      "id": "tt35672862",
+      "name": "Hokum",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "rating": 6.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -286,34 +289,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rand es un viajante que un día regala a su hijo Billy una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del Sol.",
+      "description": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
       "genres": [
-        "Fantasía",
-        "Terror",
-        "Comedia"
+        "Romance",
+        "Drama",
+        "Suspense",
+        "Música"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fbFJ5SVajGly1kCLdSjOUCM1wAA.png",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/eYjnrIyL7Ih0ZgpVL2X2x0SndBM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anHqFhIKQYX0v7iJEjqqW72Wekw.png",
+      "runtime": "128 min",
       "director": [
-        "Joe Dante"
+        "Bill Condon"
       ],
       "cast": [
-        "Zach Galligan",
-        "Phoebe Cates",
-        "Hoyt Axton",
-        "Frances Lee McCain",
-        "Corey Feldman",
-        "Keye Luke",
-        "John Louie",
-        "Dick Miller"
+        "Diego Luna",
+        "Tonatiuh",
+        "Jennifer Lopez",
+        "Bruno Bichir",
+        "Josefina Scaglione",
+        "Aline Mayagoitia",
+        "Driton 'Tony' Dovolani",
+        "Lucila Gandolfo"
       ],
       "rank": 9,
-      "id": "tt0087363",
-      "name": "Gremlins",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg",
-      "rating": 7.146,
-      "year": 1984,
+      "id": "tt30400277",
+      "name": "El beso de la mujer araña",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aVy3AVg43S0S0dFQLzHl289x1yv.jpg",
+      "rating": 5.7,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,33 +326,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rodada en un único plano secuencia, el film tiene como escenario el famoso barrio berlinés de Kreuzberg. La cámara es testigo de todo lo que le pasa a la joven Victoria, una joven española de Berlín, durante dos horas de su vida: desde las cuatro de la mañana hasta las seis: desde que conoce a cuatro jóvenes para los que la noche acaba de empezar, y cómo en ese breve periodo de tiempo le suceden cosas que darán un giro total a su vida.",
+      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
       "genres": [
-        "Crimen",
-        "Suspense",
-        "Romance"
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Z1VPfm5XV5GlLX0bPNijjrpKqu.jpg",
-      "runtime": "140 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/quxALlwYhgQjDO05nusMqUO99J9.png",
+      "runtime": "101 min",
       "director": [
-        "Sebastian Schipper"
+        "Henry Selick"
       ],
       "cast": [
-        "Laia Costa",
-        "Frederick Lau",
-        "Franz Rogowski",
-        "Max Mauff",
-        "Burak Yiğit",
-        "André Hennicke",
-        "Lena Klenke",
-        "Philipp Kubitza"
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman",
+        "Robert Bailey Jr.",
+        "Ian McShane"
       ],
       "rank": 10,
-      "id": "tt4226388",
-      "name": "Victoria",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l8gNAI4uVn9xSUUtbweCxj84V6q.jpg",
-      "rating": 7.58,
-      "year": 2015,
+      "id": "tt0327597",
+      "name": "Los mundos de Coraline",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
+      "rating": 7.95,
+      "year": 2009,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

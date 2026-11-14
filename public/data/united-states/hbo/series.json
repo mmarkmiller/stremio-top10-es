@@ -2,38 +2,8 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
-      "director": [],
-      "cast": [
-        "Quinta Brunson",
-        "Tyler James Williams",
-        "Sheryl Lee Ralph",
-        "Lisa Ann Walter",
-        "Chris Perfetti",
-        "Janelle James",
-        "William Stanford Davis"
-      ],
-      "rank": 1,
-      "id": "tt14218830",
-      "name": "Colegio Abbott",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
-      "rating": 7.5,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
@@ -53,12 +23,42 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-      "rating": 7.4,
+      "rating": 7.339,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo de profesores llenos de vocación, con una directora sorda, en su día a día mientras intentan apañárselas con el sistema de educación pública de Filadelfia. Pese a todos los obstáculos que se les ponen por delante, no tiran la toalla a la hora de intentar que sus alumnos logren el éxito en la vida. Aunque a estos increíbles esclavos del sistema público les paguen poco y algunas cosas les vengan grandes, adoran su trabajo, por mucho que la predisposición del distrito escolar por mejorar la educación de los niños brille por su ausencia.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/72NiRKJ1Xz5awTdV9MgS1jifJLn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nbi2NBv6vFNrO0mHn9k9m7pbKkl.png",
+      "director": [],
+      "cast": [
+        "Quinta Brunson",
+        "Tyler James Williams",
+        "Sheryl Lee Ralph",
+        "Lisa Ann Walter",
+        "Chris Perfetti",
+        "Janelle James",
+        "William Stanford Davis"
+      ],
+      "rank": 2,
+      "id": "tt14218830",
+      "name": "Colegio Abbott",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
+      "rating": 7.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -145,39 +145,8 @@
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.188,
+      "rating": 8.187,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 6,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.727,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -197,7 +166,7 @@
       "cast": [
         "Nathan Fielder"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt2297757",
       "name": "Nathan al rescate",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
@@ -226,7 +195,7 @@
         "Dougie Baldwin",
         "Jessie Prez"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
@@ -240,23 +209,62 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
+      "description": "Nochebuena de 1976. Nieve, silencio y oscuridad. Tres jóvenes mueren bajo las ruedas de un autobús mientras regresan de la misa del gallo: una chica embarazada, su esposo y su hermano menor. Nadie vio nada. O nadie quiere hablar. En lugar de respuestas, se levanta un férreo muro de silencio en toda la comunidad. Aunque el caso es cerrado oficialmente como un trágico accidente, la madre de las víctimas y un joven policía, Henryk Maczek, se niegan a creer en la versión oficial. Él arriesga su carrera; ella, lo único que le queda en la vida. Cuanto más profundo excavan, más información impactante sale a la superficie. Y la verdad... podría resultar mucho peor que la mentira.",
       "genres": [
-        "Comedia",
-        "Documental"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dzYBQxlypWobFXxkeYOJugNtQGh.png",
       "director": [],
       "cast": [
-        "Nathan Fielder"
+        "Tomasz Schuchardt",
+        "Adam Woronowicz",
+        "Justyna Wasilewska",
+        "Tomasz Włosok",
+        "Dariusz Chojnacki",
+        "Łukasz Simlat",
+        "Jędrzej Hycnar",
+        "Ewelina Starejki"
+      ],
+      "rank": 8,
+      "id": "tt38961437",
+      "name": "Noche de Paz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/JQ5PUa6arDleXdbmjMs9YjqN3E.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Elisabeth Moss",
+        "Vincent Kartheiser",
+        "January Jones",
+        "Christina Hendricks",
+        "Aaron Staton",
+        "Rich Sommer",
+        "Kiernan Shipka"
       ],
       "rank": 9,
-      "id": "tt10802170",
-      "name": "Los ensayos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
-      "rating": 8,
-      "year": 2022,
+      "id": "tt0804503",
+      "name": "Mad Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "rating": 8.1,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -294,5 +302,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

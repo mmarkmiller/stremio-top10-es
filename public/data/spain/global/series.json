@@ -2,40 +2,8 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png",
-      "director": [],
-      "cast": [
-        "Charlie Vickers",
-        "Morfydd Clark",
-        "Robert Aramayo",
-        "Owain Arthur",
-        "Sophia Nomvete",
-        "Markella Kavenagh",
-        "Ismael Cruz Cordova",
-        "Tyroe Muhafidin"
-      ],
-      "rank": 1,
-      "id": "tt7631058",
-      "name": "El Señor de los Anillos: Los Anillos de Poder",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.2,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
@@ -56,12 +24,44 @@
         "Mandeep Dhillon",
         "Jasmine Jobson"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.649,
+      "rating": 8.654,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png",
+      "director": [],
+      "cast": [
+        "Charlie Vickers",
+        "Morfydd Clark",
+        "Robert Aramayo",
+        "Owain Arthur",
+        "Sophia Nomvete",
+        "Markella Kavenagh",
+        "Ismael Cruz Cordova",
+        "Tyroe Muhafidin"
+      ],
+      "rank": 2,
+      "id": "tt7631058",
+      "name": "El Señor de los Anillos: Los Anillos de Poder",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "rating": 7.214,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -92,7 +92,74 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.188,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/93KTDcYWWcDmzayWig9qPKq5J9z.png",
+      "director": [
+        "Carlos Sedes"
+      ],
+      "cast": [
+        "Tristán Ulloa",
+        "Carlos Blanco",
+        "Fer Fraga",
+        "Miguel Borines",
+        "Marta Nieto",
+        "Verónica Sánchez",
+        "Fernando Guillén Cuervo",
+        "Nacho Fresneda"
+      ],
+      "rank": 4,
+      "id": "tt38707741",
+      "name": "El crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
       "rating": 7,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ewzO1LD45KJM6nkPUM28YOlLeuL.png",
+      "director": [],
+      "cast": [
+        "Susana Abaitua",
+        "Jorge Bosch",
+        "Jon Olivares",
+        "Ane Gabarain",
+        "Iñigo Gastesi",
+        "Iñigo Azpitarte",
+        "Eva Llorach",
+        "Asier Oruesagasti"
+      ],
+      "rank": 5,
+      "id": "tt40225961",
+      "name": "Infamia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+      "rating": null,
       "year": 2026,
       "days": null,
       "trend": {
@@ -120,11 +187,44 @@
         "Orla Brady",
         "Henry Lewis"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.388,
+      "rating": 8.318,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
+      "director": [],
+      "cast": [
+        "Anthony Mackie",
+        "Jamie Dornan",
+        "Jack Kesy",
+        "Agathe Rousselle",
+        "Sallie Harmsen",
+        "Julius Feldmeier",
+        "Jeanne Balibar",
+        "Kali Reis"
+      ],
+      "rank": 7,
+      "id": "tt32375763",
+      "name": "12 12 12",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+      "rating": 4.85,
       "year": 2026,
       "days": null,
       "trend": {
@@ -153,43 +253,11 @@
         "Poorna Jagannathan",
         "Landon Valentin"
       ],
-      "rank": 5,
+      "rank": 8,
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ewzO1LD45KJM6nkPUM28YOlLeuL.png",
-      "director": [],
-      "cast": [
-        "Susana Abaitua",
-        "Jorge Bosch",
-        "Jon Olivares",
-        "Ane Gabarain",
-        "Iñigo Gastesi",
-        "Iñigo Azpitarte",
-        "Eva Llorach",
-        "Asier Oruesagasti"
-      ],
-      "rank": 6,
-      "id": "tt40225961",
-      "name": "Infamia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-      "rating": null,
+      "rating": 7.51,
       "year": 2026,
       "days": null,
       "trend": {
@@ -215,44 +283,12 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.049,
+      "rating": 7.058,
       "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
-      "director": [],
-      "cast": [
-        "Rose Byrne",
-        "Meghann Fahy",
-        "Brendan Gleeson",
-        "Harper Steele",
-        "Michael Dorman",
-        "Audrey Grace Marshall",
-        "Drew Cheek",
-        "Olivia Williams"
-      ],
-      "rank": 8,
-      "id": "tt31842126",
-      "name": "The Good Daughter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "rating": 9.333,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,45 +315,12 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.679,
+      "rating": 7.7,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
-      "director": [],
-      "cast": [
-        "Anthony Mackie",
-        "Jamie Dornan",
-        "Jack Kesy",
-        "Agathe Rousselle",
-        "Sallie Harmsen",
-        "Julius Feldmeier",
-        "Jeanne Balibar",
-        "Kali Reis"
-      ],
-      "rank": 10,
-      "id": "tt32375763",
-      "name": "12 12 12",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nCl5TZIKuQY1QuWnCyyN9fzxV7z.jpg",
-      "rating": 5.9,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

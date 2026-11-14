@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,8 @@
       "rank": 1,
       "id": "tt32375763",
       "name": "12 12 12",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nCl5TZIKuQY1QuWnCyyN9fzxV7z.jpg",
-      "rating": 5.9,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+      "rating": 4.85,
       "year": 2026,
       "days": null,
       "trend": {
@@ -62,38 +62,8 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.6,
+      "rating": 7.51,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
-      "director": [],
-      "cast": [
-        "Owen Wilson",
-        "Peter Dager",
-        "Lilli Kay",
-        "Mariana Treviño",
-        "Timothy Olyphant",
-        "Marc Maron"
-      ],
-      "rank": 3,
-      "id": "tt31710249",
-      "name": "Sticks: Cracks del golf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
-      "rating": 7.302,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -120,12 +90,42 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
       "rating": 8.074,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oQdXUfGQPL0iobmtD4hUMvTQXEL.png",
+      "director": [],
+      "cast": [
+        "Owen Wilson",
+        "Peter Dager",
+        "Lilli Kay",
+        "Mariana Treviño",
+        "Timothy Olyphant",
+        "Marc Maron"
+      ],
+      "rank": 4,
+      "id": "tt31710249",
+      "name": "Sticks: Cracks del golf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
+      "rating": 7.307,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -165,6 +165,37 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 6,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.818,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
       "genres": [
         "Comedia",
@@ -184,43 +215,12 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
       "rating": 7.9,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
-      "director": [],
-      "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
-      ],
-      "rank": 7,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.8,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,7 +251,7 @@
       "id": "tt10986410",
       "name": "Ted Lasso",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "rating": 8.366,
+      "rating": 8.4,
       "year": 2020,
       "days": null,
       "trend": {
@@ -283,7 +283,7 @@
       "id": "tt14688458",
       "name": "Silo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.23,
+      "rating": 8.229,
       "year": 2023,
       "days": null,
       "trend": {
@@ -293,31 +293,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "description": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
       "genres": [
         "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
       "director": [],
       "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
+        "Anya Taylor-Joy",
+        "Annette Bening",
+        "Clifton Collins Jr.",
+        "Aunjanue Ellis-Taylor",
+        "Timothy Olyphant"
       ],
       "rank": 10,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.4,
-      "year": 2022,
+      "id": "tt34866681",
+      "name": "Lucky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+      "rating": 7.333,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -326,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

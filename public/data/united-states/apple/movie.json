@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -22,16 +22,16 @@
         "Mark Ruffalo",
         "Dylan O'Brien",
         "Madeline Delp",
-        "Rob Delaney",
-        "Ray Fisher",
-        "Michael Patrick Thornton",
-        "Antwan Tolliver"
+        "Roberta Colindrez",
+        "Jon Beavers",
+        "Antwan Tolliver",
+        "Ray Fisher"
       ],
       "rank": 1,
       "id": "tt15095848",
       "name": "Siendo Heumann",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 8,
+      "rating": 6.409,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.219,
+      "rating": 8.204,
       "year": 2026,
       "days": null,
       "trend": {
@@ -103,44 +103,8 @@
       "id": "tt3799694",
       "name": "Dos buenos tipos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
-      "rating": 7.1,
+      "rating": 7.138,
       "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
-      "genres": [
-        "Drama",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGqq5zwljVKv8KIWpAwCZh5h52H.png",
-      "runtime": "153 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jake Gyllenhaal",
-        "Viola Davis",
-        "Maria Bello",
-        "Terrence Howard",
-        "Melissa Leo",
-        "Paul Dano",
-        "Dylan Minnette"
-      ],
-      "rank": 5,
-      "id": "tt1392214",
-      "name": "Prisioneros",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.105,
-      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,7 +135,7 @@
         "Abigail Pniowsky",
         "Julia Scarlett Dan"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt2543164",
       "name": "La llegada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
@@ -185,27 +149,72 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
+      "description": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
       "genres": [
         "Animación",
-        "Familia"
+        "Comedia",
+        "Familia",
+        "Película de TV"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qawnR80kAq87gnwayHy5JouiqHX.png",
-      "runtime": "33 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png",
+      "runtime": "25 min",
       "director": [
-        "Matt Ferguson"
+        "Bill Melendez",
+        "Phil Roman"
       ],
       "cast": [
-        "Terry McGurrin",
-        "Rob Tinkler"
+        "Todd Barbee",
+        "Robin Kohn",
+        "Stephen Shea",
+        "Hilary Momberger-Powers",
+        "Christopher DeFaria",
+        "Jimmy Ahrens",
+        "Bill Melendez",
+        "Robin Reed"
+      ],
+      "rank": 6,
+      "id": "tt0068359",
+      "name": "Es Acción de Gracias, Charlie Brown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "rating": 7.3,
+      "year": 1973,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGqq5zwljVKv8KIWpAwCZh5h52H.png",
+      "runtime": "153 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis",
+        "Maria Bello",
+        "Terrence Howard",
+        "Melissa Leo",
+        "Paul Dano",
+        "Dylan Minnette"
       ],
       "rank": 7,
-      "id": "tt47791876",
-      "name": "Snoopy presenta: 12 días para Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
-      "rating": 7,
-      "year": 2026,
+      "id": "tt1392214",
+      "name": "Prisioneros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
+      "rating": 8.106,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,70 +223,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
       "genres": [
-        "Suspense",
-        "Crimen",
+        "Acción",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
-      "runtime": "154 min",
+      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+      "runtime": "111 min",
       "director": [
-        "Quentin Tarantino"
+        "Jonathan Goldstein",
+        "John Francis Daley"
       ],
       "cast": [
-        "John Travolta",
-        "Samuel L. Jackson",
-        "Uma Thurman",
-        "Bruce Willis",
-        "Ving Rhames",
-        "Harvey Keitel",
-        "Eric Stoltz",
-        "Tim Roth"
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Maria Bakalova",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
       ],
       "rank": 8,
-      "id": "tt0110912",
-      "name": "Pulp Fiction",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "rating": 8.48,
-      "year": 1994,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Durante las guerras napoleónicas, un impetuoso capitán británico llevará su barco y a su tripulación al límite en una formidable persecución por las costas de Sudamérica tras un gran buque de guerra francés.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhssed98YhXcsPW8XFqQbZaog89.png",
-      "runtime": "139 min",
-      "director": [
-        "Peter Weir"
-      ],
-      "cast": [
-        "Russell Crowe",
-        "Paul Bettany",
-        "James D'Arcy",
-        "Robert Pugh",
-        "David Threlfall",
-        "Lee Ingleby",
-        "Max Pirkis",
-        "Max Benitz"
-      ],
-      "rank": 9,
-      "id": "tt0311113",
-      "name": "Master and commander: Al otro lado del mundo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6wk7lrTxk6Adnzp1mVWexM1lj5b.jpg",
-      "rating": 7.211,
-      "year": 2003,
+      "id": "tt28014327",
+      "name": "Mayday",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+      "rating": 7.813,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,7 +279,7 @@
         "Allelon Ruggiero",
         "James Waterston"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0097165",
       "name": "El club de los poetas muertos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
@@ -317,8 +290,44 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tcEgFz24Evw3CPdPTBi1EQv7IyC.png",
+      "runtime": "142 min",
+      "director": [
+        "Robert Zemeckis"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise",
+        "Sally Field",
+        "Mykelti Williamson",
+        "Michael Conner Humphreys",
+        "Hanna Hall",
+        "Haley Joel Osment"
+      ],
+      "rank": 10,
+      "id": "tt0109830",
+      "name": "Forrest Gump",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "rating": 8.462,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

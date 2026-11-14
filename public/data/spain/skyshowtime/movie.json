@@ -2,71 +2,38 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "description": "Basado en una extensa investigación que involucra a las fuerzas del orden y a miembros de pandillas, una mirada auténtica y nunca antes vista al submundo del tráfico de fentanilo por parte de pandillas dentro de la Penitenciaría Estatal de Oklahoma en McAlester, también conocida como \"Big Mac\".",
       "genres": [
+        "Crimen",
         "Drama",
-        "Romance"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x7pKcnJHGHEJQteBpEXbuNklf79.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/lUvZ5DbcmPBFuTxLFEnSbsscpOe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lAIqQWUqiqVK04LsUhG566qjzaX.png",
+      "runtime": "130 min",
       "director": [
-        "Chloé Zhao"
+        "John Swab"
       ],
       "cast": [
-        "Jessie Buckley",
-        "Paul Mescal",
-        "Emily Watson",
-        "Joe Alwyn",
-        "Jacobi Jupe",
-        "Noah Jupe",
-        "Olivia Lynes",
-        "Justine Mitchell"
+        "James Badge Dale",
+        "Ben Foster",
+        "Melissa Leo",
+        "Graham Greene",
+        "Michael Mando",
+        "Rory Cochrane",
+        "Ritchie Coster",
+        "George Carroll"
       ],
       "rank": 1,
-      "id": "tt14905854",
-      "name": "Hamnet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.725,
+      "id": "tt25147850",
+      "name": "Rey Marfil",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bj0kbIqqPqz32IG7lnVpUEAHxCu.jpg",
+      "rating": 6.9,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 2,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -97,12 +64,81 @@
         "Elizabeth Berrington",
         "Jérémie Renier"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt0780536",
       "name": "Escondidos en Brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
       "rating": 7.502,
       "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 3,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.168,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x7pKcnJHGHEJQteBpEXbuNklf79.png",
+      "runtime": "125 min",
+      "director": [
+        "Chloé Zhao"
+      ],
+      "cast": [
+        "Jessie Buckley",
+        "Paul Mescal",
+        "Emily Watson",
+        "Joe Alwyn",
+        "Jacobi Jupe",
+        "Noah Jupe",
+        "Olivia Lynes",
+        "Justine Mitchell"
+      ],
+      "rank": 4,
+      "id": "tt14905854",
+      "name": "Hamnet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+      "rating": 7.7,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -136,7 +172,7 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
@@ -150,30 +186,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra la historia de una asesina a sueldo en Tokio (Rinko Kikuchi), que esconde su profesión bajo la apariencia de empleada de un mercado. Kikuchi (nominada al Oscar por su papel de joven sordomuda en \"Babel\") interpreta a la criminal, mientras que Sergi López encarna al propietario de una tienda de vinos en Tokio.",
+      "description": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
       "genres": [
-        "Suspense",
-        "Drama",
-        "Romance"
+        "Terror",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6DpC5bWMK4ojqDraYW9J8yIFMtw.jpg",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rpb9eBNpYjqSI3dLLniZ0GXcnlS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png",
+      "runtime": "97 min",
       "director": [
-        "Isabel Coixet"
+        "Marcus Nispel"
       ],
       "cast": [
-        "Rinko Kikuchi",
-        "Sergi López",
-        "田中泯",
-        "押尾学",
-        "Takeo Nakahara",
-        "Hideo Sakaki"
+        "Jared Padalecki",
+        "Danielle Panabaker",
+        "Amanda Righetti",
+        "Travis Van Winkle",
+        "Aaron Yoo",
+        "Derek Mears",
+        "Jonathan Sadowski",
+        "Julianna Guill"
       ],
-      "rank": 5,
-      "id": "tt1185376",
-      "name": "Mapa de los sonidos de Tokio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aiilZmsb4t6FQKAeVXrlImZWyDU.jpg",
-      "rating": 5.1,
+      "rank": 6,
+      "id": "tt0758746",
+      "name": "Viernes 13",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
+      "rating": 5.8,
       "year": 2009,
       "days": null,
       "trend": {
@@ -205,11 +243,11 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.898,
+      "rating": 7.897,
       "year": 2013,
       "days": null,
       "trend": {
@@ -219,33 +257,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
+      "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Ciencia ficción",
+        "Suspense",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rpb9eBNpYjqSI3dLLniZ0GXcnlS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png",
-      "runtime": "97 min",
+      "background": "https://image.tmdb.org/t/p/w1280/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yGau2y7CWTRZi07oAO5XxSJdUzx.png",
+      "runtime": "118 min",
       "director": [
-        "Marcus Nispel"
+        "Yorgos Lánthimos"
       ],
       "cast": [
-        "Jared Padalecki",
-        "Danielle Panabaker",
-        "Amanda Righetti",
-        "Travis Van Winkle",
-        "Aaron Yoo",
-        "Derek Mears",
-        "Jonathan Sadowski",
-        "Julianna Guill"
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
       ],
-      "rank": 7,
-      "id": "tt0758746",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
-      "rating": 5.8,
-      "year": 2009,
+      "rank": 8,
+      "id": "tt12300742",
+      "name": "Bugonia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
+      "rating": 7.296,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -254,102 +293,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Amanda Woods, una chica americana que posee una próspera agencia de publicidad especializada en trailers de películas, vive en el sur de California y acaba de romper con su novio. Por su parte, Iris Simpkins, redactora de la popular columna de bodas para el London Daily Telegraph, vive en una encantadora casa de campo en Inglaterra y sus relaciones con los hombres tampoco son fáciles. A través de internet llegan a un acuerdo para intercambiarse sus respectivas viviendas durante las Navidades.",
+      "description": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+      "genres": [
+        "Fantasía",
+        "Familia",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mgCsc0k8GvgRC97XITQ6GNPM2uB.png",
+      "runtime": "125 min",
+      "director": [
+        "Dean DeBlois"
+      ],
+      "cast": [
+        "Mason Thames",
+        "Nico Parker",
+        "Gerard Butler",
+        "Nick Frost",
+        "Gabriel Howell",
+        "Julian Dennison",
+        "Bronwyn James",
+        "Harry Trevaldwyn"
+      ],
+      "rank": 9,
+      "id": "tt26743210",
+      "name": "Cómo entrenar a tu dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
+      "rating": 7.927,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
       "genres": [
         "Comedia",
         "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q1wWpsQ8rSfwstJsAh5NoodtpLI.png",
-      "runtime": "135 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4tSUZixFsm89z5IIXcptOxBzBUX.png",
+      "runtime": "107 min",
       "director": [
-        "Nancy Meyers"
+        "Jay Roach"
       ],
       "cast": [
-        "Cameron Diaz",
-        "Kate Winslet",
-        "Jude Law",
-        "Jack Black",
-        "Eli Wallach",
-        "Edward Burns",
-        "Rufus Sewell",
-        "Miffy Englefield"
-      ],
-      "rank": 8,
-      "id": "tt0457939",
-      "name": "The Holiday (Vacaciones)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jGFqZ4bCAYaNZKHQKBZcTyrH1EV.jpg",
-      "rating": 7.101,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
-      "genres": [
-        "Acción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w6dMatJzyyVtmE8JVGnNjviapnv.png",
-      "runtime": "131 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Miles Teller",
-        "Jennifer Connelly",
-        "Bashir Salahuddin",
-        "Jon Hamm",
-        "Charles Parnell",
-        "Monica Barbaro",
-        "Lewis Pullman"
-      ],
-      "rank": 9,
-      "id": "tt1745960",
-      "name": "Top Gun: Maverick",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
-      "rating": 8.157,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
-      "runtime": "87 min",
-      "director": [
-        "Steve Miner"
-      ],
-      "cast": [
-        "Amy Steel",
-        "John Furey",
-        "Adrienne King",
-        "Kirsten Baker",
-        "Stuart Charno",
-        "Warrington Gillette",
-        "Walt Gorney",
-        "Marta Kober"
+        "Ben Stiller",
+        "Robert De Niro",
+        "Teri Polo",
+        "Blythe Danner",
+        "Jon Abrahams",
+        "Nicole DeHuff",
+        "Owen Wilson",
+        "James Rebhorn"
       ],
       "rank": 10,
-      "id": "tt0082418",
-      "name": "Viernes 13, 2ª parte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
-      "rating": 6.208,
-      "year": 1981,
+      "id": "tt0212338",
+      "name": "Los padres de ella",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
+      "rating": 6.7,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -358,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

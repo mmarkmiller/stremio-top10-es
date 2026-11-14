@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -60,7 +60,7 @@
       "id": "tt31842126",
       "name": "The Good Daughter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "rating": 9.333,
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -89,7 +89,7 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.581,
+      "rating": 8.577,
       "year": 2026,
       "days": null,
       "trend": {
@@ -121,8 +121,41 @@
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.516,
+      "rating": 6.5,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nochebuena de 1976. Nieve, silencio y oscuridad. Tres jóvenes mueren bajo las ruedas de un autobús mientras regresan de la misa del gallo: una chica embarazada, su esposo y su hermano menor. Nadie vio nada. O nadie quiere hablar. En lugar de respuestas, se levanta un férreo muro de silencio en toda la comunidad. Aunque el caso es cerrado oficialmente como un trágico accidente, la madre de las víctimas y un joven policía, Henryk Maczek, se niegan a creer en la versión oficial. Él arriesga su carrera; ella, lo único que le queda en la vida. Cuanto más profundo excavan, más información impactante sale a la superficie. Y la verdad... podría resultar mucho peor que la mentira.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dzYBQxlypWobFXxkeYOJugNtQGh.png",
+      "director": [],
+      "cast": [
+        "Tomasz Schuchardt",
+        "Adam Woronowicz",
+        "Justyna Wasilewska",
+        "Tomasz Włosok",
+        "Dariusz Chojnacki",
+        "Łukasz Simlat",
+        "Jędrzej Hycnar",
+        "Ewelina Starejki"
+      ],
+      "rank": 5,
+      "id": "tt38961437",
+      "name": "Noche de Paz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/JQ5PUa6arDleXdbmjMs9YjqN3E.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -148,67 +181,12 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
       "rating": 7.7,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nochebuena de 1976. Nieve, silencio y oscuridad. Tres jóvenes mueren bajo las ruedas de un autobús mientras regresan de la misa del gallo: una chica embarazada, su esposo y su hermano menor. Nadie vio nada. O nadie quiere hablar. En lugar de respuestas, se levanta un férreo muro de silencio en toda la comunidad. Aunque el caso es cerrado oficialmente como un trágico accidente, la madre de las víctimas y un joven policía, Henryk Maczek, se niegan a creer en la versión oficial. Él arriesga su carrera; ella, lo único que le queda en la vida. Cuanto más profundo excavan, más información impactante sale a la superficie. Y la verdad... podría resultar mucho peor que la mentira.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dzYBQxlypWobFXxkeYOJugNtQGh.png",
-      "director": [],
-      "cast": [
-        "Tomasz Schuchardt",
-        "Adam Woronowicz",
-        "Justyna Wasilewska",
-        "Tomasz Włosok",
-        "Dariusz Chojnacki"
-      ],
-      "rank": 6,
-      "id": "tt38961437",
-      "name": "Noche de Paz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/JQ5PUa6arDleXdbmjMs9YjqN3E.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En una odisea singularmente hilarante de autodescubrimiento y observación cultural, el realizador de documentales y autodenominado “neoyorquino ansioso” John Wilson filma de manera encubierta y obsesiva las vidas de sus compañeros neoyorquinos mientras intenta dar consejos cotidianos sobre temas relacionados. Las torpes contradicciones de la vida moderna se alivian con el comentario sincero y sin pulir de Wilson. Sobre la base de los cortometrajes de \"cómo hacer\" publicados anteriormente por Wilson, cada episodio toma giros inesperados, pero se basa en la honestidad refrescante de John.",
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sxNjXGfCIVw5PR3BgkKCtnVfYGl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qrCxrfl78txDYsQVRmZ3LsE4tJu.png",
-      "director": [],
-      "cast": [
-        "John Wilson"
-      ],
-      "rank": 7,
-      "id": "tt10801534",
-      "name": "How To with John Wilson",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jpHziYpJniprEFDFwMbOHabgnow.jpg",
-      "rating": 8.1,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -232,7 +210,7 @@
         "Hudson Williams",
         "Carrie-Anne Moss"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt39980704",
       "name": "Yaga",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
@@ -246,25 +224,28 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
       "director": [],
       "cast": [
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Kelly Macdonald"
+        "Alan Cumming",
+        "David Morrissey",
+        "Elizabeth Berrington",
+        "Pooky Quesnel",
+        "Iz Hesketh",
+        "Paul Rhys",
+        "Jackson Connor",
+        "Joseph William Evans"
       ],
-      "rank": 9,
-      "id": "tt26545992",
-      "name": "Linternas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.188,
+      "rank": 8,
+      "id": "tt35768911",
+      "name": "De puntillas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
+      "rating": 6.944,
       "year": 2026,
       "days": null,
       "trend": {
@@ -289,7 +270,7 @@
         "Dougie Baldwin",
         "Jessie Prez"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
@@ -300,8 +281,36 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png",
+      "director": [],
+      "cast": [
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "Kelly Macdonald"
+      ],
+      "rank": 10,
+      "id": "tt26545992",
+      "name": "Linternas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": 8.187,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,42 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.348,
+      "rating": 6.345,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
+      "director": [
+        "Shana Feste"
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Garrett Hedlund",
+        "Carter Faith",
+        "Ross Lynch",
+        "Jennifer Nettles",
+        "Paul Sparks",
+        "Ben Dickey",
+        "Norbert Leo Butz"
+      ],
+      "rank": 2,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,12 +99,115 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
       "rating": 7.621,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
+      "director": [
+        "David F. Sandberg"
+      ],
+      "cast": [
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
+      ],
+      "rank": 4,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.238,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+      "runtime": "105 min",
+      "director": [
+        "Daley Pearson",
+        "Jeffrey Walker"
+      ],
+      "cast": [
+        "T.J. Power",
+        "Charlotte Nicdao",
+        "Josh Helman",
+        "Emily Barclay",
+        "Benedict Hardie",
+        "Elijah Tamati",
+        "Edward A O'Sullivan",
+        "Caitlin Niemotko"
+      ],
+      "rank": 5,
+      "id": "tt37675123",
+      "name": "Allen",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "rating": 6.857,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
+      "runtime": "82 min",
+      "director": [
+        "Cesc Gay"
+      ],
+      "cast": [
+        "Javier Cámara",
+        "Belén Cuesta",
+        "Alberto San Juan",
+        "Griselda Siciliani"
+      ],
+      "rank": 6,
+      "id": "tt11028768",
+      "name": "Sentimental",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
+      "rating": 6.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -98,11 +236,11 @@
         "정섶",
         "강창권"
       ],
-      "rank": 3,
+      "rank": 7,
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
+      "rating": 7.403,
       "year": 2026,
       "days": null,
       "trend": {
@@ -112,136 +250,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+      "description": "La desaparición de un amigo en un parque de diversiones abandonado pone a prueba la amistad de un grupo de adolescentes, quienes se enfrentan a conflictos y secretos a lo largo del camino.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Comedia",
-        "Familia"
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
+      "runtime": "113 min",
       "director": [
-        "Daley Pearson",
-        "Jeffrey Walker"
+        "Phontharis Chotkijsadarsopon"
       ],
       "cast": [
-        "T.J. Power",
-        "Charlotte Nicdao",
-        "Josh Helman",
-        "Emily Barclay",
-        "Benedict Hardie",
-        "Elijah Tamati",
-        "Edward A O'Sullivan",
-        "Caitlin Niemotko"
+        "ณัฐวรรธน์ จิโรชน์ธิกุล",
+        "ยงศิลป์ วงศ์พนิตนนท์",
+        "จตุรวิชญ์ เชี่ยวประสิทธิ์",
+        "ปัณณวิชญ์ พัฒนศิริ",
+        "สรธร เฉลิมลาภสมบัติ",
+        "วรพัช ภัคภัทรพร",
+        "วรัชต์ธิปต์ กิตติสิริไพศาล",
+        "Tirakhun Srichoo"
       ],
-      "rank": 4,
-      "id": "tt37675123",
-      "name": "Allen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "rating": 7.2,
+      "rank": 9,
+      "id": "tt42721267",
+      "name": "Kijsada Paradise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flWf8cNQrlw1PXXW7uzPZPGRDHx.jpg",
+      "rating": 4.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
-      "genres": [
-        "Documental",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
-      "runtime": "80 min",
-      "director": [
-        "Jorge Laplace"
-      ],
-      "cast": [
-        "Eduardo Pérez \"Perreras\"",
-        "Maribel Tarrazo",
-        "Corona Salgado",
-        "Eduardo Pérez",
-        "Javier González",
-        "Fernando Serulla"
-      ],
-      "rank": 5,
-      "id": "tt48500521",
-      "name": "Desprotexida: el crimen de Pazos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/axWBI3wxJFiVlNSVyJL5NRiZRvZ.png",
-      "runtime": "140 min",
-      "director": [
-        "Sidharta Tata"
-      ],
-      "cast": [
-        "Lukman Sardi",
-        "Callista Arum",
-        "Sulthan Hamonangan",
-        "Derby Romero",
-        "Donny Alamsyah",
-        "Ismi Melinda",
-        "Laras Sardi",
-        "Dennis Adishwara"
-      ],
-      "rank": 6,
-      "id": "tt39370926",
-      "name": "No nos rendimos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "rating": 7.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 7,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.4,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -271,83 +304,12 @@
         "Dag Malmberg",
         "Bengt Braskered"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt39313557",
       "name": "El intercambio navideño",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "rating": 7,
+      "rating": 6.719,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 9,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Ciencia ficción",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
-      "runtime": "110 min",
-      "director": [
-        "Charlie McDowell"
-      ],
-      "cast": [
-        "Jason Segel",
-        "Rooney Mara",
-        "Robert Redford",
-        "Jesse Plemons",
-        "Riley Keough",
-        "Ron Canada",
-        "Brian McCarthy",
-        "Kimleigh Smith"
-      ],
-      "rank": 10,
-      "id": "tt5155780",
-      "name": "The Discovery",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
-      "rating": 6.258,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -356,5 +318,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

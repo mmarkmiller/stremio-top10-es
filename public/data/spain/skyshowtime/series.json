@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.649,
+      "rating": 8.654,
       "year": 2025,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.319,
+      "rating": 8.32,
       "year": 2022,
       "days": null,
       "trend": {
@@ -94,127 +94,8 @@
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.552,
+      "rating": 8.5,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
-      "director": [],
-      "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
-      ],
-      "rank": 4,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.584,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
-      ],
-      "rank": 6,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.282,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Jennifer Carpenter",
-        "Geoff Pierson",
-        "David Zayas",
-        "James Remar",
-        "Aimee Garcia",
-        "Desmond Harrington",
-        "C.S. Lee"
-      ],
-      "rank": 7,
-      "id": "tt0773262",
-      "name": "Dexter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.242,
-      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +122,7 @@
         "Genesis Rodriguez",
         "Michael Kelly"
       ],
-      "rank": 8,
+      "rank": 4,
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
@@ -269,7 +150,7 @@
         "Tom Bateman",
         "Liana Liberato"
       ],
-      "rank": 9,
+      "rank": 5,
       "id": "tt19500224",
       "name": "Basado en una historia real",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
@@ -283,29 +164,150 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El equipo documental que inmortalizó la sucursal de Dunder Mifflin en Scranton está buscando un nuevo tema cuando descubre un periódico histórico de Toledo, The Truth Teller, y al entusiasta editor que intenta revivirlo.",
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "director": [],
+      "cast": [
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
+      ],
+      "rank": 6,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el otoño de 1942, en la Francia ocupada, el buque U-612 se prepara para su viaje inaugural en una guerra cada vez más sangrienta. La joven tripulación liderada por el capitán novel Klaus Hoffman (Rick Okon) se enfrenta a su primera misión en unas condiciones claustrofóbicas. Al elevarse las tensiones y quebrarse la lealtad, sus personalidades son llevadas al límite. Mientras tanto, en el puerto de La Rochelle, la vida de Simone Strasser (Vicky Krieps) se ve trastornada al sumergirse de lleno en una operación peligrosa y una historia de amor prohibido, dividida entre su compromiso con Alemania y la Resistencia. Durante el proceso, se cuestionará por completo sus valores. ¿Será posible que todo aquello en lo que creía era mentira?",
+      "genres": [
+        "War & Politics",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xQDwpVLVzJwTsPPMNQqE3rbMQcI.jpg",
+      "director": [
+        "Dennis Gansel"
+      ],
+      "cast": [
+        "Franz Dinda",
+        "Pierre Kiwitt",
+        "Anna Schudt",
+        "Ernst Stötzner",
+        "Konstantin Gries",
+        "Rick Okon",
+        "Rainer Bock",
+        "Rosalie Thomass"
+      ],
+      "rank": 7,
+      "id": "tt5830254",
+      "name": "Das Boot (El submarino)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZyI55Z1ee9N2FVkjL3RcBRKCT1.jpg",
+      "rating": 7.066,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
+      ],
+      "rank": 8,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.284,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wzkgLYZcEo0dDiwT7sNsCObfFdl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/urHZKooNBEDyGhK3cBmjxTAzYyE.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Domhnall Gleeson",
-        "Sabrina Impacciatore",
-        "Chelsea Frei",
-        "Melvin Gregg",
-        "Gbemisola Ikumelo",
-        "Alex Edelman",
-        "Ramona Young",
-        "Tim Key"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
+      ],
+      "rank": 9,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.585,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Jennifer Carpenter",
+        "Geoff Pierson",
+        "David Zayas",
+        "James Remar",
+        "Aimee Garcia",
+        "Desmond Harrington",
+        "C.S. Lee"
       ],
       "rank": 10,
-      "id": "tt32159809",
-      "name": "The Paper",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-      "rating": 7.2,
-      "year": 2025,
+      "id": "tt0773262",
+      "name": "Dexter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+      "rating": 8.242,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -314,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

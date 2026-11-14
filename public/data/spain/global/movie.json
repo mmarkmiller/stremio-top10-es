@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,45 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.046,
+      "rating": 7.04,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
+      "runtime": "181 min",
+      "director": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Don Cheadle"
+      ],
+      "rank": 2,
+      "id": "tt4154796",
+      "name": "Vengadores: Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "rating": 8.2,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,11 +100,11 @@
         "Viola Davis",
         "Fionnula Flanagan"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
-      "rating": 6.951,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
+      "rating": 7,
       "year": 2023,
       "days": null,
       "trend": {
@@ -77,25 +114,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Después de los eventos devastadores de ‘Avengers: Infinity War’, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias…  Vengadores: Endgame cerró una etapa de Marvel, pero su edición Encore también mira hacia lo que viene. Esta versión incorpora mejoras visuales y contenido adicional que conecta con Vengadores: Doomsday.",
+      "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
       "genres": [
-        "Acción",
-        "Fantasía",
-        "Aventura",
+        "Comedia",
         "Drama",
-        "Ciencia ficción"
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1uu1SUE3hmr9MzjVBf9QIkERsyr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6haBaU8IqTf3xKIOoVrSPkzuA7c.png",
-      "runtime": "186 min",
-      "director": [],
-      "cast": [],
-      "rank": 3,
-      "id": "tmdb:1824935",
-      "name": "Vengadores Endgame: Encore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oB7rKdUINxngPoDVPkhBNPtAZk7.jpg",
-      "rating": 8,
-      "year": 2026,
+      "background": "https://image.tmdb.org/t/p/w1280/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xsvnjs0JggmPf7aTBSR7djahKgx.png",
+      "runtime": "116 min",
+      "director": [
+        "Armando Iannucci"
+      ],
+      "cast": [
+        "Steve Buscemi",
+        "Simon Russell Beale",
+        "Jeffrey Tambor",
+        "Jason Isaacs",
+        "Michael Palin",
+        "Rupert Friend",
+        "Andrea Riseborough",
+        "Dermot Crowley"
+      ],
+      "rank": 4,
+      "id": "tt4686844",
+      "name": "La muerte de Stalin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
+      "rating": 7.025,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -126,11 +172,11 @@
         "Luz Valdenebro",
         "Víctor Duplá"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.348,
+      "rating": 6.345,
       "year": 2026,
       "days": null,
       "trend": {
@@ -140,70 +186,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
+      "runtime": "136 min",
       "director": [
-        "Takashi Yamazaki"
+        "Emerald Fennell"
       ],
       "cast": [
-        "Ryunosuke Kamiki",
-        "浜辺美波",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 5,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.621,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un blogger de tecnología consigue una entrevista con un gurú de la tecnología y detiene un ataque contra él, encuentra un anillo misterioso que lo transporta 57 segundos al pasado.",
-      "genres": [
-        "Suspense",
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jP3FatCTHc460ZGW57q9ypTdBqu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU9FaOzbZ4N65CtYxOMBKTNvAch.png",
-      "runtime": "99 min",
-      "director": [
-        "Rusty Cundieff"
-      ],
-      "cast": [
-        "Josh Hutcherson",
-        "Morgan Freeman",
-        "Greg Germann",
-        "Lovie Simone",
-        "Bevin Bru",
-        "Sammi Rotibi",
-        "Mark Jacobson",
-        "Griff Furst"
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Hong Chau",
+        "Shazad Latif",
+        "Alison Oliver",
+        "Martin Clunes",
+        "Ewan Mitchell",
+        "Amy Morgan"
       ],
       "rank": 6,
-      "id": "tt18083578",
-      "name": "57 Segundos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg",
-      "rating": 6.157,
-      "year": 2023,
+      "id": "tt32897959",
+      "name": "“Cumbres Borrascosas”",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "rating": 6.637,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -212,34 +221,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
-        "Aventura",
-        "Acción",
-        "Ciencia ficción"
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
       "director": [
-        "Francis Lawrence"
+        "Shana Feste"
       ],
       "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Donald Sutherland",
-        "Lenny Kravitz",
-        "Philip Seymour Hoffman"
+        "Jessica Chastain",
+        "Garrett Hedlund",
+        "Carter Faith",
+        "Ross Lynch",
+        "Jennifer Nettles",
+        "Paul Sparks",
+        "Ben Dickey",
+        "Norbert Leo Butz"
       ],
       "rank": 7,
-      "id": "tt1951264",
-      "name": "Los Juegos del Hambre: En llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
-      "rating": 7.424,
-      "year": 2013,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 7.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
+      "runtime": "120 min",
+      "director": [
+        "Kirk Jones"
+      ],
+      "cast": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
+      ],
+      "rank": 8,
+      "id": "tt31514146",
+      "name": "Incontrolable (I Swear)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+      "rating": 8.288,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -270,11 +313,11 @@
         "Robert Bobroczkyi",
         "Ember Ambrose"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.989,
+      "rating": 6.986,
       "year": 2026,
       "days": null,
       "trend": {
@@ -284,66 +327,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Suspense",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
-      "runtime": "89 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
       "director": [
-        "James Ward Byrkit"
+        "Phil Lord",
+        "Christopher Miller"
       ],
       "cast": [
-        "Emily Baldoni",
-        "Maury Sterling",
-        "Nicholas Brendon",
-        "Lauren Maher",
-        "Elizabeth Gracen",
-        "Hugo Armstrong",
-        "Lorene Scafaria",
-        "Alex Manugian"
-      ],
-      "rank": 9,
-      "id": "tt2866360",
-      "name": "Coherence",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
-      "rating": 7.206,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
       ],
       "rank": 10,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.6,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.626,
       "year": 2026,
       "days": null,
       "trend": {
@@ -353,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

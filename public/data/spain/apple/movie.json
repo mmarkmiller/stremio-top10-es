@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "movie",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,42 @@
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.219,
+      "rating": 8.204,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1KBVvL6MEAiWXpMv9YkczEgTXIP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IIQcADzsnKBEBGecnyAnQBU4Pf.png",
+      "runtime": "127 min",
+      "director": [
+        "Sian Heder"
+      ],
+      "cast": [
+        "Ruth Madeley",
+        "Mark Ruffalo",
+        "Dylan O'Brien",
+        "Madeline Delp",
+        "Roberta Colindrez",
+        "Jon Beavers",
+        "Antwan Tolliver",
+        "Ray Fisher"
+      ],
+      "rank": 2,
+      "id": "tt15095848",
+      "name": "Siendo Heumann",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "rating": 6.409,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,7 +99,7 @@
         "Kellen Boyle",
         "Saïd Taghmaoui"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt16431870",
       "name": "Plan en familia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7mEX07jWRYrjarW84sBeFghGMfa.jpg",
@@ -78,104 +113,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
       "genres": [
-        "Drama",
-        "Historia"
+        "Acción",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1KBVvL6MEAiWXpMv9YkczEgTXIP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IIQcADzsnKBEBGecnyAnQBU4Pf.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+      "runtime": "111 min",
       "director": [
-        "Sian Heder"
+        "Jonathan Goldstein",
+        "John Francis Daley"
       ],
       "cast": [
-        "Ruth Madeley",
-        "Mark Ruffalo",
-        "Dylan O'Brien",
-        "Madeline Delp",
-        "Rob Delaney",
-        "Ray Fisher",
-        "Michael Patrick Thornton",
-        "Antwan Tolliver"
-      ],
-      "rank": 3,
-      "id": "tt15095848",
-      "name": "Siendo Heumann",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
-      "genres": [
-        "Romance",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6m600JdCsS9MDvVtt3Thfe8OMvp.png",
-      "runtime": "127 min",
-      "director": [
-        "Scott Derrickson"
-      ],
-      "cast": [
-        "Miles Teller",
-        "Anya Taylor-Joy",
-        "Sigourney Weaver",
-        "Ṣọpẹ́ Dìrísù",
-        "William Houston",
-        "Kobna Holdbrook-Smith",
-        "James Marlowe",
-        "Julianna Kurokawa"
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Maria Bakalova",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
       ],
       "rank": 4,
-      "id": "tt13654226",
-      "name": "El abismo secreto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
-      "rating": 7.703,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ns9T8glyF7mYwxrcUHXm22nMf9t.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Av6kk0uREzac952vLV58kqr2oDv.png",
-      "runtime": "110 min",
-      "director": [
-        "Phyllida Lloyd"
-      ],
-      "cast": [
-        "Amanda Seyfried",
-        "Meryl Streep",
-        "Pierce Brosnan",
-        "Colin Firth",
-        "Stellan Skarsgård",
-        "Christine Baranski",
-        "Julie Walters",
-        "Dominic Cooper"
-      ],
-      "rank": 5,
-      "id": "tt0795421",
-      "name": "Mamma Mia! La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4QthG4HsSQ30Uit2CpOz6YRikX1.jpg",
-      "rating": 7,
-      "year": 2008,
+      "id": "tt28014327",
+      "name": "Mayday",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+      "rating": 7.813,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,12 +170,50 @@
         "Sarah Niles",
         "Will Merrick"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt16311594",
       "name": "F1 la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
       "rating": 7.832,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Película de TV"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png",
+      "runtime": "25 min",
+      "director": [
+        "Bill Melendez",
+        "Phil Roman"
+      ],
+      "cast": [
+        "Todd Barbee",
+        "Robin Kohn",
+        "Stephen Shea",
+        "Hilary Momberger-Powers",
+        "Christopher DeFaria",
+        "Jimmy Ahrens",
+        "Bill Melendez",
+        "Robin Reed"
+      ],
+      "rank": 6,
+      "id": "tt0068359",
+      "name": "Es Acción de Gracias, Charlie Brown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "rating": 7.3,
+      "year": 1973,
       "days": null,
       "trend": {
         "dir": "same",
@@ -255,42 +258,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
-      "runtime": "111 min",
-      "director": [
-        "Jonathan Goldstein",
-        "John Francis Daley"
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Maria Bakalova",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
-      ],
-      "rank": 8,
-      "id": "tt28014327",
-      "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.813,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
       "genres": [
         "Suspense",
@@ -312,7 +279,7 @@
         "Troy Garity",
         "Benedict Wong"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt0448134",
       "name": "Sunshine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
@@ -326,34 +293,54 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2q1a9h5wLCp2wzrg3PJWigFputF.png",
-      "runtime": "127 min",
+      "genres": [],
+      "runtime": "15 min",
       "director": [
-        "Sam Hargrave"
+        "Florencia García Viera"
+      ],
+      "cast": [],
+      "rank": 9,
+      "id": "tmdb:1455755",
+      "name": "Lobos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7y2QqVCWJlmkSeqSQkEtfiV1Gwd.jpg",
+      "rating": null,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Christian Wolff es un contable y genio matemático, un hombre obsesivo con el orden y con mucha más afinidad con los números que con las personas, que lleva una doble vida como asesino despiadado.",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/n2pSbjJHR0g1MPJ1wq3n3OA7MPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7XtaFPIYY3NPIFP4P3JmTpBqZc.png",
+      "runtime": "128 min",
+      "director": [
+        "Gavin O'Connor"
       ],
       "cast": [
-        "John Cena",
-        "Jessica Biel",
-        "Arturo Castro",
-        "Sam Richardson",
-        "Teyonah Parris",
-        "Danai Gurira",
-        "گلشیفته فراهانی",
-        "Corey Stoll"
+        "Ben Affleck",
+        "Anna Kendrick",
+        "J.K. Simmons",
+        "Jon Bernthal",
+        "Jeffrey Tambor",
+        "Cynthia Addai-Robinson",
+        "John Lithgow",
+        "Jean Smart"
       ],
       "rank": 10,
-      "id": "tt28498219",
-      "name": "Matchbox: La película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "rating": 7.545,
-      "year": 2026,
+      "id": "tt2140479",
+      "name": "El contable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1Bd9ItSLT13u8Na0PApQAMcW1Jw.jpg",
+      "rating": 7.142,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -362,5 +349,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }

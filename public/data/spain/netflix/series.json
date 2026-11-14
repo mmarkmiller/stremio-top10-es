@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611132143",
+  "date": "202611142013",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,6 +28,41 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.188,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/93KTDcYWWcDmzayWig9qPKq5J9z.png",
+      "director": [
+        "Carlos Sedes"
+      ],
+      "cast": [
+        "Tristán Ulloa",
+        "Carlos Blanco",
+        "Fer Fraga",
+        "Miguel Borines",
+        "Marta Nieto",
+        "Verónica Sánchez",
+        "Fernando Guillén Cuervo",
+        "Nacho Fresneda"
+      ],
+      "rank": 2,
+      "id": "tt38707741",
+      "name": "El crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
       "rating": 7,
       "year": 2026,
       "days": null,
@@ -54,11 +89,11 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.049,
+      "rating": 7.058,
       "year": 2024,
       "days": null,
       "trend": {
@@ -86,11 +121,75 @@
         "Théo Christine",
         "Laïka Blanc-Francard"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.679,
+      "rating": 7.7,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
+      "rank": 5,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.883,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "genres": [
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "director": [],
+      "cast": [
+        "Rose McIver",
+        "Utkarsh Ambudkar",
+        "Brandon Scott Jones",
+        "Danielle Pinnock",
+        "Richie Moriarty",
+        "Asher Grodman",
+        "Rebecca Wisocky",
+        "Sheila Carrasco"
+      ],
+      "rank": 6,
+      "id": "tt11379026",
+      "name": "Fantasmas (US)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+      "rating": 8.1,
       "year": 2021,
       "days": null,
       "trend": {
@@ -118,7 +217,7 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 4,
+      "rank": 7,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
@@ -132,29 +231,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Bir Başkadır, Nos conocimos en Estambul en España, es una serie drama turca que gira en torno a un grupo de personas de Estambul intentan derribar las barreras socioculturales mientras encuentran un terreno de comprensión entre ellos mientras se enfrentan a sus deseos y temores que se entrecruzan. Teniendo que tomar así un nuevo camino o lidiar con un pasado bastante complejo.",
+      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Comedia",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oIMHVcV1pPkUTc7gRU1fS3UwTFQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
       "director": [
-        "Berkun Oya"
+        "Juan Cavestany",
+        "Álvaro Fernández Armero"
       ],
       "cast": [
-        "Öykü Karayel",
-        "Funda Eryiğit",
-        "Fatih Artman",
-        "Defne Kayalar",
-        "Tülin Özen"
+        "Antonio de la Torre",
+        "Alexandra Jiménez",
+        "Enric Benavent",
+        "Fernando Andina",
+        "Celia de Molina",
+        "Teresa Rabal",
+        "Mercedes Sampietro"
       ],
-      "rank": 5,
-      "id": "tt11301642",
-      "name": "Nos conocimos en Estambul",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cFo6613vyG67H4025hZMNSra8Es.jpg",
-      "rating": 7.8,
-      "year": 2020,
+      "rank": 8,
+      "id": "tt39387986",
+      "name": "Grande de España",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -163,62 +265,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "genres": [
-        "Action & Adventure",
-        "Comedia",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
-      "director": [],
-      "cast": [
-        "Mayumi Tanaka",
-        "Kazuya Nakai",
-        "矢口真里",
-        "Akemi Okamura",
-        "Kappei Yamaguchi",
-        "Hiroaki Hirata",
-        "Ikue Otani",
-        "Yuriko Yamaguchi"
-      ],
-      "rank": 6,
-      "id": "tt0388629",
-      "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.756,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
       "genres": [
         "Comedia",
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
       "director": [],
       "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
       ],
-      "rank": 7,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.88,
+      "rank": 9,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.296,
       "year": 2024,
       "days": null,
       "trend": {
@@ -228,88 +293,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "description": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
       "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
-      "director": [],
+      "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+      "director": [
+        "Kasper Barfoed"
+      ],
       "cast": [
-        "Marina Inoue",
-        "Hiro Shimono",
-        "Yuki Kaji",
-        "Natsuki Hanae",
-        "Ayane Sakura",
-        "Kisho Taniyama",
-        "Yui Ishikawa",
-        "Yoshimasa Hosoya"
-      ],
-      "rank": 8,
-      "id": "tt2560140",
-      "name": "Ataque a los Titanes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.691,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando la rebelde Isabel se enamora del emperador Francisco y se promete inesperadamente con él, se adentra en el mundo lleno de tensiones e intrigas de la corte vienesa.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/krx0NQ2qZmktGoRW6o5KIxlkWIo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7nUz8EBZix31Kvl9Fd4OO8aam2p.png",
-      "director": [],
-      "cast": [
-        "Devrim Lingnau",
-        "Philip Froissant",
-        "Melika Foroutan",
-        "Johannes Nussbaum",
-        "Elisa Schlott",
-        "Jördis Triebel",
-        "Almila Bağrıaçık",
-        "Wiebke Puls"
-      ],
-      "rank": 9,
-      "id": "tt13720112",
-      "name": "La emperatriz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
-      "rating": 7.7,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
+        "Emma Appleton",
+        "Fares Fares",
+        "Frida Gustavsson",
+        "Jakob Oftebro",
+        "Anna Bjelkerud",
+        "Magnus Krepper",
+        "Diarmuid Noyes",
+        "Lars Väringer"
       ],
       "rank": 10,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.806,
+      "id": "tt42767924",
+      "name": "El intercambio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+      "rating": 4.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -319,5 +327,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-13T17:38:28.4Z"
+  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
 }
