@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "disney",
   "list": "series",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.318,
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -122,7 +122,7 @@
       "id": "tt3718778",
       "name": "Más allá del jardín",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "rating": 8.57,
+      "rating": 8.568,
       "year": 2014,
       "days": null,
       "trend": {
@@ -194,29 +194,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Agatha Harkness reúne un aquelarre de brujas y parte hacia la Senda de las Brujas.",
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Misterio"
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uWObLb6mNieQ4vkGyPkbBjANNFE.png",
+      "background": "https://image.tmdb.org/t/p/w1280/60TX5aaN7DHZNOEbRdTkag2J5qs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png",
       "director": [],
       "cast": [
-        "Kathryn Hahn",
-        "Joe Locke",
-        "Sasheer Zamata",
-        "Ali Ahn",
-        "Debra Jo Rupp",
-        "Patti LuPone",
-        "Aubrey Plaza"
+        "松本梨香",
+        "Ikue Otani",
+        "Daiki Yamashita",
+        "Kenyu Horiuchi"
       ],
       "rank": 7,
-      "id": "tt15571732",
-      "name": "Agatha, ¿quién si no?",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
-      "rating": 7.4,
-      "year": 2024,
+      "id": "tt0168366",
+      "name": "Pokémon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
+      "rating": 7.989,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "genres": [
+        "Comedia",
+        "Misterio",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qsVIaAvXxHXVVsU3WHs43H9eesX.png",
+      "director": [],
+      "cast": [
+        "Steve Martin",
+        "Martin Short",
+        "Selena Gómez"
+      ],
+      "rank": 8,
+      "id": "tt11691774",
+      "name": "Solo asesinatos en el edificio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
+      "rating": 8.393,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -237,11 +263,11 @@
       "cast": [
         "Ramón Rodríguez"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt17543592",
       "name": "Will Trent, Agente Especial",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-      "rating": 7.3,
+      "rating": 7.292,
       "year": 2023,
       "days": null,
       "trend": {
@@ -251,56 +277,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "description": "Agatha Harkness reúne un aquelarre de brujas y parte hacia la Senda de las Brujas.",
       "genres": [
-        "Comedia"
+        "Sci-Fi & Fantasy",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uWObLb6mNieQ4vkGyPkbBjANNFE.png",
       "director": [],
       "cast": [
-        "Josh Radnor",
-        "Neil Patrick Harris",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "rank": 9,
-      "id": "tt0460649",
-      "name": "Cómo conocí a vuestra madre",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "rating": 8.111,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "genres": [
-        "Action & Adventure",
-        "Animación",
-        "Kids"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ogMd4e3A0uSNwZADzgC23zCByoi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png",
-      "director": [],
-      "cast": [
-        "Anouck Hautbois",
-        "Benjamin Bollen",
-        "Marie Nonnenmacher",
-        "Thierry Kazazian"
+        "Kathryn Hahn",
+        "Joe Locke",
+        "Sasheer Zamata",
+        "Ali Ahn",
+        "Debra Jo Rupp",
+        "Patti LuPone",
+        "Aubrey Plaza"
       ],
       "rank": 10,
-      "id": "tt2580046",
-      "name": "Miraculous: Las aventuras de Ladybug",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "rating": 8.07,
-      "year": 2015,
+      "id": "tt15571732",
+      "name": "Agatha, ¿quién si no?",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+      "rating": 7.433,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

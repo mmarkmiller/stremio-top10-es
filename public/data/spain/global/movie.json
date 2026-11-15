@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.04,
+      "rating": 7.032,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,35 +42,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
       "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
+        "Comedia",
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xsvnjs0JggmPf7aTBSR7djahKgx.png",
+      "runtime": "116 min",
       "director": [
-        "Anthony Russo",
-        "Joe Russo"
+        "Armando Iannucci"
       ],
       "cast": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo",
-        "Chris Hemsworth",
-        "Scarlett Johansson",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Don Cheadle"
+        "Steve Buscemi",
+        "Simon Russell Beale",
+        "Jeffrey Tambor",
+        "Jason Isaacs",
+        "Michael Palin",
+        "Rupert Friend",
+        "Andrea Riseborough",
+        "Dermot Crowley"
       ],
       "rank": 2,
-      "id": "tt4154796",
-      "name": "Vengadores: Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "rating": 8.2,
-      "year": 2019,
+      "id": "tt4686844",
+      "name": "La muerte de Stalin",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
+      "rating": 7.026,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -104,44 +103,8 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 7,
+      "rating": 6.952,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xsvnjs0JggmPf7aTBSR7djahKgx.png",
-      "runtime": "116 min",
-      "director": [
-        "Armando Iannucci"
-      ],
-      "cast": [
-        "Steve Buscemi",
-        "Simon Russell Beale",
-        "Jeffrey Tambor",
-        "Jason Isaacs",
-        "Michael Palin",
-        "Rupert Friend",
-        "Andrea Riseborough",
-        "Dermot Crowley"
-      ],
-      "rank": 4,
-      "id": "tt4686844",
-      "name": "La muerte de Stalin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
-      "rating": 7.025,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -172,81 +135,11 @@
         "Luz Valdenebro",
         "Víctor Duplá"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.345,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
-      "runtime": "136 min",
-      "director": [
-        "Emerald Fennell"
-      ],
-      "cast": [
-        "Margot Robbie",
-        "Jacob Elordi",
-        "Hong Chau",
-        "Shazad Latif",
-        "Alison Oliver",
-        "Martin Clunes",
-        "Ewan Mitchell",
-        "Amy Morgan"
-      ],
-      "rank": 6,
-      "id": "tt32897959",
-      "name": "“Cumbres Borrascosas”",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "rating": 6.637,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
-      "director": [
-        "Shana Feste"
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Garrett Hedlund",
-        "Carter Faith",
-        "Ross Lynch",
-        "Jennifer Nettles",
-        "Paul Sparks",
-        "Ben Dickey",
-        "Norbert Leo Butz"
-      ],
-      "rank": 7,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 7.3,
+      "rating": 6.321,
       "year": 2026,
       "days": null,
       "trend": {
@@ -277,12 +170,102 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.288,
+      "rating": 8.3,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 6,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
+      "director": [
+        "David F. Sandberg"
+      ],
+      "cast": [
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
+      ],
+      "rank": 7,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.236,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [],
+      "background": "https://image.tmdb.org/t/p/w1280/c8RDVWShrHiwkX5PDMqrP3GNdML.jpg",
+      "runtime": "183 min",
+      "director": [],
+      "cast": [],
+      "rank": 8,
+      "id": "tmdb:1826784",
+      "name": "Avengers Endgame: Encore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yhulzFMLiZDPbZXWsv4mx3GVIue.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,7 +300,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.986,
+      "rating": 6.985,
       "year": 2026,
       "days": null,
       "trend": {
@@ -327,34 +310,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
       "genres": [
         "Ciencia ficción",
-        "Aventura"
+        "Aventura",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
       "director": [
-        "Phil Lord",
-        "Christopher Miller"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
       ],
       "rank": 10,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
-      "year": 2026,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.815,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +346,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

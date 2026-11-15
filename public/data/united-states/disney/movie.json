@@ -2,39 +2,56 @@
   "country": "united-states",
   "key": "disney",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [],
+      "background": "https://image.tmdb.org/t/p/w1280/c8RDVWShrHiwkX5PDMqrP3GNdML.jpg",
+      "runtime": "183 min",
+      "director": [],
+      "cast": [],
+      "rank": 1,
+      "id": "tmdb:1826784",
+      "name": "Avengers Endgame: Encore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yhulzFMLiZDPbZXWsv4mx3GVIue.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
       "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
+        "Comedia",
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6uLhSLXzB1ooJ3522ydrBZ2Hh0W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jcaBcXai5LMZsjrcP6rrzyrHw0o.png",
+      "runtime": "102 min",
       "director": [
-        "Anthony Russo",
-        "Joe Russo"
+        "Chris Columbus"
       ],
       "cast": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo",
-        "Chris Hemsworth",
-        "Scarlett Johansson",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Don Cheadle"
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern",
+        "John Heard",
+        "Roberts Blossom",
+        "Catherine O'Hara",
+        "Angela Goethals",
+        "Devin Ratray"
       ],
-      "rank": 1,
-      "id": "tt4154796",
-      "name": "Vengadores: Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "rating": 8.2,
-      "year": 2019,
+      "rank": 2,
+      "id": "tt0099785",
+      "name": "Solo en casa",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
+      "rating": 7.471,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -66,118 +83,12 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.255,
+      "rating": 8.251,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6uLhSLXzB1ooJ3522ydrBZ2Hh0W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcaBcXai5LMZsjrcP6rrzyrHw0o.png",
-      "runtime": "102 min",
-      "director": [
-        "Chris Columbus"
-      ],
-      "cast": [
-        "Macaulay Culkin",
-        "Joe Pesci",
-        "Daniel Stern",
-        "John Heard",
-        "Roberts Blossom",
-        "Catherine O'Hara",
-        "Angela Goethals",
-        "Devin Ratray"
-      ],
-      "rank": 3,
-      "id": "tt0099785",
-      "name": "Solo en casa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
-      "rating": 7.471,
-      "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
-      "runtime": "132 min",
-      "director": [
-        "Jon Favreau"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "rank": 4,
-      "id": "tt30825738",
-      "name": "The Mandalorian and Grogu",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.454,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los hermanos Deedle viven en Hawai y se pasan el día practicando su deporte favorito: el surf. Además, su padre es multimillonario y casi siempre está de viaje, lo que les permite organizar fiestas espectaculares en su lujosa mansión. Pero su situación cambia radicalmente cuando, tras un incidente con un agente de policía, son expulsados del colegio. Su padre decide entonces castigarlos mandándolos anda a un campamento de Utah.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vi59VuPecqv9PQXuV45CBK7cJrG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lmaBLJUgdt6RWs0BQZ0FqgrXKWP.png",
-      "runtime": "94 min",
-      "director": [
-        "Steve Boyum"
-      ],
-      "cast": [
-        "Paul Walker",
-        "John Ashton",
-        "Dennis Hopper",
-        "Eric Braeden",
-        "Richard Lineback",
-        "Robert Englund",
-        "M.C. Gainey",
-        "Steve Van Wormer"
-      ],
-      "rank": 5,
-      "id": "tt0120645",
-      "name": "Vaya par de locos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8S2OxDnkJd44yFeUF8iRfqA1xV2.jpg",
-      "rating": 4.5,
-      "year": 1998,
       "days": null,
       "trend": {
         "dir": "same",
@@ -209,12 +120,153 @@
         "André Roussimoff",
         "Fred Savage"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt0093779",
       "name": "La princesa prometida",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
       "rating": 7.711,
       "year": 1987,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso... si consiguen sobrevivir a un presente mortal.",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/82Y9a1cGxwFjPnaeukz3eQQnG7v.png",
+      "runtime": "117 min",
+      "director": [
+        "SJ Clarkson"
+      ],
+      "cast": [
+        "Dakota Johnson",
+        "Sydney Sweeney",
+        "Isabela Merced",
+        "Celeste O'Connor",
+        "Tahar Rahim",
+        "Mike Epps",
+        "Emma Roberts",
+        "Adam Scott"
+      ],
+      "rank": 5,
+      "id": "tt11057302",
+      "name": "Madame Web",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+      "rating": 5.245,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 6,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.452,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
+      "director": [
+        "Colin Higgins"
+      ],
+      "cast": [
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
+      ],
+      "rank": 7,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7.005,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DAVQj43XCHS8w16qV6t9hE08jk.png",
+      "runtime": "108 min",
+      "director": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ],
+      "cast": [
+        "Samara Weaving",
+        "Kathryn Newton",
+        "Sarah Michelle Gellar",
+        "Shawn Hatosy",
+        "Elijah Wood",
+        "Nestor Carbonell",
+        "Maia Jae",
+        "Juan Pablo Romero"
+      ],
+      "rank": 8,
+      "id": "tt33978029",
+      "name": "Noche de bodas 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "rating": 7.495,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -245,11 +297,11 @@
         "Ken Page",
         "Edward Ivory"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt0107688",
       "name": "Pesadilla antes de Navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
-      "rating": 7.861,
+      "rating": 7.86,
       "year": 1993,
       "days": null,
       "trend": {
@@ -259,105 +311,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
+      "description": "Tras arruinar accidentalmente la Navidad, Penny Proud debe hacer lo necesario para salvarla en Emilyville y el resto del mundo.",
       "genres": [
-        "Aventura",
         "Animación",
         "Comedia",
-        "Familia"
+        "Música",
+        "Película de TV"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zWeN6tQPRYztSyUDeo1FfrXg6Ta.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
-      "runtime": "87 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3iWhf5rCvpwxyMVBG8DYPQCyOk4.png",
+      "runtime": "51 min",
       "director": [
-        "Wes Anderson"
+        "David H. Brooks"
       ],
       "cast": [
-        "George Clooney",
-        "Meryl Streep",
-        "Jason Schwartzman",
-        "Eric Chase Anderson",
-        "Wallace Wolodarsky",
-        "Willem Dafoe",
-        "Michael Gambon",
-        "Robin Hurlstone"
-      ],
-      "rank": 8,
-      "id": "tt0432283",
-      "name": "Fantástico Sr. Fox",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2B2IcoSMpOa64Yw8DDtGzXdS4vl.jpg",
-      "rating": 7.829,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 9,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
-      "runtime": "148 min",
-      "director": [
-        "Jon Watts"
-      ],
-      "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Benedict Cumberbatch",
-        "Jacob Batalon",
-        "Jon Favreau",
-        "Jamie Foxx",
-        "Willem Dafoe",
-        "Alfred Molina"
+        "Kyla Pratt",
+        "Tommy Davidson",
+        "Paula Jai Parker",
+        "Jo Marie Payton",
+        "Cedric the Entertainer",
+        "Karen Malina White",
+        "Soleil Moon Frye",
+        "Alisa Reyes"
       ],
       "rank": 10,
-      "id": "tt10872600",
-      "name": "Spider-Man: No Way Home",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wngeV2SQk9UllOqZLaBbq16wpy5.jpg",
-      "rating": 7.945,
-      "year": 2021,
+      "id": "tt43596156",
+      "name": "La familia Proud: Especial de navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8JY6G5DSp8NUweUz5xJ5NtyqSp3.jpg",
+      "rating": 2.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +348,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

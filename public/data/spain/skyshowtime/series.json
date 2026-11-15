@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,40 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.654,
+      "rating": 8.658,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Dan Stevens",
+        "Bokeem Woodbine",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa"
+      ],
+      "rank": 2,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "rating": 8.5,
       "year": 2025,
       "days": null,
       "trend": {
@@ -57,45 +90,12 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
       "rating": 8.32,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
-      ],
-      "rank": 3,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.5,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -126,7 +126,7 @@
       "id": "tt13111078",
       "name": "Operaciones Especiales: Lioness",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.276,
+      "rating": 8.275,
       "year": 2023,
       "days": null,
       "trend": {
@@ -136,26 +136,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ava es una agente inmobiliaria obsesionada con los podcasts sobre asesinos en serie que no encuentra la forma de destacar en su trabajo como agente inmobiliaria. Nathan, su marido, una vieja promesa del tenis que vio frustrada su brillante carrera, lleva años trabajando como entrenador de tenis en un selecto club, pero acaba de ser sustituido, mandando al traste sus planes de futuro y su propio ego.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AeumbJh2aL047r40yIOztHSV9pD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/25wDRDA30fgt9KudAc5MXcShXdo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Kaley Cuoco",
-        "Chris Messina",
-        "Tom Bateman",
-        "Liana Liberato"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 5,
-      "id": "tt19500224",
-      "name": "Basado en una historia real",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
-      "rating": 7.025,
-      "year": 2023,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.585,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -191,39 +190,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el otoño de 1942, en la Francia ocupada, el buque U-612 se prepara para su viaje inaugural en una guerra cada vez más sangrienta. La joven tripulación liderada por el capitán novel Klaus Hoffman (Rick Okon) se enfrenta a su primera misión en unas condiciones claustrofóbicas. Al elevarse las tensiones y quebrarse la lealtad, sus personalidades son llevadas al límite. Mientras tanto, en el puerto de La Rochelle, la vida de Simone Strasser (Vicky Krieps) se ve trastornada al sumergirse de lleno en una operación peligrosa y una historia de amor prohibido, dividida entre su compromiso con Alemania y la Resistencia. Durante el proceso, se cuestionará por completo sus valores. ¿Será posible que todo aquello en lo que creía era mentira?",
-      "genres": [
-        "War & Politics",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xQDwpVLVzJwTsPPMNQqE3rbMQcI.jpg",
-      "director": [
-        "Dennis Gansel"
-      ],
-      "cast": [
-        "Franz Dinda",
-        "Pierre Kiwitt",
-        "Anna Schudt",
-        "Ernst Stötzner",
-        "Konstantin Gries",
-        "Rick Okon",
-        "Rainer Bock",
-        "Rosalie Thomass"
-      ],
-      "rank": 7,
-      "id": "tt5830254",
-      "name": "Das Boot (El submarino)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bZyI55Z1ee9N2FVkjL3RcBRKCT1.jpg",
-      "rating": 7.066,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
       "genres": [
         "Western",
@@ -242,39 +208,12 @@
         "Ryan Bingham",
         "Finn Little"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt4236770",
       "name": "Yellowstone",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
       "rating": 8.284,
       "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 9,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.585,
-      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -302,12 +241,72 @@
         "Desmond Harrington",
         "C.S. Lee"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.242,
+      "rating": 8.243,
       "year": 2006,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no se detendrá ante nada para proteger su imperio.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
+      "director": [],
+      "cast": [
+        "Kelly Reilly",
+        "Cole Hauser",
+        "Finn Little",
+        "Juan Pablo Raba",
+        "Jai Courtney",
+        "J.R. Villarreal",
+        "Marc Menchaca",
+        "Natalie Alyn Lind"
+      ],
+      "rank": 9,
+      "id": "tt34991493",
+      "name": "Rancho Dutton",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "rating": 9.121,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ava es una agente inmobiliaria obsesionada con los podcasts sobre asesinos en serie que no encuentra la forma de destacar en su trabajo como agente inmobiliaria. Nathan, su marido, una vieja promesa del tenis que vio frustrada su brillante carrera, lleva años trabajando como entrenador de tenis en un selecto club, pero acaba de ser sustituido, mandando al traste sus planes de futuro y su propio ego.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AeumbJh2aL047r40yIOztHSV9pD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/25wDRDA30fgt9KudAc5MXcShXdo.png",
+      "director": [],
+      "cast": [
+        "Kaley Cuoco",
+        "Chris Messina",
+        "Tom Bateman",
+        "Liana Liberato"
+      ],
+      "rank": 10,
+      "id": "tt19500224",
+      "name": "Basado en una historia real",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
+      "rating": 7.025,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

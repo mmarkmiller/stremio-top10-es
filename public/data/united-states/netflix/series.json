@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -16,8 +16,8 @@
       "director": [],
       "cast": [
         "Kristina Bogic",
-        "Sara Boustany",
         "Geena Meszaros",
+        "Sara Boustany",
         "Nnamdi Asomugha",
         "Louisa Krause",
         "Shirley Chen",
@@ -28,7 +28,7 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.188,
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.49,
+      "rating": 8.492,
       "year": 2022,
       "days": null,
       "trend": {
@@ -91,7 +91,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.058,
+      "rating": 7.053,
       "year": 2024,
       "days": null,
       "trend": {
@@ -161,6 +161,33 @@
     },
     {
       "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.804,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
       "genres": [
         "Comedia",
@@ -179,11 +206,11 @@
         "Jason Veasey",
         "Eliza Coupe"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.086,
+      "rating": 7.111,
       "year": 2026,
       "days": null,
       "trend": {
@@ -210,74 +237,12 @@
         "Chris Carmack",
         "Anthony Hill"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0413573",
       "name": "Anatomía de Grey",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
       "rating": 8.201,
       "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
-      ],
-      "rank": 8,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.806,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/93KTDcYWWcDmzayWig9qPKq5J9z.png",
-      "director": [
-        "Carlos Sedes"
-      ],
-      "cast": [
-        "Tristán Ulloa",
-        "Carlos Blanco",
-        "Fer Fraga",
-        "Miguel Borines",
-        "Marta Nieto",
-        "Verónica Sánchez",
-        "Fernando Guillén Cuervo",
-        "Nacho Fresneda"
-      ],
-      "rank": 9,
-      "id": "tt38707741",
-      "name": "El crimen de Pazos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 7,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -303,12 +268,44 @@
         "Rohan Campbell",
         "Willow Kean"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt35934755",
       "name": "Bajo la superficie",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.1,
+      "rating": 7.101,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t9gfV0eM9nWqJ4vMey4CSYFiqmZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
+      "director": [],
+      "cast": [
+        "Melanie Lynskey",
+        "Tawny Cypress",
+        "Sophie Nélisse",
+        "Jasmin Savoy Brown",
+        "Sophie Thatcher",
+        "Sammi Hanratty",
+        "Warren Kole",
+        "Christina Ricci"
+      ],
+      "rank": 10,
+      "id": "tt11041332",
+      "name": "Yellowjackets",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "rating": 7.429,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

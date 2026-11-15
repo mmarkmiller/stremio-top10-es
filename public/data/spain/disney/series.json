@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt23112594",
       "name": "VisionQuest",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.318,
+      "rating": 8.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -59,7 +59,7 @@
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 8.448,
+      "rating": 8.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -125,7 +125,7 @@
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "rating": 8.757,
+      "rating": 8.8,
       "year": 1999,
       "days": null,
       "trend": {
@@ -135,29 +135,118 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Corre el año 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sólo por sí mismos, ¿podrá florecer el amor verdadero en esta adaptación tan esperada de la novela superventas Rutshire Chronicles de Jilly Cooper?",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnwSKefF4CQqaMryTca22lD1Cgy.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "David Tennant",
-        "Aidan Turner",
-        "Danny Dyer",
-        "Alex Hassell",
-        "Nafessa Williams",
-        "Bella Maclean",
-        "Katherine Parkinson",
-        "Victoria Smurfit"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
       "rank": 5,
-      "id": "tt21906238",
-      "name": "Rivales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg",
-      "rating": 7.416,
-      "year": 2024,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.585,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Samir, Billie, Paul, Baker, Issa y Anton son cinco amigos que viven juntos en la casa de la infancia de Samir, donde comparten comida, estrés y, en ocasiones, cepillo de dientes. La serie resalta los momentos de victoria, derrota y humillación que conlleva adentrarse en la vida adulta.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
+      "director": [],
+      "cast": [
+        "Malik Elassal",
+        "Lucy Freyer",
+        "Jack Innanen",
+        "Amita Rao",
+        "Owen Thiele"
+      ],
+      "rank": 6,
+      "id": "tt33049767",
+      "name": "Adults",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+      "rating": 6.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En una serena comunidad habitada por algunas de las personas más prominentes del mundo, la tranquilidad estalla cuando se produce un espeluznante asesinato y se desencadena una investigación de alto riesgo. Xavier Collins, jefe del Servicio Secreto de la Casa Blanca, es rápidamente investigado por la muerte del presidente, al que descubre junto a su cama.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
+      "director": [],
+      "cast": [
+        "Sterling K. Brown",
+        "Julianne Nicholson",
+        "Sarah Shahi",
+        "Nicole Brydon Bloom",
+        "Krys Marshall",
+        "Enuka Okuma",
+        "Aliyah Mastin",
+        "Percy Daggs IV"
+      ],
+      "rank": 7,
+      "id": "tt27444205",
+      "name": "Paradise",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
+      "rating": 7.562,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+      "director": [],
+      "cast": [
+        "Noah Centineo",
+        "Colton Dunn",
+        "Aarti Mann",
+        "Fivel Stewart",
+        "Kristian Bruun",
+        "Kaylah Zander",
+        "Maddie Hasson",
+        "Angel Parker"
+      ],
+      "rank": 8,
+      "id": "tt16030542",
+      "name": "El nuevo empleado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+      "rating": 7.463,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,7 +273,7 @@
         "Colter Lee",
         "Mahaela Park"
       ],
-      "rank": 6,
+      "rank": 9,
       "id": "tt21952924",
       "name": "Farsante",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
@@ -216,7 +305,7 @@
         "Amirah J",
         "Matthew Lamb"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt22091076",
       "name": "High Potential",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
@@ -227,96 +316,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Samir, Billie, Paul, Baker, Issa y Anton son cinco amigos que viven juntos en la casa de la infancia de Samir, donde comparten comida, estrés y, en ocasiones, cepillo de dientes. La serie resalta los momentos de victoria, derrota y humillación que conlleva adentrarse en la vida adulta.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4qhQwHki1un5iaKmeNNTiZ4YBAR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Tk9VEZolR2Yv3qTaKgUBwfxZDC.png",
-      "director": [],
-      "cast": [
-        "Malik Elassal",
-        "Lucy Freyer",
-        "Jack Innanen",
-        "Amita Rao",
-        "Owen Thiele"
-      ],
-      "rank": 8,
-      "id": "tt33049767",
-      "name": "Adults",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-      "rating": 6.5,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 9,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.585,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iHOcan8YvFjYyAMqiF9OjQp0Anh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
-      "director": [],
-      "cast": [
-        "Noah Centineo",
-        "Colton Dunn",
-        "Aarti Mann",
-        "Fivel Stewart",
-        "Kristian Bruun",
-        "Kaylah Zander",
-        "Maddie Hasson",
-        "Angel Parker"
-      ],
-      "rank": 10,
-      "id": "tt16030542",
-      "name": "El nuevo empleado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
-      "rating": 7.465,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,79 +32,8 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
+      "rating": 8.6,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
-      "runtime": "90 min",
-      "director": [
-        "Eli Horowitz"
-      ],
-      "cast": [
-        "Winona Ryder",
-        "Dermot Mulroney",
-        "John Gallagher Jr.",
-        "Brianne Tju",
-        "Owen Teague",
-        "Alain Uy",
-        "Dustin Ingram",
-        "Yvonne Senat Jones"
-      ],
-      "rank": 2,
-      "id": "tt15426294",
-      "name": "Abandonada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
-      "rating": 5.509,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "R.U. /// Un viaje nostálgico a través de todo lo comestible en Gran Bretaña en la década de los 60, basada en la novela autobiográfica del mismo nombre del cocinero Nigel Slater.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Historia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bCdDu23bLVzUTCykxDKEhhpj5c9.jpg",
-      "runtime": "96 min",
-      "director": [
-        "SJ Clarkson"
-      ],
-      "cast": [
-        "Freddie Highmore",
-        "Ken Stott",
-        "Victoria Hamilton",
-        "Oscar Kennedy",
-        "Helena Bonham Carter",
-        "Matthew McNulty",
-        "Rob Jarvis",
-        "Selina Cadell"
-      ],
-      "rank": 3,
-      "id": "tt1658851",
-      "name": "Toast",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v45bz5WRJdbMH8QYXkvevDoYO3d.jpg",
-      "rating": 6.6,
-      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -135,12 +64,83 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
       "rating": 6.668,
       "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kIEuiMepZ8gPjxQdplwZ7vf3pNG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eC6L6tONCTziw310yWEDq357AbD.png",
+      "runtime": "90 min",
+      "director": [
+        "Amy Landecker"
+      ],
+      "cast": [
+        "Amy Landecker",
+        "Bradley Whitford",
+        "Nico Hiraga",
+        "Missi Pyle",
+        "Gaby Hoffmann",
+        "Kiersey Clemons",
+        "Ken Marino",
+        "Paul Adelstein"
+      ],
+      "rank": 3,
+      "id": "tt31590095",
+      "name": "For Worse",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4ZvIRyfGADA3x5RnankHEtTMLE7.jpg",
+      "rating": 5.9,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
+      "director": [
+        "Kyle Balda"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
+      ],
+      "rank": 4,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.879,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,79 +183,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
-      "director": [
-        "Kyle Balda"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
-      ],
-      "rank": 6,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.879,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Harry tiene una cita con Julie, una joven camarera de un café de Miracle Mile. Han quedado a la salida del trabajo de ésta, pero Harry se queda dormido. A media noche se despierta y corre a buscarla, pero es tarde. El teléfono público situado a la salida del café comienza a sonar y una angustiada voz advierte a Harry de un ataque nuclear ruso. ¡Quedan setenta minutos para el final! Ahora Harry debe encontrar a Julie.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Comedia",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/omp9nXcHxSlstjdWDlfwJ1hA1cv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/19GInVsSJhaZiJ5UoXX0ufk0R3d.png",
-      "runtime": "88 min",
-      "director": [
-        "Steve De Jarnatt"
-      ],
-      "cast": [
-        "Anthony Edwards",
-        "Mare Winningham",
-        "John Agar",
-        "Lou Hancock",
-        "Mykelti Williamson",
-        "Kurt Fuller",
-        "Denise Crosby",
-        "Robert DoQui"
-      ],
-      "rank": 7,
-      "id": "tt0097889",
-      "name": "70 minutos para huir",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oJWin62bMqnQUUydUAjlwWo5rsY.jpg",
-      "rating": 6.859,
-      "year": 1988,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
       "genres": [
         "Comedia",
@@ -278,12 +205,118 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
       "rating": 7.417,
       "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "R.U. /// Un viaje nostálgico a través de todo lo comestible en Gran Bretaña en la década de los 60, basada en la novela autobiográfica del mismo nombre del cocinero Nigel Slater.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Historia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bCdDu23bLVzUTCykxDKEhhpj5c9.jpg",
+      "runtime": "96 min",
+      "director": [
+        "SJ Clarkson"
+      ],
+      "cast": [
+        "Freddie Highmore",
+        "Ken Stott",
+        "Victoria Hamilton",
+        "Oscar Kennedy",
+        "Helena Bonham Carter",
+        "Matthew McNulty",
+        "Rob Jarvis",
+        "Selina Cadell"
+      ],
+      "rank": 7,
+      "id": "tt1658851",
+      "name": "Toast",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v45bz5WRJdbMH8QYXkvevDoYO3d.jpg",
+      "rating": 6.6,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
+      ],
+      "rank": 8,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.68,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
+      "runtime": "90 min",
+      "director": [
+        "Eli Horowitz"
+      ],
+      "cast": [
+        "Winona Ryder",
+        "Dermot Mulroney",
+        "John Gallagher Jr.",
+        "Brianne Tju",
+        "Owen Teague",
+        "Alain Uy",
+        "Dustin Ingram",
+        "Yvonne Senat Jones"
+      ],
+      "rank": 9,
+      "id": "tt15426294",
+      "name": "Abandonada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
+      "rating": 5.509,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -313,7 +346,7 @@
         "Mackenzie Davis",
         "Jared Leto"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt1856101",
       "name": "Blade Runner 2049",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
@@ -324,44 +357,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nunca seremos tan especiales como soñábamos cuando éramos pequeños. Este es el chasco que se llevan Warren y Spencer, dos jóvenes de clase media sumidos en el desencanto de la vida común y que se rebelarán contra el sistema planeando un robo... a una biblioteca de universidad.",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3ccBOsbVpgwN9K5whd2UB9ACebG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y9vqrLh8tsTeJB5ct5R1bE4FGMP.png",
-      "runtime": "120 min",
-      "director": [
-        "Bart Layton"
-      ],
-      "cast": [
-        "Evan Peters",
-        "Barry Keoghan",
-        "Blake Jenner",
-        "Jared Abrahamson",
-        "Ann Dowd",
-        "Gary Basaraba",
-        "Udo Kier",
-        "Wayne Duvall"
-      ],
-      "rank": 10,
-      "id": "tt6212478",
-      "name": "American Animals",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
-      "rating": 6.739,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

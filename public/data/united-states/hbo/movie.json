@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.04,
+      "rating": 7.032,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.2,
+      "rating": 7.199,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,8 +137,44 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.986,
+      "rating": 6.985,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nJkp7hYKScmvQuqfptIIclFxZ94.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7oGxTgHz6xYXNmCUwX9wfGLmK2b.png",
+      "runtime": "99 min",
+      "director": [
+        "Eli Roth"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Lorenza Izzo",
+        "Ana de Armas",
+        "Aaron Burns",
+        "Colleen Camp",
+        "Ignacia Allamand",
+        "Antonio Quercia",
+        "Dan Baily"
+      ],
+      "rank": 5,
+      "id": "tt3605418",
+      "name": "Toc, toc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "rating": 5.388,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,7 +205,7 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
@@ -204,48 +240,12 @@
         "Elizabeth Perkins",
         "Amanda Joy Erickson"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt27543632",
       "name": "La asistenta",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.234,
+      "rating": 7.235,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
-      "director": [
-        "Michael Sarnoski"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
-      ],
-      "rank": 7,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.711,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,7 +279,7 @@
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.786,
+      "rating": 7.787,
       "year": 2021,
       "days": null,
       "trend": {
@@ -289,33 +289,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
       "genres": [
         "Aventura",
-        "Fantasía"
+        "Drama",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/unFarpNzmr8gKlvki8t7ELat2rs.png",
-      "runtime": "152 min",
+      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
+      "runtime": "123 min",
       "director": [
-        "Chris Columbus"
+        "Michael Sarnoski"
       ],
       "cast": [
-        "Daniel Radcliffe",
-        "Rupert Grint",
-        "Emma Watson",
-        "Richard Harris",
-        "Tom Felton",
-        "Alan Rickman",
-        "Robbie Coltrane",
-        "Maggie Smith"
+        "Hugh Jackman",
+        "Jodie Comer",
+        "Bill Skarsgård",
+        "Murray Bartlett",
+        "Noah Jupe",
+        "Jade Croot",
+        "Faith Delaney",
+        "Tabitha Smyth"
       ],
       "rank": 9,
-      "id": "tt0241527",
-      "name": "Harry Potter y la piedra filosofal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.9,
-      "year": 2001,
+      "id": "tt32273171",
+      "name": "La muerte de Robin Hood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "rating": 6.71,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,34 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
       "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
+        "Aventura",
+        "Fantasía",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n8cEyo80daKMgkz89vfYo9PCJcs.png",
+      "runtime": "179 min",
       "director": [
-        "Kristoffer Borgli"
+        "Peter Jackson"
       ],
       "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler",
+        "Christopher Lee",
+        "Sean Bean"
       ],
       "rank": 10,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.905,
-      "year": 2026,
+      "id": "tt0120737",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "rating": 8.451,
+      "year": 2001,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

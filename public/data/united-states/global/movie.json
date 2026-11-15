@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.04,
+      "rating": 7.032,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,42 +66,8 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.2,
+      "rating": 7.199,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
-      "runtime": "95 min",
-      "director": [
-        "Sean S. Cunningham"
-      ],
-      "cast": [
-        "Adrienne King",
-        "Jeannine Taylor",
-        "Robbi Morgan",
-        "Kevin Bacon",
-        "Betsy Palmer",
-        "Harry Crosby",
-        "Laurie Bartram",
-        "Mark Nelson"
-      ],
-      "rank": 3,
-      "id": "tt0080761",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
-      "rating": 6.397,
-      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -132,7 +98,7 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
@@ -146,32 +112,127 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "genres": [
-        "Suspense",
-        "Misterio"
+        "Ciencia ficción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
+      "runtime": "146 min",
       "director": [
-        "Shana Feste"
+        "Steven Spielberg"
       ],
       "cast": [
-        "Jessica Chastain",
-        "Garrett Hedlund",
-        "Carter Faith",
-        "Ross Lynch",
-        "Jennifer Nettles",
-        "Paul Sparks",
-        "Ben Dickey",
-        "Norbert Leo Butz"
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Eve Hewson",
+        "Colman Domingo",
+        "Wyatt Russell",
+        "Henry Lloyd-Hughes",
+        "Elizabeth Marvel"
+      ],
+      "rank": 4,
+      "id": "tt15047880",
+      "name": "El día de la revelación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "rating": 7.406,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "runtime": "85 min",
+      "director": [
+        "Robert Darwell"
+      ],
+      "cast": [
+        "Dick Van Dyke"
       ],
       "rank": 5,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 7.3,
+      "id": "tt18225078",
+      "name": "The 90s Club",
+      "tmdbPosterUrl": null,
+      "rating": 10,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "runtime": "109 min",
+      "director": [
+        "Curry Barker"
+      ],
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
+      ],
+      "rank": 6,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "rating": 8.164,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
+      "runtime": "156 min",
+      "director": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "rank": 7,
+      "id": "tt12042730",
+      "name": "Proyecto Salvación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "rating": 8.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -202,7 +263,7 @@
         "Kyra Schon",
         "Charles Craig"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt0063350",
       "name": "La noche de los muertos vivientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
@@ -216,69 +277,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
-      "runtime": "181 min",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
       "director": [
-        "Anthony Russo",
-        "Joe Russo"
+        "Shana Feste"
       ],
       "cast": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo",
-        "Chris Hemsworth",
-        "Scarlett Johansson",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Don Cheadle"
+        "Jessica Chastain",
+        "Carter Faith",
+        "Garrett Hedlund",
+        "John Hawkes",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey",
+        "Ross Lynch"
       ],
-      "rank": 7,
-      "id": "tt4154796",
-      "name": "Vengadores: Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "rating": 8.2,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LrAI6KiktRwVXbt0s3wxThYroN.png",
-      "runtime": "146 min",
-      "director": [
-        "Steven Spielberg"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Eve Hewson",
-        "Colman Domingo",
-        "Wyatt Russell",
-        "Henry Lloyd-Hughes",
-        "Elizabeth Marvel"
-      ],
-      "rank": 8,
-      "id": "tt15047880",
-      "name": "El día de la revelación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.409,
+      "rank": 9,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -288,66 +312,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
-      "genres": [
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
-      "runtime": "87 min",
-      "director": [
-        "Steve Miner"
-      ],
-      "cast": [
-        "Amy Steel",
-        "John Furey",
-        "Adrienne King",
-        "Kirsten Baker",
-        "Stuart Charno",
-        "Warrington Gillette",
-        "Walt Gorney",
-        "Marta Kober"
-      ],
-      "rank": 9,
-      "id": "tt0082418",
-      "name": "Viernes 13, 2ª parte",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg",
-      "rating": 6.206,
-      "year": 1981,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
       "genres": [
         "Terror",
-        "Suspense"
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
       "director": [
-        "Curry Barker"
+        "Kane Parsons"
       ],
       "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald",
-        "Darin Toonder",
-        "Anthony Pavone"
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
       ],
       "rank": 10,
-      "id": "tt37287335",
-      "name": "Obsession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.165,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.985,
       "year": 2026,
       "days": null,
       "trend": {
@@ -357,5 +348,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

@@ -2,40 +2,8 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
-      "director": [],
-      "cast": [
-        "Kristina Bogic",
-        "Sara Boustany",
-        "Geena Meszaros",
-        "Nnamdi Asomugha",
-        "Louisa Krause",
-        "Shirley Chen",
-        "Jackson Kelly",
-        "Sofia Wylie"
-      ],
-      "rank": 1,
-      "id": "tt8014982",
-      "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.188,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
@@ -59,11 +27,43 @@
         "Fernando Guillén Cuervo",
         "Nacho Fresneda"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 7,
+      "rating": 7.167,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
+      "director": [],
+      "cast": [
+        "Kristina Bogic",
+        "Geena Meszaros",
+        "Sara Boustany",
+        "Nnamdi Asomugha",
+        "Louisa Krause",
+        "Shirley Chen",
+        "Jackson Kelly",
+        "Sofia Wylie"
+      ],
+      "rank": 2,
+      "id": "tt8014982",
+      "name": "El cuerpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.5,
       "year": 2026,
       "days": null,
       "trend": {
@@ -93,7 +93,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.058,
+      "rating": 7.053,
       "year": 2024,
       "days": null,
       "trend": {
@@ -125,7 +125,7 @@
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.7,
+      "rating": 7.681,
       "year": 2021,
       "days": null,
       "trend": {
@@ -167,38 +167,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
-      "genres": [
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
-      "director": [],
-      "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Sheila Carrasco"
-      ],
-      "rank": 6,
-      "id": "tt11379026",
-      "name": "Fantasmas (US)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
       "genres": [
         "Drama",
@@ -217,7 +185,7 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
@@ -251,11 +219,11 @@
         "Teresa Rabal",
         "Mercedes Sampietro"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt39387986",
       "name": "Grande de España",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "rating": 6,
+      "rating": 6.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -265,26 +233,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
       "genres": [
         "Comedia",
-        "Drama"
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
       "director": [],
       "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
+        "Rose McIver",
+        "Utkarsh Ambudkar",
+        "Brandon Scott Jones",
+        "Danielle Pinnock",
+        "Richie Moriarty",
+        "Asher Grodman",
+        "Rebecca Wisocky",
+        "Sheila Carrasco"
       ],
-      "rank": 9,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.296,
-      "year": 2024,
+      "rank": 8,
+      "id": "tt11379026",
+      "name": "Fantasmas (US)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+      "rating": 8.1,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -293,32 +265,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
-      "director": [
-        "Kasper Barfoed"
-      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
       "cast": [
-        "Emma Appleton",
-        "Fares Fares",
-        "Frida Gustavsson",
-        "Jakob Oftebro",
-        "Anna Bjelkerud",
-        "Magnus Krepper",
-        "Diarmuid Noyes",
-        "Lars Väringer"
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 9,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.804,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
+      "director": [],
+      "cast": [
+        "Marina Inoue",
+        "Hiro Shimono",
+        "Yuki Kaji",
+        "Natsuki Hanae",
+        "Ayane Sakura",
+        "Kisho Taniyama",
+        "Yui Ishikawa",
+        "Yoshimasa Hosoya"
       ],
       "rank": 10,
-      "id": "tt42767924",
-      "name": "El intercambio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
-      "rating": 4.6,
-      "year": 2026,
+      "id": "tt2560140",
+      "name": "Ataque a los Titanes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "rating": 8.692,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +325,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

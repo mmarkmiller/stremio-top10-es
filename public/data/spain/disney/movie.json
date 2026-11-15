@@ -2,39 +2,21 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
-      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
-      "runtime": "181 min",
-      "director": [
-        "Anthony Russo",
-        "Joe Russo"
-      ],
-      "cast": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo",
-        "Chris Hemsworth",
-        "Scarlett Johansson",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Don Cheadle"
-      ],
+      "genres": [],
+      "background": "https://image.tmdb.org/t/p/w1280/c8RDVWShrHiwkX5PDMqrP3GNdML.jpg",
+      "runtime": "183 min",
+      "director": [],
+      "cast": [],
       "rank": 1,
-      "id": "tt4154796",
-      "name": "Vengadores: Endgame",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "rating": 8.2,
-      "year": 2019,
+      "id": "tmdb:1826784",
+      "name": "Avengers Endgame: Encore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yhulzFMLiZDPbZXWsv4mx3GVIue.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -43,34 +25,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
+      "description": "A finales de la II Guerra Mundial (1939-1945), a un selecto grupo de historiadores, directores de museos y expertos en arte, tanto británicos como norteamericanos, se les encomienda la importante y peligrosa misión de recuperar las obras de arte robadas por los nazis durante la guerra para devolvérselas a sus legítimos propietarios. Era una misión imposible: las obras estaban muy bien custodiadas y el ejército alemán tenía orden de destruirlas en cuanto el Reich cayera. Pero aquellos hombres, en una carrera contrarreloj, arriesgaron sus vidas para evitar la destrucción de miles de años de cultura de la humanidad.",
       "genres": [
-        "Ciencia ficción",
+        "Bélica",
         "Drama",
-        "Suspense"
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rgNzvSagnlc32TuMEBa529QFIig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDtN5mnV6Cvr5Y3kY3A2AHofF54.png",
-      "runtime": "83 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uLBJtONQwHoGc61vbIfoC6a9gUp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6WZGrddrH040EiREiQRQDtmNHjs.png",
+      "runtime": "118 min",
       "director": [
-        "Josh Trank"
+        "George Clooney"
       ],
       "cast": [
-        "Dane DeHaan",
-        "Alex Russell",
-        "Michael B. Jordan",
-        "Michael Kelly",
-        "Ashley Hinshaw",
-        "Bo Petersen",
-        "Anna Wood",
-        "Rudi Malcolm"
+        "George Clooney",
+        "Matt Damon",
+        "Bill Murray",
+        "John Goodman",
+        "Cate Blanchett",
+        "Hugh Bonneville",
+        "Sam Hazeldine",
+        "Jean Dujardin"
       ],
       "rank": 2,
-      "id": "tt1706593",
-      "name": "Chronicle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
-      "rating": 6.871,
-      "year": 2012,
+      "id": "tt2177771",
+      "name": "Monuments Men",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8DOnFBFJHuWoR74PuXPX0KSHit6.jpg",
+      "rating": 6.063,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
+      "director": [
+        "John Krasinski"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
+      ],
+      "rank": 3,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.394,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -102,223 +119,12 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.255,
+      "rating": 8.251,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rpb9eBNpYjqSI3dLLniZ0GXcnlS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png",
-      "runtime": "97 min",
-      "director": [
-        "Marcus Nispel"
-      ],
-      "cast": [
-        "Jared Padalecki",
-        "Danielle Panabaker",
-        "Amanda Righetti",
-        "Travis Van Winkle",
-        "Aaron Yoo",
-        "Derek Mears",
-        "Jonathan Sadowski",
-        "Julianna Guill"
-      ],
-      "rank": 4,
-      "id": "tt0758746",
-      "name": "Viernes 13",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
-      "rating": 5.8,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 5,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.394,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6uLhSLXzB1ooJ3522ydrBZ2Hh0W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcaBcXai5LMZsjrcP6rrzyrHw0o.png",
-      "runtime": "102 min",
-      "director": [
-        "Chris Columbus"
-      ],
-      "cast": [
-        "Macaulay Culkin",
-        "Joe Pesci",
-        "Daniel Stern",
-        "John Heard",
-        "Roberts Blossom",
-        "Catherine O'Hara",
-        "Angela Goethals",
-        "Devin Ratray"
-      ],
-      "rank": 6,
-      "id": "tt0099785",
-      "name": "Solo en casa",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
-      "rating": 7.471,
-      "year": 1990,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pádraic y Colm son dos amigos de toda la vida que se encuentran en un callejón sin salida cuando Colm pone inesperadamente fin a su amistad. Un aturdido Pádraic, ayudado por su hermana Siobhán y el problemático joven isleño Dominic se esfuerza por reparar la relación, negándose a aceptar un no por respuesta. Pero los repetidos esfuerzos de Pádraic no hacen más que reforzar la determinación de su antiguo amigo, y cuando Colm le da un ultimátum desesperado los acontecimientos se intensifican rápidamente, con consecuencias impactantes.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Md4CqzUGDtK5oEkRRvozLkGc9d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/600TOYGkzcFBj8lzf2Si8onrPdE.png",
-      "runtime": "114 min",
-      "director": [
-        "Martin McDonagh"
-      ],
-      "cast": [
-        "Colin Farrell",
-        "Brendan Gleeson",
-        "Kerry Condon",
-        "Barry Keoghan",
-        "Gary Lydon",
-        "Pat Shortt",
-        "Sheila Flitton",
-        "Bríd Ní Neachtain"
-      ],
-      "rank": 7,
-      "id": "tt11813216",
-      "name": "Almas en pena de Inisherin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/24zHdUTv3dHOB9VLsPPvx0WGntA.jpg",
-      "rating": 7.463,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su exasistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png",
-      "runtime": "119 min",
-      "director": [
-        "David Frankel"
-      ],
-      "cast": [
-        "Meryl Streep",
-        "Anne Hathaway",
-        "Emily Blunt",
-        "Stanley Tucci",
-        "Kenneth Branagh",
-        "Justin Theroux",
-        "Lady Gaga",
-        "Lucy Liu"
-      ],
-      "rank": 8,
-      "id": "tt33612209",
-      "name": "El diablo viste de Prada 2",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "rating": 7.014,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "genres": [
-        "Misterio",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
-      "runtime": "109 min",
-      "director": [
-        "M. Night Shyamalan"
-      ],
-      "cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis"
-      ],
-      "rank": 9,
-      "id": "tt0167404",
-      "name": "El sexto sentido",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
-      "rating": 7.958,
-      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -348,7 +154,7 @@
         "Caleb Landry Jones",
         "Clarke Peters"
       ],
-      "rank": 10,
+      "rank": 5,
       "id": "tt5027774",
       "name": "Tres anuncios en las afueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
@@ -359,8 +165,190 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rgNzvSagnlc32TuMEBa529QFIig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDtN5mnV6Cvr5Y3kY3A2AHofF54.png",
+      "runtime": "83 min",
+      "director": [
+        "Josh Trank"
+      ],
+      "cast": [
+        "Dane DeHaan",
+        "Alex Russell",
+        "Michael B. Jordan",
+        "Michael Kelly",
+        "Ashley Hinshaw",
+        "Bo Petersen",
+        "Anna Wood",
+        "Rudi Malcolm"
+      ],
+      "rank": 6,
+      "id": "tt1706593",
+      "name": "Chronicle",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
+      "rating": 6.871,
+      "year": 2012,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGa2EEs8oKQtNACtQsD273ZmP35.png",
+      "runtime": "132 min",
+      "director": [
+        "Jon Favreau"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "rank": 7,
+      "id": "tt30825738",
+      "name": "The Mandalorian and Grogu",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "rating": 7.452,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4tSUZixFsm89z5IIXcptOxBzBUX.png",
+      "runtime": "107 min",
+      "director": [
+        "Jay Roach"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Teri Polo",
+        "Blythe Danner",
+        "Jon Abrahams",
+        "Nicole DeHuff",
+        "Owen Wilson",
+        "James Rebhorn"
+      ],
+      "rank": 8,
+      "id": "tt0212338",
+      "name": "Los padres de ella",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
+      "rating": 6.7,
+      "year": 2000,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zRDkmww7Bu11wiz2g86RxSreiY4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPFFbBtCI8iR39qRFBbka9SZARN.png",
+      "runtime": "85 min",
+      "director": [
+        "Yarrow Cheney",
+        "Scott Mosier"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Rashida Jones",
+        "Kenan Thompson",
+        "Cameron Seely",
+        "Angela Lansbury",
+        "Pharrell Williams",
+        "Ramone Hamilton",
+        "Sam Lavagnino"
+      ],
+      "rank": 9,
+      "id": "tt2709692",
+      "name": "El Grinch",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o3b6DOiePNlNOiqLCzCvqvDvHpL.jpg",
+      "rating": 6.869,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vQuIi5iOCN3V6yg7nbP5HUiVnpK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5oolO5r6F0Gebkw8MR2kn4bghJu.png",
+      "runtime": "100 min",
+      "director": [
+        "Robert Zemeckis"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Leslie Zemeckis",
+        "Eddie Deezen",
+        "Nona Gaye",
+        "Peter Scolari",
+        "Michael Jeter",
+        "Josh Hutcherson",
+        "Daryl Sabara"
+      ],
+      "rank": 10,
+      "id": "tt0338348",
+      "name": "Polar Express",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+      "rating": 6.7,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

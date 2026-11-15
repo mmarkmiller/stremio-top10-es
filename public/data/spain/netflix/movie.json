@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,43 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.345,
+      "rating": 6.321,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
+      "director": [
+        "David F. Sandberg"
+      ],
+      "cast": [
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
+      ],
+      "rank": 2,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.236,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -55,20 +90,51 @@
       ],
       "cast": [
         "Jessica Chastain",
-        "Garrett Hedlund",
         "Carter Faith",
-        "Ross Lynch",
-        "Jennifer Nettles",
-        "Paul Sparks",
+        "Garrett Hedlund",
+        "John Hawkes",
+        "Norbert Leo Butz",
+        "Hill Harper",
         "Ben Dickey",
-        "Norbert Leo Butz"
+        "Ross Lynch"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt38213251",
       "name": "Heartland",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 7.3,
+      "rating": 7,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
+      "runtime": "82 min",
+      "director": [
+        "Cesc Gay"
+      ],
+      "cast": [
+        "Javier Cámara",
+        "Belén Cuesta",
+        "Alberto San Juan",
+        "Griselda Siciliani"
+      ],
+      "rank": 4,
+      "id": "tt11028768",
+      "name": "Sentimental",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
+      "rating": 6.4,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,7 +165,7 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
@@ -113,101 +179,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Documental",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
+      "runtime": "80 min",
       "director": [
-        "David F. Sandberg"
+        "Jorge Laplace"
       ],
       "cast": [
-        "Ella Rubin",
-        "Michael Cimino",
-        "Odessa A'zion",
-        "Ji-young Yoo",
-        "Belmont Cameli",
-        "Maia Mitchell",
-        "Peter Stormare",
-        "Tibor Szauerwein"
-      ],
-      "rank": 4,
-      "id": "tt30955489",
-      "name": "Until Dawn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.238,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
-      "runtime": "105 min",
-      "director": [
-        "Daley Pearson",
-        "Jeffrey Walker"
-      ],
-      "cast": [
-        "T.J. Power",
-        "Charlotte Nicdao",
-        "Josh Helman",
-        "Emily Barclay",
-        "Benedict Hardie",
-        "Elijah Tamati",
-        "Edward A O'Sullivan",
-        "Caitlin Niemotko"
-      ],
-      "rank": 5,
-      "id": "tt37675123",
-      "name": "Allen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "rating": 6.857,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
+        "Eduardo Pérez \"Perreras\"",
+        "Maribel Tarrazo",
+        "Corona Salgado",
+        "Eduardo Pérez",
+        "Javier González",
+        "Fernando Serulla"
       ],
       "rank": 6,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.4,
-      "year": 2020,
+      "id": "tt48500521",
+      "name": "Desprotexida: el crimen de Pazos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "rating": 6.885,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -236,11 +232,11 @@
         "정섶",
         "강창권"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.403,
+      "rating": 7.372,
       "year": 2026,
       "days": null,
       "trend": {
@@ -250,31 +246,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La desaparición de un amigo en un parque de diversiones abandonado pone a prueba la amistad de un grupo de adolescentes, quienes se enfrentan a conflictos y secretos a lo largo del camino.",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
-        "Terror"
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
-      "runtime": "113 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
       "director": [
-        "Phontharis Chotkijsadarsopon"
+        "David Fincher"
       ],
       "cast": [
-        "ณัฐวรรธน์ จิโรชน์ธิกุล",
-        "ยงศิลป์ วงศ์พนิตนนท์",
-        "จตุรวิชญ์ เชี่ยวประสิทธิ์",
-        "ปัณณวิชญ์ พัฒนศิริ",
-        "สรธร เฉลิมลาภสมบัติ",
-        "วรพัช ภัคภัทรพร",
-        "วรัชต์ธิปต์ กิตติสิริไพศาล",
-        "Tirakhun Srichoo"
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
       ],
       "rank": 9,
-      "id": "tt42721267",
-      "name": "Kijsada Paradise",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/flWf8cNQrlw1PXXW7uzPZPGRDHx.jpg",
-      "rating": 4.2,
-      "year": 2026,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.437,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,33 +281,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
       "director": [
-        "Adam Pålsson"
+        "John Krasinski"
       ],
       "cast": [
-        "Felice Jankell",
-        "Happy Jankell",
-        "Christian Fandango Sundgren",
-        "Celie Sparre",
-        "Anastasios Soulis",
-        "Maria Kulle",
-        "Dag Malmberg",
-        "Bengt Braskered"
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
       ],
       "rank": 10,
-      "id": "tt39313557",
-      "name": "El intercambio navideño",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "rating": 6.719,
-      "year": 2026,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.394,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -318,5 +316,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }

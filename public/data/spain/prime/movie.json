@@ -2,43 +2,8 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611142013",
+  "date": "202611152038",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
-      "runtime": "157 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Tom Blyth",
-        "Rachel Zegler",
-        "Peter Dinklage",
-        "Jason Schwartzman",
-        "Hunter Schafer",
-        "Josh Rivera",
-        "Viola Davis",
-        "Fionnula Flanagan"
-      ],
-      "rank": 1,
-      "id": "tt10545296",
-      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 7,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
@@ -63,12 +28,47 @@
         "Andrea Riseborough",
         "Dermot Crowley"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt4686844",
       "name": "La muerte de Stalin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
-      "rating": 7.025,
+      "rating": 7.026,
       "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
+      "runtime": "157 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage",
+        "Jason Schwartzman",
+        "Hunter Schafer",
+        "Josh Rivera",
+        "Viola Davis",
+        "Fionnula Flanagan"
+      ],
+      "rank": 2,
+      "id": "tt10545296",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
+      "rating": 6.952,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -103,7 +103,7 @@
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.626,
+      "rating": 8.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -185,114 +185,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvFl5fN95tWdpzVbD6wNXzUKlog.png",
-      "runtime": "91 min",
-      "director": [
-        "Ben Wheatley"
-      ],
-      "cast": [
-        "Bob Odenkirk",
-        "Henry Winkler",
-        "Lena Headey",
-        "Billy MacLellan",
-        "Ryan Allen",
-        "Reena Jolly",
-        "Brendan Fletcher",
-        "Peter Shinkoda"
-      ],
-      "rank": 6,
-      "id": "tt31195136",
-      "name": "Normal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Precuela de la trilogía \"El Señor de los Anillos\", obra de J.R.R. Tolkien. En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos. Finalmente, en las profundidades de la Tierra, encuentra el Anillo Único, hipnótico objeto que será posteriormente causa de tantas sangrientas batallas en la Tierra Media.",
-      "genres": [
-        "Aventura",
-        "Fantasía",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qTUbhqAkiO7Sd9vpKcZqNVXAK1q.png",
-      "runtime": "169 min",
-      "director": [
-        "Peter Jackson"
-      ],
-      "cast": [
-        "Martin Freeman",
-        "Ian McKellen",
-        "Richard Armitage",
-        "James Nesbitt",
-        "Ken Stott",
-        "Sylvester McCoy",
-        "Barry Humphries",
-        "Dean O'Gorman"
-      ],
-      "rank": 7,
-      "id": "tt0903624",
-      "name": "El hobbit: Un viaje inesperado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1id2xLxg750ojOWvGWeqPIxmOIF.jpg",
-      "rating": 7.388,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sam Childers creció con un padre violento y una madre muy devota, quizá por ello su vida es una contradicción. Adicto a las drogas y a las mujeres, acabó convirtiéndose en un motorista narcotraficante. Algunos años después, Sam se incorpora al ejército y forma parte de un equipo cuya misión consiste en recorrer las zonas más peligrosas de Sudán y de Uganda para rescatar a los niños huérfanos y a los niños-soldado.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUqdBXJsYV71kt6tocosbUoICiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qLpSuY9hBHhxyY0R8AlJz5dHEqC.png",
-      "runtime": "129 min",
-      "director": [
-        "Marc Forster"
-      ],
-      "cast": [
-        "Gerard Butler",
-        "Michelle Monaghan",
-        "Kathy Baker",
-        "Richard Goteri",
-        "Peter Carey",
-        "Barbara Coven",
-        "Michael Shannon",
-        "Ryann Campos"
-      ],
-      "rank": 8,
-      "id": "tt1586752",
-      "name": "El soldado de Dios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ztTnfnqAX8O0ik1ZhZrjJPGjtnd.jpg",
-      "rating": 6.711,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "La última entrega de 'Los Juegos del Hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow. Con la ayuda de algunos amigos, entre ellos Gale, Finnick y Peeta, arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow.",
       "genres": [
         "Acción",
@@ -315,7 +207,7 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt1951266",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
@@ -329,32 +221,139 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+      "description": "Después de ser dado de baja involuntariamente de las Fuerzas Especiales de EE. UU., James Harper decide apoyar a su familia uniéndose a una organización de contratación privada junto a su mejor amigo y bajo el mando de un compañero veterano. En el extranjero en una misión encubierta, Harper debe evadir a quienes intentan matarlo mientras regresa a casa.",
       "genres": [
-        "Drama"
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png",
-      "runtime": "124 min",
+      "background": "https://image.tmdb.org/t/p/w1280/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1SvgKSHJHxhebcwAgxB9XttsM7P.png",
+      "runtime": "103 min",
       "director": [
-        "Wim Wenders"
+        "Tarik Saleh"
       ],
       "cast": [
-        "役所広司",
-        "柄本時生",
-        "Arisa Nakano",
-        "山田 葵",
-        "麻生祐未",
-        "石川さゆり",
-        "Tomokazu Miura",
-        "田中泯"
+        "Chris Pine",
+        "Kiefer Sutherland",
+        "Ben Foster",
+        "Gillian Jacobs",
+        "Sander Thomas",
+        "Toby Dixon",
+        "Dean Ashton",
+        "Dustin Lewis"
+      ],
+      "rank": 7,
+      "id": "tt10323676",
+      "name": "El contratista",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1h0vckonVoVFgUzXS4phDhcXDt.jpg",
+      "rating": 6.338,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Stavros Halkias",
+        "Leo Woodall",
+        "Monica Raymund",
+        "Michael Jibrin",
+        "Rich Sommer"
+      ],
+      "rank": 8,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.3,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sQcW0EJ7u4CJXxYpPHy7RuRUWxW.png",
+      "runtime": "134 min",
+      "director": [
+        "Gore Verbinski"
+      ],
+      "cast": [
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson",
+        "Michael Peña",
+        "Zazie Beetz",
+        "Asim Chaudhry",
+        "Tom Taylor",
+        "Georgia Goodman"
+      ],
+      "rank": 9,
+      "id": "tt1341338",
+      "name": "Buena suerte, pásalo bien, no mueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "rating": 7.103,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
+      "director": [
+        "Rachel Morrison"
+      ],
+      "cast": [
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
       "rank": 10,
-      "id": "tt27503384",
-      "name": "Días perfectos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg",
-      "rating": 7.819,
-      "year": 2023,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.68,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-14T17:39:58.252Z"
+  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
 }
