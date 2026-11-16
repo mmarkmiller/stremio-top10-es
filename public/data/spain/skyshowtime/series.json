@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,38 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.658,
+      "rating": 8.7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Miniserie de TV (2025). 6 episodios. Tras la muerte de su esposa, Bunny Munro, un vendedor a domicilio adicto al sexo y lujurioso confeso, se lleva a su hijo pequeño en una caótica gira de ventas por Brighton y más allá, donde se ve obligado a enfrentarse a qué clase de hombre -y de padre- es en realidad.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ogi8uZCaW17tmz5uOQkUoxXKVSX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1XfP4Sg3plfaBc5mHFz75Uq0tvr.png",
+      "director": [],
+      "cast": [
+        "Matt Smith",
+        "Rafael Mathé",
+        "Sarah Greene",
+        "Johann Myers",
+        "Robert Glenister",
+        "Alice May Feetham",
+        "David Threlfall",
+        "Lindsay Duncan"
+      ],
+      "rank": 2,
+      "id": "tt0808224",
+      "name": "The Death of Bunny Munro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2ucY5MO4lSpcHzry93aFzSoJ2S6.jpg",
+      "rating": 5.722,
       "year": 2025,
       "days": null,
       "trend": {
@@ -57,11 +88,11 @@
         "Kadia Saraf",
         "Dominic Fumusa"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.5,
+      "rating": 8.543,
       "year": 2025,
       "days": null,
       "trend": {
@@ -90,130 +121,12 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
       "rating": 8.32,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "director": [],
-      "cast": [
-        "Zoe Saldaña",
-        "Laysla De Oliveira",
-        "Dave Annable",
-        "Jill Wagner",
-        "LaMonica Garrett",
-        "James Jordan",
-        "Genesis Rodriguez",
-        "Michael Kelly"
-      ],
-      "rank": 4,
-      "id": "tt13111078",
-      "name": "Operaciones Especiales: Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.275,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
-      "director": [],
-      "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
-      ],
-      "rank": 5,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.585,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
-      "director": [],
-      "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
-      ],
-      "rank": 6,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.4,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
-      ],
-      "rank": 7,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.284,
-      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -241,7 +154,7 @@
         "Desmond Harrington",
         "C.S. Lee"
       ],
-      "rank": 8,
+      "rank": 5,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
@@ -255,30 +168,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no se detendrá ante nada para proteger su imperio.",
+      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
       "genres": [
-        "Western",
-        "Drama"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
+      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
       "director": [],
       "cast": [
-        "Kelly Reilly",
-        "Cole Hauser",
-        "Finn Little",
-        "Juan Pablo Raba",
-        "Jai Courtney",
-        "J.R. Villarreal",
-        "Marc Menchaca",
-        "Natalie Alyn Lind"
+        "Rainn Wilson",
+        "John Krasinski",
+        "Jenna Fischer",
+        "Ed Helms"
       ],
-      "rank": 9,
-      "id": "tt34991493",
-      "name": "Rancho Dutton",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "rating": 9.121,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt0386676",
+      "name": "The Office",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "rating": 8.6,
+      "year": 2005,
       "days": null,
       "trend": {
         "dir": "same",
@@ -287,26 +195,112 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ava es una agente inmobiliaria obsesionada con los podcasts sobre asesinos en serie que no encuentra la forma de destacar en su trabajo como agente inmobiliaria. Nathan, su marido, una vieja promesa del tenis que vio frustrada su brillante carrera, lleva años trabajando como entrenador de tenis en un selecto club, pero acaba de ser sustituido, mandando al traste sus planes de futuro y su propio ego.",
+      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
       "genres": [
         "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/AeumbJh2aL047r40yIOztHSV9pD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/25wDRDA30fgt9KudAc5MXcShXdo.png",
+      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
       "director": [],
       "cast": [
-        "Kaley Cuoco",
-        "Chris Messina",
-        "Tom Bateman",
-        "Liana Liberato"
+        "Emma Stone",
+        "Nathan Fielder",
+        "Benny Safdie"
+      ],
+      "rank": 7,
+      "id": "tt13623608",
+      "name": "La maldición",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+      "rating": 6.4,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "director": [],
+      "cast": [
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable",
+        "Jill Wagner",
+        "LaMonica Garrett",
+        "James Jordan",
+        "Genesis Rodriguez",
+        "Michael Kelly"
+      ],
+      "rank": 8,
+      "id": "tt13111078",
+      "name": "Operaciones Especiales: Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "rating": 8.273,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una pareja sueca vende su exitoso negocio por una cifra récord para empezar una vida de lujo en Mallorca junto a sus hijos. Listos para vivir en unas vacaciones eternas, sus vidas dan un giro inesperado durante la fiesta del 50 cumpleaños de él, que lleva a su hermano y su esposa a mudarse a la soleada isla, donde se desata el caos.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eLQ9yynNcTeOgWROYgrGLkZiZXc.png",
+      "director": [],
+      "cast": [],
+      "rank": 9,
+      "id": "tt36220283",
+      "name": "Where the Sun Always Shines",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jMB3BNFwH0yUaSobM3nRUTYoGG6.jpg",
+      "rating": 6.7,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
       ],
       "rank": 10,
-      "id": "tt19500224",
-      "name": "Basado en una historia real",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/35RrsIS3t3tbA64OaFHNVd1scRT.jpg",
-      "rating": 7.025,
-      "year": 2023,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.284,
+      "year": 2018,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +309,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

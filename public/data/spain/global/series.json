@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,40 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.658,
+      "rating": 8.7,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
+      "director": [],
+      "cast": [
+        "Kristina Bogic",
+        "Geena Meszaros",
+        "Sara Boustany",
+        "Nnamdi Asomugha",
+        "Louisa Krause",
+        "Shirley Chen",
+        "Jackson Kelly",
+        "Sofia Wylie"
+      ],
+      "rank": 2,
+      "id": "tt8014982",
+      "name": "El cuerpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.8,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -59,43 +91,11 @@
         "Fernando Guillén Cuervo",
         "Nacho Fresneda"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 7.167,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
-      "director": [],
-      "cast": [
-        "Kristina Bogic",
-        "Geena Meszaros",
-        "Sara Boustany",
-        "Nnamdi Asomugha",
-        "Louisa Krause",
-        "Shirley Chen",
-        "Jackson Kelly",
-        "Sofia Wylie"
-      ],
-      "rank": 3,
-      "id": "tt8014982",
-      "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.5,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -127,72 +127,8 @@
       "id": "tt7631058",
       "name": "El Señor de los Anillos: Los Anillos de Poder",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.218,
+      "rating": 7.2,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
-      "director": [],
-      "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "T'Nia Miller",
-        "Orla Brady",
-        "Henry Lewis"
-      ],
-      "rank": 5,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos niñas desaparecieron hace veinte años. Ahora, la búsqueda de Emma amenaza a quienes creían haber enterrado la verdad.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ewzO1LD45KJM6nkPUM28YOlLeuL.png",
-      "director": [],
-      "cast": [
-        "Susana Abaitua",
-        "Jorge Bosch",
-        "Jon Olivares",
-        "Ane Gabarain",
-        "Iñigo Gastesi",
-        "Iñigo Azpitarte",
-        "Eva Llorach",
-        "Asier Oruesagasti"
-      ],
-      "rank": 6,
-      "id": "tt40225961",
-      "name": "Infamia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-      "rating": null,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -220,11 +156,11 @@
         "Poorna Jagannathan",
         "Landon Valentin"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.549,
+      "rating": 7.596,
       "year": 2026,
       "days": null,
       "trend": {
@@ -234,31 +170,62 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
       "genres": [
-        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skoYQABun0gdw4VpN85ZbTIclmT.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "T'Nia Miller",
+        "Orla Brady",
+        "Henry Lewis"
+      ],
+      "rank": 6,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": 8.317,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+      "genres": [
         "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
+      "background": "https://image.tmdb.org/t/p/w1280/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqeH6VfmPTQW1KNGATeKgg540mb.png",
       "director": [],
       "cast": [
-        "Anthony Mackie",
-        "Jamie Dornan",
-        "Jack Kesy",
-        "Agathe Rousselle",
-        "Sallie Harmsen",
-        "Julius Feldmeier",
-        "Jeanne Balibar",
-        "Kali Reis"
+        "Steve Buscemi",
+        "Kelly Macdonald",
+        "Michael Shannon",
+        "Shea Whigham",
+        "Stephen Graham",
+        "Vincent Piazza",
+        "Michael Kenneth Williams",
+        "Paul Sparks"
       ],
-      "rank": 8,
-      "id": "tt32375763",
-      "name": "12 12 12",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
-      "rating": 5.3,
-      "year": 2026,
+      "rank": 7,
+      "id": "tt0979432",
+      "name": "Boardwalk Empire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+      "rating": 8.03,
+      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -270,6 +237,7 @@
       "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
       "genres": [
         "Action & Adventure",
+        "Drama",
         "Misterio",
         "Crimen"
       ],
@@ -283,12 +251,43 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.053,
+      "rating": 7.1,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Miniserie de TV (2025). 6 episodios. Tras la muerte de su esposa, Bunny Munro, un vendedor a domicilio adicto al sexo y lujurioso confeso, se lleva a su hijo pequeño en una caótica gira de ventas por Brighton y más allá, donde se ve obligado a enfrentarse a qué clase de hombre -y de padre- es en realidad.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ogi8uZCaW17tmz5uOQkUoxXKVSX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1XfP4Sg3plfaBc5mHFz75Uq0tvr.png",
+      "director": [],
+      "cast": [
+        "Matt Smith",
+        "Rafael Mathé",
+        "Sarah Greene",
+        "Johann Myers",
+        "Robert Glenister",
+        "Alice May Feetham",
+        "David Threlfall",
+        "Lindsay Duncan"
+      ],
+      "rank": 9,
+      "id": "tt0808224",
+      "name": "The Death of Bunny Munro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2ucY5MO4lSpcHzry93aFzSoJ2S6.jpg",
+      "rating": 5.722,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -331,5 +330,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

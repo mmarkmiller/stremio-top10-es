@@ -2,8 +2,44 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en Los Ángeles durante los años 70. El detective Holland March y el matón a sueldo Jackson Healy se ven obligados a colaborar para resolver varios casos: la desaparición de una joven, la muerte de una estrella porno y una conspiración criminal que llega hasta las altas esferas.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tc830a4cFdOOxDuGHbArDcihqxK.png",
+      "runtime": "116 min",
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta",
+        "Keith David",
+        "Beau Knapp"
+      ],
+      "rank": 1,
+      "id": "tt3799694",
+      "name": "Dos buenos tipos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
+      "rating": 7.138,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
@@ -27,47 +63,11 @@
         "Antwan Tolliver",
         "Ray Fisher"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt15095848",
       "name": "Siendo Heumann",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 2,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.202,
+      "rating": 7.104,
       "year": 2026,
       "days": null,
       "trend": {
@@ -101,7 +101,7 @@
         "Bill Melendez",
         "Robin Reed"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt0068359",
       "name": "Es Acción de Gracias, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
@@ -115,69 +115,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ambientada en Los Ángeles durante los años 70. El detective Holland March y el matón a sueldo Jackson Healy se ven obligados a colaborar para resolver varios casos: la desaparición de una joven, la muerte de una estrella porno y una conspiración criminal que llega hasta las altas esferas.",
+      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
       "genres": [
-        "Comedia",
-        "Crimen",
-        "Acción"
+        "Drama",
+        "Historia",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tc830a4cFdOOxDuGHbArDcihqxK.png",
-      "runtime": "116 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "runtime": "126 min",
       "director": [
-        "Shane Black"
+        "Jennifer Peedom"
       ],
       "cast": [
-        "Russell Crowe",
-        "Ryan Gosling",
-        "Angourie Rice",
-        "Matt Bomer",
-        "Margaret Qualley",
-        "Yaya DaCosta",
-        "Keith David",
-        "Beau Knapp"
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
       ],
       "rank": 5,
-      "id": "tt3799694",
-      "name": "Dos buenos tipos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
-      "rating": 7.138,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
-      "runtime": "111 min",
-      "director": [
-        "Jonathan Goldstein",
-        "John Francis Daley"
-      ],
-      "cast": [
-        "Ryan Reynolds",
-        "Kenneth Branagh",
-        "Marcin Dorociński",
-        "Maria Bakalova",
-        "David Morse",
-        "Clark Johnson",
-        "Wendy Crewson",
-        "Louis Cancelmi"
-      ],
-      "rank": 6,
-      "id": "tt28014327",
-      "name": "Mayday",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.812,
+      "id": "tt6262770",
+      "name": "Tenzing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": 8.184,
       "year": 2026,
       "days": null,
       "trend": {
@@ -209,7 +173,7 @@
         "Abigail Pniowsky",
         "Julia Scarlett Dan"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt2543164",
       "name": "La llegada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
@@ -245,12 +209,48 @@
         "Paul Dano",
         "Dylan Minnette"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt1392214",
       "name": "Prisioneros",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.106,
+      "rating": 8.105,
       "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png",
+      "runtime": "111 min",
+      "director": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Kenneth Branagh",
+        "Marcin Dorociński",
+        "Maria Bakalova",
+        "David Morse",
+        "Clark Johnson",
+        "Wendy Crewson",
+        "Louis Cancelmi"
+      ],
+      "rank": 8,
+      "id": "tt28014327",
+      "name": "Mayday",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+      "rating": 7.813,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,7 +283,7 @@
       "id": "tt0097165",
       "name": "El club de los poetas muertos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
+      "rating": 8.3,
       "year": 1989,
       "days": null,
       "trend": {
@@ -329,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.5,
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.492,
+      "rating": 8.493,
       "year": 2022,
       "days": null,
       "trend": {
@@ -74,6 +74,7 @@
       "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
       "genres": [
         "Action & Adventure",
+        "Drama",
         "Misterio",
         "Crimen"
       ],
@@ -91,8 +92,33 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.053,
+      "rating": 7.1,
       "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Philomena Cunk repasa la historia del cine con su peculiar sentido del humor en esta serie que parodia los documentales y desconcierta a más de un experto.",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wySudlXWMJKwzdlXZIe73Rpz1Pj.png",
+      "director": [],
+      "cast": [
+        "Diane Morgan"
+      ],
+      "rank": 4,
+      "id": "tt47021035",
+      "name": "El cine según Philomena Cunk",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "rating": 7.7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -119,11 +145,11 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.634,
+      "rating": 7.639,
       "year": 2023,
       "days": null,
       "trend": {
@@ -147,11 +173,11 @@
         "Justine Lupe",
         "Timothy Simons"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt26933824",
       "name": "Nadie quiere esto",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.296,
+      "rating": 7.291,
       "year": 2024,
       "days": null,
       "trend": {
@@ -174,105 +200,11 @@
         "Mike Faist",
         "Joseph Zada"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.804,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
-      "director": [],
-      "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts",
-        "Stephen Spinella",
-        "Jason Veasey",
-        "Eliza Coupe"
-      ],
-      "rank": 7,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.111,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png",
-      "director": [],
-      "cast": [
-        "Ellen Pompeo",
-        "Chandra Wilson",
-        "James Pickens Jr.",
-        "Caterina Scorsone",
-        "Camilla Luddington",
-        "Jason George",
-        "Chris Carmack",
-        "Anthony Hill"
-      ],
-      "rank": 8,
-      "id": "tt0413573",
-      "name": "Anatomía de Grey",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
-      "rating": 8.201,
-      "year": 2005,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3VZ6sswGV1NOP4wgQHFxSmr9Guj.png",
-      "director": [],
-      "cast": [
-        "Josh Hartnett",
-        "Mackenzie Davis",
-        "Charlie Heaton",
-        "Ruby Stokes",
-        "Kaleb Horn",
-        "Rohan Campbell",
-        "Willow Kean"
-      ],
-      "rank": 9,
-      "id": "tt35934755",
-      "name": "Bajo la superficie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "rating": 7.101,
+      "rating": 7.769,
       "year": 2026,
       "days": null,
       "trend": {
@@ -300,12 +232,72 @@
         "Warren Kole",
         "Christina Ricci"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt11041332",
       "name": "Yellowjackets",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "rating": 7.429,
+      "rating": 7.4,
       "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "director": [],
+      "cast": [
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts",
+        "Stephen Spinella",
+        "Jason Veasey",
+        "Eliza Coupe"
+      ],
+      "rank": 9,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.079,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Esta comedia de una sola cámara sigue a un grupo de trabajadores locales de Control de Animales cuyas vidas se complican por el hecho de que los animales son simples, pero los humanos no lo son.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zI289OXhJuhyKY8cqvOVzV7lVkA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uGO1xGZNiNhBWMAIAwMAcijg3zJ.png",
+      "director": [],
+      "cast": [
+        "Joel McHale",
+        "Vella Lovell",
+        "Michael Rowland",
+        "Ravi Patel",
+        "Grace Palmer"
+      ],
+      "rank": 10,
+      "id": "tt21376524",
+      "name": "Animal Control",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
+      "rating": 6.256,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -314,5 +306,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

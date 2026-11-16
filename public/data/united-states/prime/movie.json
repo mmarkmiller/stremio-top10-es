@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -68,8 +68,44 @@
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.668,
+      "rating": 6.672,
       "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
+      "runtime": "162 min",
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant",
+        "Julia Butters",
+        "Austin Butler"
+      ],
+      "rank": 3,
+      "id": "tt7131622",
+      "name": "Érase una vez en… Hollywood",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
+      "rating": 7.4,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -99,47 +135,11 @@
         "Ken Marino",
         "Paul Adelstein"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt31590095",
       "name": "For Worse",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4ZvIRyfGADA3x5RnankHEtTMLE7.jpg",
       "rating": 5.9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
-      "runtime": "109 min",
-      "director": [
-        "Kyle Balda"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine",
-        "Molly Gordon",
-        "Julia Louis-Dreyfus",
-        "Bryan Cranston",
-        "Chris O'Dowd",
-        "Regina Hall"
-      ],
-      "rank": 4,
-      "id": "tt32565993",
-      "name": "Las ovejas detectives",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
-      "rating": 7.879,
       "year": 2026,
       "days": null,
       "trend": {
@@ -183,148 +183,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGI91eIha7BV5qeHI3hIqY2bcIh.png",
-      "runtime": "162 min",
-      "director": [
-        "Quentin Tarantino"
-      ],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Brad Pitt",
-        "Margot Robbie",
-        "Emile Hirsch",
-        "Margaret Qualley",
-        "Timothy Olyphant",
-        "Julia Butters",
-        "Austin Butler"
-      ],
-      "rank": 6,
-      "id": "tt7131622",
-      "name": "Érase una vez en… Hollywood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
-      "rating": 7.417,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "R.U. /// Un viaje nostálgico a través de todo lo comestible en Gran Bretaña en la década de los 60, basada en la novela autobiográfica del mismo nombre del cocinero Nigel Slater.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Historia",
-        "Familia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bCdDu23bLVzUTCykxDKEhhpj5c9.jpg",
-      "runtime": "96 min",
-      "director": [
-        "SJ Clarkson"
-      ],
-      "cast": [
-        "Freddie Highmore",
-        "Ken Stott",
-        "Victoria Hamilton",
-        "Oscar Kennedy",
-        "Helena Bonham Carter",
-        "Matthew McNulty",
-        "Rob Jarvis",
-        "Selina Cadell"
-      ],
-      "rank": 7,
-      "id": "tt1658851",
-      "name": "Toast",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v45bz5WRJdbMH8QYXkvevDoYO3d.jpg",
-      "rating": 6.6,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
-      "runtime": "109 min",
-      "director": [
-        "Rachel Morrison"
-      ],
-      "cast": [
-        "Margaret Qualley",
-        "Gabriel Basso",
-        "Aaron Pierre",
-        "Patrick Schwarzenegger",
-        "Catherine Keener",
-        "Tamara Lawrance",
-        "Corey Johnson",
-        "Michael Shelford"
-      ],
-      "rank": 8,
-      "id": "tt34384900",
-      "name": "El amor de tu vida",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "rating": 6.68,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Al llegar a una cabaña remota en las secuoyas, Kath y su novio encuentran a una misteriosa pareja joven que ya está allí; al parecer, el alquiler se ha reservado dos veces. Deciden compartir la cabaña con estos extraños hasta la mañana siguiente, pero su novio desaparece con la joven, lo que envía a Kath en una espiral para encontrar una explicación para su repentina ruptura, pero la verdad es mucho más extraña de lo que podría haber imaginado.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2TREMGMVuyTTDifHMNcHe3TEAP.png",
-      "runtime": "90 min",
-      "director": [
-        "Eli Horowitz"
-      ],
-      "cast": [
-        "Winona Ryder",
-        "Dermot Mulroney",
-        "John Gallagher Jr.",
-        "Brianne Tju",
-        "Owen Teague",
-        "Alain Uy",
-        "Dustin Ingram",
-        "Yvonne Senat Jones"
-      ],
-      "rank": 9,
-      "id": "tt15426294",
-      "name": "Abandonada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg",
-      "rating": 5.509,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
       "genres": [
         "Ciencia ficción",
@@ -346,7 +204,7 @@
         "Mackenzie Davis",
         "Jared Leto"
       ],
-      "rank": 10,
+      "rank": 6,
       "id": "tt1856101",
       "name": "Blade Runner 2049",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
@@ -357,8 +215,139 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/894d6p2irr8iM3M75p8q48nIH8h.png",
+      "runtime": "109 min",
+      "director": [
+        "Kyle Balda"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Julia Louis-Dreyfus",
+        "Bryan Cranston",
+        "Chris O'Dowd",
+        "Regina Hall"
+      ],
+      "rank": 7,
+      "id": "tt32565993",
+      "name": "Las ovejas detectives",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+      "rating": 7.878,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Fue en Finlandia, en 1923. El paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, hasta el punto que una mujer llamó a la policía alertando de que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa. ¿Puede acaso repetirse la misma historia?",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/posRps8fN5t6DMauUVouRwqCZjk.png",
+      "runtime": "89 min",
+      "director": [
+        "James Ward Byrkit"
+      ],
+      "cast": [
+        "Emily Baldoni",
+        "Maury Sterling",
+        "Nicholas Brendon",
+        "Lauren Maher",
+        "Elizabeth Gracen",
+        "Hugo Armstrong",
+        "Lorene Scafaria",
+        "Alex Manugian"
+      ],
+      "rank": 8,
+      "id": "tt2866360",
+      "name": "Coherence",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
+      "rating": 7.207,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un delincuente de 19 años, Tommy, es secuestrado y obligado a un proceso de rehabilitación por una pareja disfuncional, Chris y Kathryn, que intentan convertirlo en un «buen chico». Tommy debe encontrar la forma de escapar.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hJkcr6Gm0d1HZ0mI9C2PLJRREyf.png",
+      "runtime": "110 min",
+      "director": [
+        "Jan Komasa"
+      ],
+      "cast": [
+        "Anson Boon",
+        "Stephen Graham",
+        "Andrea Riseborough",
+        "Kit Rakusen",
+        "Monika Frajczyk",
+        "Savannah Steyn",
+        "Mila Jankowska",
+        "Callum Booth-Ford"
+      ],
+      "rank": 9,
+      "id": "tt34381258",
+      "name": "Un buen chico",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gVlWxg034R84VBgtDvlzONyt96J.jpg",
+      "rating": 7.221,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zC0Ky9JQckD7wruIQru77Dej7a4.jpg",
+      "runtime": "96 min",
+      "director": [
+        "Julie Simone"
+      ],
+      "cast": [],
+      "rank": 10,
+      "id": "tt5618318",
+      "name": "Fiddlin'",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xgUjmcK0UKq9ObUxBYJzqqoda76.jpg",
+      "rating": null,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

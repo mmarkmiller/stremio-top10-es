@@ -2,8 +2,40 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
+      "director": [],
+      "cast": [
+        "Kristina Bogic",
+        "Geena Meszaros",
+        "Sara Boustany",
+        "Nnamdi Asomugha",
+        "Louisa Krause",
+        "Shirley Chen",
+        "Jackson Kelly",
+        "Sofia Wylie"
+      ],
+      "rank": 1,
+      "id": "tt8014982",
+      "name": "El cuerpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
@@ -27,43 +59,11 @@
         "Fernando Guillén Cuervo",
         "Nacho Fresneda"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 7.167,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
-      "director": [],
-      "cast": [
-        "Kristina Bogic",
-        "Geena Meszaros",
-        "Sara Boustany",
-        "Nnamdi Asomugha",
-        "Louisa Krause",
-        "Shirley Chen",
-        "Jackson Kelly",
-        "Sofia Wylie"
-      ],
-      "rank": 2,
-      "id": "tt8014982",
-      "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.5,
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,6 +76,7 @@
       "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
       "genres": [
         "Action & Adventure",
+        "Drama",
         "Misterio",
         "Crimen"
       ],
@@ -93,7 +94,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.053,
+      "rating": 7.1,
       "year": 2024,
       "days": null,
       "trend": {
@@ -125,40 +126,8 @@
       "id": "tt2531336",
       "name": "Lupin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "rating": 7.681,
+      "rating": 7.68,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
-      "director": [],
-      "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
-      ],
-      "rank": 5,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.883,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -185,12 +154,71 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.634,
+      "rating": 7.639,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "director": [],
+      "cast": [
+        "Florence Pugh",
+        "Christopher Abbott",
+        "Mike Faist",
+        "Joseph Zada"
+      ],
+      "rank": 6,
+      "id": "tt21097264",
+      "name": "Al este del Edén",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+      "rating": 7.769,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "director": [],
+      "cast": [
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
+      ],
+      "rank": 7,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.884,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -219,7 +247,7 @@
         "Teresa Rabal",
         "Mercedes Sampietro"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt39387986",
       "name": "Grande de España",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
@@ -233,57 +261,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "genres": [
+        "Action & Adventure",
         "Comedia",
-        "Sci-Fi & Fantasy"
+        "Animación"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUnYLiU9Nzy1116hiBRFvoy0ATf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FpgF3S5QrbQWMGMHQZAVPVUC2I.png",
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
       "director": [],
       "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty",
-        "Asher Grodman",
-        "Rebecca Wisocky",
-        "Sheila Carrasco"
-      ],
-      "rank": 8,
-      "id": "tt11379026",
-      "name": "Fantasmas (US)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
-      "rating": 8.1,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
-      "director": [],
-      "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist",
-        "Joseph Zada"
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
       ],
       "rank": 9,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.804,
-      "year": 2026,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+      "rating": 8.756,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -325,5 +327,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

@@ -2,92 +2,39 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
-      "genres": [],
-      "background": "https://image.tmdb.org/t/p/w1280/c8RDVWShrHiwkX5PDMqrP3GNdML.jpg",
-      "runtime": "183 min",
-      "director": [],
-      "cast": [],
+      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
+      "runtime": "181 min",
+      "director": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Don Cheadle"
+      ],
       "rank": 1,
-      "id": "tmdb:1826784",
-      "name": "Avengers Endgame: Encore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yhulzFMLiZDPbZXWsv4mx3GVIue.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "A finales de la II Guerra Mundial (1939-1945), a un selecto grupo de historiadores, directores de museos y expertos en arte, tanto británicos como norteamericanos, se les encomienda la importante y peligrosa misión de recuperar las obras de arte robadas por los nazis durante la guerra para devolvérselas a sus legítimos propietarios. Era una misión imposible: las obras estaban muy bien custodiadas y el ejército alemán tenía orden de destruirlas en cuanto el Reich cayera. Pero aquellos hombres, en una carrera contrarreloj, arriesgaron sus vidas para evitar la destrucción de miles de años de cultura de la humanidad.",
-      "genres": [
-        "Bélica",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uLBJtONQwHoGc61vbIfoC6a9gUp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6WZGrddrH040EiREiQRQDtmNHjs.png",
-      "runtime": "118 min",
-      "director": [
-        "George Clooney"
-      ],
-      "cast": [
-        "George Clooney",
-        "Matt Damon",
-        "Bill Murray",
-        "John Goodman",
-        "Cate Blanchett",
-        "Hugh Bonneville",
-        "Sam Hazeldine",
-        "Jean Dujardin"
-      ],
-      "rank": 2,
-      "id": "tt2177771",
-      "name": "Monuments Men",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8DOnFBFJHuWoR74PuXPX0KSHit6.jpg",
-      "rating": 6.063,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 3,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.394,
-      "year": 2018,
+      "id": "tt4154796",
+      "name": "Vengadores: Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "rating": 8.2,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -119,83 +66,12 @@
         "Shelby Rabara",
         "Mykal-Michelle Harris"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt29355505",
       "name": "Toy Story 5",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "rating": 8.251,
+      "rating": 8.247,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
-      "runtime": "115 min",
-      "director": [
-        "Martin McDonagh"
-      ],
-      "cast": [
-        "Frances McDormand",
-        "Woody Harrelson",
-        "Sam Rockwell",
-        "Abbie Cornish",
-        "Lucas Hedges",
-        "Željko Ivanek",
-        "Caleb Landry Jones",
-        "Clarke Peters"
-      ],
-      "rank": 5,
-      "id": "tt5027774",
-      "name": "Tres anuncios en las afueras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
-      "rating": 8.049,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
-      "genres": [
-        "Ciencia ficción",
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rgNzvSagnlc32TuMEBa529QFIig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDtN5mnV6Cvr5Y3kY3A2AHofF54.png",
-      "runtime": "83 min",
-      "director": [
-        "Josh Trank"
-      ],
-      "cast": [
-        "Dane DeHaan",
-        "Alex Russell",
-        "Michael B. Jordan",
-        "Michael Kelly",
-        "Ashley Hinshaw",
-        "Bo Petersen",
-        "Anna Wood",
-        "Rudi Malcolm"
-      ],
-      "rank": 6,
-      "id": "tt1706593",
-      "name": "Chronicle",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
-      "rating": 6.871,
-      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -226,11 +102,11 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 7,
+      "rank": 3,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.452,
+      "rating": 7.451,
       "year": 2026,
       "days": null,
       "trend": {
@@ -240,33 +116,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
+      "description": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
       "genres": [
-        "Comedia",
-        "Romance"
+        "Terror",
+        "Suspense",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4tSUZixFsm89z5IIXcptOxBzBUX.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/of43tnJAFPfAoWUqvbqKHDCJCwT.png",
+      "runtime": "113 min",
       "director": [
-        "Jay Roach"
+        "Sam Raimi"
       ],
       "cast": [
-        "Ben Stiller",
-        "Robert De Niro",
-        "Teri Polo",
-        "Blythe Danner",
-        "Jon Abrahams",
-        "Nicole DeHuff",
-        "Owen Wilson",
-        "James Rebhorn"
+        "Rachel McAdams",
+        "Dylan O'Brien",
+        "Edyll Ismail",
+        "Xavier Samuel",
+        "Dennis Haysbert",
+        "Chris Pang",
+        "ธเนศ วรากุลนุเคราะห์",
+        "Emma Raimi"
       ],
-      "rank": 8,
-      "id": "tt0212338",
-      "name": "Los padres de ella",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRMTF8DS5UlWTQk7eEHR3W44Ga1.jpg",
-      "rating": 6.7,
-      "year": 2000,
+      "rank": 4,
+      "id": "tt8036976",
+      "name": "SEND HELP (Enviad ayuda)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg",
+      "rating": 6.986,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,36 +152,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
       "genres": [
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Fantasía"
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zRDkmww7Bu11wiz2g86RxSreiY4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPFFbBtCI8iR39qRFBbka9SZARN.png",
-      "runtime": "85 min",
+      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
+      "runtime": "91 min",
       "director": [
-        "Yarrow Cheney",
-        "Scott Mosier"
+        "John Krasinski"
       ],
       "cast": [
-        "Benedict Cumberbatch",
-        "Rashida Jones",
-        "Kenan Thompson",
-        "Cameron Seely",
-        "Angela Lansbury",
-        "Pharrell Williams",
-        "Ramone Hamilton",
-        "Sam Lavagnino"
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom",
+        "Rhoda Pell"
       ],
-      "rank": 9,
-      "id": "tt2709692",
-      "name": "El Grinch",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o3b6DOiePNlNOiqLCzCvqvDvHpL.jpg",
-      "rating": 6.869,
+      "rank": 5,
+      "id": "tt6644200",
+      "name": "Un lugar tranquilo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
+      "rating": 7.394,
       "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png",
+      "runtime": "107 min",
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Rose Byrne",
+        "Chris Evans",
+        "Michelle Yeoh",
+        "Cliff Curtis",
+        "Hiroyuki Sanada",
+        "Troy Garity",
+        "Benedict Wong"
+      ],
+      "rank": 6,
+      "id": "tt0448134",
+      "name": "Sunshine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mHyxp18J0ARdq41XgWMxLy1TLOn.jpg",
+      "rating": 6.973,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -336,12 +245,117 @@
         "Josh Hutcherson",
         "Daryl Sabara"
       ],
-      "rank": 10,
+      "rank": 7,
       "id": "tt0338348",
       "name": "Polar Express",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
-      "rating": 6.7,
+      "rating": 6.726,
       "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cinco policiás del estado norteamericano de Vermont, nada reconocidos por sus superiores, crean situaciones de angustia entre los conductores de la autopista. Película escrita y protagonizada por un grupo de cómicos que se autodenomina como \"Broken Lizard\".",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/syJIWYB1L14wdIiiH9Q7pft4ga5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nE30VHuUzRQPRHNnXr32DY7nzpU.png",
+      "runtime": "99 min",
+      "director": [
+        "Jay Chandrasekhar"
+      ],
+      "cast": [
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Brian Cox",
+        "Daniel von Bargen",
+        "Marisa Coughlan"
+      ],
+      "rank": 8,
+      "id": "tt0247745",
+      "name": "Super maderos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kDGkofYyMGDTEc8zNV87Z8QGcJq.jpg",
+      "rating": 6.536,
+      "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/huz4SOpcd2XjJiLVX6xmQZYiiDA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xb3n3zvORlCdndljQpt1uEsmyRY.png",
+      "runtime": "115 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell",
+        "Abbie Cornish",
+        "Lucas Hedges",
+        "Željko Ivanek",
+        "Caleb Landry Jones",
+        "Clarke Peters"
+      ],
+      "rank": 9,
+      "id": "tt5027774",
+      "name": "Tres anuncios en las afueras",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
+      "rating": 8.049,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Katia y Maurice Krafft amaban dos cosas: el uno al otro y los volcanes. Durante dos décadas, esta atrevida pareja de vulcanólogos franceses se dejó seducir por la emoción y el peligro de este elemental triángulo amoroso. Recorrieron el planeta, persiguiendo las erupciones y sus consecuencias, documentando sus descubrimientos en impresionantes fotografías y películas para compartirlos con un público cada vez más curioso a través de intervenciones en los medios de comunicación y giras de conferencias.",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1OMhqZfPr08Sm7IGqkF4SSWTQH.png",
+      "runtime": "93 min",
+      "director": [
+        "Sara Dosa"
+      ],
+      "cast": [
+        "Alka Balbir",
+        "Guillaume Tremblay",
+        "Miranda July",
+        "Katia Krafft",
+        "Maurice Krafft",
+        "Harry Glicken",
+        "Roland Haas",
+        "Jacques Durieux"
+      ],
+      "rank": 10,
+      "id": "tt16227014",
+      "name": "Fire of Love",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hcy9zV7JOD97tG1rdrliJbaR4rk.jpg",
+      "rating": 7.538,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -350,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

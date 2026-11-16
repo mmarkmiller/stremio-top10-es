@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,40 +29,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.549,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
-      "genres": [
-        "Action & Adventure",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
-      "director": [],
-      "cast": [
-        "Anthony Mackie",
-        "Jamie Dornan",
-        "Jack Kesy",
-        "Agathe Rousselle",
-        "Sallie Harmsen",
-        "Julius Feldmeier",
-        "Jeanne Balibar",
-        "Kali Reis"
-      ],
-      "rank": 2,
-      "id": "tt32375763",
-      "name": "12 12 12",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
-      "rating": 5.3,
+      "rating": 7.596,
       "year": 2026,
       "days": null,
       "trend": {
@@ -90,11 +57,11 @@
         "Christopher Chung",
         "Aimee-Ffion Edwards"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.077,
+      "rating": 8.1,
       "year": 2022,
       "days": null,
       "trend": {
@@ -104,30 +71,64 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "description": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Crimen",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
+      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
       "director": [],
       "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Chinaza Uche",
-        "Ashley Zukerman",
-        "Shane McRae",
-        "Remmie Milner",
-        "Alexandria Riley",
-        "Reed Birney"
+        "Anthony Mackie",
+        "Jamie Dornan",
+        "Jack Kesy",
+        "Agathe Rousselle",
+        "Sallie Harmsen",
+        "Julius Feldmeier",
+        "Jeanne Balibar",
+        "Kali Reis"
+      ],
+      "rank": 3,
+      "id": "tt32375763",
+      "name": "12 12 12",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+      "rating": 5.9,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
       ],
       "rank": 4,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.23,
-      "year": 2023,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.388,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,31 +169,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "director": [],
       "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
+        "Rebecca Ferguson",
+        "Common",
+        "Chinaza Uche",
+        "Ashley Zukerman",
+        "Shane McRae",
+        "Remmie Milner",
+        "Alexandria Riley",
+        "Reed Birney"
       ],
       "rank": 6,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.388,
-      "year": 2022,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "rating": 8.23,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -222,8 +222,39 @@
       "id": "tt33332385",
       "name": "La maldición de Widow's Bay",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.009,
+      "rating": 8.008,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "director": [],
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley",
+        "Amanda Brugel"
+      ],
+      "rank": 8,
+      "id": "tt19231492",
+      "name": "Materia oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "rating": 7.813,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -251,11 +282,11 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 7.927,
+      "rating": 7.954,
       "year": 2026,
       "days": null,
       "trend": {
@@ -265,60 +296,25 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "description": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nWzsjIwp78KU888OYwZj0OHEylb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tYkFTAdNsGrilIcgJmFMxT70h83.png",
+      "background": "https://image.tmdb.org/t/p/w1280/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
       "director": [],
       "cast": [
-        "Joel Edgerton",
-        "Jennifer Connelly",
-        "Alice Braga",
-        "Jimmi Simpson",
-        "Dayo Okeniyi",
-        "Oakes Fegley",
-        "Amanda Brugel"
-      ],
-      "rank": 9,
-      "id": "tt19231492",
-      "name": "Materia oscura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.819,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El caos se cierne sobre una pareja de abogados felizmente casados cuando un famoso asesino de su pasado sale de la cárcel.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png",
-      "director": [],
-      "cast": [
-        "Amy Adams",
-        "Javier Bardem",
-        "Patrick Wilson",
-        "Joe Anders",
-        "Lily Collias",
-        "Malia Pyles",
-        "CCH Pounder"
+        "Rhea Seehorn",
+        "Karolina Wydra",
+        "Carlos-Manuel Vesga"
       ],
       "rank": 10,
-      "id": "tt34675596",
-      "name": "Cape Fear",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "rating": 7.132,
-      "year": 2026,
+      "id": "tt22202452",
+      "name": "Pluribus",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "rating": 7.923,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

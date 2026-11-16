@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.032,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,8 +66,43 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.199,
+      "rating": 7.201,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
+      "runtime": "96 min",
+      "director": [
+        "George A. Romero"
+      ],
+      "cast": [
+        "Judith O'Dea",
+        "Duane Jones",
+        "Marilyn Eastman",
+        "Karl Hardman",
+        "Judith Ridley",
+        "Keith Wayne",
+        "Kyra Schon",
+        "Charles Craig"
+      ],
+      "rank": 3,
+      "id": "tt0063350",
+      "name": "La noche de los muertos vivientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
+      "rating": 7.599,
+      "year": 1968,
       "days": null,
       "trend": {
         "dir": "same",
@@ -90,7 +125,7 @@
       ],
       "cast": [
         "Ryunosuke Kamiki",
-        "浜辺美波",
+        "Minami Hamabe",
         "山田裕貴",
         "Munetaka Aoki",
         "吉岡秀隆",
@@ -98,11 +133,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.621,
+      "rating": 7.624,
       "year": 2023,
       "days": null,
       "trend": {
@@ -133,36 +168,12 @@
         "Henry Lloyd-Hughes",
         "Elizabeth Marvel"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.406,
+      "rating": 7.405,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "runtime": "85 min",
-      "director": [
-        "Robert Darwell"
-      ],
-      "cast": [
-        "Dick Van Dyke"
-      ],
-      "rank": 5,
-      "id": "tt18225078",
-      "name": "The 90s Club",
-      "tmdbPosterUrl": null,
-      "rating": 10,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -196,7 +207,7 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.164,
+      "rating": 8.162,
       "year": 2026,
       "days": null,
       "trend": {
@@ -242,33 +253,35 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
+      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
       "genres": [
-        "Terror",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Aventura",
+        "Acción",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
-      "runtime": "96 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yVBQ65YBYZ9UhzJ4NGdRgeXtyTL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hOSbWGqCYDzmNA9yfvupFtgRJ6E.png",
+      "runtime": "142 min",
       "director": [
-        "George A. Romero"
+        "Gary Ross"
       ],
       "cast": [
-        "Judith O'Dea",
-        "Duane Jones",
-        "Marilyn Eastman",
-        "Karl Hardman",
-        "Judith Ridley",
-        "Keith Wayne",
-        "Kyra Schon",
-        "Charles Craig"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Lenny Kravitz",
+        "Stanley Tucci",
+        "Donald Sutherland"
       ],
       "rank": 8,
-      "id": "tt0063350",
-      "name": "La noche de los muertos vivientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
-      "rating": 7.599,
-      "year": 1968,
+      "id": "tt1392170",
+      "name": "Los Juegos del Hambre",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmwpp0ykPbddqGW8WmOdBEYFImC.jpg",
+      "rating": 7.227,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,33 +290,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "description": "Nelly y Paul son una pareja feliz. Mientras él dirige el bonito hotel que acaba de comprar en el campo, a orillas de un lago, ella cuida del hijo de ambos. Pero, como Nelly es muy guapa y atrae a todos los clientes del hotel, Paul, dominado por unos celos incontrolados y obsesivos, llega a creer que su mujer se acuesta con todo el mundo.",
       "genres": [
-        "Suspense",
-        "Misterio"
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/2rYgtckajPftIqpJxzVy7nfnlY0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/giTIAP1ttsFkUcTHtqGrx2Gazzf.png",
+      "runtime": "101 min",
       "director": [
-        "Shana Feste"
+        "Claude Chabrol"
       ],
       "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Garrett Hedlund",
-        "John Hawkes",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey",
-        "Ross Lynch"
+        "Emmanuelle Béart",
+        "François Cluzet",
+        "Nathalie Cardone",
+        "André Wilms",
+        "Marc Lavoine",
+        "Christiane Minazzoli",
+        "Dora Doll",
+        "Mario David"
       ],
       "rank": 9,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 7,
-      "year": 2026,
+      "id": "tt0109731",
+      "name": "El infierno (L'Enfer)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FoPTIVVNgsthHeJfgGKULXTADO.jpg",
+      "rating": 6.87,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,34 +325,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png",
+      "runtime": "157 min",
       "director": [
-        "Kane Parsons"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage",
+        "Jason Schwartzman",
+        "Hunter Schafer",
+        "Josh Rivera",
+        "Viola Davis",
+        "Fionnula Flanagan"
       ],
       "rank": 10,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.985,
-      "year": 2026,
+      "id": "tt10545296",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
+      "rating": 6.951,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -348,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

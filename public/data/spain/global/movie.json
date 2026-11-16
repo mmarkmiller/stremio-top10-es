@@ -2,44 +2,8 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3v2tqcDJmJRYrsMYJ1dregKCpdo.png",
-      "runtime": "100 min",
-      "director": [
-        "David Robert Mitchell"
-      ],
-      "cast": [
-        "Anne Hathaway",
-        "Ewan McGregor",
-        "Maisy Stella",
-        "Christian Convery",
-        "Jordan Alexa Davis",
-        "P.J. Byrne",
-        "Hudson Meek",
-        "Anne Gee Byrd"
-      ],
-      "rank": 1,
-      "id": "tt27165187",
-      "name": "El final de Oak Street",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.032,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
@@ -64,12 +28,48 @@
         "Andrea Riseborough",
         "Dermot Crowley"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt4686844",
       "name": "La muerte de Stalin",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
       "rating": 7.026,
       "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3v2tqcDJmJRYrsMYJ1dregKCpdo.png",
+      "runtime": "100 min",
+      "director": [
+        "David Robert Mitchell"
+      ],
+      "cast": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella",
+        "Christian Convery",
+        "Jordan Alexa Davis",
+        "P.J. Byrne",
+        "Hudson Meek",
+        "Anne Gee Byrd"
+      ],
+      "rank": 2,
+      "id": "tt27165187",
+      "name": "El final de Oak Street",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "rating": 7,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -103,7 +103,7 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 6.952,
+      "rating": 6.951,
       "year": 2023,
       "days": null,
       "trend": {
@@ -139,7 +139,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.321,
+      "rating": 6.329,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,32 +149,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "description": "Un padre recibe un duro golpe cuando condenan a su hijo adolescente a a una pena de treinta años de cárcel por un delito relacionado con el narcotráfico. Para conseguir que reduzcan su condena, intenta ponerse en contacto con un importante traficante.",
       "genres": [
+        "Acción",
         "Drama",
-        "Historia"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
-      "runtime": "120 min",
+      "background": "https://image.tmdb.org/t/p/w1280/80seex5P196f7pff3R8xqwd2Zo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hMoFYze7MGKkG8GAG2YarACjjkc.png",
+      "runtime": "112 min",
       "director": [
-        "Kirk Jones"
+        "Ric Roman Waugh"
       ],
       "cast": [
-        "Robert Aramayo",
-        "Maxine Peake",
-        "Peter Mullan",
-        "Shirley Henderson",
-        "Scott Ellis Watson",
-        "David Carlyle",
-        "Francesco Piacentini-Smith",
-        "Somerled Campbell"
+        "Dwayne Johnson",
+        "Barry Pepper",
+        "Susan Sarandon",
+        "Benjamin Bratt",
+        "Michael Kenneth Williams",
+        "Melina Kanakaredes",
+        "Nadine Velazquez",
+        "David Harbour"
       ],
       "rank": 5,
-      "id": "tt31514146",
-      "name": "Incontrolable (I Swear)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
-      "rating": 8.3,
+      "id": "tt0882977",
+      "name": "El mensajero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/b9oyfaUNnNh6a3W34ZG78LhHv37.jpg",
+      "rating": 6.136,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
+      "director": [
+        "David F. Sandberg"
+      ],
+      "cast": [
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
+      ],
+      "rank": 6,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.234,
       "year": 2025,
       "days": null,
       "trend": {
@@ -206,7 +242,7 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -220,32 +256,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "description": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94OyBY2Ldowi8BYjk9jrM3PM7xI.png",
+      "runtime": "120 min",
       "director": [
-        "David F. Sandberg"
+        "Kirk Jones"
       ],
       "cast": [
-        "Ella Rubin",
-        "Michael Cimino",
-        "Odessa A'zion",
-        "Ji-young Yoo",
-        "Belmont Cameli",
-        "Maia Mitchell",
-        "Peter Stormare",
-        "Tibor Szauerwein"
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
       ],
-      "rank": 7,
-      "id": "tt30955489",
-      "name": "Until Dawn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.236,
+      "rank": 8,
+      "id": "tt31514146",
+      "name": "Incontrolable (I Swear)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+      "rating": 8.286,
       "year": 2025,
       "days": null,
       "trend": {
@@ -255,53 +291,35 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [],
-      "background": "https://image.tmdb.org/t/p/w1280/c8RDVWShrHiwkX5PDMqrP3GNdML.jpg",
-      "runtime": "183 min",
-      "director": [],
-      "cast": [],
-      "rank": 8,
-      "id": "tmdb:1826784",
-      "name": "Avengers Endgame: Encore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yhulzFMLiZDPbZXWsv4mx3GVIue.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
       "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
-      "runtime": "111 min",
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png",
+      "runtime": "181 min",
       "director": [
-        "Kane Parsons"
+        "Anthony Russo",
+        "Joe Russo"
       ],
       "cast": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett",
-        "Lukita Maxwell",
-        "Mark Duplass",
-        "Avan Jogia",
-        "Robert Bobroczkyi",
-        "Ember Ambrose"
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Don Cheadle"
       ],
       "rank": 9,
-      "id": "tt26657236",
-      "name": "Backrooms",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.985,
-      "year": 2026,
+      "id": "tt4154796",
+      "name": "Vengadores: Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "rating": 8.2,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,15 +328,15 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
       "genres": [
-        "Ciencia ficción",
         "Aventura",
-        "Suspense"
+        "Acción",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
+      "runtime": "146 min",
       "director": [
         "Francis Lawrence"
       ],
@@ -328,16 +346,16 @@
         "Liam Hemsworth",
         "Woody Harrelson",
         "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
+        "Donald Sutherland",
+        "Lenny Kravitz",
+        "Philip Seymour Hoffman"
       ],
       "rank": 10,
-      "id": "tt1951265",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.815,
-      "year": 2014,
+      "id": "tt1951264",
+      "name": "Los Juegos del Hambre: En llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "rating": 7.426,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -346,5 +364,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

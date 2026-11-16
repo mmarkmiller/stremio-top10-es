@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.032,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -68,7 +68,7 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.985,
+      "rating": 6.983,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,7 +104,7 @@
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.9,
+      "rating": 6.91,
       "year": 2026,
       "days": null,
       "trend": {
@@ -139,7 +139,7 @@
       "id": "tt33296751",
       "name": "Un talento único",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
-      "rating": 7.554,
+      "rating": 7.549,
       "year": 2026,
       "days": null,
       "trend": {
@@ -208,8 +208,44 @@
       "id": "tt0241527",
       "name": "Harry Potter y la piedra filosofal",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "rating": 7.9,
+      "rating": 7.905,
       "year": 2001,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
+      "runtime": "177 min",
+      "director": [
+        "Matt Reeves"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright",
+        "Colin Farrell",
+        "Paul Dano",
+        "John Turturro",
+        "Andy Serkis",
+        "Peter Sarsgaard"
+      ],
+      "rank": 7,
+      "id": "tt1877830",
+      "name": "The Batman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
+      "rating": 7.675,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -239,11 +275,11 @@
         "Josh Brolin",
         "Javier Bardem"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.787,
+      "rating": 7.786,
       "year": 2021,
       "days": null,
       "trend": {
@@ -253,69 +289,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una apasionada y tumultuosa historia de amor con los páramos de Yorkshire como telón de fondo, que explora la intensa y destructiva relación entre Heathcliff y Catherine Earnshaw.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yVI2Sv69nIIQITKEumg2yd41k4i.png",
-      "runtime": "136 min",
-      "director": [
-        "Emerald Fennell"
-      ],
-      "cast": [
-        "Margot Robbie",
-        "Jacob Elordi",
-        "Hong Chau",
-        "Shazad Latif",
-        "Alison Oliver",
-        "Martin Clunes",
-        "Ewan Mitchell",
-        "Amy Morgan"
-      ],
-      "rank": 8,
-      "id": "tt32897959",
-      "name": "“Cumbres Borrascosas”",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "rating": 6.636,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "description": "Un ex revolucionario, tras años apartado de la lucha, se ve obligado a volver a la acción para enfrentar a viejos enemigos en un ambiente cargado de tensión política, racismo y violencia militar... Adaptación modernizada de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
       "genres": [
         "Suspense",
         "Crimen",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
-      "runtime": "154 min",
+      "background": "https://image.tmdb.org/t/p/w1280/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qHtncEb6Zv9TXr40D2nn4xoy3ZI.png",
+      "runtime": "162 min",
       "director": [
-        "Quentin Tarantino"
+        "Paul Thomas Anderson"
       ],
       "cast": [
-        "John Travolta",
-        "Samuel L. Jackson",
-        "Uma Thurman",
-        "Bruce Willis",
-        "Ving Rhames",
-        "Harvey Keitel",
-        "Eric Stoltz",
-        "Tim Roth"
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
       ],
       "rank": 9,
-      "id": "tt0110912",
-      "name": "Pulp Fiction",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "rating": 8.48,
-      "year": 1994,
+      "id": "tt30144839",
+      "name": "Una batalla tras otra",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+      "rating": 7.334,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -324,33 +325,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "description": "Eleanor Arroway perdió la fe en Dios tras la muerte de sus padres en su niñez. Sin embargo, Ellie ha desarrollado una clase distinta de fe en lo desconocido: trabaja con un grupo de científicos escrutando ondas de radio procedentes del espacio exterior en busca de señales de inteligencias extraterrestres. Su trabajo se verá recompensado cuando detecte una señal desconocida que supuestamente porta las instrucciones de fabricación de una máquina para reunirse con los creadores del mensaje.",
       "genres": [
+        "Drama",
         "Ciencia ficción",
-        "Aventura"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png",
-      "runtime": "167 min",
+      "background": "https://image.tmdb.org/t/p/w1280/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3UrT4R462hRw01JkIsWNZBmgKYt.png",
+      "runtime": "150 min",
       "director": [
-        "Denis Villeneuve"
+        "Robert Zemeckis"
       ],
       "cast": [
-        "Timothée Chalamet",
-        "Zendaya",
-        "Rebecca Ferguson",
-        "Javier Bardem",
-        "Josh Brolin",
-        "Austin Butler",
-        "Florence Pugh",
-        "Dave Bautista"
+        "Jodie Foster",
+        "Matthew McConaughey",
+        "James Woods",
+        "John Hurt",
+        "Tom Skerritt",
+        "William Fichtner",
+        "David Morse",
+        "Angela Bassett"
       ],
       "rank": 10,
-      "id": "tt15239678",
-      "name": "Dune: Parte dos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
-      "rating": 8.143,
-      "year": 2024,
+      "id": "tt0118884",
+      "name": "Contact",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rFcs0iDNWD5mAq9a6YrKn5qdsFa.jpg",
+      "rating": 7.452,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +361,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

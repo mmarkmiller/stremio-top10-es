@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.321,
+      "rating": 6.329,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt30955489",
       "name": "Until Dawn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.236,
+      "rating": 6.234,
       "year": 2025,
       "days": null,
       "trend": {
@@ -91,50 +91,19 @@
       "cast": [
         "Jessica Chastain",
         "Carter Faith",
-        "Garrett Hedlund",
+        "Ross Lynch",
         "John Hawkes",
+        "Garrett Hedlund",
         "Norbert Leo Butz",
         "Hill Harper",
-        "Ben Dickey",
-        "Ross Lynch"
+        "Ben Dickey"
       ],
       "rank": 3,
       "id": "tt38213251",
       "name": "Heartland",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 7,
+      "rating": 6.589,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
-      "director": [
-        "Cesc Gay"
-      ],
-      "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
-      ],
-      "rank": 4,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.4,
-      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -157,7 +126,7 @@
       ],
       "cast": [
         "Ryunosuke Kamiki",
-        "浜辺美波",
+        "Minami Hamabe",
         "山田裕貴",
         "Munetaka Aoki",
         "吉岡秀隆",
@@ -165,11 +134,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.621,
+      "rating": 7.624,
       "year": 2023,
       "days": null,
       "trend": {
@@ -198,11 +167,11 @@
         "Javier González",
         "Fernando Serulla"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt48500521",
       "name": "Desprotexida: el crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.885,
+      "rating": 6.567,
       "year": 2026,
       "days": null,
       "trend": {
@@ -212,32 +181,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
+      "runtime": "129 min",
       "director": [
-        "Lee Chang-dong"
+        "Zach Cregger"
       ],
       "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
-      "rank": 8,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.372,
-      "year": 2026,
+      "rank": 6,
+      "id": "tt26581740",
+      "name": "Weapons",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "rating": 7.253,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -267,7 +237,7 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
@@ -281,33 +251,103 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
       "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
+        "Romance",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+      "runtime": "103 min",
       "director": [
-        "John Krasinski"
+        "Adam Pålsson"
       ],
       "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
+        "Felice Jankell",
+        "Happy Jankell",
+        "Christian Fandango Sundgren",
+        "Celie Sparre",
+        "Anastasios Soulis",
+        "Maria Kulle",
+        "Dag Malmberg",
+        "Bengt Braskered"
+      ],
+      "rank": 8,
+      "id": "tt39313557",
+      "name": "El intercambio navideño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "rating": 6.733,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "genres": [
+        "Terror",
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/67GiqvLsOVFQf5a7545T3RhAa6N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wIC9JBX6hGDK4bjMmLlegO6jYvv.png",
+      "runtime": "97 min",
+      "director": [
+        "Josh Ruben"
+      ],
+      "cast": [
+        "Olivia Holt",
+        "Mason Gooding",
+        "Michaela Watkins",
+        "Devon Sawa",
+        "Jordana Brewster",
+        "Gigi Zumbado",
+        "Yoson An",
+        "Alexander Walker"
+      ],
+      "rank": 9,
+      "id": "tt32558992",
+      "name": "El asesino con ojos de corazón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6v0LlIAW903yLbsoTw6DMUAaQeq.jpg",
+      "rating": 6.203,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
       ],
       "rank": 10,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.394,
-      "year": 2018,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.31,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

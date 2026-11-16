@@ -2,8 +2,40 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqeH6VfmPTQW1KNGATeKgg540mb.png",
+      "director": [],
+      "cast": [
+        "Steve Buscemi",
+        "Kelly Macdonald",
+        "Michael Shannon",
+        "Shea Whigham",
+        "Stephen Graham",
+        "Vincent Piazza",
+        "Michael Kenneth Williams",
+        "Paul Sparks"
+      ],
+      "rank": 1,
+      "id": "tt0979432",
+      "name": "Boardwalk Empire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+      "rating": 8.03,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Dos niñas desaparecieron hace veinte años. Ahora, la búsqueda de Emma amenaza a quienes creían haber enterrado la verdad.",
@@ -24,43 +56,11 @@
         "Eva Llorach",
         "Asier Oruesagasti"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt40225961",
       "name": "Infamia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-      "rating": null,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
-      "director": [],
-      "cast": [
-        "Rose Byrne",
-        "Meghann Fahy",
-        "Brendan Gleeson",
-        "Harper Steele",
-        "Michael Dorman",
-        "Audrey Grace Marshall",
-        "Drew Cheek",
-        "Olivia Williams"
-      ],
-      "rank": 2,
-      "id": "tt31842126",
-      "name": "The Good Daughter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "rating": 8.2,
+      "rating": 10,
       "year": 2026,
       "days": null,
       "trend": {
@@ -89,7 +89,39 @@
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "rating": 8.581,
+      "rating": 8.569,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
+      "director": [],
+      "cast": [
+        "Rose Byrne",
+        "Meghann Fahy",
+        "Brendan Gleeson",
+        "Harper Steele",
+        "Michael Dorman",
+        "Audrey Grace Marshall",
+        "Drew Cheek",
+        "Olivia Williams"
+      ],
+      "rank": 4,
+      "id": "tt31842126",
+      "name": "The Good Daughter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "rating": 8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -117,7 +149,7 @@
         "Ana Mena",
         "Clara Sans"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt32327588",
       "name": "Furia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
@@ -148,108 +180,12 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
       "rating": 7.7,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
-      "director": [],
-      "cast": [
-        "Matt Smith",
-        "Emma D'Arcy",
-        "Olivia Cooke",
-        "James Norton",
-        "Steve Toussaint",
-        "Fabien Frankel",
-        "Matthew Needham",
-        "Sonoya Mizuno"
-      ],
-      "rank": 6,
-      "id": "tt11198330",
-      "name": "La casa del dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.377,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 7,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 6.944,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png",
-      "director": [],
-      "cast": [
-        "Dominic West",
-        "Lance Reddick",
-        "Sonja Sohn",
-        "Wendell Pierce",
-        "Michael Kenneth Williams",
-        "Deirdre Lovejoy",
-        "Andre Royo",
-        "John Doman"
-      ],
-      "rank": 8,
-      "id": "tt0306414",
-      "name": "Bajo escucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
-      "rating": 8.635,
-      "year": 2002,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,11 +213,11 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.492,
+      "rating": 8.493,
       "year": 2022,
       "days": null,
       "trend": {
@@ -305,7 +241,7 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
@@ -316,8 +252,71 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+      "director": [],
+      "cast": [
+        "Matt Smith",
+        "Emma D'Arcy",
+        "Olivia Cooke",
+        "James Norton",
+        "Steve Toussaint",
+        "Fabien Frankel",
+        "Matthew Needham",
+        "Sonoya Mizuno"
+      ],
+      "rank": 9,
+      "id": "tt11198330",
+      "name": "La casa del dragón",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "rating": 8.377,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RySzFeK3LPVMXcPtqfZnl6u4p1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png",
+      "director": [],
+      "cast": [
+        "Johnny Galecki",
+        "Jim Parsons",
+        "Kaley Cuoco",
+        "Simon Helberg",
+        "Kunal Nayyar",
+        "Melissa Rauch",
+        "Mayim Bialik"
+      ],
+      "rank": 10,
+      "id": "tt0898266",
+      "name": "Big Bang",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "rating": 7.929,
+      "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }

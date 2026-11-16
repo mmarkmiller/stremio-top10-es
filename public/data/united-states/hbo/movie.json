@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611152038",
+  "date": "202611162354",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.032,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.199,
+      "rating": 7.201,
       "year": 2026,
       "days": null,
       "trend": {
@@ -137,44 +137,8 @@
       "id": "tt26657236",
       "name": "Backrooms",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "rating": 6.985,
+      "rating": 6.983,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nJkp7hYKScmvQuqfptIIclFxZ94.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7oGxTgHz6xYXNmCUwX9wfGLmK2b.png",
-      "runtime": "99 min",
-      "director": [
-        "Eli Roth"
-      ],
-      "cast": [
-        "Keanu Reeves",
-        "Lorenza Izzo",
-        "Ana de Armas",
-        "Aaron Burns",
-        "Colleen Camp",
-        "Ignacia Allamand",
-        "Antonio Quercia",
-        "Dan Baily"
-      ],
-      "rank": 5,
-      "id": "tt3605418",
-      "name": "Toc, toc",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
-      "rating": 5.388,
-      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,11 +169,11 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.668,
+      "rating": 6.672,
       "year": 2003,
       "days": null,
       "trend": {
@@ -219,33 +183,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "description": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
       "genres": [
-        "Misterio",
-        "Suspense"
+        "Terror",
+        "Suspense",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/nJkp7hYKScmvQuqfptIIclFxZ94.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7oGxTgHz6xYXNmCUwX9wfGLmK2b.png",
+      "runtime": "99 min",
       "director": [
-        "Paul Feig"
+        "Eli Roth"
       ],
       "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
+        "Keanu Reeves",
+        "Lorenza Izzo",
+        "Ana de Armas",
+        "Aaron Burns",
+        "Colleen Camp",
+        "Ignacia Allamand",
+        "Antonio Quercia",
+        "Dan Baily"
       ],
-      "rank": 7,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.235,
-      "year": 2025,
+      "rank": 6,
+      "id": "tt3605418",
+      "name": "Toc, toc",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "rating": 5.387,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -275,11 +240,11 @@
         "Josh Brolin",
         "Javier Bardem"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.787,
+      "rating": 7.786,
       "year": 2021,
       "days": null,
       "trend": {
@@ -289,34 +254,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
       "genres": [
-        "Aventura",
-        "Drama",
-        "Acción"
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pwTMQFylIJ2pFJV0yJpcAoihcNI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Pr3QdRyUJGiHOZ5pEByAiXLGSo.png",
-      "runtime": "123 min",
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
       "director": [
-        "Michael Sarnoski"
+        "Paul Feig"
       ],
       "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård",
-        "Murray Bartlett",
-        "Noah Jupe",
-        "Jade Croot",
-        "Faith Delaney",
-        "Tabitha Smyth"
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
+      ],
+      "rank": 8,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.234,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Clark Griswold, movido por un generoso y sentimental espíritu navideño, quiere sorprender a toda su familia con una gran fiesta. La suerte no suele acompañarlo y esta vez no va a ser diferente... Una sucesión de disparatados desastres convertirán la esperadísima sorpresa de Clark en un verdadero caos.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8TNf3mbv4Wv9t6KMkxLUkCrB6SJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDjb1KSm6bHjH1Cnuv9fkXfSTVc.png",
+      "runtime": "97 min",
+      "director": [
+        "Jeremiah S. Chechik"
+      ],
+      "cast": [
+        "Chevy Chase",
+        "Beverly D'Angelo",
+        "Juliette Lewis",
+        "Johnny Galecki",
+        "John Randolph",
+        "Diane Ladd",
+        "E.G. Marshall",
+        "Doris Roberts"
       ],
       "rank": 9,
-      "id": "tt32273171",
-      "name": "La muerte de Robin Hood",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "rating": 6.71,
-      "year": 2026,
+      "id": "tt0097958",
+      "name": "¡Socorro! Ya es Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmyeMduOLqrNqBpAaMwC7Qivwoy.jpg",
+      "rating": 7.225,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +359,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-15T17:38:46.28Z"
+  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
 }
