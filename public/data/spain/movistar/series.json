@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,6 +32,62 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Sara Santano es una inspectora de hacienda que ha dedicado toda su vida a la recaudación de impuestos. Después de más de treinta años entregados a la Agencia Tributaria, decide prejubilarse. Sin embargo, el último día recibe el encargo más importante de su carrera: demostrar que Celeste, la gran estrella musical latina, reside en España y tiene que pagar aquí sus impuestos. Para ello, Sara tendrá que aparcar su vida para recorrer la de Celeste y demostrar que pasó 184 días en el país.",
+      "genres": [
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xr4kXYVKrwUOnkJ6cKLCe5V3HSF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Vk9j8THYmm8U0nLplloaO1852x.png",
+      "director": [],
+      "cast": [],
+      "rank": 2,
+      "id": "tt31262522",
+      "name": "Celeste",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptXjhh85HT4dB8xR6A7VI7ruq0X.jpg",
+      "rating": 7.606,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png",
+      "director": [],
+      "cast": [
+        "Angela Bassett",
+        "Jennifer Love Hewitt",
+        "Oliver Stark",
+        "Aisha Hinds",
+        "Kenneth Choi",
+        "Ryan Guzman",
+        "Corinne Massiah",
+        "Gavin McHugh"
+      ],
+      "rank": 3,
+      "id": "tt7235466",
+      "name": "9-1-1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "rating": 8.2,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Dos inspectores de la UCRIF (Unidad Central de Redes de Inmigración Ilegal y Falsedades Documentales) investigan una red de clubs de carretera en los burdeles de España, donde se explota sexualmente a mujeres de todo el mundo.",
       "genres": [
         "Crimen",
@@ -46,7 +102,7 @@
         "Valentina Vidal",
         "Raúl Arévalo"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
@@ -75,7 +131,7 @@
         "William Jackson Harper",
         "Mireille Enos"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt30051064",
       "name": "American Hostage",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
@@ -89,21 +145,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Sara Santano es una inspectora de hacienda que ha dedicado toda su vida a la recaudación de impuestos. Después de más de treinta años entregados a la Agencia Tributaria, decide prejubilarse. Sin embargo, el último día recibe el encargo más importante de su carrera: demostrar que Celeste, la gran estrella musical latina, reside en España y tiene que pagar aquí sus impuestos. Para ello, Sara tendrá que aparcar su vida para recorrer la de Celeste y demostrar que pasó 184 días en el país.",
+      "description": "Todo comienza cuando la Detective Rebecca Madsen (Sarah Jones, \"Sons of Anarchy\") del Departamento de Policía de San Francisco es enviada a investigar un homicidio en el que una huella digital la lleva hasta un sospechoso que había estado preso en Alcatraz y debería haber muerto hace décadas. Cuando el agente del gobierno Emerson Hauser (Sam Neill, \"Jurassic Park\") intenta impedir la investigación de la detective, Madsen busca ayuda en el experto en Alcatraz y fánáticos de los cómics, Dr. Diego \"Doc\" Soto (Jorge Garcia, \"Lost\").",
       "genres": [
-        "Comedia",
-        "Misterio"
+        "Misterio",
+        "Action & Adventure",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/xr4kXYVKrwUOnkJ6cKLCe5V3HSF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Vk9j8THYmm8U0nLplloaO1852x.png",
+      "background": "https://image.tmdb.org/t/p/w1280/egSDCK4n50i4Rr6mpctXwbJsrf9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4dLfJOjwGUtNekvk9yjXl9tKos7.png",
       "director": [],
-      "cast": [],
-      "rank": 4,
-      "id": "tt31262522",
-      "name": "Celeste",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptXjhh85HT4dB8xR6A7VI7ruq0X.jpg",
-      "rating": 7.606,
-      "year": 2024,
+      "cast": [
+        "Sarah Jones",
+        "Sam Neill",
+        "Jorge Garcia",
+        "Jonny Coyne",
+        "Parminder Nagra",
+        "Cameron K. Smith"
+      ],
+      "rank": 6,
+      "id": "tt1728102",
+      "name": "Alcatraz",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keoXMIY8PAtNeE1pEfhoDyje0EY.jpg",
+      "rating": 6.3,
+      "year": 2012,
       "days": null,
       "trend": {
         "dir": "same",
@@ -126,7 +190,7 @@
         "Mona Marshall",
         "Jennifer Howell"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt0121955",
       "name": "South Park",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
@@ -140,24 +204,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El oro es sinónimo de riqueza y lujo pero, como bien saben los espectadores de DMAX, detrás de la extracción del metal más preciado del mundo se esconden historias dramáticas y terribles, protagonizas por hombres que ponen sus cuerpos y sus mentes al límite para superar a los elementos y conseguir, finalmente, el preciado tesoro.",
+      "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
       "genres": [
-        "Reality"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/q6KX0rtjiFpXHRanPKNHFuKCK6I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dhoW3tgHqolJ862K0xHpaylgGYm.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
       "director": [],
       "cast": [
-        "Parker Schnabel",
-        "Chris Doumitt",
-        "Paul Christie"
+        "Caitríona Balfe",
+        "Sam Heughan",
+        "Sophie Skelton",
+        "Richard Rankin",
+        "John Bell",
+        "David Berry",
+        "Charles Vandervaart",
+        "Izzy Meikle-Small"
       ],
-      "rank": 6,
-      "id": "tt1800864",
-      "name": "La fiebre del oro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Al6qqKb6F9lBafAZ0k8hIrZPQU8.jpg",
-      "rating": 7.167,
-      "year": 2010,
+      "rank": 8,
+      "id": "tt3006802",
+      "name": "Outlander",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
+      "rating": 8.195,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -183,7 +253,7 @@
         "Amaia Romero",
         "Biel Rossell"
       ],
-      "rank": 7,
+      "rank": 9,
       "id": "tt20096840",
       "name": "La mesías",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
@@ -197,84 +267,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Marbella no es solo una ciudad. Es un estilo de vida identificado con lujo, aristocracia y fiestas. Muchas fiestas. Es un lugar para ver y ser visto. Pero en la Costa del Sol también hay crimen organizado, narcotráfico, blanqueo de dinero, ajustes de cuentas y sicarios. Esta historia estalla el día de una primera comunión, pero venía de lejos.",
-      "genres": [
-        "Documental",
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/x2sRsj6TC3CbCFyYtDLoPOoE8uj.jpg",
-      "director": [],
-      "cast": [],
-      "rank": 8,
-      "id": "tt50827833",
-      "name": "Sicarios",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dSPPab7ijse6YJZxBN3afreGXdw.jpg",
-      "rating": 6.5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png",
-      "director": [],
-      "cast": [
-        "Taylor Kinney",
-        "David Eigenberg",
-        "Christian Stolte",
-        "Miranda Rae Mayo",
-        "Hanako Greensmith",
-        "Jocelyn Hudon",
-        "Brandon Larracuente",
-        "Da'Vinchi"
-      ],
-      "rank": 9,
-      "id": "tt2261391",
-      "name": "Chicago Fire",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-      "rating": 8.411,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+      "description": "Mickey Fox investiga actividades criminales y patrulla las calles de la pequeña ciudad de Edgewater mientras lidia con su padre ex-convicto y un misterioso incidente que involucra a su caprichosa hija.",
       "genres": [
         "Drama",
-        "Misterio"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/t9gfV0eM9nWqJ4vMey4CSYFiqmZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jXm6nUvztPNFjXTbEZNOe3x096Y.png",
       "director": [],
       "cast": [
-        "Melanie Lynskey",
-        "Tawny Cypress",
-        "Sophie Nélisse",
-        "Jasmin Savoy Brown",
-        "Sophie Thatcher",
-        "Sammi Hanratty",
-        "Warren Kole",
-        "Christina Ricci"
+        "Morena Baccarin",
+        "Matt Lauria",
+        "W. Earl Brown",
+        "Christopher Gorham",
+        "Michele Weaver",
+        "Amanda Arcuri",
+        "Ian Quinlan"
       ],
       "rank": 10,
-      "id": "tt11041332",
-      "name": "Yellowjackets",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "rating": 7.4,
-      "year": 2021,
+      "id": "tt32268630",
+      "name": "Sheriff Country",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+      "rating": 7.3,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,5 +298,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }

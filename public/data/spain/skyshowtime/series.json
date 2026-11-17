@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -38,37 +38,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Miniserie de TV (2025). 6 episodios. Tras la muerte de su esposa, Bunny Munro, un vendedor a domicilio adicto al sexo y lujurioso confeso, se lleva a su hijo pequeño en una caótica gira de ventas por Brighton y más allá, donde se ve obligado a enfrentarse a qué clase de hombre -y de padre- es en realidad.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ogi8uZCaW17tmz5uOQkUoxXKVSX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1XfP4Sg3plfaBc5mHFz75Uq0tvr.png",
-      "director": [],
-      "cast": [
-        "Matt Smith",
-        "Rafael Mathé",
-        "Sarah Greene",
-        "Johann Myers",
-        "Robert Glenister",
-        "Alice May Feetham",
-        "David Threlfall",
-        "Lindsay Duncan"
-      ],
-      "rank": 2,
-      "id": "tt0808224",
-      "name": "The Death of Bunny Munro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2ucY5MO4lSpcHzry93aFzSoJ2S6.jpg",
-      "rating": 5.722,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "genres": [
         "Crimen",
@@ -88,11 +57,11 @@
         "Kadia Saraf",
         "Dominic Fumusa"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt33043892",
       "name": "Dexter: Resurrección",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.543,
+      "rating": 8.545,
       "year": 2025,
       "days": null,
       "trend": {
@@ -121,11 +90,11 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "rating": 8.32,
+      "rating": 8.322,
       "year": 2022,
       "days": null,
       "trend": {
@@ -154,11 +123,11 @@
         "Desmond Harrington",
         "C.S. Lee"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.243,
+      "rating": 8.2,
       "year": 2006,
       "days": null,
       "trend": {
@@ -168,25 +137,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
       "genres": [
-        "Comedia"
+        "Drama",
+        "War & Politics"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bY2J2Jq8rSrKm5xCFtzYzqFh44o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png",
+      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
       "director": [],
       "cast": [
-        "Rainn Wilson",
-        "John Krasinski",
-        "Jenna Fischer",
-        "Ed Helms"
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable",
+        "Jill Wagner",
+        "LaMonica Garrett",
+        "James Jordan",
+        "Genesis Rodriguez",
+        "Michael Kelly"
+      ],
+      "rank": 5,
+      "id": "tt13111078",
+      "name": "Operaciones Especiales: Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "rating": 8.273,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdl9v9qnozlMAux1CRn0qAewlCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png",
+      "director": [],
+      "cast": [
+        "Kyle MacLachlan"
       ],
       "rank": 6,
-      "id": "tt0386676",
-      "name": "The Office",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "rating": 8.6,
-      "year": 2005,
+      "id": "tt0098936",
+      "name": "Twin Peaks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "rating": 8.339,
+      "year": 1990,
       "days": null,
       "trend": {
         "dir": "same",
@@ -222,38 +221,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "director": [],
-      "cast": [
-        "Zoe Saldaña",
-        "Laysla De Oliveira",
-        "Dave Annable",
-        "Jill Wagner",
-        "LaMonica Garrett",
-        "James Jordan",
-        "Genesis Rodriguez",
-        "Michael Kelly"
-      ],
-      "rank": 8,
-      "id": "tt13111078",
-      "name": "Operaciones Especiales: Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.273,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Una pareja sueca vende su exitoso negocio por una cifra récord para empezar una vida de lujo en Mallorca junto a sus hijos. Listos para vivir en unas vacaciones eternas, sus vidas dan un giro inesperado durante la fiesta del 50 cumpleaños de él, que lleva a su hermano y su esposa a mudarse a la soleada isla, donde se desata el caos.",
       "genres": [
         "Drama",
@@ -263,7 +230,7 @@
       "logo": "https://image.tmdb.org/t/p/w500/eLQ9yynNcTeOgWROYgrGLkZiZXc.png",
       "director": [],
       "cast": [],
-      "rank": 9,
+      "rank": 8,
       "id": "tt36220283",
       "name": "Where the Sun Always Shines",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jMB3BNFwH0yUaSobM3nRUTYoGG6.jpg",
@@ -277,30 +244,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!\n\nver gratis in vercineo.net House M. D. es un drama médico Estadounidense que se emitió originalmente por la cadena Fox durante ocho temporadas, desde el 16 de noviembre de 2004 al 21 de mayo de 2012. El protagonista de la serie es el Dr. Gregory House, un médico nada convencional, genio, misántropo y adicto a las drogas que dirige un equipo de diagnósticos en el \"Princeton-Plainsboro Teaching Hospital\" (nombre ficticio) en Nueva Jersey.",
       "genres": [
-        "Western",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "background": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
+        "Hugh Laurie",
+        "Robert Sean Leonard",
+        "Omar Epps",
+        "Jesse Spencer",
+        "Odette Annable",
+        "Peter Jacobson",
+        "Lo Mutuc"
+      ],
+      "rank": 9,
+      "id": "tt0412142",
+      "name": "House",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "rating": 8.558,
+      "year": 2004,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png",
+      "director": [],
+      "cast": [
+        "Rami Malek",
+        "Christian Slater",
+        "Carly Chaikin"
       ],
       "rank": 10,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.284,
-      "year": 2018,
+      "id": "tt4158110",
+      "name": "Mr. Robot",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "rating": 8.266,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -309,5 +301,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }

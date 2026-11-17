@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.329,
+      "rating": 6.323,
       "year": 2026,
       "days": null,
       "trend": {
@@ -67,7 +67,7 @@
       "id": "tt30955489",
       "name": "Until Dawn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.234,
+      "rating": 6.235,
       "year": 2025,
       "days": null,
       "trend": {
@@ -77,7 +77,42 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+      "runtime": "103 min",
+      "director": [
+        "Adam Pålsson"
+      ],
+      "cast": [
+        "Felice Jankell",
+        "Happy Jankell",
+        "Christian Fandango Sundgren",
+        "Celie Sparre",
+        "Anastasios Soulis",
+        "Maria Kulle",
+        "Dag Malmberg",
+        "Bengt Braskered"
+      ],
+      "rank": 3,
+      "id": "tt39313557",
+      "name": "El intercambio navideño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "rating": 6.393,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
         "Suspense",
         "Misterio"
@@ -98,48 +133,12 @@
         "Hill Harper",
         "Ben Dickey"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt38213251",
       "name": "Heartland",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 6.589,
+      "rating": 6.293,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 4,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.624,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,33 +180,70 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
+        "Ciencia ficción",
         "Terror",
-        "Misterio"
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png",
-      "runtime": "129 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "Zach Cregger"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
       ],
       "rank": 6,
-      "id": "tt26581740",
-      "name": "Weapons",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "rating": 7.253,
-      "year": 2025,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.626,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las vacaciones de una familia en una casa de lujo dan un giro inquietante cuando un ciberataque anula sus dispositivos... y dos desconocidos llaman a la puerta.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z9KSGzRO2cAOCvonJloyExlgzNR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9FkXZoK2FmRqW7SH74Np5TI77bP.png",
+      "runtime": "138 min",
+      "director": [
+        "Sam Esmail"
+      ],
+      "cast": [
+        "Julia Roberts",
+        "Ethan Hawke",
+        "Mahershala Ali",
+        "Myha'la",
+        "Farrah Mackenzie",
+        "Charlie Evans",
+        "Kevin Bacon",
+        "Vanessa Aspillaga"
+      ],
+      "rank": 7,
+      "id": "tt12747748",
+      "name": "Dejar el mundo atrás",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7NJGZ0GP7S8uXCW2reguAOTwBB8.jpg",
+      "rating": 6.363,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -237,11 +273,11 @@
         "Holt McCallany",
         "Eion Bailey"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt0137523",
       "name": "El club de la lucha",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.437,
+      "rating": 8.4,
       "year": 1999,
       "days": null,
       "trend": {
@@ -251,68 +287,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+      "description": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
       "genres": [
-        "Romance",
-        "Comedia"
+        "Ciencia ficción",
+        "Comedia",
+        "Aventura"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png",
+      "runtime": "137 min",
       "director": [
-        "Adam Pålsson"
+        "Bong Joon-ho"
       ],
       "cast": [
-        "Felice Jankell",
-        "Happy Jankell",
-        "Christian Fandango Sundgren",
-        "Celie Sparre",
-        "Anastasios Soulis",
-        "Maria Kulle",
-        "Dag Malmberg",
-        "Bengt Braskered"
-      ],
-      "rank": 8,
-      "id": "tt39313557",
-      "name": "El intercambio navideño",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "rating": 6.733,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
-      "genres": [
-        "Terror",
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/67GiqvLsOVFQf5a7545T3RhAa6N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wIC9JBX6hGDK4bjMmLlegO6jYvv.png",
-      "runtime": "97 min",
-      "director": [
-        "Josh Ruben"
-      ],
-      "cast": [
-        "Olivia Holt",
-        "Mason Gooding",
-        "Michaela Watkins",
-        "Devon Sawa",
-        "Jordana Brewster",
-        "Gigi Zumbado",
-        "Yoson An",
-        "Alexander Walker"
+        "Robert Pattinson",
+        "Naomi Ackie",
+        "Steven Yeun",
+        "Mark Ruffalo",
+        "Toni Collette",
+        "Anamaria Vartolomei",
+        "Daniel Henshall",
+        "Patsy Ferran"
       ],
       "rank": 9,
-      "id": "tt32558992",
-      "name": "El asesino con ojos de corazón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6v0LlIAW903yLbsoTw6DMUAaQeq.jpg",
-      "rating": 6.203,
+      "id": "tt12299608",
+      "name": "Mickey 17",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+      "rating": 6.819,
       "year": 2025,
       "days": null,
       "trend": {
@@ -346,7 +347,7 @@
       "id": "tt37803364",
       "name": "Un amor posible",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.31,
+      "rating": 7.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -356,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }

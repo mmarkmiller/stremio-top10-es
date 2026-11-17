@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "series",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -26,9 +26,35 @@
       "rank": 1,
       "id": "tt4406178",
       "name": "La edad dorada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/o6F0N46WsVc43h6LVJtnvQiky0s.jpg",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wlvtB6Wn7IwsfcMtL4Sxm93jMGe.jpg",
       "rating": 7.7,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
+      "genres": [
+        "Talk",
+        "Comedia",
+        "News"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
+      "director": [],
+      "cast": [
+        "John Oliver"
+      ],
+      "rank": 2,
+      "id": "tt3530232",
+      "name": "Last Week Tonight with John Oliver",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "rating": 7.749,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -54,7 +80,7 @@
         "Archie Renaux",
         "Emma Laird"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt37972251",
       "name": "WAR",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
@@ -84,41 +110,12 @@
         "Janelle James",
         "William Stanford Davis"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt14218830",
       "name": "Colegio Abbott",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Wzg87NuYttqYqZKLbQMtQXKy6o.jpg",
       "rating": 7.5,
       "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue a policías novatos que trabajan en Belfast, una ciudad en la que ser policía de primera línea conlleva presiones y peligros únicos.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zIMWblj36xRkLHjAwFjZt1crdGZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
-      "director": [],
-      "cast": [
-        "Sian Brooke",
-        "Katherine Devlin",
-        "Nathan Braniff",
-        "Martin McCann",
-        "Andi Osho"
-      ],
-      "rank": 4,
-      "id": "tt14466018",
-      "name": "Blue Lights",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e0dGmNA9Wory3p526RX6oTpMVbF.jpg",
-      "rating": 7.6,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -146,7 +143,7 @@
       "id": "tt31589662",
       "name": "El primer matrimonio de Georgie y Mandy",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zsin2cqTLzXaiRtPaT3CSkCGXZy.jpg",
-      "rating": 8.016,
+      "rating": 8.012,
       "year": 2024,
       "days": null,
       "trend": {
@@ -156,24 +153,52 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Con su repaso semanal de las noticias, la política y los acontecimientos actuales, John Oliver ofrece su perspectiva única y distintiva voz a una serie de cuestiones sociales, políticas o existenciales a las que enfrentan Estados Unidos y el mundo.",
+      "description": "Sigue a policías novatos que trabajan en Belfast, una ciudad en la que ser policía de primera línea conlleva presiones y peligros únicos.",
       "genres": [
-        "Talk",
-        "Comedia",
-        "News"
+        "Crimen",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/26TgQvq9mZ85KKKKmeRnsOfJVUL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zocidNB8qOAloS7fVVqD26ilMh5.png",
+      "background": "https://image.tmdb.org/t/p/w1280/zIMWblj36xRkLHjAwFjZt1crdGZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9NwYkjUJQ5cHJY7pDY7NJIbG7Ks.png",
       "director": [],
       "cast": [
-        "John Oliver"
+        "Sian Brooke",
+        "Katherine Devlin",
+        "Nathan Braniff",
+        "Martin McCann",
+        "Andi Osho"
       ],
       "rank": 6,
-      "id": "tt3530232",
-      "name": "Last Week Tonight with John Oliver",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-      "rating": 7.749,
-      "year": 2014,
+      "id": "tt14466018",
+      "name": "Blue Lights",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e0dGmNA9Wory3p526RX6oTpMVbF.jpg",
+      "rating": 7.6,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder hace uso de su carrera en Económicas y su experiencia vital para ayudar a pequeños negocios a conseguir mayores beneficios. Pero, debido a sus métodos poco ortodoxos, los esfuerzos genuinos de Nathan por hacer buenas acciones llevan a gente corriente a vivir experiencias que van mucho más allá de lo que podían esperar.",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 7,
+      "id": "tt2297757",
+      "name": "Nathan al rescate",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
+      "rating": 8.2,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -196,68 +221,12 @@
         "Aaron Pierre",
         "Kelly Macdonald"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt26545992",
       "name": "Linternas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "rating": 8.186,
+      "rating": 8.182,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nathan Fielder hace uso de su carrera en Económicas y su experiencia vital para ayudar a pequeños negocios a conseguir mayores beneficios. Pero, debido a sus métodos poco ortodoxos, los esfuerzos genuinos de Nathan por hacer buenas acciones llevan a gente corriente a vivir experiencias que van mucho más allá de lo que podían esperar.",
-      "genres": [
-        "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7LZniI0722OKMZ7Fxov3S1XN0J3.png",
-      "director": [],
-      "cast": [
-        "Nathan Fielder"
-      ],
-      "rank": 8,
-      "id": "tt2297757",
-      "name": "Nathan al rescate",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2q04umkN6EDQ9mXHaMSRXHQ4pcu.jpg",
-      "rating": 8.2,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png",
-      "director": [],
-      "cast": [
-        "Noah Wyle",
-        "Patrick Ball",
-        "Katherine LaNasa",
-        "Supriya Ganesh",
-        "Fiona Dourif",
-        "Taylor Dearden",
-        "Isa Briones",
-        "Gerran Howell"
-      ],
-      "rank": 9,
-      "id": "tt31938062",
-      "name": "The Pitt",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "rating": 8.724,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,12 +252,37 @@
         "Rich Sommer",
         "Kiernan Shipka"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt0804503",
       "name": "Mad Men",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "rating": 8.1,
+      "rating": 8.129,
       "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
+      ],
+      "rank": 10,
+      "id": "tt10802170",
+      "name": "Los ensayos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
+      "rating": 7.941,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -297,5 +291,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }

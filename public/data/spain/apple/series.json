@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "series",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -29,7 +29,7 @@
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.596,
+      "rating": 7.509,
       "year": 2026,
       "days": null,
       "trend": {
@@ -61,7 +61,7 @@
       "id": "tt5875444",
       "name": "Slow Horses",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "rating": 8.1,
+      "rating": 8.077,
       "year": 2022,
       "days": null,
       "trend": {
@@ -94,7 +94,7 @@
       "id": "tt32375763",
       "name": "12 12 12",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
-      "rating": 5.9,
+      "rating": 6.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -104,31 +104,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "director": [],
       "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Patricia Arquette",
-        "Jen Tullock",
-        "Dichen Lachman",
-        "Sarah Bock"
+        "Rebecca Ferguson",
+        "Common",
+        "Chinaza Uche",
+        "Ashley Zukerman",
+        "Shane McRae",
+        "Remmie Milner",
+        "Alexandria Riley",
+        "Reed Birney"
       ],
       "rank": 4,
-      "id": "tt11280740",
-      "name": "Separación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
-      "rating": 8.388,
-      "year": 2022,
+      "id": "tt14688458",
+      "name": "Silo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "rating": 8.2,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -169,69 +168,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "director": [],
-      "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Chinaza Uche",
-        "Ashley Zukerman",
-        "Shane McRae",
-        "Remmie Milner",
-        "Alexandria Riley",
-        "Reed Birney"
-      ],
-      "rank": 6,
-      "id": "tt14688458",
-      "name": "Silo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "rating": 8.23,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
-      "director": [],
-      "cast": [
-        "Matthew Rhys",
-        "Kate O'Flynn",
-        "Kevin Carroll",
-        "Dale Dickey",
-        "Kingston Rumi Southwick",
-        "Stephen Root"
-      ],
-      "rank": 7,
-      "id": "tt33332385",
-      "name": "La maldición de Widow's Bay",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
-      "rating": 8.008,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
       "genres": [
         "Sci-Fi & Fantasy",
@@ -249,11 +185,11 @@
         "Oakes Fegley",
         "Amanda Brugel"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt19231492",
       "name": "Materia oscura",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "rating": 7.813,
+      "rating": 7.811,
       "year": 2024,
       "days": null,
       "trend": {
@@ -282,11 +218,75 @@
         "Jon Pointing",
         "Sophie Willan"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt38504111",
       "name": "Pequeños profetas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-      "rating": 7.954,
+      "rating": 8.006,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mark Scout dirige un equipo en Lumon Industries cuyos empleados se han sometido a un procedimiento quirúrgico que separa sus recuerdos entre trabajo y vida personal. Este arriesgado experimento de conciliación es puesto en tela de juicio cuando Mark se encuentra envuelto en un misterio que le obligará a confrontar la verdadera naturaleza de su trabajo... y de sí mismo.",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPbWIdtEAfvVllopRKMjB4lBXtT.png",
+      "director": [],
+      "cast": [
+        "Adam Scott",
+        "Britt Lower",
+        "Tramell Tillman",
+        "Zach Cherry",
+        "Patricia Arquette",
+        "Jen Tullock",
+        "Dichen Lachman",
+        "Sarah Bock"
+      ],
+      "rank": 8,
+      "id": "tt11280740",
+      "name": "Separación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+      "rating": 8.388,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9HQc13sp4oH3Zfhgzj0O8HiTLgG.png",
+      "director": [],
+      "cast": [
+        "Matthew Rhys",
+        "Kate O'Flynn",
+        "Kevin Carroll",
+        "Dale Dickey",
+        "Kingston Rumi Southwick",
+        "Stephen Root"
+      ],
+      "rank": 9,
+      "id": "tt33332385",
+      "name": "La maldición de Widow's Bay",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "rating": 8.007,
       "year": 2026,
       "days": null,
       "trend": {
@@ -313,7 +313,7 @@
       "id": "tt22202452",
       "name": "Pluribus",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/stkYbERuo2YYuay37rYaE41Izyu.jpg",
-      "rating": 7.923,
+      "rating": 7.925,
       "year": 2025,
       "days": null,
       "trend": {
@@ -323,5 +323,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }

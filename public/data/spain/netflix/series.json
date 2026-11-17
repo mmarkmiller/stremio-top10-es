@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "series",
-  "date": "202611162354",
+  "date": "202611172319",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.8,
+      "rating": 7.826,
       "year": 2026,
       "days": null,
       "trend": {
@@ -63,7 +63,7 @@
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 6.6,
+      "rating": 6.367,
       "year": 2026,
       "days": null,
       "trend": {
@@ -94,7 +94,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.1,
+      "rating": 7.053,
       "year": 2024,
       "days": null,
       "trend": {
@@ -136,30 +136,94 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
       "genres": [
+        "Comedia",
         "Drama",
-        "War & Politics"
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
       "director": [],
       "cast": [
-        "Keri Russell",
-        "Rufus Sewell",
-        "Ali Ahn",
-        "Rory Kinnear",
-        "Ato Essandoh",
-        "Bradley Whitford",
-        "Allison Janney",
-        "Nana Mensah"
+        "Theo James",
+        "Kaya Scodelario",
+        "Daniel Ings",
+        "Joely Richardson",
+        "Vinnie Jones",
+        "Giancarlo Esposito",
+        "Benedetta Porcaroli"
       ],
       "rank": 5,
-      "id": "tt17491088",
-      "name": "La diplomática",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.639,
-      "year": 2023,
+      "id": "tt13210838",
+      "name": "The Gentlemen: La serie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "rating": 7.883,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!\n\nEsta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "director": [],
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "矢口真里",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Ikue Otani",
+        "Yuriko Yamaguchi"
+      ],
+      "rank": 6,
+      "id": "tt0388629",
+      "name": "One Piece",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+      "rating": 8.755,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bir Başkadır, Nos conocimos en Estambul en España, es una serie drama turca que gira en torno a un grupo de personas de Estambul intentan derribar las barreras socioculturales mientras encuentran un terreno de comprensión entre ellos mientras se enfrentan a sus deseos y temores que se entrecruzan. Teniendo que tomar así un nuevo camino o lidiar con un pasado bastante complejo.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oIMHVcV1pPkUTc7gRU1fS3UwTFQ.png",
+      "director": [
+        "Berkun Oya"
+      ],
+      "cast": [
+        "Öykü Karayel",
+        "Funda Eryiğit",
+        "Fatih Artman",
+        "Defne Kayalar",
+        "Tülin Özen"
+      ],
+      "rank": 7,
+      "id": "tt11301642",
+      "name": "Nos conocimos en Estambul",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cFo6613vyG67H4025hZMNSra8Es.jpg",
+      "rating": 7.8,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -181,11 +245,11 @@
         "Mike Faist",
         "Joseph Zada"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt21097264",
       "name": "Al este del Edén",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.769,
+      "rating": 7.785,
       "year": 2026,
       "days": null,
       "trend": {
@@ -195,29 +259,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "description": "Una decisión tomada en China en los años 60 trasciende el tiempo y el espacio, obligando a unos científicos a afrontar la peor amenaza para la humanidad en el presente.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Crimen"
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png",
+      "background": "https://image.tmdb.org/t/p/w1280/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8qVlsEzmZcw7TsSOKy9r9Kt9reS.png",
       "director": [],
       "cast": [
-        "Theo James",
-        "Kaya Scodelario",
-        "Daniel Ings",
-        "Joely Richardson",
-        "Vinnie Jones",
-        "Giancarlo Esposito",
-        "Benedetta Porcaroli"
+        "Jovan Adepo",
+        "Rosalind Chao",
+        "Liam Cunningham",
+        "Eiza González",
+        "Jess Hong",
+        "Marlo Kelly",
+        "Alex Sharp",
+        "Sea Shimooka"
       ],
-      "rank": 7,
-      "id": "tt13210838",
-      "name": "The Gentlemen: La serie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "rating": 7.884,
+      "rank": 9,
+      "id": "tt13016388",
+      "name": "El problema de los 3 cuerpos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",
+      "rating": 7.5,
       "year": 2024,
       "days": null,
       "trend": {
@@ -227,98 +292,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
+      "description": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "War & Politics"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP7iVBkIrw0EccVCNEWo84PTM64.png",
-      "director": [
-        "Juan Cavestany",
-        "Álvaro Fernández Armero"
-      ],
-      "cast": [
-        "Antonio de la Torre",
-        "Alexandra Jiménez",
-        "Enric Benavent",
-        "Fernando Andina",
-        "Celia de Molina",
-        "Teresa Rabal",
-        "Mercedes Sampietro"
-      ],
-      "rank": 8,
-      "id": "tt39387986",
-      "name": "Grande de España",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "genres": [
-        "Action & Adventure",
-        "Comedia",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png",
+      "background": "https://image.tmdb.org/t/p/w1280/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bvJcrMb0zzpMEhq1X1agVg5l7zX.png",
       "director": [],
       "cast": [
-        "Mayumi Tanaka",
-        "Kazuya Nakai",
-        "矢口真里",
-        "Akemi Okamura",
-        "Kappei Yamaguchi",
-        "Hiroaki Hirata",
-        "Ikue Otani",
-        "Yuriko Yamaguchi"
-      ],
-      "rank": 9,
-      "id": "tt0388629",
-      "name": "One Piece",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/revXibqFO4JrwmLe34MKth1GVrd.jpg",
-      "rating": 8.756,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
-      "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png",
-      "director": [],
-      "cast": [
-        "Marina Inoue",
-        "Hiro Shimono",
-        "Yuki Kaji",
-        "Natsuki Hanae",
-        "Ayane Sakura",
-        "Kisho Taniyama",
-        "Yui Ishikawa",
-        "Yoshimasa Hosoya"
+        "Keri Russell",
+        "Rufus Sewell",
+        "Ali Ahn",
+        "Rory Kinnear",
+        "Ato Essandoh",
+        "Bradley Whitford",
+        "Allison Janney",
+        "Nana Mensah"
       ],
       "rank": 10,
-      "id": "tt2560140",
-      "name": "Ataque a los Titanes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-      "rating": 8.692,
-      "year": 2013,
+      "id": "tt17491088",
+      "name": "La diplomática",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "rating": 7.639,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,5 +324,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-16T21:38:57.988Z"
+  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
 }
