@@ -2,44 +2,8 @@
   "country": "spain",
   "key": "global",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xsvnjs0JggmPf7aTBSR7djahKgx.png",
-      "runtime": "116 min",
-      "director": [
-        "Armando Iannucci"
-      ],
-      "cast": [
-        "Steve Buscemi",
-        "Simon Russell Beale",
-        "Jeffrey Tambor",
-        "Jason Isaacs",
-        "Michael Palin",
-        "Rupert Friend",
-        "Andrea Riseborough",
-        "Dermot Crowley"
-      ],
-      "rank": 1,
-      "id": "tt4686844",
-      "name": "La muerte de Stalin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
-      "rating": 7.026,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -64,11 +28,11 @@
         "Hudson Meek",
         "Anne Gee Byrd"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.021,
+      "rating": 7.013,
       "year": 2026,
       "days": null,
       "trend": {
@@ -99,156 +63,12 @@
         "Viola Davis",
         "Fionnula Flanagan"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 6.952,
+      "rating": 7,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
-      "genres": [
-        "Suspense",
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6UKEo5f72vf67xp60aNhyNLjIMk.png",
-      "runtime": "122 min",
-      "director": [
-        "Daniel Sánchez Arévalo"
-      ],
-      "cast": [
-        "Laia Costa",
-        "Karra Elejalde",
-        "Luis Zahera",
-        "Tamar Novas",
-        "Álvaro Cervantes",
-        "Lluís Homar",
-        "Luz Valdenebro",
-        "Víctor Duplá"
-      ],
-      "rank": 4,
-      "id": "tt38793125",
-      "name": "Colisión",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.323,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
-      "runtime": "146 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Donald Sutherland",
-        "Lenny Kravitz",
-        "Philip Seymour Hoffman"
-      ],
-      "rank": 5,
-      "id": "tt1951264",
-      "name": "Los Juegos del Hambre: En llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
-      "rating": 7.426,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
-      "runtime": "123 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
-      ],
-      "rank": 6,
-      "id": "tt1951265",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.816,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
-      "director": [
-        "Kristoffer Borgli"
-      ],
-      "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
-      ],
-      "rank": 7,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.906,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,12 +100,83 @@
         "Necro",
         "Peter Verby"
       ],
-      "rank": 8,
+      "rank": 3,
       "id": "tt4846232",
       "name": "Good Time: Viviendo al límite",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1UWumNfHLu2yxzlJHziaUcd4mam.jpg",
-      "rating": 7.204,
+      "rating": 7.203,
       "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
+      ],
+      "rank": 4,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.816,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
+      "runtime": "112 min",
+      "director": [
+        "David O. Russell"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Christian Bale",
+        "Kathryn Hahn",
+        "Sienna Miller",
+        "John Mulaney",
+        "Snoop Dogg",
+        "Shane Gillis",
+        "Marshawn Lynch"
+      ],
+      "rank": 5,
+      "id": "tt24818230",
+      "name": "Madden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -316,7 +207,7 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt1951266",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
@@ -330,33 +221,129 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
       "genres": [
-        "Terror",
-        "Misterio"
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
+      "runtime": "146 min",
       "director": [
-        "David F. Sandberg"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Ella Rubin",
-        "Michael Cimino",
-        "Odessa A'zion",
-        "Ji-young Yoo",
-        "Belmont Cameli",
-        "Maia Mitchell",
-        "Peter Stormare",
-        "Tibor Szauerwein"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Donald Sutherland",
+        "Lenny Kravitz",
+        "Philip Seymour Hoffman"
+      ],
+      "rank": 7,
+      "id": "tt1951264",
+      "name": "Los Juegos del Hambre: En llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "rating": 7.426,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loqkFAOZ8egRaue7xcK6iQCcrVg.png",
+      "runtime": "108 min",
+      "director": [
+        "Martin McDonagh"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Ralph Fiennes",
+        "Clémence Poésy",
+        "Thekla Reuten",
+        "Jordan Prentice",
+        "Elizabeth Berrington",
+        "Jérémie Renier"
+      ],
+      "rank": 8,
+      "id": "tt0780536",
+      "name": "Escondidos en Brujas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
+      "rating": 7.5,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nunca provoques a un hombre tranquilo, porque podrías despertar sus demonios.",
+      "genres": [
+        "Drama"
+      ],
+      "director": [
+        "Andrés Paternostro"
+      ],
+      "cast": [
+        "Carolina Kopelioff",
+        "Romina Fernandes",
+        "Roberto Vallejos",
+        "Ricardo Merkin",
+        "Daniel Campomenosi"
+      ],
+      "rank": 9,
+      "id": "tt34771515",
+      "name": "La noche de los tres fuegos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gY5SGmq8qbRKw2kBKXEfKXlkna1.jpg",
+      "rating": 10,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "75 min",
+      "director": [
+        "Leonardo Peña"
+      ],
+      "cast": [
+        "Amparo Noguera",
+        "Diego Casanueva",
+        "Julio Jung",
+        "Daniela Urra Balcazar",
+        "Eusebio Arenas",
+        "Diego Ruiz",
+        "Arantxa Bodenhöfer",
+        "Pablo Krögh"
       ],
       "rank": 10,
-      "id": "tt30955489",
-      "name": "Until Dawn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.235,
-      "year": 2025,
+      "id": "tmdb:545996",
+      "name": "Silencio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eHUvXiKauOGGROpxdLwyYH2fdLG.jpg",
+      "rating": null,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -365,5 +352,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

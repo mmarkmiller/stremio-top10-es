@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,75 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 6.952,
+      "rating": 7,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "75 min",
+      "director": [
+        "Leonardo Peña"
+      ],
+      "cast": [
+        "Amparo Noguera",
+        "Diego Casanueva",
+        "Julio Jung",
+        "Daniela Urra Balcazar",
+        "Eusebio Arenas",
+        "Diego Ruiz",
+        "Arantxa Bodenhöfer",
+        "Pablo Krögh"
+      ],
+      "rank": 2,
+      "id": "tmdb:545996",
+      "name": "Silencio",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eHUvXiKauOGGROpxdLwyYH2fdLG.jpg",
+      "rating": null,
+      "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Año 2027: el ser humano está al borde de la extinción: los hombres han perdido la capacidad de procrear y se ignora por qué razon todas las mujeres del planeta se han vuelto estériles. Al mismo tiempo, el mundo se estremece cuando muere un muchacho de 18 años, la persona más joven de la Tierra. Se vive, pues, una situación de caos galopante. En tales circunstancias, Theo (Clive Owen), un desilusionado ex-activista radical de Londres convertido en burócrata, es contratado por Julian (Julianne Moore) para que proteja a una mujer que puede tener el secreto de la salvación de la humanidad, la persona más valiosa de la Tierra...",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/www52jvhbB0ppe9s0zxbf9EYox.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xDCVx7xZpkYaPnZIWVhSHyqcRqK.png",
+      "runtime": "109 min",
+      "director": [
+        "Alfonso Cuarón"
+      ],
+      "cast": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris",
+        "Charlie Hunnam",
+        "Danny Huston"
+      ],
+      "rank": 3,
+      "id": "tt0206634",
+      "name": "Hijos de los hombres",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jxVLES5eTLuJgeYs0ywCLZbbQW1.jpg",
+      "rating": 7.62,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -62,7 +129,7 @@
         "Peter Stormare",
         "Tibor Szauerwein"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt30955489",
       "name": "Until Dawn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
@@ -97,7 +164,7 @@
         "Francesco Piacentini-Smith",
         "Somerled Campbell"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt31514146",
       "name": "Incontrolable (I Swear)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
@@ -111,101 +178,34 @@
     },
     {
       "artworkVersion": 4,
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "75 min",
-      "director": [
-        "Leonardo Peña"
-      ],
-      "cast": [
-        "Amparo Noguera",
-        "Diego Casanueva",
-        "Julio Jung",
-        "Daniela Urra Balcazar",
-        "Eusebio Arenas",
-        "Diego Ruiz",
-        "Arantxa Bodenhöfer",
-        "Pablo Krögh"
-      ],
-      "rank": 4,
-      "id": "tmdb:545996",
-      "name": "Silencio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eHUvXiKauOGGROpxdLwyYH2fdLG.jpg",
-      "rating": null,
-      "year": 2017,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
-      "genres": [
-        "Acción",
-        "Suspense",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gPucRIw0n3MPv7r1FEdMpngNXr7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png",
-      "runtime": "150 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "John David Washington",
-        "Robert Pattinson",
-        "Elizabeth Debicki",
-        "Kenneth Branagh",
-        "डिम्पल कपाड़िया",
-        "Michael Caine",
-        "Martin Donovan",
-        "Fiona Dourif"
-      ],
-      "rank": 5,
-      "id": "tt6723592",
-      "name": "Tenet",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
-      "rating": 7.171,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "description": "Taylor (David Jonsson) es un recluso que, tras una larga condena, está a punto de obtener la libertad condicional. A pesar de ser tildado como un \"wasteman\" (alguien sin futuro o \"desperdiciado\"), ha logrado mantenerse alejado de problemas dentro de prisión con la esperanza de reencontrarse con su hijo distanciado.",
       "genres": [
         "Crimen",
-        "Misterio",
+        "Drama",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
-      "runtime": "177 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hQyZn7t4z3PeW161xKLj4u5lHa3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k1zOdaCpLnYhka7vm5uN9yNZCVy.png",
+      "runtime": "90 min",
       "director": [
-        "Matt Reeves"
+        "Cal McMau"
       ],
       "cast": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Jeffrey Wright",
-        "Colin Farrell",
-        "Paul Dano",
-        "John Turturro",
-        "Andy Serkis",
-        "Peter Sarsgaard"
+        "David Jonsson",
+        "Tom Blyth",
+        "Alex Hassell",
+        "Neil Linpow",
+        "Paul Hilton",
+        "Corin Silva",
+        "Layton Blake",
+        "Jack Barker"
       ],
-      "rank": 6,
-      "id": "tt1877830",
-      "name": "The Batman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.7,
-      "year": 2022,
+      "rank": 7,
+      "id": "tt29028515",
+      "name": "Hombres de acero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bfM6FvDN9JnWTO4IIIQplMMjgWG.jpg",
+      "rating": 7.402,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,31 +214,66 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Durante una protesta en Cisjordania, un adolescente palestino se ve implicado en un conflicto que sacude la vida de toda su familia. Conmocionada, su madre Hanan narra la historia familiar que abarca tres generaciones durante 70 años, a través de las tensiones políticas y emocionales que les condujeron a tan fatídico momento.",
+      "description": "Drama familiar. Cuando Zach entra en la adolescencia y descubre que es diferente a los demás, reprimirá sus tendencias más profundas para no perder el amor de su padre. Entre 1960 y 1980, vive rodeado de sus hermanos, de Pink Floyd y los Rolling Stones, los porros fumados a escondidas, las grandes y pequeñas discusiones. Pero, sobre todo, lo que Zac busca es poder mantener la relación con su padre.",
       "genres": [
+        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/u76SJYtliIQX61TUi4vvZjEYmcK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eijNDLaAGrwGyk5SfNYXubk6lEo.png",
-      "runtime": "146 min",
+      "background": "https://image.tmdb.org/t/p/w1280/h34IJUeyuQqjHTMbHDKpycw2Eaq.jpg",
+      "runtime": "127 min",
       "director": [
-        "Cherien Dabis"
+        "Jean-Marc Vallée"
       ],
       "cast": [
-        "Saleh Bakri",
-        "Cherien Dabis",
-        "Adam Bakri",
-        "Maria Zreik",
-        "Mohammad Bakri",
-        "Muhammad Abed Elrahman",
-        "Sanad Alkabareti",
-        "Salah Al Din"
+        "Marc-André Grondin",
+        "Danielle Proulx",
+        "Michel Côté",
+        "Pierre-Luc Brillant",
+        "Alex Gravel",
+        "Maxime Tremblay",
+        "Natacha Thompson",
+        "Francis Ducharme"
       ],
-      "rank": 7,
-      "id": "tt29344894",
-      "name": "Todo lo que fuimos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/y6p2Vk7r27xA0PjQN066ferbjxs.jpg",
-      "rating": 7.92,
+      "rank": 8,
+      "id": "tt0401085",
+      "name": "C.R.A.Z.Y.",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5xBmj5HyWWCth6k4mCDHbRUAGh6.jpg",
+      "rating": 7.494,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un ladrón irrumpe en un todoterreno de lujo y se da cuenta de que ha tropezado con una trampa compleja y mortal tendida por una misteriosa figura.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aPhsiHZUhrpCPsYt59sTYpkcg3F.png",
+      "runtime": "95 min",
+      "director": [
+        "David Yarovesky"
+      ],
+      "cast": [
+        "Bill Skarsgård",
+        "Anthony Hopkins",
+        "Ashley Cartwright",
+        "Michael Eklund",
+        "Navid Charkhi",
+        "Sofia Tesema",
+        "Emma Kombe",
+        "Gabrielle Walsh"
+      ],
+      "rank": 9,
+      "id": "tt26671996",
+      "name": "Blindado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xIyIiJCss0HpychoUKFQYKiZiBH.jpg",
+      "rating": 6.201,
       "year": 2025,
       "days": null,
       "trend": {
@@ -248,107 +283,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
+      "description": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
       "genres": [
+        "Terror",
         "Acción",
-        "Suspense",
         "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AiQsHyrHppmkFUwjzjNv3Oj78qN.png",
-      "runtime": "132 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d0cAVcNi369hXwwl8PKRN3QY9nY.png",
+      "runtime": "123 min",
       "director": [
-        "James McTeigue"
+        "Yeon Sang-ho"
       ],
       "cast": [
-        "Natalie Portman",
-        "Hugo Weaving",
-        "Stephen Rea",
-        "Stephen Fry",
-        "John Hurt",
-        "Tim Pigott-Smith",
-        "Rupert Graves",
-        "Roger Allam"
-      ],
-      "rank": 8,
-      "id": "tt0434409",
-      "name": "V de Vendetta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg",
-      "rating": 7.898,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía",
-        "Terror"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/quxALlwYhgQjDO05nusMqUO99J9.png",
-      "runtime": "100 min",
-      "director": [
-        "Henry Selick"
-      ],
-      "cast": [
-        "Dakota Fanning",
-        "Teri Hatcher",
-        "Jennifer Saunders",
-        "Dawn French",
-        "Keith David",
-        "John Hodgman",
-        "Robert Bailey Jr.",
-        "Ian McShane"
-      ],
-      "rank": 9,
-      "id": "tt0327597",
-      "name": "Los mundos de Coraline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg",
-      "rating": 7.95,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Buenos Aires. Juan y Marcos son dos estafadores que están a punto de dar el golpe de sus vidas, el que puede convertirles, al fin, en millonarios. Sólo disponen de 24 horas, pero si lo planifican todo al detalle, nada puede salir mal... o eso creen.",
-      "genres": [
-        "Crimen",
-        "Suspense",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/72SsTpq6Ud35N6fR2P4MtnzE86f.png",
-      "runtime": "114 min",
-      "director": [
-        "Fabián Bielinsky"
-      ],
-      "cast": [
-        "Ricardo Darín",
-        "Gastón Pauls",
-        "Leticia Brédice",
-        "Gabo Correa",
-        "Pochi Ducasse",
-        "Jorge Noya",
-        "María Mercedes Villagra",
-        "Ignasi Abadal"
+        "전지현",
+        "구교환",
+        "지창욱",
+        "김신록",
+        "신현빈",
+        "고수",
+        "이중옥",
+        "김종태"
       ],
       "rank": 10,
-      "id": "tt0247586",
-      "name": "Nueve reinas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg",
-      "rating": 7.803,
-      "year": 2000,
+      "id": "tt34385135",
+      "name": "Zona cero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xGgRmpAVe1jmkZp5Z3SS4cKeMvp.jpg",
+      "rating": 8.176,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +319,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

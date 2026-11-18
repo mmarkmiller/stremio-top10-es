@@ -2,8 +2,43 @@
   "country": "united-states",
   "key": "global",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "runtime": "109 min",
+      "director": [
+        "Curry Barker"
+      ],
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
+      ],
+      "rank": 1,
+      "id": "tt37287335",
+      "name": "Obsession",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "rating": 8.16,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -28,11 +63,11 @@
         "Hudson Meek",
         "Anne Gee Byrd"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.021,
+      "rating": 7.013,
       "year": 2026,
       "days": null,
       "trend": {
@@ -42,101 +77,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
+      "runtime": "112 min",
       "director": [
-        "Curry Barker"
+        "David O. Russell"
       ],
       "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald",
-        "Darin Toonder",
-        "Anthony Pavone"
-      ],
-      "rank": 2,
-      "id": "tt37287335",
-      "name": "Obsession",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.16,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
+        "Nicolas Cage",
+        "Christian Bale",
+        "Kathryn Hahn",
+        "Sienna Miller",
+        "John Mulaney",
+        "Snoop Dogg",
+        "Shane Gillis",
+        "Marshawn Lynch"
       ],
       "rank": 3,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.626,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
-      "runtime": "107 min",
-      "director": [
-        "Olivia Wilde"
-      ],
-      "cast": [
-        "Olivia Wilde",
-        "Seth Rogen",
-        "Penélope Cruz",
-        "Edward Norton",
-        "Rachel Thurow",
-        "Mario Valdez"
-      ],
-      "rank": 4,
-      "id": "tt14173636",
-      "name": "La invitación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "id": "tt24818230",
+      "name": "Madden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
       "rating": 7.2,
       "year": 2026,
       "days": null,
@@ -170,7 +135,7 @@
         "Stanley Tucci",
         "Donald Sutherland"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt1392170",
       "name": "Los Juegos del Hambre",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nmwpp0ykPbddqGW8WmOdBEYFImC.jpg",
@@ -184,33 +149,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Nelly y Paul son una pareja feliz. Mientras él dirige el bonito hotel que acaba de comprar en el campo, a orillas de un lago, ella cuida del hijo de ambos. Pero, como Nelly es muy guapa y atrae a todos los clientes del hotel, Paul, dominado por unos celos incontrolados y obsesivos, llega a creer que su mujer se acuesta con todo el mundo.",
+      "description": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
       "genres": [
+        "Comedia",
         "Drama",
-        "Suspense"
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2rYgtckajPftIqpJxzVy7nfnlY0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/giTIAP1ttsFkUcTHtqGrx2Gazzf.png",
-      "runtime": "101 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gwtto1OP07OQz265gNPJfLGmn1N.png",
+      "runtime": "107 min",
       "director": [
-        "Claude Chabrol"
+        "Olivia Wilde"
       ],
       "cast": [
-        "Emmanuelle Béart",
-        "François Cluzet",
-        "Nathalie Cardone",
-        "André Wilms",
-        "Marc Lavoine",
-        "Christiane Minazzoli",
-        "Dora Doll",
-        "Mario David"
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton",
+        "Rachel Thurow",
+        "Mario Valdez"
       ],
-      "rank": 6,
-      "id": "tt0109731",
-      "name": "El infierno (L'Enfer)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6FoPTIVVNgsthHeJfgGKULXTADO.jpg",
-      "rating": 6.87,
-      "year": 1994,
+      "rank": 5,
+      "id": "tt14173636",
+      "name": "La invitación",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "rating": 7.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -240,11 +204,47 @@
         "Viola Davis",
         "Fionnula Flanagan"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 6.952,
+      "rating": 7,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
+      "director": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
+      ],
+      "rank": 7,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.627,
       "year": 2023,
       "days": null,
       "trend": {
@@ -290,42 +290,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
-      "runtime": "177 min",
-      "director": [
-        "Matt Reeves"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Jeffrey Wright",
-        "Colin Farrell",
-        "Paul Dano",
-        "John Turturro",
-        "Andy Serkis",
-        "Peter Sarsgaard"
-      ],
-      "rank": 9,
-      "id": "tt1877830",
-      "name": "The Batman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.7,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "genres": [
         "Ciencia ficción",
@@ -347,11 +311,46 @@
         "Henry Lloyd-Hughes",
         "Elizabeth Marvel"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt15047880",
       "name": "El día de la revelación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-      "rating": 7.4,
+      "rating": 7.406,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qLEIhXP5soL5NiGoAdUl57QoqSF.png",
+      "runtime": "91 min",
+      "director": [
+        "Jason James"
+      ],
+      "cast": [
+        "Maria Bakalova",
+        "Zach Cherry",
+        "Tyler Labine",
+        "Emily Hampshire",
+        "Preston Vanderslice",
+        "Ryan Beil",
+        "Devon Kenzo",
+        "Grace Dove"
+      ],
+      "rank": 10,
+      "id": "tt18316986",
+      "name": "All Night Wrong",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
+      "rating": 6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -361,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

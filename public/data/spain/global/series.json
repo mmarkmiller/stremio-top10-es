@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,40 +28,8 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.7,
+      "rating": 8.666,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
-      "director": [],
-      "cast": [
-        "Kristina Bogic",
-        "Geena Meszaros",
-        "Sara Boustany",
-        "Nnamdi Asomugha",
-        "Louisa Krause",
-        "Shirley Chen",
-        "Jackson Kelly",
-        "Sofia Wylie"
-      ],
-      "rank": 2,
-      "id": "tt8014982",
-      "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.826,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,12 +56,44 @@
         "Ismael Cruz Cordova",
         "Tyroe Muhafidin"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt7631058",
       "name": "El Señor de los Anillos: Los Anillos de Poder",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.218,
+      "rating": 7.219,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkiJKwDncYGcR5sfTKAmWXz2mGo.png",
+      "director": [],
+      "cast": [
+        "Kristina Bogic",
+        "Geena Meszaros",
+        "Sara Boustany",
+        "Nnamdi Asomugha",
+        "Louisa Krause",
+        "Shirley Chen",
+        "Jackson Kelly",
+        "Sofia Wylie"
+      ],
+      "rank": 3,
+      "id": "tt8014982",
+      "name": "El cuerpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "rating": 7.9,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -127,72 +127,7 @@
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 6.367,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis___¡Busca Ver⁠cineo.com en-Google\n\nTras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/skoYQABun0gdw4VpN85ZbTIclmT.png",
-      "director": [],
-      "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "T'Nia Miller",
-        "Orla Brady",
-        "Henry Lewis"
-      ],
-      "rank": 5,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "rating": 8.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
-      "director": [],
-      "cast": [
-        "Stephen Graham",
-        "Liev Schreiber",
-        "Zazie Beetz",
-        "Chrissy Metz",
-        "Gary Carr",
-        "Rory Culkin",
-        "Poorna Jagannathan",
-        "Landon Valentin"
-      ],
-      "rank": 6,
-      "id": "tt26598805",
-      "name": "Nocturno",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.509,
+      "rating": 6.313,
       "year": 2026,
       "days": null,
       "trend": {
@@ -216,12 +151,77 @@
         "Jordi Sánchez",
         "Nathalie Seseña"
       ],
-      "rank": 7,
+      "rank": 5,
       "id": "tt0922037",
       "name": "La que se avecina",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ceoJyZgsHBaenUxhobHUA6mXXf0.jpg",
       "rating": 8.1,
       "year": 2007,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/skoYQABun0gdw4VpN85ZbTIclmT.png",
+      "director": [],
+      "cast": [
+        "Paul Bettany",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "T'Nia Miller",
+        "Orla Brady",
+        "Henry Lewis"
+      ],
+      "rank": 6,
+      "id": "tt23112594",
+      "name": "VisionQuest",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "rating": 8.267,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un oscuro drama psicológico donde Idris Elba interpreta a Luther, un hombre que lucha contra sus propios demonios terribles, que podría ser tan peligroso como los depravados asesinos que caza.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h3UtLxMY7EYa2m4uFW14q3gz6El.png",
+      "director": [],
+      "cast": [
+        "Idris Elba",
+        "Dermot Crowley",
+        "Hermione Norris",
+        "Michael Smiley",
+        "Ruth Wilson",
+        "Patrick Malahide",
+        "Wunmi Mosaku",
+        "Enzo Cilenti"
+      ],
+      "rank": 7,
+      "id": "tt1474684",
+      "name": "Luther",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "rating": 7.845,
+      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -277,7 +277,7 @@
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.053,
+      "rating": 7.055,
       "year": 2024,
       "days": null,
       "trend": {
@@ -287,29 +287,30 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
+      "description": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
       "genres": [
+        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
+      "background": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
       "director": [],
       "cast": [
-        "Rose Byrne",
-        "Meghann Fahy",
-        "Brendan Gleeson",
-        "Harper Steele",
-        "Michael Dorman",
-        "Audrey Grace Marshall",
-        "Drew Cheek",
-        "Olivia Williams"
+        "Stephen Graham",
+        "Liev Schreiber",
+        "Zazie Beetz",
+        "Chrissy Metz",
+        "Gary Carr",
+        "Rory Culkin",
+        "Poorna Jagannathan",
+        "Landon Valentin"
       ],
       "rank": 10,
-      "id": "tt31842126",
-      "name": "The Good Daughter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "rating": 7.857,
+      "id": "tt26598805",
+      "name": "Nocturno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "rating": 7.583,
       "year": 2026,
       "days": null,
       "trend": {
@@ -319,5 +320,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

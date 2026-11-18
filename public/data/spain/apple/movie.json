@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "apple",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,42 +41,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 2,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.168,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Dan Morgan es muchas cosas: un marido devoto, un padre cariñoso, un reputado vendedor de coches. También es un exasesino. Y, cuando su pasado alcanza su presente, se ve obligado a embarcar a su ingenua familia en un viaje por carretera sin igual.",
       "genres": [
         "Acción",
@@ -99,7 +63,7 @@
         "Kellen Boyle",
         "Saïd Taghmaoui"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt16431870",
       "name": "Plan en familia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7mEX07jWRYrjarW84sBeFghGMfa.jpg",
@@ -113,32 +77,104 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+      "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
       "genres": [
-        "Acción",
-        "Drama"
+        "Drama",
+        "Historia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1KBVvL6MEAiWXpMv9YkczEgTXIP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IIQcADzsnKBEBGecnyAnQBU4Pf.png",
+      "runtime": "127 min",
       "director": [
-        "Joseph Kosinski"
+        "Sian Heder"
       ],
       "cast": [
-        "Brad Pitt",
-        "Damson Idris",
-        "Javier Bardem",
-        "Kerry Condon",
-        "Tobias Menzies",
-        "Kim Bodnia",
-        "Sarah Niles",
-        "Will Merrick"
+        "Ruth Madeley",
+        "Mark Ruffalo",
+        "Dylan O'Brien",
+        "Madeline Delp",
+        "Roberta Colindrez",
+        "Jon Beavers",
+        "Antwan Tolliver",
+        "Ray Fisher"
+      ],
+      "rank": 3,
+      "id": "tt15095848",
+      "name": "Siendo Heumann",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "rating": 7.052,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "runtime": "126 min",
+      "director": [
+        "Jennifer Peedom"
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
       ],
       "rank": 4,
-      "id": "tt16311594",
-      "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.834,
+      "id": "tt6262770",
+      "name": "Tenzing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": 8.171,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6x0H4KhOW9j4H3lGk6q1JO0Udl.png",
+      "runtime": "114 min",
+      "director": [
+        "David Freyne"
+      ],
+      "cast": [
+        "Elizabeth Olsen",
+        "Miles Teller",
+        "Callum Turner",
+        "Da'Vine Joy Randolph",
+        "John Early",
+        "Barry Primus",
+        "Betty Buckley",
+        "Darryl Scheelar"
+      ],
+      "rank": 5,
+      "id": "tt24950660",
+      "name": "Eternity",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
+      "rating": 7.128,
       "year": 2025,
       "days": null,
       "trend": {
@@ -170,7 +206,7 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
@@ -184,34 +220,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
+      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
       "genres": [
-        "Suspense",
-        "Historia",
+        "Acción",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z5CXqzoH4N7WjsHHSq5pjSvDV1x.png",
-      "runtime": "118 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
+      "runtime": "155 min",
       "director": [
-        "Jon S. Baird"
+        "Joseph Kosinski"
       ],
       "cast": [
-        "Taron Egerton",
-        "Никита Ефремов",
-        "Софья Лебедева",
-        "Anthony Boyle",
-        "Ben Miles",
-        "山村 憲之介",
-        "Игорь Грабузов",
-        "Олег Штефанко"
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem",
+        "Kerry Condon",
+        "Tobias Menzies",
+        "Kim Bodnia",
+        "Sarah Niles",
+        "Will Merrick"
       ],
-      "rank": 6,
-      "id": "tt12758060",
-      "name": "Tetris",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
-      "rating": 7.756,
-      "year": 2023,
+      "rank": 7,
+      "id": "tt16311594",
+      "name": "F1 la película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
+      "rating": 7.834,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -242,7 +277,7 @@
         "Mark Rylance",
         "Philip Zhao"
       ],
-      "rank": 7,
+      "rank": 8,
       "id": "tt1677720",
       "name": "Ready Player One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
@@ -256,69 +291,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
       "genres": [
-        "Drama",
-        "Historia"
+        "Comedia",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1KBVvL6MEAiWXpMv9YkczEgTXIP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IIQcADzsnKBEBGecnyAnQBU4Pf.png",
-      "runtime": "127 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ns9T8glyF7mYwxrcUHXm22nMf9t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Av6kk0uREzac952vLV58kqr2oDv.png",
+      "runtime": "110 min",
       "director": [
-        "Sian Heder"
+        "Phyllida Lloyd"
       ],
       "cast": [
-        "Ruth Madeley",
-        "Mark Ruffalo",
-        "Dylan O'Brien",
-        "Madeline Delp",
-        "Roberta Colindrez",
-        "Jon Beavers",
-        "Antwan Tolliver",
-        "Ray Fisher"
-      ],
-      "rank": 8,
-      "id": "tt15095848",
-      "name": "Siendo Heumann",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 7.019,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
-      "genres": [
-        "Romance",
-        "Ciencia ficción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6m600JdCsS9MDvVtt3Thfe8OMvp.png",
-      "runtime": "127 min",
-      "director": [
-        "Scott Derrickson"
-      ],
-      "cast": [
-        "Miles Teller",
-        "Anya Taylor-Joy",
-        "Sigourney Weaver",
-        "Ṣọpẹ́ Dìrísù",
-        "William Houston",
-        "Kobna Holdbrook-Smith",
-        "James Marlowe",
-        "Julianna Kurokawa"
+        "Amanda Seyfried",
+        "Meryl Streep",
+        "Pierce Brosnan",
+        "Colin Firth",
+        "Stellan Skarsgård",
+        "Christine Baranski",
+        "Julie Walters",
+        "Dominic Cooper"
       ],
       "rank": 9,
-      "id": "tt13654226",
-      "name": "El abismo secreto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
-      "rating": 7.704,
-      "year": 2025,
+      "id": "tt0795421",
+      "name": "Mamma Mia! La película",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4QthG4HsSQ30Uit2CpOz6YRikX1.jpg",
+      "rating": 6.956,
+      "year": 2008,
       "days": null,
       "trend": {
         "dir": "same",
@@ -327,34 +326,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "description": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
       "genres": [
-        "Romance",
-        "Comedia",
+        "Crimen",
+        "Historia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6x0H4KhOW9j4H3lGk6q1JO0Udl.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wqFUSoev8k7XbfsG5eQq2YQwxxG.png",
+      "runtime": "206 min",
       "director": [
-        "David Freyne"
+        "Martin Scorsese"
       ],
       "cast": [
-        "Elizabeth Olsen",
-        "Miles Teller",
-        "Callum Turner",
-        "Da'Vine Joy Randolph",
-        "John Early",
-        "Barry Primus",
-        "Betty Buckley",
-        "Darryl Scheelar"
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Lily Gladstone",
+        "Jesse Plemons",
+        "Tantoo Cardinal",
+        "John Lithgow",
+        "Brendan Fraser",
+        "Cara Jade Myers"
       ],
       "rank": 10,
-      "id": "tt24950660",
-      "name": "Eternity",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
-      "rating": 7.127,
-      "year": 2025,
+      "id": "tt5537002",
+      "name": "Los asesinos de la luna",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+      "rating": 7.393,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -363,5 +362,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

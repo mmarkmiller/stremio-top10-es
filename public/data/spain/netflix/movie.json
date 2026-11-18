@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,8 +32,45 @@
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.323,
+      "rating": 6.3,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
+      "runtime": "126 min",
+      "director": [
+        "Joseph Kosinski"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Ольга Куриленко",
+        "Andrea Riseborough",
+        "Nikolaj Coster-Waldau",
+        "Melissa Leo",
+        "Zoë Bell",
+        "Abigail Lowe"
+      ],
+      "rank": 2,
+      "id": "tt1483013",
+      "name": "Oblivion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+      "rating": 6.7,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,7 +100,7 @@
         "Peter Stormare",
         "Tibor Szauerwein"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt30955489",
       "name": "Until Dawn",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
@@ -77,101 +114,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+      "description": "El estafador profesional Roy Courtnay no puede creer su suerte cuando conoce a la viuda adinerada Betty McLeish por internet. Sin embargo, a medida que Betty le abre las puertas de su vida y su hogar, Roy se sorprende al sentir que esta mujer le importa mucho más de lo que se podría imaginar.",
       "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
-      "runtime": "103 min",
-      "director": [
-        "Adam Pålsson"
-      ],
-      "cast": [
-        "Felice Jankell",
-        "Happy Jankell",
-        "Christian Fandango Sundgren",
-        "Celie Sparre",
-        "Anastasios Soulis",
-        "Maria Kulle",
-        "Dag Malmberg",
-        "Bengt Braskered"
-      ],
-      "rank": 3,
-      "id": "tt39313557",
-      "name": "El intercambio navideño",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "rating": 6.393,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
-      "director": [
-        "Shana Feste"
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Ross Lynch",
-        "John Hawkes",
-        "Garrett Hedlund",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey"
-      ],
-      "rank": 4,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 6.293,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
-      "genres": [
-        "Documental",
         "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gS98tGCjxvstLn8crQlOwYG9wb3.png",
-      "runtime": "80 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qhWuoyUQ01ZzsbNfjbddAoK6uEc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nIGggtdKialGMURMhJKEodkR7k9.png",
+      "runtime": "109 min",
       "director": [
-        "Jorge Laplace"
+        "Bill Condon"
       ],
       "cast": [
-        "Eduardo Pérez \"Perreras\"",
-        "Maribel Tarrazo",
-        "Corona Salgado",
-        "Eduardo Pérez",
-        "Javier González",
-        "Fernando Serulla"
+        "Helen Mirren",
+        "Ian McKellen",
+        "Russell Tovey",
+        "Jim Carter",
+        "Mark Lewis Jones",
+        "Laurie Davidson",
+        "Phil Dunster",
+        "Lucian Msamati"
       ],
-      "rank": 5,
-      "id": "tt48500521",
-      "name": "Desprotexida: el crimen de Pazos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
-      "rating": 6.567,
-      "year": 2026,
+      "rank": 4,
+      "id": "tt5563334",
+      "name": "La gran mentira",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q3wHLlRKwEuxyluCUqHzBoC8gZO.jpg",
+      "rating": 6.678,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -180,7 +148,7 @@
     },
     {
       "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
         "Ciencia ficción",
         "Terror",
@@ -202,12 +170,151 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.626,
+      "rating": 7.627,
       "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iM27cIiMCnMgs8HddHkWH4AKdSd.png",
+      "runtime": "140 min",
+      "director": [
+        "Sidharta Tata"
+      ],
+      "cast": [
+        "Lukman Sardi",
+        "Callista Arum",
+        "Sulthan Hamonangan",
+        "Derby Romero",
+        "Donny Alamsyah",
+        "Dennis Adishwara",
+        "Ismi Melinda",
+        "David Hendrawan"
+      ],
+      "rank": 6,
+      "id": "tt39370926",
+      "name": "No nos rendimos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "rating": 7.1,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 7,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.169,
+      "year": 1997,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
+      "runtime": "165 min",
+      "director": [
+        "Lee Chang-dong"
+      ],
+      "cast": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "Cho Yeo-jeong",
+        "조유리",
+        "최민",
+        "정섶",
+        "강창권"
+      ],
+      "rank": 8,
+      "id": "tt37803364",
+      "name": "Un amor posible",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": 7.239,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
+      "director": [
+        "Shana Feste"
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Carter Faith",
+        "Ross Lynch",
+        "John Hawkes",
+        "Garrett Hedlund",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey"
+      ],
+      "rank": 9,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "rating": 6.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -238,7 +345,7 @@
         "Kevin Bacon",
         "Vanessa Aspillaga"
       ],
-      "rank": 7,
+      "rank": 10,
       "id": "tt12747748",
       "name": "Dejar el mundo atrás",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7NJGZ0GP7S8uXCW2reguAOTwBB8.jpg",
@@ -249,113 +356,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
-      "runtime": "139 min",
-      "director": [
-        "David Fincher"
-      ],
-      "cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Helena Bonham Carter",
-        "Meat Loaf",
-        "Jared Leto",
-        "Zach Grenier",
-        "Holt McCallany",
-        "Eion Bailey"
-      ],
-      "rank": 8,
-      "id": "tt0137523",
-      "name": "El club de la lucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.4,
-      "year": 1999,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-      "genres": [
-        "Ciencia ficción",
-        "Comedia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png",
-      "runtime": "137 min",
-      "director": [
-        "Bong Joon-ho"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Naomi Ackie",
-        "Steven Yeun",
-        "Mark Ruffalo",
-        "Toni Collette",
-        "Anamaria Vartolomei",
-        "Daniel Henshall",
-        "Patsy Ferran"
-      ],
-      "rank": 9,
-      "id": "tt12299608",
-      "name": "Mickey 17",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
-      "rating": 6.819,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 10,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

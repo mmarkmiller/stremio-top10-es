@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "series",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,7 @@
       "id": "tt7631058",
       "name": "El Señor de los Anillos: Los Anillos de Poder",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.218,
+      "rating": 7.219,
       "year": 2022,
       "days": null,
       "trend": {
@@ -86,7 +86,7 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.992,
+      "rating": 7.993,
       "year": 2022,
       "days": null,
       "trend": {
@@ -96,29 +96,31 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "genres": [
         "Misterio",
+        "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
       "director": [],
       "cast": [
-        "Ben Barnes",
-        "Joe Freeman",
-        "Simone Miller",
-        "Fionn Laird",
-        "Hannah Galway",
-        "Robert Joy",
-        "Mary-Louise Parker"
+        "Summer H. Howell",
+        "Samantha Sloyan",
+        "Siena Agudong",
+        "Alison Thornton",
+        "Joel Oulette",
+        "Josie Totah",
+        "Arthur Conti",
+        "Thalia Dudek"
       ],
       "rank": 4,
-      "id": "tt10946316",
-      "name": "El Instituto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-      "rating": 7.458,
-      "year": 2025,
+      "id": "tt11540908",
+      "name": "Carrie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -159,31 +161,29 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "description": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
       "genres": [
         "Misterio",
-        "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+      "background": "https://image.tmdb.org/t/p/w1280/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
       "director": [],
       "cast": [
-        "Summer H. Howell",
-        "Samantha Sloyan",
-        "Siena Agudong",
-        "Alison Thornton",
-        "Joel Oulette",
-        "Josie Totah",
-        "Arthur Conti",
-        "Thalia Dudek"
+        "Ben Barnes",
+        "Joe Freeman",
+        "Simone Miller",
+        "Fionn Laird",
+        "Hannah Galway",
+        "Robert Joy",
+        "Mary-Louise Parker"
       ],
       "rank": 6,
-      "id": "tt11540908",
-      "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.241,
-      "year": 2026,
+      "id": "tt10946316",
+      "name": "El Instituto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+      "rating": 7.458,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -214,7 +214,7 @@
       "id": "tt0072562",
       "name": "Saturday Night Live",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "rating": 6.88,
+      "rating": 6.875,
       "year": 1975,
       "days": null,
       "trend": {
@@ -244,8 +244,35 @@
       "id": "tt9288030",
       "name": "Reacher",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "rating": 8.126,
+      "rating": 8.127,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La protagonista, Fleabag, es una mujer de clase media que tiene una  situación familiar complicada y un trabajo con el que no puede mantener  su estilo de vida. Ella es propietaria de un café con el que apenas gana  dinero y su novio es un hombre que llena su vacío existencial con  encuentros sexuales sin sentido con todo tipo de mujeres, cada cual peor que la anterior. Y eso es solo una pequeña parte de su vida y  situaciones cotidianas con las que Fleabag debe lidiar.  Fleabag  es un ejemplo de una vida que ha ido mal y debe adaptarse a nuevas  situaciones, cosa que consigue hacer gracias a su personalidad.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ddkbWeVyqvLyJa3QdNRalj8kMQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Tq9X4JF4U5wM75TrewcEAnIz7q.png",
+      "director": [],
+      "cast": [
+        "Phoebe Waller-Bridge",
+        "Sian Clifford",
+        "Andrew Scott"
+      ],
+      "rank": 9,
+      "id": "tt5687612",
+      "name": "Fleabag",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
+      "rating": 8.28,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -273,44 +300,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.1,
+      "rating": 8.077,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
-      "director": [],
-      "cast": [
-        "Lauren Graham",
-        "Alexis Bledel",
-        "Scott Patterson",
-        "Melissa McCarthy",
-        "Keiko Agena",
-        "Yanic Truesdale",
-        "Liza Weil",
-        "Sean Gunn"
-      ],
-      "rank": 10,
-      "id": "tt0238784",
-      "name": "Las chicas Gilmore",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "rating": 7.87,
-      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

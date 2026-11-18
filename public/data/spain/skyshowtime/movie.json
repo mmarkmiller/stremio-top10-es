@@ -2,43 +2,8 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "Un policía de Los Ángeles descubre que un grupo de trabajo local oculta un secreto que pone en peligro a los vecinos del barrio de su infancia.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ilUGKK6dCgHrQRCz6FkKBBKev70.png",
-      "runtime": "104 min",
-      "director": [
-        "Ryan Prows"
-      ],
-      "cast": [
-        "Jermaine Fowler",
-        "Justin Long",
-        "RJ Cyler",
-        "Freddie Gibbs",
-        "Phil Brooks",
-        "Dermot Mulroney",
-        "YG",
-        "Nicki Micheaux"
-      ],
-      "rank": 1,
-      "id": "tt8637438",
-      "name": "Patrulla Nocturna",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mCIgwwrafyA0oGrEBbjGfNft1B3.jpg",
-      "rating": 5,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
@@ -63,12 +28,49 @@
         "Elizabeth Berrington",
         "Jérémie Renier"
       ],
-      "rank": 2,
+      "rank": 1,
       "id": "tt0780536",
       "name": "Escondidos en Brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
       "rating": 7.5,
       "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
+      "runtime": "126 min",
+      "director": [
+        "Joseph Kosinski"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Ольга Куриленко",
+        "Andrea Riseborough",
+        "Nikolaj Coster-Waldau",
+        "Melissa Leo",
+        "Zoë Bell",
+        "Abigail Lowe"
+      ],
+      "rank": 2,
+      "id": "tt1483013",
+      "name": "Oblivion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+      "rating": 6.7,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -102,8 +104,42 @@
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.7,
+      "rating": 7.727,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
+      "runtime": "126 min",
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver",
+        "Casey Affleck",
+        "Cole Hauser",
+        "Vik Sahay"
+      ],
+      "rank": 4,
+      "id": "tt0119217",
+      "name": "El indomable Will Hunting",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
+      "rating": 8.169,
+      "year": 1997,
       "days": null,
       "trend": {
         "dir": "same",
@@ -134,7 +170,7 @@
         "Steve Park",
         "Anthony Carrigan"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt28443655",
       "name": "La muerte del unicornio",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7ONypZBnKXAAzr1zCNDo88AD6qf.jpg",
@@ -148,32 +184,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+      "description": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
       "genres": [
-        "Drama"
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
+      "runtime": "116 min",
       "director": [
-        "Gus Van Sant"
+        "Robert Zemeckis"
       ],
       "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Crispin Glover",
+        "Lea Thompson",
+        "Claudia Wells",
+        "Thomas F. Wilson",
+        "Marc McClure",
+        "Wendie Jo Sperber"
       ],
-      "rank": 5,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.168,
-      "year": 1997,
+      "rank": 6,
+      "id": "tt0088763",
+      "name": "Regreso al futuro",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "rating": 8.332,
+      "year": 1985,
       "days": null,
       "trend": {
         "dir": "same",
@@ -204,11 +242,11 @@
         "Marc T. Lewis",
         "Vanessa Eng"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt12300742",
       "name": "Bugonia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.291,
+      "rating": 7.292,
       "year": 2025,
       "days": null,
       "trend": {
@@ -218,35 +256,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+      "description": "Amanda Woods, una chica americana que posee una próspera agencia de publicidad especializada en trailers de películas, vive en el sur de California y acaba de romper con su novio. Por su parte, Iris Simpkins, redactora de la popular columna de bodas para el London Daily Telegraph, vive en una encantadora casa de campo en Inglaterra y sus relaciones con los hombres tampoco son fáciles. A través de internet llegan a un acuerdo para intercambiarse sus respectivas viviendas durante las Navidades.",
       "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Aventura",
-        "Misterio"
+        "Comedia",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
-      "runtime": "126 min",
+      "background": "https://image.tmdb.org/t/p/w1280/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q1wWpsQ8rSfwstJsAh5NoodtpLI.png",
+      "runtime": "135 min",
       "director": [
-        "Joseph Kosinski"
+        "Nancy Meyers"
       ],
       "cast": [
-        "Tom Cruise",
-        "Morgan Freeman",
-        "Ольга Куриленко",
-        "Andrea Riseborough",
-        "Nikolaj Coster-Waldau",
-        "Melissa Leo",
-        "Zoë Bell",
-        "Abigail Lowe"
+        "Cameron Diaz",
+        "Kate Winslet",
+        "Jude Law",
+        "Jack Black",
+        "Eli Wallach",
+        "Edward Burns",
+        "Rufus Sewell",
+        "Miffy Englefield"
       ],
-      "rank": 7,
-      "id": "tt1483013",
-      "name": "Oblivion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
-      "rating": 6.7,
-      "year": 2013,
+      "rank": 8,
+      "id": "tt0457939",
+      "name": "The Holiday (Vacaciones)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jGFqZ4bCAYaNZKHQKBZcTyrH1EV.jpg",
+      "rating": 7.101,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,11 +316,11 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.175,
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -294,70 +330,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "description": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
       "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
-      "runtime": "175 min",
-      "director": [
-        "Francis Ford Coppola"
-      ],
-      "cast": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan",
-        "Robert Duvall",
-        "Richard S. Castellano",
-        "Diane Keaton",
-        "Talia Shire",
-        "Gianni Russo"
-      ],
-      "rank": 9,
-      "id": "tt0068646",
-      "name": "El padrino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
-      "rating": 8.689,
-      "year": 1972,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-      "genres": [
-        "Fantasía",
-        "Familia",
         "Acción",
-        "Aventura"
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mgCsc0k8GvgRC97XITQ6GNPM2uB.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png",
+      "runtime": "92 min",
       "director": [
-        "Dean DeBlois"
+        "Ilya Naishuller"
       ],
       "cast": [
-        "Mason Thames",
-        "Nico Parker",
-        "Gerard Butler",
-        "Nick Frost",
-        "Gabriel Howell",
-        "Julian Dennison",
-        "Bronwyn James",
-        "Harry Trevaldwyn"
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen",
+        "Christopher Lloyd",
+        "Michael Ironside",
+        "Colin Salmon",
+        "RZA",
+        "Billy MacLellan"
       ],
       "rank": 10,
-      "id": "tt26743210",
-      "name": "Cómo entrenar a tu dragón",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
-      "rating": 7.927,
-      "year": 2025,
+      "id": "tt7888964",
+      "name": "Nadie",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "rating": 7.849,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +365,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

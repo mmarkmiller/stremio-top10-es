@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.021,
+      "rating": 7.013,
       "year": 2026,
       "days": null,
       "trend": {
@@ -76,6 +76,30 @@
     },
     {
       "artworkVersion": 4,
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oSfr8vKxMWVYlA3UZRP2sLSeYSe.jpg",
+      "runtime": "20 min",
+      "director": [
+        "Mauricio Sotelo",
+        "Pablo Alméstar"
+      ],
+      "cast": [],
+      "rank": 3,
+      "id": "tmdb:1485879",
+      "name": "Trastiendas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0VxJcxIKMPLlkkpWvNaThcUQdu.jpg",
+      "rating": null,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
       "genres": [
         "Crimen",
@@ -98,11 +122,11 @@
         "Andy Serkis",
         "Peter Sarsgaard"
       ],
-      "rank": 3,
+      "rank": 4,
       "id": "tt1877830",
       "name": "The Batman",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.7,
+      "rating": 7.674,
       "year": 2022,
       "days": null,
       "trend": {
@@ -112,93 +136,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
+      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
       "genres": [
-        "Terror",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
-      "runtime": "96 min",
-      "director": [
-        "George A. Romero"
-      ],
-      "cast": [
-        "Judith O'Dea",
-        "Duane Jones",
-        "Marilyn Eastman",
-        "Karl Hardman",
-        "Judith Ridley",
-        "Keith Wayne",
-        "Kyra Schon",
-        "Charles Craig"
-      ],
-      "rank": 4,
-      "id": "tt0063350",
-      "name": "La noche de los muertos vivientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
-      "rating": 7.599,
-      "year": 1968,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oSfr8vKxMWVYlA3UZRP2sLSeYSe.jpg",
-      "runtime": "20 min",
-      "director": [
-        "Mauricio Sotelo",
-        "Pablo Alméstar"
-      ],
-      "cast": [],
-      "rank": 5,
-      "id": "tmdb:1485879",
-      "name": "Trastiendas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0VxJcxIKMPLlkkpWvNaThcUQdu.jpg",
-      "rating": null,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
         "Comedia",
-        "Drama"
+        "Familia",
+        "Fantasía"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
-      "runtime": "105 min",
+      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
+      "runtime": "97 min",
       "director": [
-        "Kristoffer Borgli"
+        "Jon Favreau"
       ],
       "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart",
+        "Ed Asner",
+        "Mary Steenburgen",
+        "Zooey Deschanel",
+        "Daniel Tay",
+        "Faizon Love"
       ],
       "rank": 6,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.906,
-      "year": 2026,
+      "id": "tt0319343",
+      "name": "Elf",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "rating": 6.672,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -232,7 +197,7 @@
       "id": "tt1160419",
       "name": "Dune",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.786,
+      "rating": 7.8,
       "year": 2021,
       "days": null,
       "trend": {
@@ -242,34 +207,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "genres": [
-        "Ciencia ficción",
+        "Romance",
         "Comedia",
-        "Aventura"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png",
-      "runtime": "137 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "runtime": "105 min",
       "director": [
-        "Bong Joon-ho"
+        "Kristoffer Borgli"
       ],
       "cast": [
+        "Zendaya",
         "Robert Pattinson",
-        "Naomi Ackie",
-        "Steven Yeun",
-        "Mark Ruffalo",
-        "Toni Collette",
-        "Anamaria Vartolomei",
-        "Daniel Henshall",
-        "Patsy Ferran"
+        "Alana Haim",
+        "Mamoudou Athie",
+        "Hailey Benton Gates",
+        "Sydney Lemmon",
+        "Hannah Gross",
+        "Anna Baryshnikov"
       ],
       "rank": 8,
-      "id": "tt12299608",
-      "name": "Mickey 17",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
-      "rating": 6.819,
-      "year": 2025,
+      "id": "tt33071426",
+      "name": "El drama",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": 6.907,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -278,34 +243,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ambientada a finales del siglo XIX, cuenta la historia de dos fareros que trabajan juntos en una misteriosa isla perdida de Nueva Inglaterra.",
+      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
       "genres": [
-        "Drama",
-        "Fantasía",
-        "Suspense"
+        "Terror",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xrVr8vjJNV7nAx0zZioDDjtUpHD.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
+      "runtime": "96 min",
       "director": [
-        "Robert Eggers"
+        "George A. Romero"
       ],
       "cast": [
-        "Robert Pattinson",
-        "Willem Dafoe",
-        "Valeriia Karaman",
-        "Logan Hawkes",
-        "Kyla Nicolle",
-        "Shaun Clarke",
-        "Pierre Richard",
-        "Preston Hudson"
+        "Judith O'Dea",
+        "Duane Jones",
+        "Marilyn Eastman",
+        "Karl Hardman",
+        "Judith Ridley",
+        "Keith Wayne",
+        "Kyra Schon",
+        "Charles Craig"
       ],
       "rank": 9,
-      "id": "tt7984734",
-      "name": "El faro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg",
-      "rating": 7.461,
-      "year": 2019,
+      "id": "tt0063350",
+      "name": "La noche de los muertos vivientes",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
+      "rating": 7.599,
+      "year": 1968,
       "days": null,
       "trend": {
         "dir": "same",
@@ -314,34 +278,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
+      "description": "Clark Griswold, movido por un generoso y sentimental espíritu navideño, quiere sorprender a toda su familia con una gran fiesta. La suerte no suele acompañarlo y esta vez no va a ser diferente... Una sucesión de disparatados desastres convertirán la esperadísima sorpresa de Clark en un verdadero caos.",
       "genres": [
-        "Comedia",
-        "Familia",
-        "Fantasía"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/imOYO9i6sWcpkfNPVuFuBL4WsLN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fql5HO5YFe3eafqOhMWwbelWiMl.png",
+      "background": "https://image.tmdb.org/t/p/w1280/8TNf3mbv4Wv9t6KMkxLUkCrB6SJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDjb1KSm6bHjH1Cnuv9fkXfSTVc.png",
       "runtime": "97 min",
       "director": [
-        "Jon Favreau"
+        "Jeremiah S. Chechik"
       ],
       "cast": [
-        "Will Ferrell",
-        "James Caan",
-        "Bob Newhart",
-        "Ed Asner",
-        "Mary Steenburgen",
-        "Zooey Deschanel",
-        "Daniel Tay",
-        "Faizon Love"
+        "Chevy Chase",
+        "Beverly D'Angelo",
+        "Juliette Lewis",
+        "Johnny Galecki",
+        "John Randolph",
+        "Diane Ladd",
+        "E.G. Marshall",
+        "Doris Roberts"
       ],
       "rank": 10,
-      "id": "tt0319343",
-      "name": "Elf",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.672,
-      "year": 2003,
+      "id": "tt0097958",
+      "name": "¡Socorro! Ya es Navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmyeMduOLqrNqBpAaMwC7Qivwoy.jpg",
+      "rating": 7.225,
+      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -350,5 +312,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -113,41 +113,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
-      "genres": [
-        "Terror",
-        "Drama",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gHb79kZi2HMJqDAte0CN5GFOGP.png",
-      "runtime": "91 min",
-      "director": [
-        "John Krasinski"
-      ],
-      "cast": [
-        "Emily Blunt",
-        "John Krasinski",
-        "Millicent Simmonds",
-        "Noah Jupe",
-        "Cade Woodward",
-        "Leon Russom",
-        "Rhoda Pell"
-      ],
-      "rank": 4,
-      "id": "tt6644200",
-      "name": "Un lugar tranquilo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5pairI20KJs1SEa4Z8yAsPR779m.jpg",
-      "rating": 7.394,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Mildred Hayes, una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
       "genres": [
         "Crimen",
@@ -169,12 +134,82 @@
         "Caleb Landry Jones",
         "Clarke Peters"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt5027774",
       "name": "Tres anuncios en las afueras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg",
       "rating": 8.049,
       "year": 2017,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "¿Qué podría ser peor para un padre que la impotencia cuando al otro lado de una llamada de móvil oye cómo secuestran a su hija? Esta es la pesadilla que se hace realidad para Bryan (Liam Neeson), un espía retirado que sólo tiene unas horas para recuperar a su hija, que ha sido secuestrada por una peligrosa banda especializada en la venta de jóvenes adolescentes.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6JcjsLvVFamAyr1NIsxtUYIYLiW.png",
+      "runtime": "93 min",
+      "director": [
+        "Pierre Morel"
+      ],
+      "cast": [
+        "Liam Neeson",
+        "Maggie Grace",
+        "Famke Janssen",
+        "Olivier Rabourdin",
+        "Katie Cassidy",
+        "Nicolas Giraud",
+        "Leland Orser",
+        "Jon Gries"
+      ],
+      "rank": 5,
+      "id": "tt0936501",
+      "name": "Venganza",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fO9HTzeL7sd346tybTfbd99Nv3R.jpg",
+      "rating": 7.419,
+      "year": 2008,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxf5uKSYSCaAZwBMe6yqEcPaz0p.png",
+      "runtime": "110 min",
+      "director": [
+        "David Bruckner"
+      ],
+      "cast": [
+        "Rebecca Hall",
+        "Sarah Goldberg",
+        "Vondie Curtis-Hall",
+        "Evan Jonigkeit",
+        "Stacy Martin",
+        "David Abeles",
+        "Christina Jackson",
+        "Patrick Klein"
+      ],
+      "rank": 6,
+      "id": "tt9731534",
+      "name": "La casa oscura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/s6nLBypiujQQMBBfgJJAWleoWw1.jpg",
+      "rating": 6.5,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,118 +240,12 @@
         "Jonny Coyne",
         "Matthew Willig"
       ],
-      "rank": 6,
+      "rank": 7,
       "id": "tt30825738",
       "name": "The Mandalorian and Grogu",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
-      "rating": 7.452,
+      "rating": 7.45,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNxOxX9z0AOqRslkWKnb0f3nqg1.png",
-      "runtime": "103 min",
-      "director": [
-        "Griffin Dunne"
-      ],
-      "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Stockard Channing",
-        "Dianne Wiest",
-        "Goran Višnjić",
-        "Aidan Quinn",
-        "Evan Rachel Wood",
-        "Alexandra Artrip"
-      ],
-      "rank": 7,
-      "id": "tt0120791",
-      "name": "Prácticamente magia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ydxlpTnwmABh2jssZNFi4cEgUuM.jpg",
-      "rating": 6.8,
-      "year": 1998,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta (en plena carrera espacial, y asimismo en mitad de la lucha por los derechos civiles de los negros estadounidenses) en el ambicioso proyecto de poner en órbita al astronauta John Glenn.",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iwyENMsB7qoUVXWEEsczSdsD6wg.png",
-      "runtime": "127 min",
-      "director": [
-        "Theodore Melfi"
-      ],
-      "cast": [
-        "Taraji P. Henson",
-        "Octavia Spencer",
-        "Janelle Monáe",
-        "Kevin Costner",
-        "Kirsten Dunst",
-        "Jim Parsons",
-        "Mahershala Ali",
-        "Glen Powell"
-      ],
-      "rank": 8,
-      "id": "tt4846340",
-      "name": "Figuras ocultas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg",
-      "rating": 8.053,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El argumento está basado en la novela publicada por Garth Stein, la cual responde al mismo nombre que el filme. La historia combina diferentes sentimientos y situaciones comprometidas para la sociedad como son el dolor, la liberación, el cariño o el riesgo. Enzo, un perro que ha experimentado muchas aventuras interesantes a lo largo de su vida, es el personaje que pone voz a la película. Pese a no ser una persona de carne y hueso, este entrañable animal será capaz de dar diferentes lecciones a los seres humanos sobre cuál tendría que ser la manera adecuada de actuar sea cual sea la situación en la que se encuentren.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yv7XGQctTMrFM5ZiEm80zk3Jlw2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pdSQJuAySFbvGYTjiOgbTtygZbJ.png",
-      "runtime": "110 min",
-      "director": [
-        "Simon Curtis"
-      ],
-      "cast": [
-        "Kevin Costner",
-        "Milo Ventimiglia",
-        "Amanda Seyfried",
-        "Ryan Kiera Armstrong",
-        "Lily Dodsworth-Evans",
-        "Ian Lake",
-        "Martin Donovan",
-        "Kathy Baker"
-      ],
-      "rank": 9,
-      "id": "tt1478839",
-      "name": "El arte de vivir bajo la lluvia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg",
-      "rating": 8.143,
-      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -346,12 +275,86 @@
         "Micole Mercurio",
         "Jason Bernard"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt0114924",
       "name": "Mientras dormías",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uBKNw0PPwJJi2gMP526UDeNELg.jpg",
-      "rating": 7.045,
+      "rating": 7,
       "year": 1995,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w591RAh8h5R0F5cA2QcyBv7B4WI.png",
+      "runtime": "102 min",
+      "director": [
+        "Andrew Stanton"
+      ],
+      "cast": [
+        "Joan Cusack",
+        "Tom Hanks",
+        "Tim Allen",
+        "Conan O'Brien",
+        "Scarlett Spears",
+        "Greta Lee",
+        "Shelby Rabara",
+        "Mykal-Michelle Harris"
+      ],
+      "rank": 9,
+      "id": "tt29355505",
+      "name": "Toy Story 5",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pfhSNFSTFZyTgl52npRg4eszH5U.png",
+      "runtime": "181 min",
+      "director": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Don Cheadle"
+      ],
+      "rank": 10,
+      "id": "tt4154796",
+      "name": "Vengadores: Endgame",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "rating": 8.247,
+      "year": 2019,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +363,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

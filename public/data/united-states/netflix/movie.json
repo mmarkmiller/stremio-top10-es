@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,7 +41,7 @@
     },
     {
       "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
         "Ciencia ficción",
         "Terror",
@@ -67,77 +67,8 @@
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.626,
+      "rating": 7.627,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 3,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7.005,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
-      "director": [
-        "Shana Feste"
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Ross Lynch",
-        "John Hawkes",
-        "Garrett Hedlund",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey"
-      ],
-      "rank": 4,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 6.293,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,12 +99,47 @@
         "Alena Mihulová",
         "Marcin Dorociński"
       ],
-      "rank": 5,
+      "rank": 3,
       "id": "tt4190530",
       "name": "Operación Anthropoid",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
       "rating": 7.128,
       "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
+      "director": [
+        "Shana Feste"
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Carter Faith",
+        "Ross Lynch",
+        "John Hawkes",
+        "Garrett Hedlund",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey"
+      ],
+      "rank": 4,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "rating": 6.3,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -205,45 +171,11 @@
         "Gregg Gilmore",
         "Jamald Gardner"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.745,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-      "runtime": "94 min",
-      "director": [
-        "David Wain"
-      ],
-      "cast": [
-        "Zoey Deutch",
-        "John Slattery",
-        "Ken Marino",
-        "Miles Gutierrez-Riley",
-        "Ben Wang",
-        "Sabrina Impacciatore",
-        "Jon Hamm",
-        "Joe Lo Truglio"
-      ],
-      "rank": 7,
-      "id": "tt36834010",
-      "name": "Gail Daughtry y el vale por un rollo VIP",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.319,
+      "rating": 6.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -275,11 +207,11 @@
         "Cam Gigandet",
         "Leah Brady"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt12003946",
       "name": "Noche de paz",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
-      "rating": 7.198,
+      "rating": 7.2,
       "year": 2022,
       "days": null,
       "trend": {
@@ -289,34 +221,66 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Las vacaciones de una familia en una casa de lujo dan un giro inquietante cuando un ciberataque anula sus dispositivos... y dos desconocidos llaman a la puerta.",
+      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Suspense"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z9KSGzRO2cAOCvonJloyExlgzNR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FkXZoK2FmRqW7SH74Np5TI77bP.png",
-      "runtime": "138 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+      "runtime": "110 min",
       "director": [
-        "Sam Esmail"
+        "Colin Higgins"
       ],
       "cast": [
-        "Julia Roberts",
-        "Ethan Hawke",
-        "Mahershala Ali",
-        "Myha'la",
-        "Farrah Mackenzie",
-        "Charlie Evans",
-        "Kevin Bacon",
-        "Vanessa Aspillaga"
+        "Jane Fonda",
+        "Lily Tomlin",
+        "Dolly Parton",
+        "Dabney Coleman",
+        "Sterling Hayden",
+        "Elizabeth Wilson",
+        "Henry Jones",
+        "Lawrence Pressman"
       ],
-      "rank": 9,
-      "id": "tt12747748",
-      "name": "Dejar el mundo atrás",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7NJGZ0GP7S8uXCW2reguAOTwBB8.jpg",
-      "rating": 6.363,
-      "year": 2023,
+      "rank": 7,
+      "id": "tt0080319",
+      "name": "Cómo eliminar a su jefe",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
+      "rating": 7,
+      "year": 1980,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
+      "director": [
+        "David Wain"
+      ],
+      "cast": [
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
+      ],
+      "rank": 8,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.311,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -347,7 +311,7 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 10,
+      "rank": 9,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
@@ -358,8 +322,43 @@
         "dir": "same",
         "delta": null
       }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
+      "runtime": "103 min",
+      "director": [
+        "Chris Rock"
+      ],
+      "cast": [
+        "Rosalind Eleazar",
+        "Adam Driver",
+        "Daniel Kaluuya",
+        "Anna Kendrick",
+        "Chris Rock",
+        "Topher Grace",
+        "Alexandra Shipp",
+        "Amy Landecker"
+      ],
+      "rank": 10,
+      "id": "tt34385184",
+      "name": "Verde Brumoso",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
+      "rating": 7.15,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }

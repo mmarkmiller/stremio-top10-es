@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "movistar",
   "list": "series",
-  "date": "202611172319",
+  "date": "202611182245",
   "entries": [
     {
       "artworkVersion": 4,
@@ -45,7 +45,7 @@
       "id": "tt31262522",
       "name": "Celeste",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptXjhh85HT4dB8xR6A7VI7ruq0X.jpg",
-      "rating": 7.606,
+      "rating": 7.6,
       "year": 2024,
       "days": null,
       "trend": {
@@ -78,8 +78,40 @@
       "id": "tt7235466",
       "name": "9-1-1",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
-      "rating": 8.2,
+      "rating": 8.217,
       "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
+      "genres": [
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vE254ndfLD8lnEuT25Y3zBJnw8y.png",
+      "director": [],
+      "cast": [
+        "Tewfik Jallab",
+        "Ritu Arya",
+        "Ross Anderson",
+        "Agung Bagus",
+        "Ben Cura",
+        "Shiraz Yasin",
+        "Jacek Koman",
+        "Annabel Scholey"
+      ],
+      "rank": 4,
+      "id": "tt33184638",
+      "name": "Objetivo: Apolo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2Gs0L3x1S5w7A10Iv2MShgiwxZl.jpg",
+      "rating": 6.9,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -102,132 +134,12 @@
         "Valentina Vidal",
         "Raúl Arévalo"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt39216741",
       "name": "El Castillo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
       "rating": 6.2,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/azITiQL9UBQVK9z95UQipLoWHkB.png",
-      "director": [],
-      "cast": [
-        "Jon Hamm",
-        "Giovanni Ribisi",
-        "Kristoffer Polaha",
-        "William Jackson Harper",
-        "Mireille Enos"
-      ],
-      "rank": 5,
-      "id": "tt30051064",
-      "name": "American Hostage",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
-      "rating": 6.8,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Todo comienza cuando la Detective Rebecca Madsen (Sarah Jones, \"Sons of Anarchy\") del Departamento de Policía de San Francisco es enviada a investigar un homicidio en el que una huella digital la lleva hasta un sospechoso que había estado preso en Alcatraz y debería haber muerto hace décadas. Cuando el agente del gobierno Emerson Hauser (Sam Neill, \"Jurassic Park\") intenta impedir la investigación de la detective, Madsen busca ayuda en el experto en Alcatraz y fánáticos de los cómics, Dr. Diego \"Doc\" Soto (Jorge Garcia, \"Lost\").",
-      "genres": [
-        "Misterio",
-        "Action & Adventure",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/egSDCK4n50i4Rr6mpctXwbJsrf9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4dLfJOjwGUtNekvk9yjXl9tKos7.png",
-      "director": [],
-      "cast": [
-        "Sarah Jones",
-        "Sam Neill",
-        "Jorge Garcia",
-        "Jonny Coyne",
-        "Parminder Nagra",
-        "Cameron K. Smith"
-      ],
-      "rank": 6,
-      "id": "tt1728102",
-      "name": "Alcatraz",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/keoXMIY8PAtNeE1pEfhoDyje0EY.jpg",
-      "rating": 6.3,
-      "year": 2012,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "genres": [
-        "Comedia",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/41neXsH222hV2zrsTyw8h7javon.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
-      "director": [],
-      "cast": [
-        "Trey Parker",
-        "Matt Stone",
-        "Mona Marshall",
-        "Jennifer Howell"
-      ],
-      "rank": 7,
-      "id": "tt0121955",
-      "name": "South Park",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "rating": 8.335,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
-      "director": [],
-      "cast": [
-        "Caitríona Balfe",
-        "Sam Heughan",
-        "Sophie Skelton",
-        "Richard Rankin",
-        "John Bell",
-        "David Berry",
-        "Charles Vandervaart",
-        "Izzy Meikle-Small"
-      ],
-      "rank": 8,
-      "id": "tt3006802",
-      "name": "Outlander",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
-      "rating": 8.195,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -253,7 +165,7 @@
         "Amaia Romero",
         "Biel Rossell"
       ],
-      "rank": 9,
+      "rank": 6,
       "id": "tt20096840",
       "name": "La mesías",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
@@ -267,29 +179,118 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Mickey Fox investiga actividades criminales y patrulla las calles de la pequeña ciudad de Edgewater mientras lidia con su padre ex-convicto y un misterioso incidente que involucra a su caprichosa hija.",
+      "description": "Sigue los acontecimientos de \"Orgullo y prejuicio\" desde el punto de vista de Mary Bennet, antes de que la historia parta para seguir a Mary en su viaje a Londres y al Distrito de los Lagos. La hermana olvidada de la gran familia Bennet vive una aventura romántica en la Inglaterra de la época de la Regencia.",
       "genres": [
         "Drama",
-        "Crimen"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXm6nUvztPNFjXTbEZNOe3x096Y.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pDViyIzszABM1dxkWm8V39ZrjBG.png",
       "director": [],
       "cast": [
-        "Morena Baccarin",
-        "Matt Lauria",
-        "W. Earl Brown",
-        "Christopher Gorham",
-        "Michele Weaver",
-        "Amanda Arcuri",
-        "Ian Quinlan"
+        "Ella Bruccoleri"
+      ],
+      "rank": 7,
+      "id": "tt37022512",
+      "name": "La Otra Hermana Bennet",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZLBXn4LoMaySsCrzxFwWUfHZlZ.jpg",
+      "rating": 8.2,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
+      "director": [],
+      "cast": [
+        "Juno Temple",
+        "Jennifer Jason Leigh",
+        "David Rysdahl",
+        "Joe Keery",
+        "Lamorne Morris",
+        "Richa Shukla Moorjani",
+        "Sam Spruell",
+        "Sienna King"
+      ],
+      "rank": 8,
+      "id": "tt2802850",
+      "name": "Fargo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "rating": 8.289,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/azITiQL9UBQVK9z95UQipLoWHkB.png",
+      "director": [],
+      "cast": [
+        "Jon Hamm",
+        "Giovanni Ribisi",
+        "Kristoffer Polaha",
+        "William Jackson Harper",
+        "Mireille Enos"
+      ],
+      "rank": 9,
+      "id": "tt30051064",
+      "name": "American Hostage",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
+      "rating": 6.8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Taylor, un agorafóbico y solitario creador de pasatiempos bajo el seudónimo de Ludwig, ve interrumpida su rutina cuando su cuñada Lucy le pide urgentemente que viaje a Cambridge. Su hermano gemelo, James, un inspector de policía, ha desaparecido misteriosamente. Lucy necesita que John se haga pasar por James para investigar en la comisaría y encontrar pistas sobre su paradero. A pesar de su miedo y reticencia, John acepta el desafío, enfrentándose a la posibilidad de ser descubierto mientras sigue las pistas dejadas por su hermano. Lo que iba a ser una suplantación ocasional se prolonga y John tiene que resolver los casos policiales que se van presentando.",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cJRdCeaRPektyE8rTX6uwMakHPu.png",
+      "director": [],
+      "cast": [
+        "David Mitchell",
+        "Anna Maxwell Martin",
+        "Dipo Ola",
+        "Ben Ashenden",
+        "Rumi Sutton",
+        "Dorothy Atkinson",
+        "Dylan Hughes",
+        "Ralph Ineson"
       ],
       "rank": 10,
-      "id": "tt32268630",
-      "name": "Sheriff Country",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-      "rating": 7.3,
-      "year": 2025,
+      "id": "tt27846061",
+      "name": "Ludwig",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qDqGfqAQXANNCWPSRsQvnWNdZmJ.jpg",
+      "rating": 7.8,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -298,5 +299,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-17T21:39:27.478Z"
+  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
 }
