@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,8 +27,8 @@
       "rank": 1,
       "id": "tt8014982",
       "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.9,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+      "rating": 7.912,
       "year": 2026,
       "days": null,
       "trend": {
@@ -71,22 +71,61 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Philomena Cunk repasa la historia del cine con su peculiar sentido del humor en esta serie que parodia los documentales y desconcierta a más de un experto.",
+      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
       "genres": [
         "Comedia",
-        "Documental"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wySudlXWMJKwzdlXZIe73Rpz1Pj.png",
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
       "director": [],
       "cast": [
-        "Diane Morgan"
+        "Josh Charles",
+        "Abigail Spencer",
+        "Josh Segarra",
+        "Cree",
+        "Annie Potts",
+        "Stephen Spinella",
+        "Jason Veasey",
+        "Eliza Coupe"
       ],
       "rank": 3,
-      "id": "tt47021035",
-      "name": "El cine según Philomena Cunk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-      "rating": 7.5,
+      "id": "tt36885662",
+      "name": "Best Medicine",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "rating": 7.154,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t70riPSuKjad5ENbHJR86zhwn6Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zTHbENwiYgHlBDJiKKELHMnWceC.png",
+      "director": [],
+      "cast": [
+        "Rodrigo de la Serna",
+        "Matías Recalt",
+        "Camila Peralta",
+        "Fiorella Bottaioli",
+        "Agustín Pardella",
+        "Fernando Contigiani García",
+        "Agustina Muñoz",
+        "Matías Mayer"
+      ],
+      "rank": 4,
+      "id": "tt41559886",
+      "name": "Gordon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -113,11 +152,11 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt27995113",
       "name": "Palomas negras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.055,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3f9jMEug9je89YMT1Pkx7twcgwV.jpg",
+      "rating": 7.1,
       "year": 2024,
       "days": null,
       "trend": {
@@ -145,11 +184,11 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 5,
+      "rank": 6,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.637,
+      "rating": 7.638,
       "year": 2023,
       "days": null,
       "trend": {
@@ -159,88 +198,23 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un cirujano exitoso deja Boston para ejercer en el pueblo de su niñez. Su excelencia médica contrasta con su mala actitud mientras afronta fobias y problemas de relación.",
+      "description": "Philomena Cunk repasa la historia del cine con su peculiar sentido del humor en esta serie que parodia los documentales y desconcierta a más de un experto.",
       "genres": [
         "Comedia",
-        "Drama"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZCBWuvGRxBkq06gafLUJVGB63.png",
+      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wySudlXWMJKwzdlXZIe73Rpz1Pj.png",
       "director": [],
       "cast": [
-        "Josh Charles",
-        "Abigail Spencer",
-        "Josh Segarra",
-        "Cree",
-        "Annie Potts",
-        "Stephen Spinella",
-        "Jason Veasey",
-        "Eliza Coupe"
-      ],
-      "rank": 6,
-      "id": "tt36885662",
-      "name": "Best Medicine",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
-      "director": [],
-      "cast": [
-        "Kristen Bell",
-        "Adam Brody",
-        "Justine Lupe",
-        "Timothy Simons"
+        "Diane Morgan"
       ],
       "rank": 7,
-      "id": "tt26933824",
-      "name": "Nadie quiere esto",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "rating": 7.271,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un hospital marcado por la escasez de fondos y personal, médicos y enfermeras enfrentan diariamente el desafío de atender a sus pacientes en condiciones precarias. Con recursos limitados y turnos extenuantes, luchan por ofrecer cuidados de calidad mientras intentan preservar su salud mental.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/u698B6dIpdoPz1CXmESuELHS9wr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n4NK2M3mvQfMjIYeTv67liQg6ZQ.png",
-      "director": [],
-      "cast": [
-        "Wendi McLendon-Covey",
-        "Allison Tolman",
-        "Josh Lawson",
-        "Kahyun Kim",
-        "Mekki Leeper",
-        "Kaliko Kauahi",
-        "David Alan Grier"
-      ],
-      "rank": 8,
-      "id": "tt21433690",
-      "name": "St. Denis Medical",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5n6eS9OJzxozkIi7r87Pudte3hD.jpg",
-      "rating": 6.774,
-      "year": 2024,
+      "id": "tt47021035",
+      "name": "El cine según Philomena Cunk",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "rating": 7.455,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -267,11 +241,11 @@
         "Warren Kole",
         "Christina Ricci"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt11041332",
       "name": "Yellowjackets",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "rating": 7.425,
+      "rating": 7.4,
       "year": 2021,
       "days": null,
       "trend": {
@@ -281,24 +255,58 @@
     },
     {
       "artworkVersion": 4,
-      "description": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
       "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJgMYKXKreT6Lg0yWMhT7PfMqXA.png",
+      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
       "director": [],
       "cast": [
-        "Florence Pugh",
-        "Christopher Abbott",
-        "Mike Faist"
+        "Molly Parker",
+        "Omar Metwally",
+        "Amirah Vann",
+        "Jon-Michael Ecker",
+        "Felicity Huffman"
+      ],
+      "rank": 9,
+      "id": "tt26748321",
+      "name": "Doc (EEUU)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "rating": 7.325,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "director": [],
+      "cast": [
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "Katrina Law",
+        "Brian Dietzen",
+        "Diona Reasonover",
+        "Gary Cole",
+        "Michael Weatherly"
       ],
       "rank": 10,
-      "id": "tt21097264",
-      "name": "Al este del Edén",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-      "rating": 7.78,
-      "year": 2026,
+      "id": "tt0364845",
+      "name": "Navy: Investigación criminal",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "rating": 7.601,
+      "year": 2003,
       "days": null,
       "trend": {
         "dir": "same",
@@ -307,5 +315,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
 }

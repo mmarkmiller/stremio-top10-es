@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -41,6 +41,75 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Lucy y Philip son felices: acaban de mudarse con su hijo a una casa de campo cerca de Múnich. Una mañana, su vida da un vuelco cuando la policía se presenta en su domicilio para detener a Philip y confiscar sus ordenadores. Conmocionada, Lucy busca la verdad sobre su marido. ¿Quién es realmente? ¿Debe alejarlo de su hijo?",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tk6SAXhNNBBSwqz7itkbv0eoAFP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yUZDqNwWMHTeA95pMJqRLQLSxk0.png",
+      "runtime": "114 min",
+      "director": [
+        "Marie Kreutzer"
+      ],
+      "cast": [
+        "Léa Seydoux",
+        "Laurence Rupp",
+        "Malo Blanchet",
+        "Jella Haase",
+        "Catherine Deneuve",
+        "Anton Rubtsov",
+        "Nils Strunk",
+        "Sylvester Groth"
+      ],
+      "rank": 2,
+      "id": "tt37020296",
+      "name": "Un monstruo amable",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
+      "rating": 6.5,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kehvh3B2V1xJpFHoPAwr3wjbGNp.png",
+      "runtime": "109 min",
+      "director": [
+        "Elizabeth Allen Rosenbaum"
+      ],
+      "cast": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Walker Hayes",
+        "Noah LaLonde",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Ava Max"
+      ],
+      "rank": 3,
+      "id": "tt6611324",
+      "name": "Guardaespaldas por navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
         "Ciencia ficción",
@@ -63,11 +132,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.627,
+      "rating": 7.63,
       "year": 2023,
       "days": null,
       "trend": {
@@ -99,7 +168,7 @@
         "Alena Mihulová",
         "Marcin Dorociński"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt4190530",
       "name": "Operación Anthropoid",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
@@ -134,11 +203,11 @@
         "Hill Harper",
         "Ben Dickey"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt38213251",
       "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "rating": 6.3,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -171,7 +240,7 @@
         "Gregg Gilmore",
         "Jamald Gardner"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt33365126",
       "name": "Carolina Caroline",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
@@ -207,11 +276,11 @@
         "Cam Gigandet",
         "Leah Brady"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt12003946",
       "name": "Noche de paz",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
-      "rating": 7.2,
+      "rating": 7.197,
       "year": 2022,
       "days": null,
       "trend": {
@@ -221,66 +290,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
+      "description": "Luchando pero sin disculparse por vivir en sus propios términos, Inez se muda de refugio en refugio a mediados de la década de 1990 en la ciudad de Nueva York. Con su hijo Terry de 6 años en un hogar de acogida y sin poder dejarlo de nuevo, lo secuestra para que puedan construir su vida juntos. A medida que pasan los años, su familia crece y Terry se convierte en un adolescente inteligente pero tranquilo, pero el secreto que ha definido sus vidas amenaza con destruir el hogar que han construido de manera tan improbable.",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Crimen"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dnrUa6EXInBVfuPZLMDvkH7bMBi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aKYRhaNNGgZR2UakuyjFcnXNGvx.png",
+      "runtime": "116 min",
       "director": [
-        "Colin Higgins"
+        "A.V. Rockwell"
       ],
       "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
+        "Teyana Taylor",
+        "William Catlett",
+        "Josiah Cross",
+        "Aven Courtney",
+        "Aaron Kingsley Adetola",
+        "Terri Abney",
+        "Delissa Reynolds",
+        "Amelia Workman"
       ],
-      "rank": 7,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-      "runtime": "94 min",
-      "director": [
-        "David Wain"
-      ],
-      "cast": [
-        "Zoey Deutch",
-        "John Slattery",
-        "Ken Marino",
-        "Miles Gutierrez-Riley",
-        "Ben Wang",
-        "Sabrina Impacciatore",
-        "Jon Hamm",
-        "Joe Lo Truglio"
-      ],
-      "rank": 8,
-      "id": "tt36834010",
-      "name": "Gail Daughtry y el vale por un rollo VIP",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-      "rating": 6.311,
-      "year": 2026,
+      "rank": 9,
+      "id": "tt12427158",
+      "name": "Mil Uno",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c943thY4bOJU59UfD257ELZe13g.jpg",
+      "rating": 6.609,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -311,7 +347,7 @@
         "Macon Blair",
         "Mark Webber"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt4062536",
       "name": "Green Room",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
@@ -322,43 +358,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xvUUS1Z8bhfSIE72BBDy4m70CVx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
-      "runtime": "103 min",
-      "director": [
-        "Chris Rock"
-      ],
-      "cast": [
-        "Rosalind Eleazar",
-        "Adam Driver",
-        "Daniel Kaluuya",
-        "Anna Kendrick",
-        "Chris Rock",
-        "Topher Grace",
-        "Alexandra Shipp",
-        "Amy Landecker"
-      ],
-      "rank": 10,
-      "id": "tt34385184",
-      "name": "Verde Brumoso",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
-      "rating": 7.15,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
 }

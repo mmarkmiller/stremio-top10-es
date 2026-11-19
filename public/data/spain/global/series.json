@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "global",
   "list": "series",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,8 +28,39 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.666,
+      "rating": 8.7,
       "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Traicionado por la Casa Blanca, el congresista Frank Underwood emprende su implacable ascenso al poder. El chantaje, la seducción y la ambición serán sus armas.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17KtWi75BhP6aTgtUuDHyLpRI9s.png",
+      "director": [],
+      "cast": [
+        "Robin Wright",
+        "Michael Kelly",
+        "Constance Zimmer",
+        "Patricia Clarkson",
+        "Derek Cecil",
+        "Boris McGiver",
+        "Lars Mikkelsen",
+        "Cody Fern"
+      ],
+      "rank": 2,
+      "id": "tt1856010",
+      "name": "House of Cards",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+      "rating": 8.004,
+      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -56,12 +87,35 @@
         "Ismael Cruz Cordova",
         "Tyroe Muhafidin"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt7631058",
       "name": "El Señor de los Anillos: Los Anillos de Poder",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "rating": 7.219,
+      "rating": 7.2,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sara Santano es una inspectora de hacienda que ha dedicado toda su vida a la recaudación de impuestos. Después de más de treinta años entregados a la Agencia Tributaria, decide prejubilarse. Sin embargo, el último día recibe el encargo más importante de su carrera: demostrar que Celeste, la gran estrella musical latina, reside en España y tiene que pagar aquí sus impuestos. Para ello, Sara tendrá que aparcar su vida para recorrer la de Celeste y demostrar que pasó 184 días en el país.",
+      "genres": [
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xr4kXYVKrwUOnkJ6cKLCe5V3HSF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Vk9j8THYmm8U0nLplloaO1852x.png",
+      "director": [],
+      "cast": [],
+      "rank": 4,
+      "id": "tt31262522",
+      "name": "Celeste",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ptXjhh85HT4dB8xR6A7VI7ruq0X.jpg",
+      "rating": 7.6,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -88,11 +142,11 @@
         "Jackson Kelly",
         "Sofia Wylie"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt8014982",
       "name": "El cuerpo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "rating": 7.9,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+      "rating": 7.912,
       "year": 2026,
       "days": null,
       "trend": {
@@ -110,9 +164,7 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/93KTDcYWWcDmzayWig9qPKq5J9z.png",
-      "director": [
-        "Carlos Sedes"
-      ],
+      "director": [],
       "cast": [
         "Tristán Ulloa",
         "Carlos Blanco",
@@ -123,11 +175,11 @@
         "Fernando Guillén Cuervo",
         "Nacho Fresneda"
       ],
-      "rank": 4,
+      "rank": 6,
       "id": "tt38707741",
       "name": "El crimen de Pazos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "rating": 6.313,
+      "rating": 6.368,
       "year": 2026,
       "days": null,
       "trend": {
@@ -151,134 +203,12 @@
         "Jordi Sánchez",
         "Nathalie Seseña"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt0922037",
       "name": "La que se avecina",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ceoJyZgsHBaenUxhobHUA6mXXf0.jpg",
       "rating": 8.1,
       "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/skoYQABun0gdw4VpN85ZbTIclmT.png",
-      "director": [],
-      "cast": [
-        "Paul Bettany",
-        "James Spader",
-        "Ruaridh Mollica",
-        "Todd Stashwick",
-        "Lauren Morais",
-        "T'Nia Miller",
-        "Orla Brady",
-        "Henry Lewis"
-      ],
-      "rank": 6,
-      "id": "tt23112594",
-      "name": "VisionQuest",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
-      "rating": 8.267,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un oscuro drama psicológico donde Idris Elba interpreta a Luther, un hombre que lucha contra sus propios demonios terribles, que podría ser tan peligroso como los depravados asesinos que caza.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h3UtLxMY7EYa2m4uFW14q3gz6El.png",
-      "director": [],
-      "cast": [
-        "Idris Elba",
-        "Dermot Crowley",
-        "Hermione Norris",
-        "Michael Smiley",
-        "Ruth Wilson",
-        "Patrick Malahide",
-        "Wunmi Mosaku",
-        "Enzo Cilenti"
-      ],
-      "rank": 7,
-      "id": "tt1474684",
-      "name": "Luther",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-      "rating": 7.845,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "genres": [
-        "Action & Adventure",
-        "Familia",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
-      "director": [],
-      "cast": [
-        "Elizabeth Tabish"
-      ],
-      "rank": 8,
-      "id": "tt5622316",
-      "name": "The Chosen (Los elegidos)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
-      "rating": 8.9,
-      "year": 2019,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Misterio",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/72KLqnmblntpDJ0GvvNiIzFgTD2.png",
-      "director": [],
-      "cast": [
-        "Keira Knightley",
-        "Ben Whishaw",
-        "Sarah Lancashire",
-        "Andrew Buchan",
-        "Ella Lily Hyland"
-      ],
-      "rank": 9,
-      "id": "tt27995113",
-      "name": "Palomas negras",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f8ZkA3Px8EDLyeOmSPOi1m5hU2z.jpg",
-      "rating": 7.055,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,11 +236,69 @@
         "Poorna Jagannathan",
         "Landon Valentin"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt26598805",
       "name": "Nocturno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": 7.583,
+      "rating": 7.629,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5rNWC2tOqDsvwq6sNHaNmCo39Ly.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ty90Joo554sp34iZgmR44Ec7zd.png",
+      "director": [],
+      "cast": [
+        "Elizabeth Tabish"
+      ],
+      "rank": 9,
+      "id": "tt5622316",
+      "name": "The Chosen (Los elegidos)",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+      "rating": 8.857,
+      "year": 2019,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t70riPSuKjad5ENbHJR86zhwn6Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zTHbENwiYgHlBDJiKKELHMnWceC.png",
+      "director": [],
+      "cast": [
+        "Rodrigo de la Serna",
+        "Matías Recalt",
+        "Camila Peralta",
+        "Fiorella Bottaioli",
+        "Agustín Pardella",
+        "Fernando Contigiani García",
+        "Agustina Muñoz",
+        "Matías Mayer"
+      ],
+      "rank": 10,
+      "id": "tt41559886",
+      "name": "Gordon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -320,5 +308,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
 }

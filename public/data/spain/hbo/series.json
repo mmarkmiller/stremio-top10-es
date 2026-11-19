@@ -2,8 +2,40 @@
   "country": "spain",
   "key": "hbo",
   "list": "series",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
+      "director": [],
+      "cast": [
+        "Rose Byrne",
+        "Meghann Fahy",
+        "Brendan Gleeson",
+        "Harper Steele",
+        "Michael Dorman",
+        "Audrey Grace Marshall",
+        "Drew Cheek",
+        "Olivia Williams"
+      ],
+      "rank": 1,
+      "id": "tt31842126",
+      "name": "The Good Daughter",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "rating": 7.6,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
@@ -21,44 +53,12 @@
         "Cameron Scoggins",
         "Devin Kessler"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt23148340",
       "name": "Crystal Lake",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
       "rating": 8.579,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
-      "director": [],
-      "cast": [
-        "Claudia Salas",
-        "Ana Torrent",
-        "Maribel Verdú",
-        "Carmen Maura",
-        "María León",
-        "Cecilia Suárez",
-        "Ana Mena",
-        "Clara Sans"
-      ],
-      "rank": 2,
-      "id": "tt32327588",
-      "name": "Furia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-      "rating": 6.6,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,39 +89,7 @@
       "id": "tt40225961",
       "name": "Infamia",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-      "rating": 9,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
-      "director": [],
-      "cast": [
-        "Rose Byrne",
-        "Meghann Fahy",
-        "Brendan Gleeson",
-        "Harper Steele",
-        "Michael Dorman",
-        "Audrey Grace Marshall",
-        "Drew Cheek",
-        "Olivia Williams"
-      ],
-      "rank": 4,
-      "id": "tt31842126",
-      "name": "The Good Daughter",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "rating": 7.9,
+      "rating": 7.833,
       "year": 2026,
       "days": null,
       "trend": {
@@ -148,7 +116,7 @@
         "Blake Ritson",
         "Simon Jones"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt4406178",
       "name": "La edad dorada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wlvtB6Wn7IwsfcMtL4Sxm93jMGe.jpg",
@@ -181,7 +149,7 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 6,
+      "rank": 5,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
@@ -195,90 +163,55 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un pequeño pueblo de costa, un investigador privado llega para investigar lo que pasó con el joven heredero de una poderosa empresa pesquera, que desapareció sin dejar rastro. Mientras investiga, se topa con una detective local desconfiada y con una profesora carismática, y se ve envuelto en una trama de vidas ocultas, sospechas y magia antigua.",
+      "description": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy",
-        "Misterio"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mibBJAotkuVoH4vaNrHl8dfvQ5L.png",
+      "background": "https://image.tmdb.org/t/p/w1280/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ykmJtWriULURXjB9wxD2nR3PVZ2.png",
       "director": [],
       "cast": [
-        "Noah Reid",
-        "Clark Backo",
-        "Hudson Williams",
-        "Carrie-Anne Moss"
+        "Claudia Salas",
+        "Ana Torrent",
+        "Maribel Verdú",
+        "Carmen Maura",
+        "María León",
+        "Cecilia Suárez",
+        "Ana Mena",
+        "Clara Sans"
+      ],
+      "rank": 6,
+      "id": "tt32327588",
+      "name": "Furia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+      "rating": 6.6,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Nathan Fielder regresa a la televisión en una nueva serie que explora hasta dónde llegará un hombre para reducir las incertidumbres de la vida cotidiana. Con un equipo de construcción, una legión de actores y recursos aparentemente ilimitados, Fielder permite que la gente común se prepare para los momentos más importantes de la vida \"ensayándolos\" en simulaciones cuidadosamente diseñadas por él mismo. Cuando un solo paso en falso podría destrozar todo tu mundo, ¿por qué dejar la vida al azar?",
+      "genres": [
+        "Comedia",
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z9AwN7KmtnbVOqxWSL5zyVHby14.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gk81m2K7oo7Owdc8upmYmT7rQCW.png",
+      "director": [],
+      "cast": [
+        "Nathan Fielder"
       ],
       "rank": 7,
-      "id": "tt39980704",
-      "name": "Yaga",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "rating": 7.045,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vr4Qfj87Tettu91HJDi2WJeGliU.png",
-      "director": [],
-      "cast": [
-        "Alan Cumming",
-        "David Morrissey",
-        "Elizabeth Berrington",
-        "Pooky Quesnel",
-        "Iz Hesketh",
-        "Paul Rhys",
-        "Jackson Connor",
-        "Joseph William Evans"
-      ],
-      "rank": 8,
-      "id": "tt35768911",
-      "name": "De puntillas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-      "rating": 6.945,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
-      "director": [],
-      "cast": [
-        "Juno Temple",
-        "Jennifer Jason Leigh",
-        "David Rysdahl",
-        "Joe Keery",
-        "Lamorne Morris",
-        "Richa Shukla Moorjani",
-        "Sam Spruell",
-        "Sienna King"
-      ],
-      "rank": 9,
-      "id": "tt2802850",
-      "name": "Fargo",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "rating": 8.289,
-      "year": 2014,
+      "id": "tt10802170",
+      "name": "Los ensayos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/atOSF8y9MNn50gu3NYdTM8AumRJ.jpg",
+      "rating": 7.941,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,12 +239,73 @@
         "Matthew Needham",
         "Sonoya Mizuno"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt11198330",
       "name": "La casa del dragón",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "rating": 8.377,
+      "rating": 8.376,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png",
+      "director": [],
+      "cast": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "Matthew Perry",
+        "David Schwimmer"
+      ],
+      "rank": 9,
+      "id": "tt0108778",
+      "name": "Friends",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "rating": 8.405,
+      "year": 1994,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La Primera Guerra Mundial (1914-1918) ha terminado y Wall Street está a punto de explotar. Es una época de cambios: las mujeres obtienen el derecho al voto, la radio llega a los hogares y los jóvenes gobiernan el mundo. Atlantic City (Nueva Jersey) es un espectacular lugar de vacaciones en el que sólo se respetan las reglas impuestas por Enoch \"Nucky\" Thompson (Steve Buscemi). Basada en hechos reales, se inspira en la obra homónima de Nelson Johnson.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqeH6VfmPTQW1KNGATeKgg540mb.png",
+      "director": [],
+      "cast": [
+        "Steve Buscemi",
+        "Kelly Macdonald",
+        "Michael Shannon",
+        "Shea Whigham",
+        "Stephen Graham",
+        "Vincent Piazza",
+        "Michael Kenneth Williams",
+        "Paul Sparks"
+      ],
+      "rank": 10,
+      "id": "tt0979432",
+      "name": "Boardwalk Empire",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+      "rating": 8.025,
+      "year": 2010,
       "days": null,
       "trend": {
         "dir": "same",
@@ -320,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt15095848",
       "name": "Siendo Heumann",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 7.052,
+      "rating": 7.081,
       "year": 2026,
       "days": null,
       "trend": {
@@ -41,34 +41,36 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "description": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
       "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Misterio"
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Película de TV"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
-      "runtime": "116 min",
+      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png",
+      "runtime": "25 min",
       "director": [
-        "Denis Villeneuve"
+        "Bill Melendez",
+        "Phil Roman"
       ],
       "cast": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker",
-        "Michael Stuhlbarg",
-        "Mark O'Brien",
-        "Tzi Ma",
-        "Abigail Pniowsky",
-        "Julia Scarlett Dan"
+        "Todd Barbee",
+        "Robin Kohn",
+        "Stephen Shea",
+        "Hilary Momberger-Powers",
+        "Christopher DeFaria",
+        "Jimmy Ahrens",
+        "Bill Melendez",
+        "Robin Reed"
       ],
       "rank": 2,
-      "id": "tt2543164",
-      "name": "La llegada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
-      "rating": 7.638,
-      "year": 2016,
+      "id": "tt0068359",
+      "name": "Es Acción de Gracias, Charlie Brown",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "rating": 7.286,
+      "year": 1973,
       "days": null,
       "trend": {
         "dir": "same",
@@ -139,8 +141,78 @@
       "id": "tt1392214",
       "name": "Prisioneros",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.1,
+      "rating": 8.105,
       "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png",
+      "runtime": "116 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
+      ],
+      "rank": 6,
+      "id": "tt2543164",
+      "name": "La llegada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "rating": 7.638,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jqz8FwISQfyum47PUqgPTGtmiMk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png",
+      "runtime": "120 min",
+      "director": [
+        "George Nolfi"
+      ],
+      "cast": [
+        "Anthony Mackie",
+        "Samuel L. Jackson",
+        "Nicholas Hoult",
+        "Nia Long",
+        "Scott Daniel Johnson",
+        "Jessie T. Usher",
+        "Colm Meaney",
+        "Paul Ben-Victor"
+      ],
+      "rank": 7,
+      "id": "tt6285944",
+      "name": "El banquero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
+      "rating": 7.637,
+      "year": 2020,
       "days": null,
       "trend": {
         "dir": "same",
@@ -171,50 +243,12 @@
         "Lhakpa Tsamchoe",
         "Jampa Kalsang Tamang"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt6262770",
       "name": "Tenzing",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.171,
+      "rating": 8.167,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Película de TV"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png",
-      "runtime": "25 min",
-      "director": [
-        "Bill Melendez",
-        "Phil Roman"
-      ],
-      "cast": [
-        "Todd Barbee",
-        "Robin Kohn",
-        "Stephen Shea",
-        "Hilary Momberger-Powers",
-        "Christopher DeFaria",
-        "Jimmy Ahrens",
-        "Bill Melendez",
-        "Robin Reed"
-      ],
-      "rank": 7,
-      "id": "tt0068359",
-      "name": "Es Acción de Gracias, Charlie Brown",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
-      "rating": 7.286,
-      "year": 1973,
       "days": null,
       "trend": {
         "dir": "same",
@@ -243,11 +277,11 @@
         "Allelon Ruggiero",
         "James Waterston"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt0097165",
       "name": "El club de los poetas muertos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.295,
+      "rating": 8.3,
       "year": 1989,
       "days": null,
       "trend": {
@@ -279,7 +313,7 @@
         "Wendy Crewson",
         "Louis Cancelmi"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
@@ -290,43 +324,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-      "genres": [
-        "Acción",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOB0YAN0Z50TMY5EydztrVZ5spR.png",
-      "runtime": "155 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Brad Pitt",
-        "Damson Idris",
-        "Javier Bardem",
-        "Kerry Condon",
-        "Tobias Menzies",
-        "Kim Bodnia",
-        "Sarah Niles",
-        "Will Merrick"
-      ],
-      "rank": 10,
-      "id": "tt16311594",
-      "name": "F1 la película",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xq3AcnU8FF4GoBTMf2Y9pqBqdfu.jpg",
-      "rating": 7.834,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
 }

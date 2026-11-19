@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,44 +31,8 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 7,
+      "rating": 6.952,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
-      "runtime": "123 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
-      ],
-      "rank": 2,
-      "id": "tt1951265",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.816,
-      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -80,7 +44,8 @@
       "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "genres": [
         "Drama",
-        "Historia"
+        "Historia",
+        "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
@@ -98,11 +63,11 @@
         "Shane Gillis",
         "Marshawn Lynch"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt24818230",
       "name": "Madden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "rating": 7.2,
+      "rating": 8.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -134,12 +99,48 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt1951266",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
-      "rating": 6.899,
+      "rating": 6.9,
       "year": 2015,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
+      ],
+      "rank": 4,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.816,
+      "year": 2014,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,26 +185,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Nunca provoques a un hombre tranquilo, porque podrías despertar sus demonios.",
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
+      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
       "director": [
-        "Andrés Paternostro"
+        "Matt Johnson"
       ],
       "cast": [
-        "Carolina Kopelioff",
-        "Romina Fernandes",
-        "Roberto Vallejos",
-        "Ricardo Merkin",
-        "Daniel Campomenosi"
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Stavros Halkias",
+        "Leo Woodall",
+        "Monica Raymund",
+        "Michael Jibrin",
+        "Rich Sommer"
       ],
       "rank": 6,
-      "id": "tt34771515",
-      "name": "La noche de los tres fuegos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gY5SGmq8qbRKw2kBKXEfKXlkna1.jpg",
-      "rating": 10,
-      "year": 2025,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.334,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -212,29 +220,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "El 11 de septiembre de 2012, en el aniversario de los ataques terroristas a las Torres Gemelas y al Pentágono, un grupo de milicianos islamistas atentaron contra el consulado estadounidense y un anexo cercano de la CIA en Bengasi, Libia. Un equipo de seis miembros de Operaciones Especiales de Estados Unidos fue enviado para rescatar a los supervivientes.",
       "genres": [
-        "Drama"
+        "Acción",
+        "Bélica",
+        "Suspense"
       ],
-      "runtime": "75 min",
+      "background": "https://image.tmdb.org/t/p/w1280/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNqkdnjkxOW3XOKcLFJl4paPFkT.png",
+      "runtime": "144 min",
       "director": [
-        "Leonardo Peña"
+        "Michael Bay"
       ],
       "cast": [
-        "Amparo Noguera",
-        "Diego Casanueva",
-        "Julio Jung",
-        "Daniela Urra Balcazar",
-        "Eusebio Arenas",
-        "Diego Ruiz",
-        "Arantxa Bodenhöfer",
-        "Pablo Krögh"
+        "John Krasinski",
+        "James Badge Dale",
+        "Dominic Fumusa",
+        "Max Martini",
+        "Pablo Schreiber",
+        "Matt Letscher",
+        "Alexia Barlier",
+        "David Costabile"
       ],
       "rank": 7,
-      "id": "tmdb:545996",
-      "name": "Silencio",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eHUvXiKauOGGROpxdLwyYH2fdLG.jpg",
-      "rating": null,
-      "year": 2017,
+      "id": "tt4172430",
+      "name": "13 horas. Los soldados secretos de Bengasi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg",
+      "rating": 7.285,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -279,6 +292,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Nunca provoques a un hombre tranquilo, porque podrías despertar sus demonios.",
+      "genres": [
+        "Drama"
+      ],
+      "director": [
+        "Andrés Paternostro"
+      ],
+      "cast": [
+        "Carolina Kopelioff",
+        "Romina Fernandes",
+        "Roberto Vallejos",
+        "Ricardo Merkin",
+        "Daniel Campomenosi"
+      ],
+      "rank": 9,
+      "id": "tt34771515",
+      "name": "La noche de los tres fuegos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gY5SGmq8qbRKw2kBKXEfKXlkna1.jpg",
+      "rating": 10,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
         "Ciencia ficción",
@@ -301,48 +342,12 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 9,
+      "rank": 10,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.623,
+      "rating": 8.6,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La noche del 2 de marzo de 1953 murió un hombre. Ese hombre es Josef Stalin, dictador, tirano, carnicero y Secretario General de la URSS. Y si juegas tus cartas bien, el puesto ahora puede ser tuyo. Una sátira sobre los días previos al funeral del padre de la nación. Dos jornadas de duras peleas por el poder absoluto a través de manipulaciones, lujurias y traiciones.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Historia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xsvnjs0JggmPf7aTBSR7djahKgx.png",
-      "runtime": "116 min",
-      "director": [
-        "Armando Iannucci"
-      ],
-      "cast": [
-        "Steve Buscemi",
-        "Simon Russell Beale",
-        "Jeffrey Tambor",
-        "Jason Isaacs",
-        "Michael Palin",
-        "Rupert Friend",
-        "Andrea Riseborough",
-        "Dermot Crowley"
-      ],
-      "rank": 10,
-      "id": "tt4686844",
-      "name": "La muerte de Stalin",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
-      "rating": 7.026,
-      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -351,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "series",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,40 +28,7 @@
       "id": "tt31510819",
       "name": "Tierra de mafiosos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "rating": 8.666,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-      "director": [],
-      "cast": [
-        "Michael C. Hall",
-        "Uma Thurman",
-        "Jack Alcott",
-        "Dan Stevens",
-        "Bokeem Woodbine",
-        "Ntare Guma Mbaho Mwine",
-        "Kadia Saraf",
-        "Dominic Fumusa"
-      ],
-      "rank": 2,
-      "id": "tt33043892",
-      "name": "Dexter: Resurrección",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "rating": 8.546,
+      "rating": 8.7,
       "year": 2025,
       "days": null,
       "trend": {
@@ -90,12 +57,193 @@
         "McKenna Quigley Harrington",
         "Frank Grillo"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt16358384",
       "name": "Tulsa King",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
       "rating": 8.322,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La fe del detective Avraham en la humanidad es su superpoder cuando se trata de descubrir la verdad. Guiado por un profundo sentido de espiritualidad y principios religiosos, Avraham debe cuestionar su propia humanidad cuando una investigación aparentemente rutinaria da un vuelco.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lydlfputbaP3TlnF8eCOjbQ9BER.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n0GgimLxSKxjBkrxmqkxE51QjxG.png",
+      "director": [],
+      "cast": [
+        "Jeff Wilbusch",
+        "Juliana Canfield",
+        "Karen Robinson",
+        "Michael Mosley"
+      ],
+      "rank": 3,
+      "id": "tt15765450",
+      "name": "The Calling",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yjc3yqr4zj228aWdgQa5wZqTPam.jpg",
+      "rating": 6.156,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una serie de cortometrajes independientes con personajes e historias de Star Trek: Discovery (2017).",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dYP7g2vYY5L1FyZzgEETF9eeU3r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yVC0xLubtJV1vuvOeDE2RhCj7Sf.png",
+      "director": [],
+      "cast": [],
+      "rank": 4,
+      "id": "tt9059594",
+      "name": "Star Trek: Short Treks",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1IMhBaY9PyjV2QlBa4tVe3W8EQi.jpg",
+      "rating": 6.333,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+      "director": [],
+      "cast": [
+        "Michael C. Hall",
+        "Uma Thurman",
+        "Jack Alcott",
+        "Dan Stevens",
+        "Bokeem Woodbine",
+        "Ntare Guma Mbaho Mwine",
+        "Kadia Saraf",
+        "Dominic Fumusa"
+      ],
+      "rank": 5,
+      "id": "tt33043892",
+      "name": "Dexter: Resurrección",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "rating": 8.5,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "director": [],
+      "cast": [
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable",
+        "Jill Wagner",
+        "LaMonica Garrett",
+        "James Jordan",
+        "Génesis Rodríguez",
+        "Michael Kelly"
+      ],
+      "rank": 6,
+      "id": "tt13111078",
+      "name": "Operaciones Especiales: Lioness",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "rating": 8.278,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley",
+        "Cole Hauser",
+        "Kelsey Asbille",
+        "Brecken Merrill",
+        "Ryan Bingham",
+        "Finn Little"
+      ],
+      "rank": 7,
+      "id": "tt4236770",
+      "name": "Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "rating": 8.284,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qN9ZKCJpLPDNyk65QCes5oY46FL.png",
+      "director": [],
+      "cast": [
+        "Luke Grimes",
+        "Logan Marshall-Green",
+        "Arielle Kebbel",
+        "Ash Santos",
+        "Tatanka Means",
+        "Brecken Merrill",
+        "Mo Brings Plenty",
+        "Gil Birmingham"
+      ],
+      "rank": 8,
+      "id": "tt36849871",
+      "name": "Marshals: Una historia de Yellowstone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "rating": 7.992,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -123,11 +271,11 @@
         "Desmond Harrington",
         "C.S. Lee"
       ],
-      "rank": 4,
+      "rank": 9,
       "id": "tt0773262",
       "name": "Dexter",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
-      "rating": 8.2,
+      "rating": 8.243,
       "year": 2006,
       "days": null,
       "trend": {
@@ -137,167 +285,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una supuesta maldición perturba la relación de una pareja de recién casados que intentan concebir un hijo mientras coprotagonizan su nuevo y problemático programa de HGTV.",
+      "description": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía.\n\nEntre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de acceso a la facultad de derecho.\n\nEl azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter.\n\nLa inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un único título universitario.",
       "genres": [
-        "Comedia",
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5oY2y5VYlpKC7xjMMAbkJRRtGzw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/57b7oZy9NLVdVImhIiZcbADhQLc.png",
+      "background": "https://image.tmdb.org/t/p/w1280/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png",
       "director": [],
       "cast": [
-        "Emma Stone",
-        "Nathan Fielder",
-        "Benny Safdie"
-      ],
-      "rank": 5,
-      "id": "tt13623608",
-      "name": "La maldición",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
-      "rating": 6.41,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La fe del detective Avraham en la humanidad es su superpoder cuando se trata de descubrir la verdad. Guiado por un profundo sentido de espiritualidad y principios religiosos, Avraham debe cuestionar su propia humanidad cuando una investigación aparentemente rutinaria da un vuelco.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lydlfputbaP3TlnF8eCOjbQ9BER.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n0GgimLxSKxjBkrxmqkxE51QjxG.png",
-      "director": [],
-      "cast": [
-        "Jeff Wilbusch",
-        "Juliana Canfield",
-        "Karen Robinson",
-        "Michael Mosley"
-      ],
-      "rank": 6,
-      "id": "tt15765450",
-      "name": "The Calling",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yjc3yqr4zj228aWdgQa5wZqTPam.jpg",
-      "rating": 6.156,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una serie de cortometrajes independientes con personajes e historias de Star Trek: Discovery (2017).",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dYP7g2vYY5L1FyZzgEETF9eeU3r.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yVC0xLubtJV1vuvOeDE2RhCj7Sf.png",
-      "director": [],
-      "cast": [],
-      "rank": 7,
-      "id": "tt9059594",
-      "name": "Star Trek: Short Treks",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1IMhBaY9PyjV2QlBa4tVe3W8EQi.jpg",
-      "rating": 6.333,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/sa9vB0xb3OMU6iSMkig8RBbdESq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "director": [],
-      "cast": [
-        "Zoe Saldaña",
-        "Laysla De Oliveira",
-        "Dave Annable",
-        "Jill Wagner",
-        "LaMonica Garrett",
-        "James Jordan",
-        "Genesis Rodriguez",
-        "Michael Kelly"
-      ],
-      "rank": 8,
-      "id": "tt13111078",
-      "name": "Operaciones Especiales: Lioness",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "rating": 8.276,
-      "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png",
-      "director": [],
-      "cast": [
-        "Rami Malek",
-        "Christian Slater",
-        "Carly Chaikin"
-      ],
-      "rank": 9,
-      "id": "tt4158110",
-      "name": "Mr. Robot",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "rating": 8.266,
-      "year": 2015,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
-      "director": [],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
+        "Gabriel Macht",
+        "Rick Hoffman",
+        "Sarah Rafferty",
+        "Amanda Schull",
+        "Dulé Hill",
+        "Katherine Heigl"
       ],
       "rank": 10,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.284,
-      "year": 2018,
+      "id": "tt1632701",
+      "name": "Suits: la clave del éxito",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/nZsdLWlvZgA5waLpKl9koRg1VbJ.jpg",
+      "rating": 8.22,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -306,5 +314,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
 }

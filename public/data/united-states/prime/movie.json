@@ -2,14 +2,15 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
       "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "genres": [
         "Drama",
-        "Historia"
+        "Historia",
+        "Comedia"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
@@ -31,78 +32,7 @@
       "id": "tt24818230",
       "name": "Madden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "rating": 7.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
-      "runtime": "144 min",
-      "director": [
-        "Martin Campbell"
-      ],
-      "cast": [
-        "Daniel Craig",
-        "Eva Green",
-        "Mads Mikkelsen",
-        "Judi Dench",
-        "Jeffrey Wright",
-        "Giancarlo Giannini",
-        "Caterina Murino",
-        "Simon Abkarian"
-      ],
-      "rank": 2,
-      "id": "tt0381061",
-      "name": "Casino Royale",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
-      "rating": 7.581,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qLEIhXP5soL5NiGoAdUl57QoqSF.png",
-      "runtime": "91 min",
-      "director": [
-        "Jason James"
-      ],
-      "cast": [
-        "Maria Bakalova",
-        "Zach Cherry",
-        "Tyler Labine",
-        "Emily Hampshire",
-        "Preston Vanderslice",
-        "Ryan Beil",
-        "Devon Kenzo",
-        "Grace Dove"
-      ],
-      "rank": 3,
-      "id": "tt18316986",
-      "name": "All Night Wrong",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-      "rating": 6,
+      "rating": 8.1,
       "year": 2026,
       "days": null,
       "trend": {
@@ -134,12 +64,48 @@
         "Priya Kansara",
         "Mia Soteriou"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt12042730",
       "name": "Proyecto Salvación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.623,
+      "rating": 8.6,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
+      "runtime": "144 min",
+      "director": [
+        "Martin Campbell"
+      ],
+      "cast": [
+        "Daniel Craig",
+        "Eva Green",
+        "Mads Mikkelsen",
+        "Judi Dench",
+        "Jeffrey Wright",
+        "Giancarlo Giannini",
+        "Caterina Murino",
+        "Simon Abkarian"
+      ],
+      "rank": 3,
+      "id": "tt0381061",
+      "name": "Casino Royale",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
+      "rating": 7.581,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,7 +136,7 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
@@ -184,31 +150,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Ex militares estadounidenses se alían con operadores políticos para infiltrar ciudades con pandilleros mexicanos secuestrados, esperando caos criminal para ganar apoyo a agendas políticas radicales.",
+      "description": "En medio del bosque que rodea su hogar, a kilómetros de la ciudad y abrumada por el pánico, Amy Carr (Naomi Watts) recibe una llamada terrible: las autoridades están buscando al responsable de un tiroteo que ha tenido lugar en la escuela de su hijo adolescente, Noah. Amy se niega a sucumbir a la desesperación. Con la única ayuda de su móvil, buscará todos los recursos posibles para tratar de lograr la salvación de su hijo.",
       "genres": [
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9LJNfiOimPNF16PBqH8DAwaY6ky.png",
-      "runtime": "94 min",
+      "background": "https://image.tmdb.org/t/p/w1280/qp8qKiP7Q7zK4z3LItwWMHfV9kJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jkepdEOyMu65C4BygPnFWUbwjWp.png",
+      "runtime": "84 min",
       "director": [
-        "Ryan Jordan"
+        "Phillip Noyce"
       ],
       "cast": [
-        "Marissa Arguijo",
-        "Michael-Eoin Stanney",
-        "Marcus Jean Pirae",
-        "Dominic Hernandez",
-        "Nigel Vonas",
-        "Oscar Alejandro",
-        "Mary Salafia"
+        "Naomi Watts",
+        "Colton Gobbo",
+        "Sierra Maltby",
+        "Michelle Johnston",
+        "Woodrow Schrieber",
+        "David Reale",
+        "Jason Clarke",
+        "Debra Wilson"
       ],
-      "rank": 6,
-      "id": "tt28638842",
-      "name": "Borderline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
-      "rating": 6.206,
-      "year": 2026,
+      "rank": 5,
+      "id": "tt13133936",
+      "name": "Desesperada",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8SZrgFLqPvpJHw2zcSslS85xltS.jpg",
+      "rating": 5.958,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -217,32 +184,105 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
+      "description": "Espacio profundo. Monte y su hija Willow viven completamente aislados a bordo de una nave espacial. No siempre estuvieron solos: eran parte de un grupo de condenados a muerte que aceptaron conmutar sus sentencias por participar en una misión con destino al agujero negro más cercano a la Tierra.",
       "genres": [
-        "Drama"
+        "Ciencia ficción",
+        "Drama",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
-      "runtime": "119 min",
+      "background": "https://image.tmdb.org/t/p/w1280/6gHdAO1Lvk9bjzhY4hX3wVRkAhF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zWhGzQCqqU8fFNBX0tl5z4Nz9Tx.png",
+      "runtime": "113 min",
       "director": [
-        "John G. Avildsen"
+        "Claire Denis"
       ],
       "cast": [
-        "Sylvester Stallone",
-        "Talia Shire",
-        "Burt Young",
+        "Robert Pattinson",
+        "Juliette Binoche",
+        "Mia Goth",
+        "André 3000",
+        "Agata Buzek",
+        "Lars Eidinger",
+        "Claire Tran",
+        "Ewan Mitchell"
+      ],
+      "rank": 6,
+      "id": "tt4827558",
+      "name": "High Life",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eNwYbvtI1MCYofxvUTrXvWz7ASB.jpg",
+      "rating": 5.72,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Segunda Guerra Mundial, 1943. Mallory y Miller, los héroes que destruyeron los cañones de Navarone, son enviados a Yugoslavia en busca de un fantasma del pasado.",
+      "genres": [
+        "Drama",
+        "Aventura",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uFTO0RpNBzM4003ystNglQa173w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6gwjwAC9ea1C7RVj7s2NLEWVCGo.png",
+      "runtime": "114 min",
+      "director": [
+        "Guy Hamilton"
+      ],
+      "cast": [
+        "Robert Shaw",
+        "Harrison Ford",
+        "Barbara Bach",
+        "Edward Fox",
+        "Franco Nero",
         "Carl Weathers",
-        "Burgess Meredith",
-        "Thayer David",
-        "Joe Spinell",
-        "Jimmy Gambina"
+        "Richard Kiel",
+        "Alan Badel"
       ],
       "rank": 7,
-      "id": "tt0075148",
-      "name": "Rocky",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
-      "rating": 7.803,
-      "year": 1976,
+      "id": "tt0077572",
+      "name": "Fuerza 10 de Navarone",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lJwytWc5QcRBO8N3skFJILTgnc7.jpg",
+      "rating": 6.261,
+      "year": 1978,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qLEIhXP5soL5NiGoAdUl57QoqSF.png",
+      "runtime": "91 min",
+      "director": [
+        "Jason James"
+      ],
+      "cast": [
+        "Maria Bakalova",
+        "Zach Cherry",
+        "Tyler Labine",
+        "Emily Hampshire",
+        "Preston Vanderslice",
+        "Ryan Beil",
+        "Devon Kenzo",
+        "Grace Dove"
+      ],
+      "rank": 8,
+      "id": "tt18316986",
+      "name": "All Night Wrong",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
+      "rating": 6,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -270,46 +310,12 @@
         "Tymika Chambliss",
         "Steve Haltom"
       ],
-      "rank": 8,
+      "rank": 9,
       "id": "tt27553457",
       "name": "Betray",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
       "rating": 4.8,
       "year": 2023,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tres secretarias de una importante empresa comercial trabajan a las órdenes de un jefe particularmente despótico y egoísta. Todas sueñan con vengarse de él y, casualmente, acaban consiguiéndolo. Secuestrado el jefe en su propia casa, las tres secretarias aprovechan para efectuar radicales cambios en la oficina.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
-      "runtime": "110 min",
-      "director": [
-        "Colin Higgins"
-      ],
-      "cast": [
-        "Jane Fonda",
-        "Lily Tomlin",
-        "Dolly Parton",
-        "Dabney Coleman",
-        "Sterling Hayden",
-        "Elizabeth Wilson",
-        "Henry Jones",
-        "Lawrence Pressman"
-      ],
-      "rank": 9,
-      "id": "tt0080319",
-      "name": "Cómo eliminar a su jefe",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9fIBmVRuqKrWPTvsDpr6TG12QXz.jpg",
-      "rating": 7,
-      "year": 1980,
       "days": null,
       "trend": {
         "dir": "same",
@@ -354,5 +360,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
 }

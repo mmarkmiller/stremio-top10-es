@@ -2,8 +2,43 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
+    {
+      "artworkVersion": 4,
+      "description": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kehvh3B2V1xJpFHoPAwr3wjbGNp.png",
+      "runtime": "109 min",
+      "director": [
+        "Elizabeth Allen Rosenbaum"
+      ],
+      "cast": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Walker Hayes",
+        "Noah LaLonde",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Ava Max"
+      ],
+      "rank": 1,
+      "id": "tt6611324",
+      "name": "Guardaespaldas por navidad",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "rating": 7.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
     {
       "artworkVersion": 4,
       "description": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
@@ -28,12 +63,47 @@
         "Luz Valdenebro",
         "Víctor Duplá"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.3,
+      "rating": 6.319,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Josh Kovaks lleva diez años como encargado de los pisos más lujosos y más vigilados de todo Nueva York. Nada le pasa desapercibido. Arthur Shaw es un pez gordo de Wall Street que está en arresto domiciliario en el piso más ostentoso del edificio después de ser acusado del robo de dos mil millones de dólares a sus inversores. Y de estos últimos, ¿quién va a sufrir más? El personal de “The Tower”, que le entregó su plan de pensiones. Sólo faltan unos días para que Shaw se salga con la suya. Josh y su gente deciden recurrir a Slide, un delincuente de poca monta, para conseguir lo imposible: robar los 20 millones de dólares que deben estar escondidos en el piso donde Shaw permanece vigilado por un equipo del FBI encabezado por la agente especial Claire Denham.",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6uYeqJ3Zoa8iWlIcesrLDBykTks.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/42PYbLNYZpoSZGbIAi73kfAs8eU.png",
+      "runtime": "104 min",
+      "director": [
+        "Brett Ratner"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Eddie Murphy",
+        "Casey Affleck",
+        "Alan Alda",
+        "Matthew Broderick",
+        "Stephen McKinley Henderson",
+        "Judd Hirsch",
+        "Téa Leoni"
+      ],
+      "rank": 3,
+      "id": "tt0471042",
+      "name": "Un golpe de altura",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zEftXKPZlhKjW6kMpNBn4DtJDHb.jpg",
+      "rating": 6.121,
+      "year": 2011,
       "days": null,
       "trend": {
         "dir": "same",
@@ -65,11 +135,11 @@
         "Zoë Bell",
         "Abigail Lowe"
       ],
-      "rank": 2,
+      "rank": 4,
       "id": "tt1483013",
       "name": "Oblivion",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
-      "rating": 6.7,
+      "rating": 6.701,
       "year": 2013,
       "days": null,
       "trend": {
@@ -79,33 +149,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
-        "Terror",
+        "Suspense",
         "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
-      "runtime": "103 min",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
       "director": [
-        "David F. Sandberg"
+        "Shana Feste"
       ],
       "cast": [
-        "Ella Rubin",
-        "Michael Cimino",
-        "Odessa A'zion",
-        "Ji-young Yoo",
-        "Belmont Cameli",
-        "Maia Mitchell",
-        "Peter Stormare",
-        "Tibor Szauerwein"
+        "Jessica Chastain",
+        "Carter Faith",
+        "Ross Lynch",
+        "John Hawkes",
+        "Garrett Hedlund",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey"
       ],
-      "rank": 3,
-      "id": "tt30955489",
-      "name": "Until Dawn",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
-      "rating": 6.235,
-      "year": 2025,
+      "rank": 5,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -114,32 +184,100 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El estafador profesional Roy Courtnay no puede creer su suerte cuando conoce a la viuda adinerada Betty McLeish por internet. Sin embargo, a medida que Betty le abre las puertas de su vida y su hogar, Roy se sorprende al sentir que esta mujer le importa mucho más de lo que se podría imaginar.",
+      "description": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
       "genres": [
-        "Crimen"
+        "Romance",
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qhWuoyUQ01ZzsbNfjbddAoK6uEc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nIGggtdKialGMURMhJKEodkR7k9.png",
-      "runtime": "109 min",
+      "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+      "runtime": "103 min",
       "director": [
-        "Bill Condon"
+        "Adam Pålsson"
       ],
       "cast": [
-        "Helen Mirren",
-        "Ian McKellen",
-        "Russell Tovey",
-        "Jim Carter",
-        "Mark Lewis Jones",
-        "Laurie Davidson",
-        "Phil Dunster",
-        "Lucian Msamati"
+        "Felice Jankell",
+        "Happy Jankell",
+        "Christian Fandango Sundgren",
+        "Celie Sparre",
+        "Anastasios Soulis",
+        "Maria Kulle",
+        "Dag Malmberg",
+        "Bengt Braskered"
       ],
-      "rank": 4,
-      "id": "tt5563334",
-      "name": "La gran mentira",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q3wHLlRKwEuxyluCUqHzBoC8gZO.jpg",
-      "rating": 6.678,
-      "year": 2019,
+      "rank": 6,
+      "id": "tt39313557",
+      "name": "El intercambio navideño",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "rating": 6.371,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
+      "runtime": "82 min",
+      "director": [
+        "Cesc Gay"
+      ],
+      "cast": [
+        "Javier Cámara",
+        "Belén Cuesta",
+        "Alberto San Juan",
+        "Griselda Siciliani"
+      ],
+      "rank": 7,
+      "id": "tt11028768",
+      "name": "Sentimental",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
+      "rating": 6.422,
+      "year": 2020,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5h6mucS4CvaiNs8aXIvcCG3HfhC.png",
+      "runtime": "158 min",
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Anthony Edwards",
+        "Robert Downey Jr.",
+        "Chloë Sevigny",
+        "Elias Koteas",
+        "John Carroll Lynch",
+        "Brian Cox"
+      ],
+      "rank": 8,
+      "id": "tt0443706",
+      "name": "Zodiac",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
+      "rating": 7.5,
+      "year": 2007,
       "days": null,
       "trend": {
         "dir": "same",
@@ -170,11 +308,11 @@
         "Kuranosuke Sasaki",
         "永谷咲笑"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt23289160",
       "name": "Godzilla Minus One",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.627,
+      "rating": 7.63,
       "year": 2023,
       "days": null,
       "trend": {
@@ -184,173 +322,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iM27cIiMCnMgs8HddHkWH4AKdSd.png",
-      "runtime": "140 min",
-      "director": [
-        "Sidharta Tata"
-      ],
-      "cast": [
-        "Lukman Sardi",
-        "Callista Arum",
-        "Sulthan Hamonangan",
-        "Derby Romero",
-        "Donny Alamsyah",
-        "Dennis Adishwara",
-        "Ismi Melinda",
-        "David Hendrawan"
-      ],
-      "rank": 6,
-      "id": "tt39370926",
-      "name": "No nos rendimos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "rating": 7.1,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png",
-      "runtime": "126 min",
-      "director": [
-        "Gus Van Sant"
-      ],
-      "cast": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck",
-        "Stellan Skarsgård",
-        "Minnie Driver",
-        "Casey Affleck",
-        "Cole Hauser",
-        "Vik Sahay"
-      ],
-      "rank": 7,
-      "id": "tt0119217",
-      "name": "El indomable Will Hunting",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "rating": 8.169,
-      "year": 1997,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pnhZXqn9ZCB1J89pPqZBpeQVIa6.png",
-      "runtime": "165 min",
-      "director": [
-        "Lee Chang-dong"
-      ],
-      "cast": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "Cho Yeo-jeong",
-        "조유리",
-        "최민",
-        "정섶",
-        "강창권"
-      ],
-      "rank": 8,
-      "id": "tt37803364",
-      "name": "Un amor posible",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "rating": 7.239,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
-      "director": [
-        "Shana Feste"
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Ross Lynch",
-        "John Hawkes",
-        "Garrett Hedlund",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey"
-      ],
-      "rank": 9,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "rating": 6.3,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las vacaciones de una familia en una casa de lujo dan un giro inquietante cuando un ciberataque anula sus dispositivos... y dos desconocidos llaman a la puerta.",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
         "Drama",
-        "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z9KSGzRO2cAOCvonJloyExlgzNR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9FkXZoK2FmRqW7SH74Np5TI77bP.png",
-      "runtime": "138 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
       "director": [
-        "Sam Esmail"
+        "David Fincher"
       ],
       "cast": [
-        "Julia Roberts",
-        "Ethan Hawke",
-        "Mahershala Ali",
-        "Myha'la",
-        "Farrah Mackenzie",
-        "Charlie Evans",
-        "Kevin Bacon",
-        "Vanessa Aspillaga"
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
       ],
       "rank": 10,
-      "id": "tt12747748",
-      "name": "Dejar el mundo atrás",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7NJGZ0GP7S8uXCW2reguAOTwBB8.jpg",
-      "rating": 6.363,
-      "year": 2023,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.437,
+      "year": 1999,
       "days": null,
       "trend": {
         "dir": "same",
@@ -359,5 +357,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
 }

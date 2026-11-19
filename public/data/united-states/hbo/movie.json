@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611182245",
+  "date": "202611192249",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7.013,
+      "rating": 7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -66,7 +66,7 @@
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "rating": 7.2,
+      "rating": 7.204,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,34 +100,93 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
       "genres": [
-        "Crimen",
         "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
-      "runtime": "177 min",
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
       "director": [
-        "Matt Reeves"
+        "Paul Feig"
       ],
       "cast": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Jeffrey Wright",
-        "Colin Farrell",
-        "Paul Dano",
-        "John Turturro",
-        "Andy Serkis",
-        "Peter Sarsgaard"
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
       ],
-      "rank": 4,
-      "id": "tt1877830",
-      "name": "The Batman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.674,
-      "year": 2022,
+      "rank": 5,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.232,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
+      "runtime": "155 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Jason Momoa",
+        "Stellan Skarsgård",
+        "Stephen McKinley Henderson",
+        "Josh Brolin",
+        "Javier Bardem"
+      ],
+      "rank": 6,
+      "id": "tt1160419",
+      "name": "Dune",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
+      "rating": 7.787,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En 1983, un asesinato en un colegio de Baltimore llevó a tres adolescentes a prisión injustamente durante 36 años. Ta-Nehisi Coates investiga cómo este caso afectó a los acusados, a los testigos y a su comunidad.",
+      "genres": [
+        "Documental",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zQO6OyZRA4cXWEU48eAKLs9rbjs.jpg",
+      "runtime": "112 min",
+      "director": [
+        "Dawn Porter"
+      ],
+      "cast": [],
+      "rank": 7,
+      "id": "tt39163238",
+      "name": "Un testigo retractado",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hbxJuHBF8cvwyqCCcRRKJAADIV.jpg",
+      "rating": null,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -158,7 +217,7 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
@@ -172,33 +231,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Crimen",
+        "Misterio",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
+      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
+      "runtime": "177 min",
       "director": [
-        "Denis Villeneuve"
+        "Matt Reeves"
       ],
       "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright",
+        "Colin Farrell",
+        "Paul Dano",
+        "John Turturro",
+        "Andy Serkis",
+        "Peter Sarsgaard"
       ],
-      "rank": 7,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.8,
-      "year": 2021,
+      "rank": 9,
+      "id": "tt1877830",
+      "name": "The Batman",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
+      "rating": 7.674,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -229,81 +289,12 @@
         "Hannah Gross",
         "Anna Baryshnikov"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.907,
+      "rating": 6.906,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png",
-      "runtime": "96 min",
-      "director": [
-        "George A. Romero"
-      ],
-      "cast": [
-        "Judith O'Dea",
-        "Duane Jones",
-        "Marilyn Eastman",
-        "Karl Hardman",
-        "Judith Ridley",
-        "Keith Wayne",
-        "Kyra Schon",
-        "Charles Craig"
-      ],
-      "rank": 9,
-      "id": "tt0063350",
-      "name": "La noche de los muertos vivientes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
-      "rating": 7.599,
-      "year": 1968,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Clark Griswold, movido por un generoso y sentimental espíritu navideño, quiere sorprender a toda su familia con una gran fiesta. La suerte no suele acompañarlo y esta vez no va a ser diferente... Una sucesión de disparatados desastres convertirán la esperadísima sorpresa de Clark en un verdadero caos.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8TNf3mbv4Wv9t6KMkxLUkCrB6SJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDjb1KSm6bHjH1Cnuv9fkXfSTVc.png",
-      "runtime": "97 min",
-      "director": [
-        "Jeremiah S. Chechik"
-      ],
-      "cast": [
-        "Chevy Chase",
-        "Beverly D'Angelo",
-        "Juliette Lewis",
-        "Johnny Galecki",
-        "John Randolph",
-        "Diane Ladd",
-        "E.G. Marshall",
-        "Doris Roberts"
-      ],
-      "rank": 10,
-      "id": "tt0097958",
-      "name": "¡Socorro! Ya es Navidad",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qmyeMduOLqrNqBpAaMwC7Qivwoy.jpg",
-      "rating": 7.225,
-      "year": 1989,
       "days": null,
       "trend": {
         "dir": "same",
@@ -312,5 +303,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-18T21:39:03.058Z"
+  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
 }
