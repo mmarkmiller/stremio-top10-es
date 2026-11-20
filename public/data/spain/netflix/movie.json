@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "netflix",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,8 +31,43 @@
       "id": "tt6611324",
       "name": "Guardaespaldas por navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-      "rating": 7.4,
+      "rating": 7.3,
       "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Howard Inlet (Will Smith) es un exitoso ejecutivo de publicidad de Nueva York. Su situación cambia drásticamente cuando una tragedia personal le golpea con fuerza, lo que le lleva a caer en una profunda espiral de depresión. Sus colegas más cercanos intentarán animarle y sacarle de su letargo. Para ello pondrán en marcha un plan poco convencional, para obligarle a afrontar su sufrimiento de una manera sorprendente y profundamente humana. Pero este plan traerá consigo resultados imprevistos.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iovi35nPfjbYTw2gRo7uImWblRU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Ejq3qUiIEM9laUXQucrInBkRC2.png",
+      "runtime": "96 min",
+      "director": [
+        "David Frankel"
+      ],
+      "cast": [
+        "Will Smith",
+        "Edward Norton",
+        "Kate Winslet",
+        "Michael Peña",
+        "Helen Mirren",
+        "Jacob Latimore",
+        "Keira Knightley",
+        "Naomie Harris"
+      ],
+      "rank": 2,
+      "id": "tt4682786",
+      "name": "Belleza oculta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xuLU16v6fkaXHhnWcSYHlyIJaVi.jpg",
+      "rating": 7.2,
+      "year": 2016,
       "days": null,
       "trend": {
         "dir": "same",
@@ -63,118 +98,11 @@
         "Luz Valdenebro",
         "Víctor Duplá"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt38793125",
       "name": "Colisión",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "rating": 6.319,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Josh Kovaks lleva diez años como encargado de los pisos más lujosos y más vigilados de todo Nueva York. Nada le pasa desapercibido. Arthur Shaw es un pez gordo de Wall Street que está en arresto domiciliario en el piso más ostentoso del edificio después de ser acusado del robo de dos mil millones de dólares a sus inversores. Y de estos últimos, ¿quién va a sufrir más? El personal de “The Tower”, que le entregó su plan de pensiones. Sólo faltan unos días para que Shaw se salga con la suya. Josh y su gente deciden recurrir a Slide, un delincuente de poca monta, para conseguir lo imposible: robar los 20 millones de dólares que deben estar escondidos en el piso donde Shaw permanece vigilado por un equipo del FBI encabezado por la agente especial Claire Denham.",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6uYeqJ3Zoa8iWlIcesrLDBykTks.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/42PYbLNYZpoSZGbIAi73kfAs8eU.png",
-      "runtime": "104 min",
-      "director": [
-        "Brett Ratner"
-      ],
-      "cast": [
-        "Ben Stiller",
-        "Eddie Murphy",
-        "Casey Affleck",
-        "Alan Alda",
-        "Matthew Broderick",
-        "Stephen McKinley Henderson",
-        "Judd Hirsch",
-        "Téa Leoni"
-      ],
-      "rank": 3,
-      "id": "tt0471042",
-      "name": "Un golpe de altura",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zEftXKPZlhKjW6kMpNBn4DtJDHb.jpg",
-      "rating": 6.121,
-      "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
-      "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Aventura",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
-      "runtime": "126 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Morgan Freeman",
-        "Ольга Куриленко",
-        "Andrea Riseborough",
-        "Nikolaj Coster-Waldau",
-        "Melissa Leo",
-        "Zoë Bell",
-        "Abigail Lowe"
-      ],
-      "rank": 4,
-      "id": "tt1483013",
-      "name": "Oblivion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
-      "rating": 6.701,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "genres": [
-        "Suspense",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
-      "director": [
-        "Shana Feste"
-      ],
-      "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Ross Lynch",
-        "John Hawkes",
-        "Garrett Hedlund",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey"
-      ],
-      "rank": 5,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 6.2,
+      "rating": 6.326,
       "year": 2026,
       "days": null,
       "trend": {
@@ -205,11 +133,11 @@
         "Dag Malmberg",
         "Bengt Braskered"
       ],
-      "rank": 6,
+      "rank": 4,
       "id": "tt39313557",
       "name": "El intercambio navideño",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "rating": 6.371,
+      "rating": 6.476,
       "year": 2026,
       "days": null,
       "trend": {
@@ -219,29 +147,104 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rBL5QHKt1XTykZABpw6s3n4SO1c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iqPd4B4KmFDVuIyW9Eh9EFxAld3.png",
-      "runtime": "82 min",
+      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
+      "runtime": "139 min",
       "director": [
-        "Cesc Gay"
+        "David Fincher"
       ],
       "cast": [
-        "Javier Cámara",
-        "Belén Cuesta",
-        "Alberto San Juan",
-        "Griselda Siciliani"
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier",
+        "Holt McCallany",
+        "Eion Bailey"
+      ],
+      "rank": 5,
+      "id": "tt0137523",
+      "name": "El club de la lucha",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "rating": 8.437,
+      "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
+      "director": [
+        "Shana Feste"
+      ],
+      "cast": [
+        "Jessica Chastain",
+        "Carter Faith",
+        "Ross Lynch",
+        "John Hawkes",
+        "Garrett Hedlund",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey"
+      ],
+      "rank": 6,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.252,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t8wJB7BebGYck8hgbNiZXCvBgxQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/89FCwnN14VFGLIRWqB3OiIedTto.png",
+      "runtime": "101 min",
+      "director": [
+        "Tim Story"
+      ],
+      "cast": [
+        "Chloë Grace Moretz",
+        "Michael Peña",
+        "Colin Jost",
+        "Rob Delaney",
+        "Ken Jeong",
+        "Pallavi Sharda",
+        "Jordan Bolger",
+        "Patsy Ferran"
       ],
       "rank": 7,
-      "id": "tt11028768",
-      "name": "Sentimental",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6ZGVXcxPzaJGH0KVvacHOqUiG6u.jpg",
-      "rating": 6.422,
-      "year": 2020,
+      "id": "tt1361336",
+      "name": "Tom y Jerry",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg",
+      "rating": 6.7,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,7 +279,7 @@
       "id": "tt0443706",
       "name": "Zodiac",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
-      "rating": 7.5,
+      "rating": 7.536,
       "year": 2007,
       "days": null,
       "trend": {
@@ -286,34 +289,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "description": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
       "genres": [
-        "Ciencia ficción",
         "Terror",
-        "Acción"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
+      "background": "https://image.tmdb.org/t/p/w1280/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uOKq9fQUttyJ75JgxFqdLBqFMMZ.png",
+      "runtime": "103 min",
       "director": [
-        "Takashi Yamazaki"
+        "David F. Sandberg"
       ],
       "cast": [
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
+        "Ella Rubin",
+        "Michael Cimino",
+        "Odessa A'zion",
+        "Ji-young Yoo",
+        "Belmont Cameli",
+        "Maia Mitchell",
+        "Peter Stormare",
+        "Tibor Szauerwein"
       ],
       "rank": 9,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.63,
-      "year": 2023,
+      "id": "tt30955489",
+      "name": "Until Dawn",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "rating": 6.234,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -322,33 +324,32 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "description": "Cuando Charlotte, de 27 años, se encuentra con su hermano Henrik, de 35 años, por primera vez, dos personas que no saben lo que es una familia normal comienzan un encuentro sin límites. ¿Cómo el amor entre hermanos se manifiesta si nunca lo has experimentado antes? (FILMAFFINITY)",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png",
-      "runtime": "139 min",
+      "background": "https://image.tmdb.org/t/p/w1280/swcQcBI1ZBBvYvbq7wf4QZ0knM0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2i5ge4y2Yf8hu6mDWKcMblbDola.png",
+      "runtime": "106 min",
       "director": [
-        "David Fincher"
+        "Anne Sewitsky"
       ],
       "cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Helena Bonham Carter",
-        "Meat Loaf",
-        "Jared Leto",
-        "Zach Grenier",
-        "Holt McCallany",
-        "Eion Bailey"
+        "Ine Marie Wilmann",
+        "Simon J. Berger",
+        "Silje Storstein",
+        "Anneke von der Lippe",
+        "Oddgeir Thune",
+        "Kari Onstad Winge",
+        "Terje Strømdahl",
+        "Ida Marianne Vassbotn Klasson"
       ],
       "rank": 10,
-      "id": "tt0137523",
-      "name": "El club de la lucha",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "rating": 8.437,
-      "year": 1999,
+      "id": "tt3166500",
+      "name": "Homesick",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg",
+      "rating": 5.2,
+      "year": 2015,
       "days": null,
       "trend": {
         "dir": "same",
@@ -357,5 +358,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "series",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -28,7 +28,39 @@
       "id": "tt8014982",
       "name": "El cuerpo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
-      "rating": 7.912,
+      "rating": 8,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jóvenes, idealistas y, de repente, multimillonarios. Intentaron hacer el bien, pero sacaron lo peor el uno del otro. Una historia de amor tóxico inspirada en un fraude real.",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7BCVDv3HYjI4BLI3yNv2sPHONUy.png",
+      "director": [],
+      "cast": [
+        "Julia Garner",
+        "Anthony Boyle",
+        "Alex Lawther",
+        "Karan Soni",
+        "Madison Hu",
+        "Eugene Young",
+        "Naomi Okada",
+        "Matt Rife"
+      ],
+      "rank": 2,
+      "id": "tt36786185",
+      "name": "Los altruistas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
+      "rating": 6.6,
       "year": 2026,
       "days": null,
       "trend": {
@@ -57,12 +89,79 @@
         "Pegah Ghafoori",
         "Simon Webster"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt9813792",
       "name": "From",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
-      "rating": 8.491,
+      "rating": 8.49,
       "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t9gfV0eM9nWqJ4vMey4CSYFiqmZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
+      "director": [],
+      "cast": [
+        "Melanie Lynskey",
+        "Tawny Cypress",
+        "Sophie Nélisse",
+        "Jasmin Savoy Brown",
+        "Sophie Thatcher",
+        "Sammi Hanratty",
+        "Warren Kole",
+        "Christina Ricci"
+      ],
+      "rank": 4,
+      "id": "tt11041332",
+      "name": "Yellowjackets",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "rating": 7.4,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t70riPSuKjad5ENbHJR86zhwn6Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zTHbENwiYgHlBDJiKKELHMnWceC.png",
+      "director": [
+        "Pablo Trapero",
+        "Pablo Fendrik"
+      ],
+      "cast": [
+        "Rodrigo de la Serna",
+        "Matías Recalt",
+        "Camila Peralta",
+        "Fiorella Bottaioli",
+        "Agustín Pardella",
+        "Fernando Contigiani García",
+        "Agustina Muñoz",
+        "Matías Mayer"
+      ],
+      "rank": 5,
+      "id": "tt41559886",
+      "name": "Gordon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "rating": 6.438,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -89,43 +188,11 @@
         "Jason Veasey",
         "Eliza Coupe"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt36885662",
       "name": "Best Medicine",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
       "rating": 7.154,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t70riPSuKjad5ENbHJR86zhwn6Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zTHbENwiYgHlBDJiKKELHMnWceC.png",
-      "director": [],
-      "cast": [
-        "Rodrigo de la Serna",
-        "Matías Recalt",
-        "Camila Peralta",
-        "Fiorella Bottaioli",
-        "Agustín Pardella",
-        "Fernando Contigiani García",
-        "Agustina Muñoz",
-        "Matías Mayer"
-      ],
-      "rank": 4,
-      "id": "tt41559886",
-      "name": "Gordon",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
-      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -152,7 +219,7 @@
         "Andrew Buchan",
         "Ella Lily Hyland"
       ],
-      "rank": 5,
+      "rank": 7,
       "id": "tt27995113",
       "name": "Palomas negras",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3f9jMEug9je89YMT1Pkx7twcgwV.jpg",
@@ -184,11 +251,11 @@
         "Allison Janney",
         "Nana Mensah"
       ],
-      "rank": 6,
+      "rank": 8,
       "id": "tt17491088",
       "name": "La diplomática",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "rating": 7.638,
+      "rating": 7.637,
       "year": 2023,
       "days": null,
       "trend": {
@@ -198,83 +265,26 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Philomena Cunk repasa la historia del cine con su peculiar sentido del humor en esta serie que parodia los documentales y desconcierta a más de un experto.",
+      "description": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
       "genres": [
         "Comedia",
-        "Documental"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wySudlXWMJKwzdlXZIe73Rpz1Pj.png",
-      "director": [],
-      "cast": [
-        "Diane Morgan"
-      ],
-      "rank": 7,
-      "id": "tt47021035",
-      "name": "El cine según Philomena Cunk",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-      "rating": 7.455,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/t9gfV0eM9nWqJ4vMey4CSYFiqmZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
-      "director": [],
-      "cast": [
-        "Melanie Lynskey",
-        "Tawny Cypress",
-        "Sophie Nélisse",
-        "Jasmin Savoy Brown",
-        "Sophie Thatcher",
-        "Sammi Hanratty",
-        "Warren Kole",
-        "Christina Ricci"
-      ],
-      "rank": 8,
-      "id": "tt11041332",
-      "name": "Yellowjackets",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "rating": 7.4,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-      "genres": [
         "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+      "background": "https://image.tmdb.org/t/p/w1280/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zJieuSr4YS4K6toGmbHyBEeknO.png",
       "director": [],
       "cast": [
-        "Molly Parker",
-        "Omar Metwally",
-        "Amirah Vann",
-        "Jon-Michael Ecker",
-        "Felicity Huffman"
+        "Kristen Bell",
+        "Adam Brody",
+        "Justine Lupe",
+        "Timothy Simons"
       ],
       "rank": 9,
-      "id": "tt26748321",
-      "name": "Doc (EEUU)",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-      "rating": 7.325,
-      "year": 2025,
+      "id": "tt26933824",
+      "name": "Nadie quiere esto",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "rating": 7.3,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -283,30 +293,27 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
       "genres": [
-        "Crimen",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Action & Adventure"
+        "Familia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png",
+      "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png",
       "director": [],
       "cast": [
-        "Sean Murray",
-        "Wilmer Valderrama",
-        "Katrina Law",
-        "Brian Dietzen",
-        "Diona Reasonover",
-        "Gary Cole",
-        "Michael Weatherly"
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
       ],
       "rank": 10,
-      "id": "tt0364845",
-      "name": "Navy: Investigación criminal",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "rating": 7.601,
-      "year": 2003,
+      "id": "tt12324366",
+      "name": "Percy Jackson y los dioses del Olimpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "rating": 7.3,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -315,5 +322,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

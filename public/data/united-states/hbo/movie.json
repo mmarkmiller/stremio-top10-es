@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "hbo",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,42 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7,
+      "rating": 7.009,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Stavros Halkias",
+        "Leo Woodall",
+        "Monica Raymund",
+        "Michael Jibrin",
+        "Rich Sommer"
+      ],
+      "rank": 2,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -62,7 +97,7 @@
         "Rachel Thurow",
         "Mario Valdez"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt14173636",
       "name": "La invitación",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
@@ -76,22 +111,34 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
       "genres": [
-        "Documental"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oSfr8vKxMWVYlA3UZRP2sLSeYSe.jpg",
-      "runtime": "20 min",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
       "director": [
-        "Mauricio Sotelo",
-        "Pablo Alméstar"
+        "Kane Parsons"
       ],
-      "cast": [],
-      "rank": 3,
-      "id": "tmdb:1485879",
-      "name": "Trastiendas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0VxJcxIKMPLlkkpWvNaThcUQdu.jpg",
-      "rating": null,
-      "year": 2025,
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 4,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.984,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -100,92 +147,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "description": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
       "genres": [
-        "Misterio",
-        "Suspense"
+        "Acción",
+        "Comedia",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
-      "runtime": "131 min",
+      "background": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wZRGb8m28Da6mNIK6iFN158jSv2.png",
+      "runtime": "94 min",
       "director": [
-        "Paul Feig"
+        "Кирилл Соколов"
       ],
       "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar",
-        "Michele Morrone",
-        "Indiana Elle",
-        "Sarah Cooper",
-        "Elizabeth Perkins",
-        "Amanda Joy Erickson"
+        "Zazie Beetz",
+        "Patricia Arquette",
+        "Myha'la",
+        "Paterson Joseph",
+        "Tom Felton",
+        "Heather Graham",
+        "Willie Ludik",
+        "David Viviers"
       ],
       "rank": 5,
-      "id": "tt27543632",
-      "name": "La asistenta",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "rating": 7.232,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
-      ],
-      "rank": 6,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.787,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En 1983, un asesinato en un colegio de Baltimore llevó a tres adolescentes a prisión injustamente durante 36 años. Ta-Nehisi Coates investiga cómo este caso afectó a los acusados, a los testigos y a su comunidad.",
-      "genres": [
-        "Documental",
-        "Animación"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zQO6OyZRA4cXWEU48eAKLs9rbjs.jpg",
-      "runtime": "112 min",
-      "director": [
-        "Dawn Porter"
-      ],
-      "cast": [],
-      "rank": 7,
-      "id": "tt39163238",
-      "name": "Un testigo retractado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9hbxJuHBF8cvwyqCCcRRKJAADIV.jpg",
-      "rating": null,
+      "id": "tt31728330",
+      "name": "Te van a matar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9dEn8a12dqkQw48zxQhPcpQ7D5W.jpg",
+      "rating": 6.867,
       "year": 2026,
       "days": null,
       "trend": {
@@ -217,11 +205,11 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.672,
+      "rating": 6.7,
       "year": 2003,
       "days": null,
       "trend": {
@@ -231,34 +219,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
       "genres": [
-        "Crimen",
         "Misterio",
         "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
-      "runtime": "177 min",
+      "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png",
+      "runtime": "131 min",
       "director": [
-        "Matt Reeves"
+        "Paul Feig"
       ],
       "cast": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Jeffrey Wright",
-        "Colin Farrell",
-        "Paul Dano",
-        "John Turturro",
-        "Andy Serkis",
-        "Peter Sarsgaard"
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Indiana Elle",
+        "Sarah Cooper",
+        "Elizabeth Perkins",
+        "Amanda Joy Erickson"
       ],
-      "rank": 9,
-      "id": "tt1877830",
-      "name": "The Batman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.674,
-      "year": 2022,
+      "rank": 8,
+      "id": "tt27543632",
+      "name": "La asistenta",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "rating": 7.231,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -267,34 +254,69 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "description": "La vida parece fácil para la pareja perfecta que forman Ivy y Theo: carreras de éxito, un matrimonio feliz y unos hijos estupendos. Pero detrás de la fachada de su supuesta vida ideal, se avecina una tormenta: la carrera de Theo se desploma mientras que las ambiciones de Ivy despegan, lo que desencadena una caja de Pandora de competitividad y resentimiento ocultos.",
       "genres": [
-        "Romance",
         "Comedia",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3fiYjPPJFtfBSdrwg25Mr9MXWUT.png",
+      "background": "https://image.tmdb.org/t/p/w1280/h4HSZjOeAoHQ3qPuy6x9Cyr69bS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcetMHMuo0uklZlIdn3yx1Okfps.png",
       "runtime": "105 min",
       "director": [
-        "Kristoffer Borgli"
+        "Jay Roach"
       ],
       "cast": [
-        "Zendaya",
-        "Robert Pattinson",
-        "Alana Haim",
-        "Mamoudou Athie",
-        "Hailey Benton Gates",
-        "Sydney Lemmon",
-        "Hannah Gross",
-        "Anna Baryshnikov"
+        "Olivia Colman",
+        "Benedict Cumberbatch",
+        "Andy Samberg",
+        "Kate McKinnon",
+        "Belinda Bromilow",
+        "Ncuti Gatwa",
+        "Sunita Mani",
+        "Zoë Chao"
+      ],
+      "rank": 9,
+      "id": "tt31973693",
+      "name": "Los Rose",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lXumhtgMOxA3aqocplC8YIMwOv8.jpg",
+      "rating": 6.643,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
+      "runtime": "155 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Jason Momoa",
+        "Stellan Skarsgård",
+        "Stephen McKinley Henderson",
+        "Josh Brolin",
+        "Javier Bardem"
       ],
       "rank": 10,
-      "id": "tt33071426",
-      "name": "El drama",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.906,
-      "year": 2026,
+      "id": "tt1160419",
+      "name": "Dune",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
+      "rating": 7.786,
+      "year": 2021,
       "days": null,
       "trend": {
         "dir": "same",
@@ -303,5 +325,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

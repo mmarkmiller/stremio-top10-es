@@ -2,81 +2,8 @@
   "country": "spain",
   "key": "skyshowtime",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
-    {
-      "artworkVersion": 4,
-      "description": "El 11 de septiembre de 2012, en el aniversario de los ataques terroristas a las Torres Gemelas y al Pentágono, un grupo de milicianos islamistas atentaron contra el consulado estadounidense y un anexo cercano de la CIA en Bengasi, Libia. Un equipo de seis miembros de Operaciones Especiales de Estados Unidos fue enviado para rescatar a los supervivientes.",
-      "genres": [
-        "Acción",
-        "Bélica",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNqkdnjkxOW3XOKcLFJl4paPFkT.png",
-      "runtime": "144 min",
-      "director": [
-        "Michael Bay"
-      ],
-      "cast": [
-        "John Krasinski",
-        "James Badge Dale",
-        "Dominic Fumusa",
-        "Max Martini",
-        "Pablo Schreiber",
-        "Matt Letscher",
-        "Alexia Barlier",
-        "David Costabile"
-      ],
-      "rank": 1,
-      "id": "tt4172430",
-      "name": "13 horas. Los soldados secretos de Bengasi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg",
-      "rating": 7.285,
-      "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
-      "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Aventura",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
-      "runtime": "126 min",
-      "director": [
-        "Joseph Kosinski"
-      ],
-      "cast": [
-        "Tom Cruise",
-        "Morgan Freeman",
-        "Ольга Куриленко",
-        "Andrea Riseborough",
-        "Nikolaj Coster-Waldau",
-        "Melissa Leo",
-        "Zoë Bell",
-        "Abigail Lowe"
-      ],
-      "rank": 2,
-      "id": "tt1483013",
-      "name": "Oblivion",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
-      "rating": 6.701,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
     {
       "artworkVersion": 4,
       "description": "Narra la historia de dos asesinos a sueldo en Londres que, debido a una operación que termina mal, reciben la orden de exiliarse por un tiempo en la ciudad de Brujas, en Bélgica.",
@@ -101,7 +28,7 @@
         "Elizabeth Berrington",
         "Jérémie Renier"
       ],
-      "rank": 3,
+      "rank": 1,
       "id": "tt0780536",
       "name": "Escondidos en Brujas",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
@@ -136,47 +63,12 @@
         "Olivia Lynes",
         "Justine Mitchell"
       ],
-      "rank": 4,
+      "rank": 2,
       "id": "tt14905854",
       "name": "Hamnet",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "rating": 7.729,
+      "rating": 7.73,
       "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lt5N7ZyGdBeEWGG7TKEFYvrBHvq.png",
-      "runtime": "175 min",
-      "director": [
-        "Francis Ford Coppola"
-      ],
-      "cast": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan",
-        "Robert Duvall",
-        "Richard S. Castellano",
-        "Diane Keaton",
-        "Talia Shire",
-        "Gianni Russo"
-      ],
-      "rank": 5,
-      "id": "tt0068646",
-      "name": "El padrino",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
-      "rating": 8.689,
-      "year": 1972,
       "days": null,
       "trend": {
         "dir": "same",
@@ -210,48 +102,12 @@
         "Donald Glover",
         "Glen Powell"
       ],
-      "rank": 6,
+      "rank": 3,
       "id": "tt28650488",
       "name": "Super Mario Galaxy la película",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "rating": 8.176,
+      "rating": 8.177,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yGau2y7CWTRZi07oAO5XxSJdUzx.png",
-      "runtime": "118 min",
-      "director": [
-        "Yorgos Lánthimos"
-      ],
-      "cast": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
-      ],
-      "rank": 7,
-      "id": "tt12300742",
-      "name": "Bugonia",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-      "rating": 7.29,
-      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -280,7 +136,7 @@
         "Cole Hauser",
         "Vik Sahay"
       ],
-      "rank": 8,
+      "rank": 4,
       "id": "tt0119217",
       "name": "El indomable Will Hunting",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
@@ -316,11 +172,11 @@
         "Lindsay Duncan",
         "Richard Cordery"
       ],
-      "rank": 9,
+      "rank": 5,
       "id": "tt2194499",
       "name": "Una cuestión de tiempo",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
-      "rating": 7.9,
+      "rating": 7.897,
       "year": 2013,
       "days": null,
       "trend": {
@@ -330,34 +186,178 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "description": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
       "genres": [
+        "Acción",
+        "Ciencia ficción",
         "Aventura",
-        "Comedia",
-        "Ciencia ficción"
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
-      "runtime": "116 min",
+      "background": "https://image.tmdb.org/t/p/w1280/19AqfWi8S99tDmp7hskCeDQuwLU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
+      "runtime": "126 min",
       "director": [
-        "Robert Zemeckis"
+        "Joseph Kosinski"
       ],
       "cast": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Crispin Glover",
-        "Lea Thompson",
-        "Claudia Wells",
-        "Thomas F. Wilson",
-        "Marc McClure",
-        "Wendie Jo Sperber"
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Ольга Куриленко",
+        "Andrea Riseborough",
+        "Nikolaj Coster-Waldau",
+        "Melissa Leo",
+        "Zoë Bell",
+        "Abigail Lowe"
+      ],
+      "rank": 6,
+      "id": "tt1483013",
+      "name": "Oblivion",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+      "rating": 6.7,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "El 11 de septiembre de 2012, en el aniversario de los ataques terroristas a las Torres Gemelas y al Pentágono, un grupo de milicianos islamistas atentaron contra el consulado estadounidense y un anexo cercano de la CIA en Bengasi, Libia. Un equipo de seis miembros de Operaciones Especiales de Estados Unidos fue enviado para rescatar a los supervivientes.",
+      "genres": [
+        "Acción",
+        "Bélica",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNqkdnjkxOW3XOKcLFJl4paPFkT.png",
+      "runtime": "144 min",
+      "director": [
+        "Michael Bay"
+      ],
+      "cast": [
+        "John Krasinski",
+        "James Badge Dale",
+        "Dominic Fumusa",
+        "Max Martini",
+        "Pablo Schreiber",
+        "Matt Letscher",
+        "Alexia Barlier",
+        "David Costabile"
+      ],
+      "rank": 7,
+      "id": "tt4172430",
+      "name": "13 horas. Los soldados secretos de Bengasi",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg",
+      "rating": 7.284,
+      "year": 2016,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yGau2y7CWTRZi07oAO5XxSJdUzx.png",
+      "runtime": "118 min",
+      "director": [
+        "Yorgos Lánthimos"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
+      ],
+      "rank": 8,
+      "id": "tt12300742",
+      "name": "Bugonia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
+      "rating": 7.291,
+      "year": 2025,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Han tenido que pasar diez años, dos pequeños Fockers con su mujer, Pam (Polo) e incontables obstáculos para que Greg consiga finalmente entenderse con su exigente suegro Jack. Tras los problemas económicos, Greg consigue un segundo empleo en una compañía farmacéutica. Sin embargo, los recelos de Jack hacia su enfermero favorito regresan con más fuerza que nunca.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xjD6BJVjzJH5661byL2TQ0liRxj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5iPUEbcltH7d04br5fJA4dUJhWa.png",
+      "runtime": "98 min",
+      "director": [
+        "Paul Weitz"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Owen Wilson",
+        "Dustin Hoffman",
+        "Barbra Streisand",
+        "Blythe Danner",
+        "Teri Polo",
+        "Jessica Alba"
+      ],
+      "rank": 9,
+      "id": "tt0970866",
+      "name": "Ahora los padres son ellos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c2dwe7H0jrDKEAxNxZONp8E3ITm.jpg",
+      "rating": 5.662,
+      "year": 2010,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+      "genres": [
+        "Fantasía",
+        "Aventura",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png",
+      "runtime": "137 min",
+      "director": [
+        "Jon M. Chu"
+      ],
+      "cast": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Jonathan Bailey",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
       ],
       "rank": 10,
-      "id": "tt0088763",
-      "name": "Regreso al futuro",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "rating": 8.332,
-      "year": 1985,
+      "id": "tt19847976",
+      "name": "Wicked Parte II",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
+      "rating": 6.566,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -366,5 +366,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
+  "rankingUpdatedAt": "2026-11-20T21:38:35.067Z"
 }

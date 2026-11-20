@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "hbo",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt27165187",
       "name": "El final de Oak Street",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "rating": 7,
+      "rating": 7.009,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,11 +64,11 @@
         "Hannah Gross",
         "Anna Baryshnikov"
       ],
-      "rank": 3,
+      "rank": 2,
       "id": "tt33071426",
       "name": "El drama",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "rating": 6.906,
+      "rating": 6.91,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,22 +78,174 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
       "genres": [
-        "Documental"
+        "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/oSfr8vKxMWVYlA3UZRP2sLSeYSe.jpg",
-      "runtime": "20 min",
+      "background": "https://image.tmdb.org/t/p/w1280/bERXJB7QSf3T8hlwN8RCzWToTAM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uLPKQOtT7UVapb1To5eO0giJZ5s.png",
+      "runtime": "98 min",
       "director": [
-        "Mauricio Sotelo",
-        "Pablo Alméstar"
+        "Mar Olid"
       ],
-      "cast": [],
+      "cast": [
+        "Kira Miró",
+        "Salva Reina",
+        "Luna Fulgencio",
+        "Ian Cortegoso",
+        "Adriana Bidae",
+        "Antonio Pagudo",
+        "Marta Hazas",
+        "David Lorente"
+      ],
+      "rank": 3,
+      "id": "tt37764533",
+      "name": "Tres de más",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
+      "runtime": "155 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Jason Momoa",
+        "Stellan Skarsgård",
+        "Stephen McKinley Henderson",
+        "Josh Brolin",
+        "Javier Bardem"
+      ],
       "rank": 4,
-      "id": "tmdb:1485879",
-      "name": "Trastiendas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/f0VxJcxIKMPLlkkpWvNaThcUQdu.jpg",
-      "rating": null,
-      "year": 2025,
+      "id": "tt1160419",
+      "name": "Dune",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
+      "rating": 7.786,
+      "year": 2021,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "genres": [
+        "Crimen",
+        "Romance",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4JmGZIWUQfCGvxT1ueKeVz0707c.png",
+      "runtime": "109 min",
+      "director": [
+        "Daniel Roher"
+      ],
+      "cast": [
+        "Leo Woodall",
+        "Dustin Hoffman",
+        "ליאור רז",
+        "Havana Rose Liu",
+        "Tovah Feldshuh",
+        "Gil Cohen",
+        "Nissan Sakira",
+        "Alisen Richmond-Peck"
+      ],
+      "rank": 6,
+      "id": "tt33296751",
+      "name": "Un talento único",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+      "rating": 7.547,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIXAzWjRJC01j8yp3iRbcJYv8xE.png",
+      "runtime": "111 min",
+      "director": [
+        "Kane Parsons"
+      ],
+      "cast": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Mark Duplass",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "rank": 7,
+      "id": "tt26657236",
+      "name": "Backrooms",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "rating": 6.984,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png",
+      "runtime": "167 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson",
+        "Javier Bardem",
+        "Josh Brolin",
+        "Austin Butler",
+        "Florence Pugh",
+        "Dave Bautista"
+      ],
+      "rank": 8,
+      "id": "tt15239678",
+      "name": "Dune: Parte dos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+      "rating": 8.143,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -124,155 +276,12 @@
         "John Carroll Lynch",
         "Brian Cox"
       ],
-      "rank": 5,
+      "rank": 9,
       "id": "tt0443706",
       "name": "Zodiac",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
-      "rating": 7.5,
+      "rating": 7.536,
       "year": 2007,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/df7iykrBvhHcDE38CNXOb8WcSuP.png",
-      "runtime": "155 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac",
-        "Jason Momoa",
-        "Stellan Skarsgård",
-        "Stephen McKinley Henderson",
-        "Josh Brolin",
-        "Javier Bardem"
-      ],
-      "rank": 7,
-      "id": "tt1160419",
-      "name": "Dune",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
-      "rating": 7.787,
-      "year": 2021,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
-      "genres": [
-        "Acción",
-        "Ciencia ficción",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rHWUWJXC83KfqiSSAogV1YYTZHf.png",
-      "runtime": "148 min",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Joseph Gordon-Levitt",
-        "Ken Watanabe",
-        "Tom Hardy",
-        "Elliot Page",
-        "Dileep Rao",
-        "Cillian Murphy",
-        "Tom Berenger"
-      ],
-      "rank": 8,
-      "id": "tt1375666",
-      "name": "Origen",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
-      "rating": 8.373,
-      "year": 2010,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El Teniente Coronel Michael Strobl se ofrece como voluntario para escoltar el cadáver de un joven soldado de su mismo pueblo, muerto en combate en la guerra de Irak. Se trata de una descripción minuciosa del viaje y del solemnísimo ceremonial que el ejército estadounidense establece en estos casos. Basada en hechos reales.",
-      "genres": [
-        "Drama",
-        "Bélica",
-        "Película de TV"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kSKz1rGzYdCp3cXwaJgmDzZfs2C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7v2u2Xy3JWTm6PkEHGwYhUrnCO1.png",
-      "runtime": "77 min",
-      "director": [
-        "Ross Katz"
-      ],
-      "cast": [
-        "Kevin Bacon",
-        "Tom Aldredge",
-        "Nicholas Art",
-        "Blanche Baker",
-        "Guy Boyd",
-        "Gordon Clapp",
-        "Emily Wickersham",
-        "Mike Colter"
-      ],
-      "rank": 9,
-      "id": "tt1019454",
-      "name": "El regreso de un soldado",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/aw0PkwsbINK3mvr2gZlXKAJbonX.jpg",
-      "rating": 7.1,
-      "year": 2009,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png",
-      "runtime": "177 min",
-      "director": [
-        "Matt Reeves"
-      ],
-      "cast": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Jeffrey Wright",
-        "Colin Farrell",
-        "Paul Dano",
-        "John Turturro",
-        "Andy Serkis",
-        "Peter Sarsgaard"
-      ],
-      "rank": 10,
-      "id": "tt1877830",
-      "name": "The Batman",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "rating": 7.674,
-      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -281,5 +290,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

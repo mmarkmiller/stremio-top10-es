@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "prime",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -32,7 +32,7 @@
       "id": "tt24818230",
       "name": "Madden",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "rating": 8.1,
+      "rating": 7.648,
       "year": 2026,
       "days": null,
       "trend": {
@@ -78,42 +78,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
-      "runtime": "144 min",
-      "director": [
-        "Martin Campbell"
-      ],
-      "cast": [
-        "Daniel Craig",
-        "Eva Green",
-        "Mads Mikkelsen",
-        "Judi Dench",
-        "Jeffrey Wright",
-        "Giancarlo Giannini",
-        "Caterina Murino",
-        "Simon Abkarian"
-      ],
-      "rank": 3,
-      "id": "tt0381061",
-      "name": "Casino Royale",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
-      "rating": 7.581,
-      "year": 2006,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
       "genres": [
         "Comedia",
@@ -136,11 +100,11 @@
         "Julia Butters",
         "Austin Butler"
       ],
-      "rank": 4,
+      "rank": 3,
       "id": "tt7131622",
       "name": "Érase una vez en… Hollywood",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg",
-      "rating": 7.417,
+      "rating": 7.4,
       "year": 2019,
       "days": null,
       "trend": {
@@ -150,32 +114,68 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En medio del bosque que rodea su hogar, a kilómetros de la ciudad y abrumada por el pánico, Amy Carr (Naomi Watts) recibe una llamada terrible: las autoridades están buscando al responsable de un tiroteo que ha tenido lugar en la escuela de su hijo adolescente, Noah. Amy se niega a sucumbir a la desesperación. Con la única ayuda de su móvil, buscará todos los recursos posibles para tratar de lograr la salvación de su hijo.",
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
       "genres": [
-        "Suspense"
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/qp8qKiP7Q7zK4z3LItwWMHfV9kJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jkepdEOyMu65C4BygPnFWUbwjWp.png",
-      "runtime": "84 min",
+      "background": "https://image.tmdb.org/t/p/w1280/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+      "runtime": "119 min",
       "director": [
-        "Phillip Noyce"
+        "John G. Avildsen"
       ],
       "cast": [
-        "Naomi Watts",
-        "Colton Gobbo",
-        "Sierra Maltby",
-        "Michelle Johnston",
-        "Woodrow Schrieber",
-        "David Reale",
-        "Jason Clarke",
-        "Debra Wilson"
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers",
+        "Burgess Meredith",
+        "Thayer David",
+        "Joe Spinell",
+        "Jimmy Gambina"
+      ],
+      "rank": 4,
+      "id": "tt0075148",
+      "name": "Rocky",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "rating": 7.803,
+      "year": 1976,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
+      "runtime": "144 min",
+      "director": [
+        "Martin Campbell"
+      ],
+      "cast": [
+        "Daniel Craig",
+        "Eva Green",
+        "Mads Mikkelsen",
+        "Judi Dench",
+        "Jeffrey Wright",
+        "Giancarlo Giannini",
+        "Caterina Murino",
+        "Simon Abkarian"
       ],
       "rank": 5,
-      "id": "tt13133936",
-      "name": "Desesperada",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/8SZrgFLqPvpJHw2zcSslS85xltS.jpg",
-      "rating": 5.958,
-      "year": 2022,
+      "id": "tt0381061",
+      "name": "Casino Royale",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
+      "rating": 7.581,
+      "year": 2006,
       "days": null,
       "trend": {
         "dir": "same",
@@ -184,104 +184,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Espacio profundo. Monte y su hija Willow viven completamente aislados a bordo de una nave espacial. No siempre estuvieron solos: eran parte de un grupo de condenados a muerte que aceptaron conmutar sus sentencias por participar en una misión con destino al agujero negro más cercano a la Tierra.",
+      "description": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
       "genres": [
-        "Ciencia ficción",
-        "Drama",
-        "Misterio"
+        "Acción",
+        "Comedia",
+        "Terror"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6gHdAO1Lvk9bjzhY4hX3wVRkAhF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zWhGzQCqqU8fFNBX0tl5z4Nz9Tx.png",
-      "runtime": "113 min",
+      "background": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wZRGb8m28Da6mNIK6iFN158jSv2.png",
+      "runtime": "94 min",
       "director": [
-        "Claire Denis"
+        "Кирилл Соколов"
       ],
       "cast": [
-        "Robert Pattinson",
-        "Juliette Binoche",
-        "Mia Goth",
-        "André 3000",
-        "Agata Buzek",
-        "Lars Eidinger",
-        "Claire Tran",
-        "Ewan Mitchell"
+        "Zazie Beetz",
+        "Patricia Arquette",
+        "Myha'la",
+        "Paterson Joseph",
+        "Tom Felton",
+        "Heather Graham",
+        "Willie Ludik",
+        "David Viviers"
       ],
       "rank": 6,
-      "id": "tt4827558",
-      "name": "High Life",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eNwYbvtI1MCYofxvUTrXvWz7ASB.jpg",
-      "rating": 5.72,
-      "year": 2018,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Segunda Guerra Mundial, 1943. Mallory y Miller, los héroes que destruyeron los cañones de Navarone, son enviados a Yugoslavia en busca de un fantasma del pasado.",
-      "genres": [
-        "Drama",
-        "Aventura",
-        "Bélica"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/uFTO0RpNBzM4003ystNglQa173w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6gwjwAC9ea1C7RVj7s2NLEWVCGo.png",
-      "runtime": "114 min",
-      "director": [
-        "Guy Hamilton"
-      ],
-      "cast": [
-        "Robert Shaw",
-        "Harrison Ford",
-        "Barbara Bach",
-        "Edward Fox",
-        "Franco Nero",
-        "Carl Weathers",
-        "Richard Kiel",
-        "Alan Badel"
-      ],
-      "rank": 7,
-      "id": "tt0077572",
-      "name": "Fuerza 10 de Navarone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lJwytWc5QcRBO8N3skFJILTgnc7.jpg",
-      "rating": 6.261,
-      "year": 1978,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "genres": [
-        "Comedia",
-        "Crimen",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qLEIhXP5soL5NiGoAdUl57QoqSF.png",
-      "runtime": "91 min",
-      "director": [
-        "Jason James"
-      ],
-      "cast": [
-        "Maria Bakalova",
-        "Zach Cherry",
-        "Tyler Labine",
-        "Emily Hampshire",
-        "Preston Vanderslice",
-        "Ryan Beil",
-        "Devon Kenzo",
-        "Grace Dove"
-      ],
-      "rank": 8,
-      "id": "tt18316986",
-      "name": "All Night Wrong",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-      "rating": 6,
+      "id": "tt31728330",
+      "name": "Te van a matar",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9dEn8a12dqkQw48zxQhPcpQ7D5W.jpg",
+      "rating": 6.867,
       "year": 2026,
       "days": null,
       "trend": {
@@ -291,31 +220,32 @@
     },
     {
       "artworkVersion": 4,
+      "description": "En esta secuela de After Porn Ends se entrevista a un nuevo grupo de ex-estrellas del porno para ser testigos de cómo son sus vidas después de abandonar la industria del cine para adultos. Entre las entrevistadas, leyendas del género como Ginger Lynn (Ten Little Maidens) o Georgina Spelvin (Devil in Miss Jones).",
       "genres": [
-        "Drama",
-        "Romance"
+        "Documental"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/pxUKcVqingenVyNcHu0XwxnmYYF.jpg",
-      "runtime": "106 min",
+      "background": "https://image.tmdb.org/t/p/w1280/uO6ZUez70Twan92pqoV60T9kiGH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7vvL2cLw3kUXkT8VwQejSaxWRZE.png",
+      "runtime": "90 min",
       "director": [
-        "Jaron Lockridge"
+        "Bryce Wagoner"
       ],
       "cast": [
-        "Ketrick \"Jazz\" Copeland",
-        "Shi Smith",
-        "Jeremy Shaw",
-        "Jalen Moffitt",
-        "Timberly Hope",
-        "Jeff Haltom",
-        "Tymika Chambliss",
-        "Steve Haltom"
+        "Ginger Lynn Allen",
+        "Lisa Ann",
+        "Janine Lindemulder",
+        "Chasey Lain",
+        "Tabitha Stevens",
+        "Georgina Spelvin",
+        "Brittany Andrews",
+        "Aubrey Gold"
       ],
-      "rank": 9,
-      "id": "tt27553457",
-      "name": "Betray",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ujzvLe6qDo5byYotIGLhJhrS05O.jpg",
-      "rating": 4.8,
-      "year": 2023,
+      "rank": 7,
+      "id": "tt5168832",
+      "name": "Cuando se acaba el porno 2",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/eLYKLIIJDBhbXEtmagkHCcDt8eD.jpg",
+      "rating": 5.345,
+      "year": 2017,
       "days": null,
       "trend": {
         "dir": "same",
@@ -346,12 +276,78 @@
         "Daniel Tay",
         "Faizon Love"
       ],
-      "rank": 10,
+      "rank": 8,
       "id": "tt0319343",
       "name": "Elf",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "rating": 6.672,
+      "rating": 6.7,
       "year": 2003,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos mujeres huyen al desierto de Nuevo México para escapar de las garras de una secta. Consumidos por el miedo y la paranoia, no pueden evitar la sensación de que están siendo seguidos por el líder de la secta, un hombre tan seductor como controlador. Con sus suministros disminuyendo y sus sentidos comenzando a fallarles, se enfrentan a una pregunta aterradora: ¿Cómo huir de un enemigo que vive dentro de tu cabeza?",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/CFQrVcs8Uh4Ztwfo1BGkoMHrxd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pSKUNW8T6dGJv918sWgE2XNm2u3.png",
+      "runtime": "95 min",
+      "director": [
+        "Jennifer Raite",
+        "Chris Cullari"
+      ],
+      "cast": [
+        "Malin Akerman",
+        "Lorenza Izzo",
+        "Chris Messina",
+        "Sandrine Holt"
+      ],
+      "rank": 9,
+      "id": "tt17372462",
+      "name": "El Aviario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kodmbHuzHZs6UOdvz6zvHYrDlt0.jpg",
+      "rating": 5.227,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos estadounidenses acaban en Dakar, Senegal, con bombas atadas al pecho y diez horas para averiguar por qué.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8h3Ev1xf3WBrzHD4fNOGs790GWZ.jpg",
+      "runtime": "86 min",
+      "director": [
+        "Jean Luc Herbulot"
+      ],
+      "cast": [
+        "Hus Miller",
+        "Cam McHarg",
+        "Gary Dourdan",
+        "Roger Felmont Sallah",
+        "Moran Rosenblatt",
+        "Annabelle Lengronne",
+        "Angelique Mendes",
+        "Willem Dafoe"
+      ],
+      "rank": 10,
+      "id": "tt13598080",
+      "name": "Zero",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5bo30pUJGUpvNP8XS75T3Al8V1R.jpg",
+      "rating": 5.8,
+      "year": 2025,
       "days": null,
       "trend": {
         "dir": "same",
@@ -360,5 +356,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

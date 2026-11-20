@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "apple",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -27,11 +27,11 @@
         "Antwan Tolliver",
         "Ray Fisher"
       ],
-      "rank": 1,
+      "rank": 2,
       "id": "tt15095848",
       "name": "Siendo Heumann",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "rating": 7.081,
+      "rating": 7.068,
       "year": 2026,
       "days": null,
       "trend": {
@@ -65,12 +65,48 @@
         "Bill Melendez",
         "Robin Reed"
       ],
-      "rank": 2,
+      "rank": 3,
       "id": "tt0068359",
       "name": "Es Acción de Gracias, Charlie Brown",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
-      "rating": 7.286,
+      "rating": 7.279,
       "year": 1973,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "runtime": "126 min",
+      "director": [
+        "Jennifer Peedom"
+      ],
+      "cast": [
+        "更登彭措",
+        "Tom Hiddleston",
+        "Willem Dafoe",
+        "Samdrup Dorje Lama",
+        "Bhuchung Kata",
+        "Johnny Flynn",
+        "Lhakpa Tsamchoe",
+        "Jampa Kalsang Tamang"
+      ],
+      "rank": 4,
+      "id": "tt6262770",
+      "name": "Tenzing",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": 8.2,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -101,48 +137,12 @@
         "Keith David",
         "Beau Knapp"
       ],
-      "rank": 4,
+      "rank": 5,
       "id": "tt3799694",
       "name": "Dos buenos tipos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg",
       "rating": 7.138,
       "year": 2016,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
-      "genres": [
-        "Drama",
-        "Suspense",
-        "Crimen"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qGqq5zwljVKv8KIWpAwCZh5h52H.png",
-      "runtime": "153 min",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "cast": [
-        "Hugh Jackman",
-        "Jake Gyllenhaal",
-        "Viola Davis",
-        "Maria Bello",
-        "Terrence Howard",
-        "Melissa Leo",
-        "Paul Dano",
-        "Dylan Minnette"
-      ],
-      "rank": 5,
-      "id": "tt1392214",
-      "name": "Prisioneros",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
-      "rating": 8.105,
-      "year": 2013,
       "days": null,
       "trend": {
         "dir": "same",
@@ -187,76 +187,6 @@
     },
     {
       "artworkVersion": 4,
-      "description": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jqz8FwISQfyum47PUqgPTGtmiMk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png",
-      "runtime": "120 min",
-      "director": [
-        "George Nolfi"
-      ],
-      "cast": [
-        "Anthony Mackie",
-        "Samuel L. Jackson",
-        "Nicholas Hoult",
-        "Nia Long",
-        "Scott Daniel Johnson",
-        "Jessie T. Usher",
-        "Colm Meaney",
-        "Paul Ben-Victor"
-      ],
-      "rank": 7,
-      "id": "tt6285944",
-      "name": "El banquero",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
-      "rating": 7.637,
-      "year": 2020,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
-      "runtime": "126 min",
-      "director": [
-        "Jennifer Peedom"
-      ],
-      "cast": [
-        "更登彭措",
-        "Tom Hiddleston",
-        "Willem Dafoe",
-        "Samdrup Dorje Lama",
-        "Bhuchung Kata",
-        "Johnny Flynn",
-        "Lhakpa Tsamchoe",
-        "Jampa Kalsang Tamang"
-      ],
-      "rank": 8,
-      "id": "tt6262770",
-      "name": "Tenzing",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "rating": 8.167,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
       "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
       "genres": [
         "Drama"
@@ -277,12 +207,84 @@
         "Allelon Ruggiero",
         "James Waterston"
       ],
-      "rank": 9,
+      "rank": 7,
       "id": "tt0097165",
       "name": "El club de los poetas muertos",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
-      "rating": 8.3,
+      "rating": 8.294,
       "year": 1989,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qGqq5zwljVKv8KIWpAwCZh5h52H.png",
+      "runtime": "153 min",
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis",
+        "Maria Bello",
+        "Terrence Howard",
+        "Melissa Leo",
+        "Paul Dano",
+        "Dylan Minnette"
+      ],
+      "rank": 8,
+      "id": "tt1392214",
+      "name": "Prisioneros",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i6CcmOvJxBFH3mfhCHa3Njtelix.jpg",
+      "rating": 8.1,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png",
+      "runtime": "154 min",
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames",
+        "Harvey Keitel",
+        "Eric Stoltz",
+        "Tim Roth"
+      ],
+      "rank": 9,
+      "id": "tt0110912",
+      "name": "Pulp Fiction",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "rating": 8.5,
+      "year": 1994,
       "days": null,
       "trend": {
         "dir": "same",
@@ -317,7 +319,7 @@
       "id": "tt28014327",
       "name": "Mayday",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
-      "rating": 7.81,
+      "rating": 7.8,
       "year": 2026,
       "days": null,
       "trend": {
@@ -327,5 +329,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "disney",
   "list": "series",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -66,6 +66,63 @@
     },
     {
       "artworkVersion": 4,
+      "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png",
+      "director": [],
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
+      "rank": 3,
+      "id": "tt12324366",
+      "name": "Percy Jackson y los dioses del Olimpo",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "rating": 7.3,
+      "year": 2023,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uqTCaYBoSLT9MAdyQ9tU6QyCZ3A.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png",
+      "director": [],
+      "cast": [
+        "Charlie Day",
+        "Glenn Howerton",
+        "Rob Mac",
+        "Kaitlin Olson",
+        "Danny DeVito"
+      ],
+      "rank": 4,
+      "id": "tt0472954",
+      "name": "Colgados en Filadelfia",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jQEKSbxt0463aLD5FyVm3BGlVH2.jpg",
+      "rating": 8.247,
+      "year": 2005,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
       "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "genres": [
         "Action & Adventure",
@@ -85,12 +142,105 @@
         "Ikue Otani",
         "Yuriko Yamaguchi"
       ],
-      "rank": 3,
+      "rank": 5,
       "id": "tt0388629",
       "name": "One Piece",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/revXibqFO4JrwmLe34MKth1GVrd.jpg",
-      "rating": 8.755,
+      "rating": 8.8,
       "year": 1999,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png",
+      "director": [],
+      "cast": [
+        "Angela Bassett",
+        "Jennifer Love Hewitt",
+        "Oliver Stark",
+        "Aisha Hinds",
+        "Kenneth Choi",
+        "Ryan Guzman",
+        "Corinne Massiah",
+        "Gavin McHugh"
+      ],
+      "rank": 6,
+      "id": "tt7235466",
+      "name": "9-1-1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "rating": 8.217,
+      "year": 2018,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uVnGusAwehV4WdxgKwFg0UJql1R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png",
+      "director": [],
+      "cast": [
+        "Justin Hartley",
+        "Fiona Rene",
+        "Chris Lee",
+        "Cassady McClincy-Zhang"
+      ],
+      "rank": 7,
+      "id": "tt13875494",
+      "name": "Tracker",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "rating": 7.6,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y1cVmGJx98xGmZM3aikkBOTGQT8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png",
+      "director": [],
+      "cast": [
+        "Lauren Graham",
+        "Alexis Bledel",
+        "Scott Patterson",
+        "Melissa McCarthy",
+        "Keiko Agena",
+        "Yanic Truesdale",
+        "Liza Weil",
+        "Sean Gunn"
+      ],
+      "rank": 8,
+      "id": "tt0238784",
+      "name": "Las chicas Gilmore",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "rating": 7.867,
+      "year": 2000,
       "days": null,
       "trend": {
         "dir": "same",
@@ -116,11 +266,11 @@
         "이종석",
         "이세영"
       ],
-      "rank": 4,
+      "rank": 9,
       "id": "tt39325975",
       "name": "La emperatriz divorciada",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "rating": 8.797,
+      "rating": 8.798,
       "year": 2026,
       "days": null,
       "trend": {
@@ -149,159 +299,12 @@
         "Gabourey Sidibe",
         "Leslie Grossman"
       ],
-      "rank": 5,
+      "rank": 10,
       "id": "tt1844624",
       "name": "American Horror Story",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "rating": 8.078,
+      "rating": 8.1,
       "year": 2011,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Corre el año 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sólo por sí mismos, ¿podrá florecer el amor verdadero en esta adaptación tan esperada de la novela superventas Rutshire Chronicles de Jilly Cooper?",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnwSKefF4CQqaMryTca22lD1Cgy.png",
-      "director": [],
-      "cast": [
-        "David Tennant",
-        "Aidan Turner",
-        "Danny Dyer",
-        "Alex Hassell",
-        "Nafessa Williams",
-        "Bella Maclean",
-        "Katherine Parkinson",
-        "Victoria Smurfit"
-      ],
-      "rank": 6,
-      "id": "tt21906238",
-      "name": "Rivales",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg",
-      "rating": 7.4,
-      "year": 2024,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/em2Jzx5QyBTVI7gKipCoE0kG4ot.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
-      "director": [],
-      "cast": [
-        "Zach Braff",
-        "Donald Faison",
-        "Sarah Chalke",
-        "Ava Bunn"
-      ],
-      "rank": 7,
-      "id": "tt40197357",
-      "name": "Scrubs",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-      "rating": 7.698,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Dinero. Amor. Tragedia. Engaño. De la mano de la productora ejecutiva Elizabeth Meriwether, \"The Dropout: Auge y caída de Elizabeth Holmes\" es la historia de Elizabeth Holmes y Theranos, una increíble historia de ambición y fama que salió tremendamente mal. ¿Cómo la mujer multimillonaria más joven del mundo lo perdió todo en un abrir y cerrar de ojos?",
-      "genres": [
-        "Drama"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/969nC6k30OnMLCWyaa0d2FO0uTc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8k8UY9XK4tts5VfijEsf7uVrNvu.png",
-      "director": [],
-      "cast": [
-        "Amanda Seyfried",
-        "Naveen Andrews"
-      ],
-      "rank": 8,
-      "id": "tt10166622",
-      "name": "The Dropout: Auge y caída de Elizabeth Holmes",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qh325jz8pfSMbW88lzeg1Ikb7JK.jpg",
-      "rating": 7.395,
-      "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HAwYxni0ZiisQXmcQRRJITyhDK.png",
-      "director": [],
-      "cast": [
-        "Connie Britton",
-        "Sam Nivola",
-        "Grace Brennan",
-        "Maliq Johnson",
-        "Meera Syal",
-        "Colter Lee",
-        "Mahaela Park"
-      ],
-      "rank": 9,
-      "id": "tt21952924",
-      "name": "Farsante",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-      "rating": 7,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "1814. Mientras Napoleón languidece en prisión en la isla de Elba, los monarcas de Europa acuden a Viena para apostar por el futuro del continente, devastado por la guerra. Entre copas de champán, romances y luchas de poder, Wilhelmine von Sagan, maestra de intrigas, monárquica y amante del príncipe Metternich, tiene un encuentro crucial con el barón Amor Łaski, un bonapartista e irremediable seductor. El ministro de Asuntos Exteriores francés Talleyrand manipula a las potencias vencedoras, Austria, Prusia, Rusia e Inglaterra, para que se enfrenten entre sí, mientras que el zar y su hermana conspiran con el rey de Prusia. Cuando Seidl, un burócrata mediocre, falsifica una carta para desacreditar a su rival, desata una cadena de aciagos acontecimientos que obligará a todos a tomar decisiones arriesgadas. ¿Quién ganará la gran partida de la fortuna, el amor y el poder?",
-      "genres": [
-        "Comedia"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
-      "director": [
-        "Hannu Salonen"
-      ],
-      "cast": [
-        "Fritz Karl",
-        "Marlene Tanczik",
-        "Daniel Donskoy",
-        "Alexander Scheer",
-        "Vladimir Burlakov",
-        "Erwin Steinhauer",
-        "Emma Nova",
-        "Julia Anna Grob"
-      ],
-      "rank": 10,
-      "id": "tt31844371",
-      "name": "Vienna Game",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/4HjQt7TfbrCfBNkNGMJx2L7mUXE.jpg",
-      "rating": 9,
-      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -310,5 +313,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
+  "rankingUpdatedAt": "2026-11-20T21:38:35.067Z"
 }

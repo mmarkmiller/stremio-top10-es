@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt10545296",
       "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/ntCTvyVYx8SM216RkoNy1yqusR6.jpg",
-      "rating": 6.952,
+      "rating": 7,
       "year": 2023,
       "days": null,
       "trend": {
@@ -41,33 +41,140 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
       "genres": [
-        "Drama",
-        "Historia",
-        "Comedia"
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
-      "runtime": "112 min",
+      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+      "runtime": "123 min",
       "director": [
-        "David O. Russell"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Nicolas Cage",
-        "Christian Bale",
-        "Kathryn Hahn",
-        "Sienna Miller",
-        "John Mulaney",
-        "Snoop Dogg",
-        "Shane Gillis",
-        "Marshawn Lynch"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore",
+        "Philip Seymour Hoffman",
+        "Jeffrey Wright"
       ],
       "rank": 2,
-      "id": "tt24818230",
-      "name": "Madden",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "rating": 8.1,
+      "id": "tt1951265",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "rating": 6.8,
+      "year": 2014,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vd2CO9DIrwa73eruJ27elB9YWIJ.png",
+      "runtime": "103 min",
+      "director": [
+        "Jesús Colmenar"
+      ],
+      "cast": [
+        "Irene Balmes",
+        "Gleb Abrosimov",
+        "Pau Simon",
+        "Pablo Scapigliati",
+        "Asier Etxeandia",
+        "Silvia Kal",
+        "Irene Ferreiro",
+        "Manuela Calle"
+      ],
+      "rank": 3,
+      "id": "tt18351090",
+      "name": "Perfectos mentirosos",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+      "rating": null,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
+      "runtime": "146 min",
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Donald Sutherland",
+        "Lenny Kravitz",
+        "Philip Seymour Hoffman"
+      ],
+      "rank": 4,
+      "id": "tt1951264",
+      "name": "Los Juegos del Hambre: En llamas",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "rating": 7.4,
+      "year": 2013,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "runtime": "107 min",
+      "director": [
+        "Matt Johnson"
+      ],
+      "cast": [
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones",
+        "Stavros Halkias",
+        "Leo Woodall",
+        "Monica Raymund",
+        "Michael Jibrin",
+        "Rich Sommer"
+      ],
+      "rank": 5,
+      "id": "tt33095251",
+      "name": "Tony",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "rating": 7.3,
       "year": 2026,
       "days": null,
       "trend": {
@@ -99,7 +206,7 @@
         "Philip Seymour Hoffman",
         "Jeffrey Wright"
       ],
-      "rank": 3,
+      "rank": 6,
       "id": "tt1951266",
       "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
@@ -113,104 +220,33 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rYsdoUqkltpKZQWwCWXf55csXvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
-      "runtime": "123 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore",
-        "Philip Seymour Hoffman",
-        "Jeffrey Wright"
-      ],
-      "rank": 4,
-      "id": "tt1951265",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "rating": 6.816,
-      "year": 2014,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Ciencia ficción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/omoWcwdARBsGHdMdHUk0AQhS2Lp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png",
-      "runtime": "146 min",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Donald Sutherland",
-        "Lenny Kravitz",
-        "Philip Seymour Hoffman"
-      ],
-      "rank": 5,
-      "id": "tt1951264",
-      "name": "Los Juegos del Hambre: En llamas",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
-      "rating": 7.426,
-      "year": 2013,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+      "description": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "genres": [
         "Drama",
+        "Historia",
         "Comedia"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
-      "runtime": "107 min",
+      "background": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
+      "runtime": "112 min",
       "director": [
-        "Matt Johnson"
+        "David O. Russell"
       ],
       "cast": [
-        "Dominic Sessa",
-        "Antonio Banderas",
-        "Emilia Jones",
-        "Stavros Halkias",
-        "Leo Woodall",
-        "Monica Raymund",
-        "Michael Jibrin",
-        "Rich Sommer"
+        "Nicolas Cage",
+        "Christian Bale",
+        "Kathryn Hahn",
+        "Sienna Miller",
+        "John Mulaney",
+        "Snoop Dogg",
+        "Shane Gillis",
+        "Marshawn Lynch"
       ],
-      "rank": 6,
-      "id": "tt33095251",
-      "name": "Tony",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "rating": 7.334,
+      "rank": 7,
+      "id": "tt24818230",
+      "name": "Madden",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "rating": 7.648,
       "year": 2026,
       "days": null,
       "trend": {
@@ -220,34 +256,71 @@
     },
     {
       "artworkVersion": 4,
-      "description": "El 11 de septiembre de 2012, en el aniversario de los ataques terroristas a las Torres Gemelas y al Pentágono, un grupo de milicianos islamistas atentaron contra el consulado estadounidense y un anexo cercano de la CIA en Bengasi, Libia. Un equipo de seis miembros de Operaciones Especiales de Estados Unidos fue enviado para rescatar a los supervivientes.",
+      "description": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "genres": [
-        "Acción",
-        "Bélica",
-        "Suspense"
+        "Romance",
+        "Drama"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNqkdnjkxOW3XOKcLFJl4paPFkT.png",
-      "runtime": "144 min",
+      "background": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png",
+      "runtime": "109 min",
       "director": [
-        "Michael Bay"
+        "Rachel Morrison"
       ],
       "cast": [
-        "John Krasinski",
-        "James Badge Dale",
-        "Dominic Fumusa",
-        "Max Martini",
-        "Pablo Schreiber",
-        "Matt Letscher",
-        "Alexia Barlier",
-        "David Costabile"
+        "Margaret Qualley",
+        "Gabriel Basso",
+        "Aaron Pierre",
+        "Patrick Schwarzenegger",
+        "Catherine Keener",
+        "Tamara Lawrance",
+        "Corey Johnson",
+        "Michael Shelford"
       ],
-      "rank": 7,
-      "id": "tt4172430",
-      "name": "13 horas. Los soldados secretos de Bengasi",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg",
-      "rating": 7.285,
-      "year": 2016,
+      "rank": 8,
+      "id": "tt34384900",
+      "name": "El amor de tu vida",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+      "rating": 6.694,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Los adolescentes Jens y Lisa están a punto de experimentar su primera relación sexual. Dentro del cuerpo de Jens, el Spermageddon se acerca, un evento para el que el espermatozoide Simon el Semen y sus amigos han estado preparándose duramente. En esta carrera donde solo puede ganar uno, deberán sortear todo tipo de obstáculos inesperados que les harán la vida imposible.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vuqVYUKAFbRe49Fqe53fvcubPNm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bKEvmbCNDcxhGkrTYYcbQg8x4Um.png",
+      "runtime": "80 min",
+      "director": [
+        "Tommy Wirkola",
+        "Rasmus A. Sivertsen"
+      ],
+      "cast": [
+        "Christian Mikkelsen",
+        "Nasrin Khusrawi",
+        "Aksel Hennie",
+        "Mathilde Storm",
+        "Christian Rubeck",
+        "Bjørn Sundquist",
+        "John Brungot",
+        "Gustav Nilsen"
+      ],
+      "rank": 9,
+      "id": "tt14828040",
+      "name": "Spermageddon",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/jYJJDtrGBAr1U9WBVuq809FyYQj.jpg",
+      "rating": 6.364,
+      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -278,7 +351,7 @@
         "Caterina Murino",
         "Simon Abkarian"
       ],
-      "rank": 8,
+      "rank": 10,
       "id": "tt0381061",
       "name": "Casino Royale",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
@@ -289,72 +362,8 @@
         "dir": "same",
         "delta": null
       }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Nunca provoques a un hombre tranquilo, porque podrías despertar sus demonios.",
-      "genres": [
-        "Drama"
-      ],
-      "director": [
-        "Andrés Paternostro"
-      ],
-      "cast": [
-        "Carolina Kopelioff",
-        "Romina Fernandes",
-        "Roberto Vallejos",
-        "Ricardo Merkin",
-        "Daniel Campomenosi"
-      ],
-      "rank": 9,
-      "id": "tt34771515",
-      "name": "La noche de los tres fuegos",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/gY5SGmq8qbRKw2kBKXEfKXlkna1.jpg",
-      "rating": 10,
-      "year": 2025,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png",
-      "runtime": "156 min",
-      "director": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz",
-        "Lionel Boyce",
-        "Milana Vayntrub",
-        "Ken Leung",
-        "Priya Kansara",
-        "Mia Soteriou"
-      ],
-      "rank": 10,
-      "id": "tt12042730",
-      "name": "Proyecto Salvación",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "rating": 8.6,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T17:38:41.853Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

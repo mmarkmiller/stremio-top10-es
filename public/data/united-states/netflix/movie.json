@@ -2,7 +2,7 @@
   "country": "united-states",
   "key": "netflix",
   "list": "movie",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -31,7 +31,7 @@
       "id": "tt37287335",
       "name": "Obsession",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "rating": 8.16,
+      "rating": 8.159,
       "year": 2026,
       "days": null,
       "trend": {
@@ -64,8 +64,8 @@
       "rank": 2,
       "id": "tt37020296",
       "name": "Un monstruo amable",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
-      "rating": 6.5,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/tZg30lLnTwXFayKbVdgtk69zMim.jpg",
+      "rating": 6.7,
       "year": 2026,
       "days": null,
       "trend": {
@@ -100,44 +100,8 @@
       "id": "tt6611324",
       "name": "Guardaespaldas por navidad",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-      "rating": 7.4,
+      "rating": 7.3,
       "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
-      "runtime": "125 min",
-      "director": [
-        "Takashi Yamazaki"
-      ],
-      "cast": [
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "山田裕貴",
-        "Munetaka Aoki",
-        "吉岡秀隆",
-        "Sakura Ando",
-        "Kuranosuke Sasaki",
-        "永谷咲笑"
-      ],
-      "rank": 4,
-      "id": "tt23289160",
-      "name": "Godzilla Minus One",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "rating": 7.63,
-      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -168,11 +132,11 @@
         "Alena Mihulová",
         "Marcin Dorociński"
       ],
-      "rank": 5,
+      "rank": 4,
       "id": "tt4190530",
       "name": "Operación Anthropoid",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/fNcQlNouTdtDjXSbXt4QfTmmnsS.jpg",
-      "rating": 7.128,
+      "rating": 7.1,
       "year": 2016,
       "days": null,
       "trend": {
@@ -182,70 +146,34 @@
     },
     {
       "artworkVersion": 4,
-      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
       "genres": [
-        "Suspense",
-        "Misterio"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
-      "runtime": "114 min",
+      "background": "https://image.tmdb.org/t/p/w1280/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png",
+      "runtime": "125 min",
       "director": [
-        "Shana Feste"
+        "Takashi Yamazaki"
       ],
       "cast": [
-        "Jessica Chastain",
-        "Carter Faith",
-        "Ross Lynch",
-        "John Hawkes",
-        "Garrett Hedlund",
-        "Norbert Leo Butz",
-        "Hill Harper",
-        "Ben Dickey"
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆",
+        "Sakura Ando",
+        "Kuranosuke Sasaki",
+        "永谷咲笑"
       ],
-      "rank": 6,
-      "id": "tt38213251",
-      "name": "Heartland",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "rating": 6.2,
-      "year": 2026,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Romance",
-        "Suspense"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/112sW296vEx3d71C8fzOqoFIomN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
-      "runtime": "107 min",
-      "director": [
-        "Adam Rehmeier"
-      ],
-      "cast": [
-        "Samara Weaving",
-        "Kyle Gallner",
-        "Kyra Sedgwick",
-        "Jon Gries",
-        "Tommy G. Kendrick",
-        "P.J. Sosko",
-        "Gregg Gilmore",
-        "Jamald Gardner"
-      ],
-      "rank": 7,
-      "id": "tt33365126",
-      "name": "Carolina Caroline",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "rating": 6.7,
-      "year": 2026,
+      "rank": 5,
+      "id": "tt23289160",
+      "name": "Godzilla Minus One",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "rating": 7.63,
+      "year": 2023,
       "days": null,
       "trend": {
         "dir": "same",
@@ -276,11 +204,43 @@
         "Cam Gigandet",
         "Leah Brady"
       ],
-      "rank": 8,
+      "rank": 6,
       "id": "tt12003946",
       "name": "Noche de paz",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/piA9ny345UyIMGp0lKYtPJ3RKCa.jpg",
-      "rating": 7.197,
+      "rating": 7.194,
+      "year": 2022,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Dos mujeres huyen al desierto de Nuevo México para escapar de las garras de una secta. Consumidos por el miedo y la paranoia, no pueden evitar la sensación de que están siendo seguidos por el líder de la secta, un hombre tan seductor como controlador. Con sus suministros disminuyendo y sus sentidos comenzando a fallarles, se enfrentan a una pregunta aterradora: ¿Cómo huir de un enemigo que vive dentro de tu cabeza?",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/CFQrVcs8Uh4Ztwfo1BGkoMHrxd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pSKUNW8T6dGJv918sWgE2XNm2u3.png",
+      "runtime": "95 min",
+      "director": [
+        "Jennifer Raite",
+        "Chris Cullari"
+      ],
+      "cast": [
+        "Malin Akerman",
+        "Lorenza Izzo",
+        "Chris Messina",
+        "Sandrine Holt"
+      ],
+      "rank": 7,
+      "id": "tt17372462",
+      "name": "El Aviario",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kodmbHuzHZs6UOdvz6zvHYrDlt0.jpg",
+      "rating": 5.227,
       "year": 2022,
       "days": null,
       "trend": {
@@ -311,11 +271,11 @@
         "Delissa Reynolds",
         "Amelia Workman"
       ],
-      "rank": 9,
+      "rank": 8,
       "id": "tt12427158",
       "name": "Mil Uno",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/c943thY4bOJU59UfD257ELZe13g.jpg",
-      "rating": 6.609,
+      "rating": 6.6,
       "year": 2023,
       "days": null,
       "trend": {
@@ -325,34 +285,67 @@
     },
     {
       "artworkVersion": 4,
-      "description": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "genres": [
-        "Terror",
-        "Crimen",
-        "Suspense"
+        "Suspense",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/wODo55zAJPauWXVPX63FK2UmTJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eB2DL3pQtXj70MhU11iw1IafUgi.png",
-      "runtime": "95 min",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+      "runtime": "114 min",
       "director": [
-        "Jeremy Saulnier"
+        "Shana Feste"
       ],
       "cast": [
-        "Anton Yelchin",
-        "Imogen Poots",
-        "Patrick Stewart",
-        "Alia Shawkat",
-        "Joe Cole",
-        "Callum Turner",
-        "Macon Blair",
-        "Mark Webber"
+        "Jessica Chastain",
+        "Carter Faith",
+        "Ross Lynch",
+        "John Hawkes",
+        "Garrett Hedlund",
+        "Norbert Leo Butz",
+        "Hill Harper",
+        "Ben Dickey"
+      ],
+      "rank": 9,
+      "id": "tt38213251",
+      "name": "Heartland",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.252,
+      "year": 2026,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bXbGmoSlfLRi7IIlmxMpqy89tsL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+      "runtime": "94 min",
+      "director": [
+        "David Wain"
+      ],
+      "cast": [
+        "Zoey Deutch",
+        "John Slattery",
+        "Ken Marino",
+        "Miles Gutierrez-Riley",
+        "Ben Wang",
+        "Sabrina Impacciatore",
+        "Jon Hamm",
+        "Joe Lo Truglio"
       ],
       "rank": 10,
-      "id": "tt4062536",
-      "name": "Green Room",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
-      "rating": 6.727,
-      "year": 2016,
+      "id": "tt36834010",
+      "name": "Gail Daughtry y el vale por un rollo VIP",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "rating": 6.289,
+      "year": 2026,
       "days": null,
       "trend": {
         "dir": "same",
@@ -361,5 +354,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
+  "rankingUpdatedAt": "2026-11-20T17:40:13.447Z"
 }

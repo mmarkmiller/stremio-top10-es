@@ -2,7 +2,7 @@
   "country": "spain",
   "key": "prime",
   "list": "series",
-  "date": "202611192249",
+  "date": "202611202230",
   "entries": [
     {
       "artworkVersion": 4,
@@ -82,7 +82,7 @@
       "id": "tt5622316",
       "name": "The Chosen (Los elegidos)",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
-      "rating": 8.857,
+      "rating": 8.9,
       "year": 2019,
       "days": null,
       "trend": {
@@ -147,40 +147,8 @@
       "id": "tt11743610",
       "name": "LA LISTA FINAL",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "rating": 7.992,
+      "rating": 7.991,
       "year": 2022,
-      "days": null,
-      "trend": {
-        "dir": "same",
-        "delta": null
-      }
-    },
-    {
-      "artworkVersion": 4,
-      "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
-      "genres": [
-        "Action & Adventure",
-        "Misterio"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yySfzvGlynOBsD3gkVaHo0opMVX.png",
-      "director": [],
-      "cast": [
-        "Victoria Luengo",
-        "Hovik Keuchkerian",
-        "Karmele Larrinaga",
-        "Vicenta N'Dongo",
-        "Àlex Brendemühl",
-        "Fernando Guallar",
-        "Bruno Sevilla",
-        "Adriana Torrebejano"
-      ],
-      "rank": 6,
-      "id": "tt20883126",
-      "name": "Reina roja",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "rating": 7.007,
-      "year": 2024,
       "days": null,
       "trend": {
         "dir": "same",
@@ -208,11 +176,11 @@
         "Arthur Conti",
         "Thalia Dudek"
       ],
-      "rank": 7,
+      "rank": 6,
       "id": "tt11540908",
       "name": "Carrie",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "rating": 8.245,
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/sSFwvLI4rVqRil8J2cZOM3rOYGv.jpg",
+      "rating": 8.2,
       "year": 2026,
       "days": null,
       "trend": {
@@ -242,11 +210,11 @@
         "Eloïse Rey",
         "Prune Pauchet"
       ],
-      "rank": 8,
+      "rank": 7,
       "id": "tt39943756",
       "name": "Campus Drivers",
       "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg",
-      "rating": 7.822,
+      "rating": 7.766,
       "year": 2026,
       "days": null,
       "trend": {
@@ -256,30 +224,60 @@
     },
     {
       "artworkVersion": 4,
-      "description": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
       "genres": [
-        "Western",
-        "Drama"
+        "Action & Adventure",
+        "Misterio"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png",
+      "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yySfzvGlynOBsD3gkVaHo0opMVX.png",
       "director": [],
       "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley",
-        "Cole Hauser",
-        "Kelsey Asbille",
-        "Brecken Merrill",
-        "Ryan Bingham",
-        "Finn Little"
+        "Victoria Luengo",
+        "Hovik Keuchkerian",
+        "Karmele Larrinaga",
+        "Vicenta N'Dongo",
+        "Àlex Brendemühl",
+        "Fernando Guallar",
+        "Bruno Sevilla",
+        "Adriana Torrebejano"
+      ],
+      "rank": 8,
+      "id": "tt20883126",
+      "name": "Reina roja",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
+      "rating": 7.007,
+      "year": 2024,
+      "days": null,
+      "trend": {
+        "dir": "same",
+        "delta": null
+      }
+    },
+    {
+      "artworkVersion": 4,
+      "description": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "director": [],
+      "cast": [
+        "Alan Ritchson",
+        "Agnez Mo",
+        "Sydelle Noel",
+        "Anggun",
+        "Christopher Rodriguez Marquette",
+        "Kevin Corrigan"
       ],
       "rank": 9,
-      "id": "tt4236770",
-      "name": "Yellowstone",
-      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "rating": 8.284,
-      "year": 2018,
+      "id": "tt9288030",
+      "name": "Reacher",
+      "tmdbPosterUrl": "https://image.tmdb.org/t/p/w780/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": 8.127,
+      "year": 2022,
       "days": null,
       "trend": {
         "dir": "same",
@@ -319,5 +317,5 @@
     }
   ],
   "rankingSource": "justwatch",
-  "rankingUpdatedAt": "2026-11-19T21:38:37.246Z"
+  "rankingUpdatedAt": "2026-11-20T21:38:35.067Z"
 }
